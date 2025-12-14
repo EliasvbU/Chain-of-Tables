@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Data/cache
+*.log
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
