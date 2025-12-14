@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Red vs. Blue",
+      "type": "object"
+    },
+    {
+      "name": "Couples team",
+      "type": "object"
+    },
+    {
+      "name": "Status",
+      "type": "object"
+    },
+    {
+      "name": "Weight",
+      "type": "object"
+    },
+    {
+      "name": "Total Votes",
+      "type": "int64"
+    }
+  ]
+}

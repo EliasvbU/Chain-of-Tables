@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    },
+    {
+      "name": "US R&B",
+      "type": "int64"
+    },
+    {
+      "name": "US Pop",
+      "type": "object"
+    },
+    {
+      "name": "US Dance",
+      "type": "object"
+    }
+  ]
+}

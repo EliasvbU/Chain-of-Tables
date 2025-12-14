@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "No.",
+      "type": "int64"
+    },
+    {
+      "name": "Temple",
+      "type": "object"
+    },
+    {
+      "name": "Honzon (main image)",
+      "type": "object"
+    },
+    {
+      "name": "City/Town/Village",
+      "type": "object"
+    },
+    {
+      "name": "Prefecture",
+      "type": "object"
+    }
+  ]
+}

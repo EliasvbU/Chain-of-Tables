@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Administrative\r\narea",
+      "type": "object"
+    },
+    {
+      "name": "Area\r\nkm2",
+      "type": "float64"
+    },
+    {
+      "name": "Area\r\nsq mi",
+      "type": "int64"
+    },
+    {
+      "name": "Population",
+      "type": "object"
+    },
+    {
+      "name": "Administrative\r\ncentre",
+      "type": "object"
+    }
+  ]
+}

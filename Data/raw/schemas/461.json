@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Res.",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Method",
+      "type": "object"
+    },
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Round",
+      "type": "int64"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

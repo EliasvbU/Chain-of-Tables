@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "object"
+    },
+    {
+      "name": "Host",
+      "type": "object"
+    },
+    {
+      "name": "Champion",
+      "type": "object"
+    },
+    {
+      "name": "Second place",
+      "type": "object"
+    },
+    {
+      "name": "Third place",
+      "type": "object"
+    },
+    {
+      "name": "Fourth place",
+      "type": "object"
+    }
+  ]
+}

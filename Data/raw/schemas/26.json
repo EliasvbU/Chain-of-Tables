@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Birth Date/Age at start of campaign",
+      "type": "object"
+    },
+    {
+      "name": "Games in campaign",
+      "type": "object"
+    },
+    {
+      "name": "Club",
+      "type": "object"
+    }
+  ]
+}

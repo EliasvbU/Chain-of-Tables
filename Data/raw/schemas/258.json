@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Frequency",
+      "type": "float64"
+    },
+    {
+      "name": "Call sign",
+      "type": "object"
+    },
+    {
+      "name": "Network",
+      "type": "object"
+    },
+    {
+      "name": "Call sign meaning",
+      "type": "object"
+    }
+  ]
+}

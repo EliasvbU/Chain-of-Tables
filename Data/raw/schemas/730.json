@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Place",
+      "type": "object"
+    },
+    {
+      "name": "Disc.",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Second",
+      "type": "object"
+    },
+    {
+      "name": "Third",
+      "type": "object"
+    }
+  ]
+}

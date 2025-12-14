@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Edition",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "object"
+    },
+    {
+      "name": "Men's winner",
+      "type": "object"
+    },
+    {
+      "name": "Time (h:m:s)",
+      "type": "object"
+    },
+    {
+      "name": "Women's winner",
+      "type": "object"
+    },
+    {
+      "name": "Time (h:m:s).1",
+      "type": "object"
+    }
+  ]
+}

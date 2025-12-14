@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Tier",
+      "type": "int64"
+    },
+    {
+      "name": "Division",
+      "type": "object"
+    },
+    {
+      "name": "Pos.",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

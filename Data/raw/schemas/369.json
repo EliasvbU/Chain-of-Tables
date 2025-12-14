@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Golfer",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Wins",
+      "type": "int64"
+    },
+    {
+      "name": "Match Play",
+      "type": "object"
+    },
+    {
+      "name": "Championship",
+      "type": "object"
+    },
+    {
+      "name": "Invitational",
+      "type": "object"
+    },
+    {
+      "name": "Champions",
+      "type": "object"
+    }
+  ]
+}

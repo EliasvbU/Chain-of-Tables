@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Volume",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "object"
+    },
+    {
+      "name": "Names",
+      "type": "object"
+    },
+    {
+      "name": "Articles",
+      "type": "object"
+    },
+    {
+      "name": "Pages",
+      "type": "object"
+    },
+    {
+      "name": "Images",
+      "type": "object"
+    },
+    {
+      "name": "Maps",
+      "type": "float64"
+    },
+    {
+      "name": "Number of copies",
+      "type": "object"
+    }
+  ]
+}

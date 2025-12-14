@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Place",
+      "type": "int64"
+    },
+    {
+      "name": "Rider",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Points",
+      "type": "int64"
+    },
+    {
+      "name": "Wins",
+      "type": "int64"
+    }
+  ]
+}

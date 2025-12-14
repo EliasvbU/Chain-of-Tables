@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Average",
+      "type": "object"
+    },
+    {
+      "name": "High",
+      "type": "object"
+    },
+    {
+      "name": "Low",
+      "type": "object"
+    },
+    {
+      "name": "Season tickets",
+      "type": "object"
+    }
+  ]
+}

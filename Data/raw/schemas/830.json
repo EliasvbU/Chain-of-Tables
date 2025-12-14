@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "No.",
+      "type": "int64"
+    },
+    {
+      "name": "Date/time",
+      "type": "object"
+    },
+    {
+      "name": "Aircraft",
+      "type": "object"
+    },
+    {
+      "name": "Foe",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

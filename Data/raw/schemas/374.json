@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Gold",
+      "type": "int64"
+    },
+    {
+      "name": "Silver",
+      "type": "int64"
+    },
+    {
+      "name": "Bronze",
+      "type": "int64"
+    },
+    {
+      "name": "Total",
+      "type": "int64"
+    },
+    {
+      "name": "Ranking",
+      "type": "object"
+    }
+  ]
+}

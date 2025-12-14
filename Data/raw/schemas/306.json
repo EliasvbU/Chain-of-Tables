@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "int64"
+    },
+    {
+      "name": "Nation",
+      "type": "object"
+    },
+    {
+      "name": "Gold",
+      "type": "object"
+    },
+    {
+      "name": "Silver",
+      "type": "object"
+    },
+    {
+      "name": "Bronze",
+      "type": "int64"
+    },
+    {
+      "name": "Total",
+      "type": "int64"
+    }
+  ]
+}

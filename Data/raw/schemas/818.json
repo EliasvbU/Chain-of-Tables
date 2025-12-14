@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Wrestler:",
+      "type": "object"
+    },
+    {
+      "name": "Reigns:",
+      "type": "float64"
+    },
+    {
+      "name": "Date:",
+      "type": "object"
+    },
+    {
+      "name": "Place:",
+      "type": "object"
+    },
+    {
+      "name": "Notes:",
+      "type": "object"
+    }
+  ]
+}

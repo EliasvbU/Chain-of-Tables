@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Seasons",
+      "type": "int64"
+    },
+    {
+      "name": "Games",
+      "type": "object"
+    },
+    {
+      "name": "Wins",
+      "type": "object"
+    },
+    {
+      "name": "Ties",
+      "type": "int64"
+    },
+    {
+      "name": "Losses",
+      "type": "object"
+    },
+    {
+      "name": "Goals\r\nFor",
+      "type": "object"
+    },
+    {
+      "name": "Goals\r\nAgainst",
+      "type": "object"
+    },
+    {
+      "name": "Goal\r\nDiff",
+      "type": "object"
+    },
+    {
+      "name": "Points",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Condition",
+      "type": "object"
+    },
+    {
+      "name": "Ownership\r\n/ Access",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

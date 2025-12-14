@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Competition",
+      "type": "object"
+    },
+    {
+      "name": "Matches",
+      "type": "int64"
+    },
+    {
+      "name": "Goals",
+      "type": "int64"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Loser",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "km",
+      "type": "int64"
+    },
+    {
+      "name": "Municipality",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Interescting highway",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

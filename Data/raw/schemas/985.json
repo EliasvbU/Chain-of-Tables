@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Competition",
+      "type": "object"
+    },
+    {
+      "name": "Round",
+      "type": "object"
+    },
+    {
+      "name": "Club",
+      "type": "object"
+    },
+    {
+      "name": "Home",
+      "type": "object"
+    },
+    {
+      "name": "Away",
+      "type": "object"
+    },
+    {
+      "name": "Aggregate",
+      "type": "object"
+    }
+  ]
+}

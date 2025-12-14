@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Contestant",
+      "type": "object"
+    },
+    {
+      "name": "Age",
+      "type": "int64"
+    },
+    {
+      "name": "Height",
+      "type": "object"
+    },
+    {
+      "name": "Home City",
+      "type": "object"
+    },
+    {
+      "name": "Rank",
+      "type": "object"
+    }
+  ]
+}

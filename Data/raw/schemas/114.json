@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Pos",
+      "type": "object"
+    },
+    {
+      "name": "Rider",
+      "type": "object"
+    },
+    {
+      "name": "Manufacturer",
+      "type": "object"
+    },
+    {
+      "name": "Time/Retired",
+      "type": "object"
+    },
+    {
+      "name": "Grid",
+      "type": "int64"
+    },
+    {
+      "name": "Points",
+      "type": "float64"
+    }
+  ]
+}

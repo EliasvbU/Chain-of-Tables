@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Released",
+      "type": "object"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Artist",
+      "type": "object"
+    },
+    {
+      "name": "Format",
+      "type": "object"
+    },
+    {
+      "name": "Language",
+      "type": "object"
+    }
+  ]
+}

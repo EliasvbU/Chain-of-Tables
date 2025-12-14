@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "float64"
+    },
+    {
+      "name": "Athlete",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    },
+    {
+      "name": "Q",
+      "type": "object"
+    }
+  ]
+}

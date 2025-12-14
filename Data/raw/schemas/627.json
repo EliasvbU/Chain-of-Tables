@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Top scorer (Total points)",
+      "type": "object"
+    },
+    {
+      "name": "Venue (Location)",
+      "type": "object"
+    }
+  ]
+}

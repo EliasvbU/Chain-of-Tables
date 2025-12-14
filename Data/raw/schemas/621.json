@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "No.",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Tournament",
+      "type": "object"
+    },
+    {
+      "name": "Winning score",
+      "type": "object"
+    },
+    {
+      "name": "Margin\r\nof victory",
+      "type": "object"
+    },
+    {
+      "name": "Runner(s)-up",
+      "type": "object"
+    }
+  ]
+}

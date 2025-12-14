@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Round",
+      "type": "int64"
+    },
+    {
+      "name": "Selection",
+      "type": "int64"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "College",
+      "type": "object"
+    }
+  ]
+}

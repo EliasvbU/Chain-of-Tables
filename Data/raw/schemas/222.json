@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Launch Date",
+      "type": "object"
+    },
+    {
+      "name": "STS Number",
+      "type": "object"
+    },
+    {
+      "name": "Payload Name",
+      "type": "object"
+    },
+    {
+      "name": "Payload Classification",
+      "type": "object"
+    },
+    {
+      "name": "Experiment\r\nName",
+      "type": "object"
+    },
+    {
+      "name": "Payload Carrier Hardware",
+      "type": "object"
+    }
+  ]
+}

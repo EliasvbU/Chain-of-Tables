@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Status",
+      "type": "object"
+    },
+    {
+      "name": "Population",
+      "type": "object"
+    },
+    {
+      "name": "District",
+      "type": "object"
+    },
+    {
+      "name": "Former local authority",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Competition",
+      "type": "object"
+    }
+  ]
+}

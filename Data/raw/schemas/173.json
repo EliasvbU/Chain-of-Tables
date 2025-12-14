@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "float64"
+    },
+    {
+      "name": "Group",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "2.05",
+      "type": "object"
+    },
+    {
+      "name": "2.15",
+      "type": "object"
+    },
+    {
+      "name": "2.19",
+      "type": "object"
+    },
+    {
+      "name": "2.23",
+      "type": "object"
+    },
+    {
+      "name": "2.26",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

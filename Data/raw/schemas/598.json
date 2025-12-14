@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "State of residence",
+      "type": "object"
+    },
+    {
+      "name": "Took office",
+      "type": "object"
+    },
+    {
+      "name": "Left office",
+      "type": "object"
+    },
+    {
+      "name": "President served under",
+      "type": "object"
+    }
+  ]
+}

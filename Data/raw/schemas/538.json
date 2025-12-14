@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Pos.",
+      "type": "int64"
+    },
+    {
+      "name": "Driver",
+      "type": "object"
+    },
+    {
+      "name": "Co-Driver",
+      "type": "object"
+    },
+    {
+      "name": "Car",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    }
+  ]
+}

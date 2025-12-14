@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Party",
+      "type": "object"
+    },
+    {
+      "name": "First Duma",
+      "type": "object"
+    },
+    {
+      "name": "Second Duma",
+      "type": "object"
+    },
+    {
+      "name": "Third Duma",
+      "type": "object"
+    },
+    {
+      "name": "Fourth Duma",
+      "type": "object"
+    }
+  ]
+}

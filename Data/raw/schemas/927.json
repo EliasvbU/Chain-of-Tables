@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Artist(s)",
+      "type": "object"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    },
+    {
+      "name": "Writer(s)",
+      "type": "object"
+    },
+    {
+      "name": "Producer(s)",
+      "type": "object"
+    }
+  ]
+}

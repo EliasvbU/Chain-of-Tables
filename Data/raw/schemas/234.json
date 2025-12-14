@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Round",
+      "type": "object"
+    },
+    {
+      "name": "100 yd (91 m)",
+      "type": "object"
+    },
+    {
+      "name": "80 yd (73 m)",
+      "type": "object"
+    },
+    {
+      "name": "60 yd (55 m)",
+      "type": "object"
+    },
+    {
+      "name": "50 yd (46 m)",
+      "type": "object"
+    },
+    {
+      "name": "40 yd (37 m)",
+      "type": "object"
+    }
+  ]
+}

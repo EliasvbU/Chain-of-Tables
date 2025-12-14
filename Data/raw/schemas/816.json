@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Locomotive",
+      "type": "object"
+    },
+    {
+      "name": "Named",
+      "type": "object"
+    },
+    {
+      "name": "Serial No",
+      "type": "object"
+    },
+    {
+      "name": "Entered service",
+      "type": "object"
+    },
+    {
+      "name": "Gauge",
+      "type": "object"
+    },
+    {
+      "name": "Livery",
+      "type": "object"
+    }
+  ]
+}

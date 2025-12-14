@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Position",
+      "type": "float64"
+    },
+    {
+      "name": "Driver",
+      "type": "object"
+    },
+    {
+      "name": "No.",
+      "type": "float64"
+    },
+    {
+      "name": "Car",
+      "type": "object"
+    },
+    {
+      "name": "Entrant",
+      "type": "object"
+    },
+    {
+      "name": "Lak.",
+      "type": "object"
+    },
+    {
+      "name": "Ora.",
+      "type": "object"
+    },
+    {
+      "name": "San.",
+      "type": "object"
+    },
+    {
+      "name": "Phi.",
+      "type": "object"
+    },
+    {
+      "name": "Total",
+      "type": "object"
+    }
+  ]
+}

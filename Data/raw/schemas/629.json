@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "First TOPS",
+      "type": "object"
+    },
+    {
+      "name": "Second TOPS",
+      "type": "int64"
+    },
+    {
+      "name": "First TOPS.1",
+      "type": "object"
+    },
+    {
+      "name": "Second TOPS.1",
+      "type": "object"
+    },
+    {
+      "name": "First TOPS.2",
+      "type": "object"
+    },
+    {
+      "name": "Second TOPS.2",
+      "type": "object"
+    },
+    {
+      "name": "First TOPS.3",
+      "type": "object"
+    },
+    {
+      "name": "Second TOPS.3",
+      "type": "float64"
+    }
+  ]
+}

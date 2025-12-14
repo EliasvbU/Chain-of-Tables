@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Boat #",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Builder",
+      "type": "object"
+    },
+    {
+      "name": "Laid down",
+      "type": "object"
+    },
+    {
+      "name": "Launched",
+      "type": "object"
+    },
+    {
+      "name": "Completed",
+      "type": "object"
+    },
+    {
+      "name": "Fate",
+      "type": "object"
+    }
+  ]
+}

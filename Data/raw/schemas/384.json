@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Air Date",
+      "type": "object"
+    },
+    {
+      "name": "Timeslot (EST)",
+      "type": "object"
+    },
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Rating",
+      "type": "float64"
+    },
+    {
+      "name": "Share",
+      "type": "int64"
+    },
+    {
+      "name": "18-49 (Rating/Share)",
+      "type": "object"
+    },
+    {
+      "name": "Viewers (m)",
+      "type": "float64"
+    },
+    {
+      "name": "Weekly Rank (#)",
+      "type": "object"
+    }
+  ]
+}

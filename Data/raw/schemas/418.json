@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Overall Record",
+      "type": "object"
+    },
+    {
+      "name": "SCBA Record",
+      "type": "object"
+    }
+  ]
+}

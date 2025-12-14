@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "No.",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Date of Birth (Age)",
+      "type": "object"
+    },
+    {
+      "name": "Signed from",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "float64"
+    },
+    {
+      "name": "Diver",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "Preliminary\r\nPoints",
+      "type": "float64"
+    },
+    {
+      "name": "Preliminary\r\nRank",
+      "type": "int64"
+    },
+    {
+      "name": "Final\r\nPoints",
+      "type": "float64"
+    },
+    {
+      "name": "Final\r\nRank",
+      "type": "float64"
+    }
+  ]
+}

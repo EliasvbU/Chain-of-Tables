@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Language",
+      "type": "object"
+    },
+    {
+      "name": "Number",
+      "type": "object"
+    },
+    {
+      "name": "percentage (%)",
+      "type": "object"
+    },
+    {
+      "name": "males",
+      "type": "object"
+    },
+    {
+      "name": "females",
+      "type": "object"
+    }
+  ]
+}

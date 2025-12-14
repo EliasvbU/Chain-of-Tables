@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Sl No",
+      "type": "int64"
+    },
+    {
+      "name": "Constituency\r\nName",
+      "type": "object"
+    },
+    {
+      "name": "Constituency\r\nNumber",
+      "type": "int64"
+    },
+    {
+      "name": "Member of Legislative Assembly",
+      "type": "object"
+    },
+    {
+      "name": "Political Party",
+      "type": "object"
+    }
+  ]
+}

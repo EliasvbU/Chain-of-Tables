@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Week",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Song title",
+      "type": "object"
+    },
+    {
+      "name": "Performer",
+      "type": "object"
+    },
+    {
+      "name": "Album title",
+      "type": "object"
+    },
+    {
+      "name": "Performer.1",
+      "type": "object"
+    }
+  ]
+}

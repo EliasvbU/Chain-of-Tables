@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Date of birth",
+      "type": "object"
+    },
+    {
+      "name": "Club",
+      "type": "object"
+    },
+    {
+      "name": "Division",
+      "type": "object"
+    },
+    {
+      "name": "Appointed",
+      "type": "object"
+    },
+    {
+      "name": "Time as manager",
+      "type": "object"
+    }
+  ]
+}

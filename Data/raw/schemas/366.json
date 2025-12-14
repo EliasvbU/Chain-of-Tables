@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Pos",
+      "type": "int64"
+    },
+    {
+      "name": "No.",
+      "type": "int64"
+    },
+    {
+      "name": "Driver",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Engine",
+      "type": "object"
+    },
+    {
+      "name": "Laps",
+      "type": "int64"
+    },
+    {
+      "name": "Time/Retired",
+      "type": "object"
+    },
+    {
+      "name": "Grid",
+      "type": "int64"
+    },
+    {
+      "name": "Laps Led",
+      "type": "int64"
+    },
+    {
+      "name": "Points",
+      "type": "int64"
+    }
+  ]
+}

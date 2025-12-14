@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Pos.",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "From",
+      "type": "object"
+    },
+    {
+      "name": "Fee",
+      "type": "object"
+    }
+  ]
+}

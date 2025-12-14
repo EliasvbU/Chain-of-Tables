@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Position",
+      "type": "int64"
+    },
+    {
+      "name": "Officer",
+      "type": "object"
+    },
+    {
+      "name": "current officers",
+      "type": "object"
+    },
+    {
+      "name": "superseded by",
+      "type": "object"
+    },
+    {
+      "name": "Royal Household",
+      "type": "object"
+    }
+  ]
+}

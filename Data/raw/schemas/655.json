@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    },
+    {
+      "name": "Other finalists",
+      "type": "object"
+    }
+  ]
+}

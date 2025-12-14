@@ -1,0 +1,88 @@
+{
+  "columns": [
+    {
+      "name": "No.",
+      "type": "float64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Class",
+      "type": "float64"
+    },
+    {
+      "name": "Games",
+      "type": "float64"
+    },
+    {
+      "name": "Minutes",
+      "type": "float64"
+    },
+    {
+      "name": "Points",
+      "type": "object"
+    },
+    {
+      "name": "2 Points",
+      "type": "object"
+    },
+    {
+      "name": "2 Points.1",
+      "type": "object"
+    },
+    {
+      "name": "3 Points",
+      "type": "object"
+    },
+    {
+      "name": "3 Points.1",
+      "type": "object"
+    },
+    {
+      "name": "Free throws",
+      "type": "object"
+    },
+    {
+      "name": "Free throws.1",
+      "type": "object"
+    },
+    {
+      "name": "Rebounds",
+      "type": "object"
+    },
+    {
+      "name": "Rebounds.1",
+      "type": "object"
+    },
+    {
+      "name": "Rebounds.2",
+      "type": "object"
+    },
+    {
+      "name": "Assists",
+      "type": "object"
+    },
+    {
+      "name": "Turnovers",
+      "type": "float64"
+    },
+    {
+      "name": "Steals",
+      "type": "object"
+    },
+    {
+      "name": "Blocked Shots",
+      "type": "object"
+    },
+    {
+      "name": "Personal Fouls",
+      "type": "float64"
+    },
+    {
+      "name": "Fouls Drawn",
+      "type": "object"
+    }
+  ]
+}

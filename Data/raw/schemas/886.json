@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "object"
+    },
+    {
+      "name": "Swimmer",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Note",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Nation",
+      "type": "object"
+    },
+    {
+      "name": "Model",
+      "type": "object"
+    },
+    {
+      "name": "Length",
+      "type": "object"
+    },
+    {
+      "name": "Barrel length",
+      "type": "object"
+    },
+    {
+      "name": "Weight",
+      "type": "object"
+    }
+  ]
+}

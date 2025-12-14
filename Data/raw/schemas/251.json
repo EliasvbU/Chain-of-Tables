@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Community",
+      "type": "object"
+    },
+    {
+      "name": "Area",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Population",
+      "type": "int64"
+    },
+    {
+      "name": "Date established",
+      "type": "object"
+    }
+  ]
+}

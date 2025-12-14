@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Nation",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "League Apps",
+      "type": "int64"
+    },
+    {
+      "name": "League Goals",
+      "type": "int64"
+    },
+    {
+      "name": "FA Cup Apps",
+      "type": "int64"
+    },
+    {
+      "name": "FA Cup Goals",
+      "type": "int64"
+    },
+    {
+      "name": "Total Apps",
+      "type": "int64"
+    },
+    {
+      "name": "Total Goals",
+      "type": "int64"
+    }
+  ]
+}

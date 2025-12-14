@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Serial number",
+      "type": "float64"
+    },
+    {
+      "name": "River",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Area (km\u00b2)",
+      "type": "float64"
+    },
+    {
+      "name": "District",
+      "type": "object"
+    },
+    {
+      "name": "Co-ordinate",
+      "type": "object"
+    },
+    {
+      "name": "Altitude (m)",
+      "type": "float64"
+    }
+  ]
+}

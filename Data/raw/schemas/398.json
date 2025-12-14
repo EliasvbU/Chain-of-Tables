@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Publisher",
+      "type": "object"
+    },
+    {
+      "name": "Developer",
+      "type": "object"
+    },
+    {
+      "name": "Platforms",
+      "type": "object"
+    }
+  ]
+}

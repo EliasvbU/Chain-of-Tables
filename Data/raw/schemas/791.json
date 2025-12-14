@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Second",
+      "type": "object"
+    },
+    {
+      "name": "Third",
+      "type": "object"
+    },
+    {
+      "name": "Fourth",
+      "type": "object"
+    }
+  ]
+}

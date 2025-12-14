@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Capacitor type",
+      "type": "object"
+    },
+    {
+      "name": "Capacity",
+      "type": "object"
+    },
+    {
+      "name": "Volts",
+      "type": "object"
+    },
+    {
+      "name": "Temp.",
+      "type": "object"
+    },
+    {
+      "name": "Energy-to-weight ratio",
+      "type": "object"
+    },
+    {
+      "name": "Power-to-weight ratio",
+      "type": "object"
+    }
+  ]
+}

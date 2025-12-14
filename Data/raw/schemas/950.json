@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Occasion #",
+      "type": "int64"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Gold",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "float64"
+    },
+    {
+      "name": "Silver",
+      "type": "object"
+    },
+    {
+      "name": "Time.1",
+      "type": "float64"
+    },
+    {
+      "name": "Bronze",
+      "type": "object"
+    },
+    {
+      "name": "Time.2",
+      "type": "float64"
+    },
+    {
+      "name": "Report",
+      "type": "object"
+    }
+  ]
+}

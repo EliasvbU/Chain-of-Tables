@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "object"
+    },
+    {
+      "name": "Athlete",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    }
+  ]
+}

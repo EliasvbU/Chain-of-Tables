@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Number",
+      "type": "object"
+    },
+    {
+      "name": "South or west terminus",
+      "type": "object"
+    },
+    {
+      "name": "North or east terminus",
+      "type": "object"
+    },
+    {
+      "name": "Length (mi)",
+      "type": "float64"
+    },
+    {
+      "name": "Length (km)",
+      "type": "float64"
+    },
+    {
+      "name": "Formed",
+      "type": "object"
+    },
+    {
+      "name": "Deleted",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

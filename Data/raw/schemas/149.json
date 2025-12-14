@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Description Losses",
+      "type": "object"
+    },
+    {
+      "name": "1939/40",
+      "type": "object"
+    },
+    {
+      "name": "1940/41",
+      "type": "object"
+    },
+    {
+      "name": "1941/42",
+      "type": "object"
+    },
+    {
+      "name": "1942/43",
+      "type": "object"
+    },
+    {
+      "name": "1943/44",
+      "type": "object"
+    },
+    {
+      "name": "1944/45",
+      "type": "object"
+    },
+    {
+      "name": "Total",
+      "type": "object"
+    }
+  ]
+}

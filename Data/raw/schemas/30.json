@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Year Built",
+      "type": "object"
+    },
+    {
+      "name": "Works Number",
+      "type": "int64"
+    },
+    {
+      "name": "Wheel Arr.",
+      "type": "object"
+    },
+    {
+      "name": "Gauge",
+      "type": "object"
+    },
+    {
+      "name": "Original Owner",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Current Location",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

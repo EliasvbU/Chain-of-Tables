@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Home city",
+      "type": "object"
+    },
+    {
+      "name": "Stadium",
+      "type": "object"
+    },
+    {
+      "name": "Capacity",
+      "type": "object"
+    },
+    {
+      "name": "Last Season",
+      "type": "object"
+    }
+  ]
+}

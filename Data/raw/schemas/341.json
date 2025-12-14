@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name in English",
+      "type": "object"
+    },
+    {
+      "name": "Name in Turkish",
+      "type": "object"
+    },
+    {
+      "name": "Area (km2)",
+      "type": "object"
+    },
+    {
+      "name": "Depth",
+      "type": "object"
+    },
+    {
+      "name": "Location (districts and/or provinces)",
+      "type": "object"
+    }
+  ]
+}

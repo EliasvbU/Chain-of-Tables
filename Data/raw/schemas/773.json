@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "Years active",
+      "type": "object"
+    },
+    {
+      "name": "Seasons played",
+      "type": "int64"
+    },
+    {
+      "name": "Win\u2013loss record",
+      "type": "object"
+    },
+    {
+      "name": "Win%",
+      "type": "float64"
+    },
+    {
+      "name": "Playoffs appearances",
+      "type": "int64"
+    }
+  ]
+}

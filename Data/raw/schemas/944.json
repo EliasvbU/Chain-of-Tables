@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Mine",
+      "type": "object"
+    },
+    {
+      "name": "Province",
+      "type": "object"
+    },
+    {
+      "name": "Coordinates",
+      "type": "object"
+    },
+    {
+      "name": "Town",
+      "type": "object"
+    },
+    {
+      "name": "Dates",
+      "type": "object"
+    },
+    {
+      "name": "Comments",
+      "type": "object"
+    }
+  ]
+}

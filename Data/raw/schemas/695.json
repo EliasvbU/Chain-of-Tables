@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Round",
+      "type": "int64"
+    },
+    {
+      "name": "Pick",
+      "type": "int64"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "School/Club Team",
+      "type": "object"
+    }
+  ]
+}

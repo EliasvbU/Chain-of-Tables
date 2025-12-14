@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "Listing date",
+      "type": "object"
+    }
+  ]
+}

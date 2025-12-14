@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "First year\r\nin this position",
+      "type": "float64"
+    },
+    {
+      "name": "Years at Nebraska",
+      "type": "object"
+    },
+    {
+      "name": "Alma Mater",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Draft order\r\nRound",
+      "type": "int64"
+    },
+    {
+      "name": "Draft order\r\nChoice",
+      "type": "object"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Height",
+      "type": "object"
+    },
+    {
+      "name": "Weight",
+      "type": "object"
+    },
+    {
+      "name": "College",
+      "type": "object"
+    }
+  ]
+}

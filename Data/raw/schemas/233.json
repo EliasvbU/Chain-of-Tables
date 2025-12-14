@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Directed By",
+      "type": "object"
+    },
+    {
+      "name": "Written By",
+      "type": "object"
+    },
+    {
+      "name": "Original Air Date",
+      "type": "object"
+    }
+  ]
+}

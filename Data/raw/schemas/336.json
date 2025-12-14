@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Operators",
+      "type": "object"
+    },
+    {
+      "name": "Named trains",
+      "type": "object"
+    },
+    {
+      "name": "Destination",
+      "type": "object"
+    },
+    {
+      "name": "Year begun",
+      "type": "object"
+    },
+    {
+      "name": "Year discontinued",
+      "type": "object"
+    }
+  ]
+}

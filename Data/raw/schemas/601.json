@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Area served",
+      "type": "object"
+    },
+    {
+      "name": "City of license",
+      "type": "object"
+    },
+    {
+      "name": "VC",
+      "type": "int64"
+    },
+    {
+      "name": "RF",
+      "type": "int64"
+    },
+    {
+      "name": "Callsign",
+      "type": "object"
+    },
+    {
+      "name": "Network",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

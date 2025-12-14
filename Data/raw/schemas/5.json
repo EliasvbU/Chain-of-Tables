@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Num",
+      "type": "int64"
+    },
+    {
+      "name": "Pod Color",
+      "type": "object"
+    },
+    {
+      "name": "Nickname",
+      "type": "object"
+    },
+    {
+      "name": "Short Description",
+      "type": "object"
+    },
+    {
+      "name": "Episode",
+      "type": "object"
+    }
+  ]
+}

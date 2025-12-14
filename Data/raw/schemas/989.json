@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "School",
+      "type": "object"
+    },
+    {
+      "name": "2007",
+      "type": "float64"
+    },
+    {
+      "name": "2008",
+      "type": "int64"
+    },
+    {
+      "name": "2009",
+      "type": "int64"
+    },
+    {
+      "name": "2010",
+      "type": "int64"
+    },
+    {
+      "name": "2011",
+      "type": "float64"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Date from",
+      "type": "object"
+    },
+    {
+      "name": "Date to",
+      "type": "object"
+    },
+    {
+      "name": "Pos.",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "From",
+      "type": "object"
+    }
+  ]
+}

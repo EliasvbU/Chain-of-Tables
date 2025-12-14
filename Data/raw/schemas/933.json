@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Competition",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    }
+  ]
+}

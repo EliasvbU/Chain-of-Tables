@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Pos.",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Place of Birth",
+      "type": "object"
+    },
+    {
+      "name": "Date of Birth",
+      "type": "object"
+    },
+    {
+      "name": "Previous Club",
+      "type": "object"
+    },
+    {
+      "name": "Date Joined",
+      "type": "object"
+    },
+    {
+      "name": "Fee",
+      "type": "object"
+    }
+  ]
+}

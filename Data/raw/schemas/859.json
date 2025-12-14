@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "float64"
+    },
+    {
+      "name": "Seniors (Trood Award & Rodda Medal)",
+      "type": "object"
+    },
+    {
+      "name": "Reserves (Rex Hartley Medal)",
+      "type": "object"
+    },
+    {
+      "name": "Under 18's (Bruce Wilkinson Medal)",
+      "type": "object"
+    },
+    {
+      "name": "Under 16's (Shaw/Carter Medal)",
+      "type": "object"
+    }
+  ]
+}

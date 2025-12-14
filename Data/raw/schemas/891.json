@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Hanzi",
+      "type": "object"
+    },
+    {
+      "name": "Population (2005)",
+      "type": "object"
+    },
+    {
+      "name": "Area (Km2)",
+      "type": "float64"
+    }
+  ]
+}

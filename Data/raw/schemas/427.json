@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Creature (Other Planes)",
+      "type": "object"
+    },
+    {
+      "name": "Page",
+      "type": "object"
+    },
+    {
+      "name": "Other Appearances",
+      "type": "object"
+    },
+    {
+      "name": "Variants",
+      "type": "object"
+    },
+    {
+      "name": "Description",
+      "type": "object"
+    }
+  ]
+}

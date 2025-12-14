@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "State/Territory Men's Division",
+      "type": "object"
+    },
+    {
+      "name": "State/Territory Women's Division",
+      "type": "object"
+    },
+    {
+      "name": "Major Centres Division",
+      "type": "object"
+    },
+    {
+      "name": "Community Division",
+      "type": "object"
+    },
+    {
+      "name": "Women's Division",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Episode",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Synopsis",
+      "type": "object"
+    },
+    {
+      "name": "Sent Home",
+      "type": "object"
+    },
+    {
+      "name": "Highest Seller",
+      "type": "object"
+    }
+  ]
+}

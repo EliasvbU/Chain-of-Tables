@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    },
+    {
+      "name": "Athlete",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Meet",
+      "type": "object"
+    },
+    {
+      "name": "Place",
+      "type": "object"
+    }
+  ]
+}

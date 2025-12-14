@@ -1,0 +1,68 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Games",
+      "type": "int64"
+    },
+    {
+      "name": "Combined Tackles",
+      "type": "int64"
+    },
+    {
+      "name": "Tackles",
+      "type": "int64"
+    },
+    {
+      "name": "Assisted Tackles",
+      "type": "int64"
+    },
+    {
+      "name": "Sacks",
+      "type": "float64"
+    },
+    {
+      "name": "Forced Fumbles",
+      "type": "int64"
+    },
+    {
+      "name": "Fumble Recoveries",
+      "type": "int64"
+    },
+    {
+      "name": "Fumble Return Yards",
+      "type": "int64"
+    },
+    {
+      "name": "Interceptions",
+      "type": "int64"
+    },
+    {
+      "name": "Interception Return Yards",
+      "type": "int64"
+    },
+    {
+      "name": "Yards per Interception Return",
+      "type": "int64"
+    },
+    {
+      "name": "Longest Interception Return",
+      "type": "int64"
+    },
+    {
+      "name": "Interceptions Returned for Touchdown",
+      "type": "int64"
+    },
+    {
+      "name": "Passes Defended",
+      "type": "int64"
+    }
+  ]
+}

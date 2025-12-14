@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Race Name",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "UCI Rating",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    }
+  ]
+}

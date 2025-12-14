@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Face Value",
+      "type": "object"
+    },
+    {
+      "name": "\u20ac0.01",
+      "type": "object"
+    },
+    {
+      "name": "\u20ac0.02",
+      "type": "object"
+    },
+    {
+      "name": "\u20ac0.05",
+      "type": "object"
+    },
+    {
+      "name": "\u20ac0.10",
+      "type": "object"
+    },
+    {
+      "name": "\u20ac0.20",
+      "type": "object"
+    },
+    {
+      "name": "\u20ac0.50",
+      "type": "object"
+    },
+    {
+      "name": "\u20ac1.00",
+      "type": "object"
+    },
+    {
+      "name": "\u20ac2.00",
+      "type": "object"
+    }
+  ]
+}

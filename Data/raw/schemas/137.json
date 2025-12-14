@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Race",
+      "type": "int64"
+    },
+    {
+      "name": "Race Name",
+      "type": "object"
+    },
+    {
+      "name": "Pole Position",
+      "type": "object"
+    },
+    {
+      "name": "Fastest lap",
+      "type": "object"
+    },
+    {
+      "name": "Winning driver",
+      "type": "object"
+    },
+    {
+      "name": "Winning team",
+      "type": "object"
+    },
+    {
+      "name": "Yokohama winner",
+      "type": "object"
+    },
+    {
+      "name": "Jay-Ten Winner",
+      "type": "object"
+    },
+    {
+      "name": "Report",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Train",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Present location",
+      "type": "object"
+    },
+    {
+      "name": "Comments",
+      "type": "object"
+    },
+    {
+      "name": "Top speed (km/h)",
+      "type": "object"
+    }
+  ]
+}

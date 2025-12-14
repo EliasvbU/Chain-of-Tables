@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Audition taken in",
+      "type": "object"
+    },
+    {
+      "name": "Gang",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

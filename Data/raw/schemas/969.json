@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Composer",
+      "type": "object"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Genre",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "float64"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

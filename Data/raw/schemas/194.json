@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Outcome",
+      "type": "object"
+    },
+    {
+      "name": "Edition",
+      "type": "int64"
+    },
+    {
+      "name": "Round",
+      "type": "object"
+    },
+    {
+      "name": "Opponent Team",
+      "type": "object"
+    },
+    {
+      "name": "Surface",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    }
+  ]
+}

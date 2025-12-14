@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Week",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    },
+    {
+      "name": "Game site",
+      "type": "object"
+    }
+  ]
+}

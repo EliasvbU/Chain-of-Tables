@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    }
+  ]
+}

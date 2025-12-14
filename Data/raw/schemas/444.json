@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Series",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Age",
+      "type": "int64"
+    },
+    {
+      "name": "Hometown",
+      "type": "object"
+    },
+    {
+      "name": "Occupation",
+      "type": "object"
+    },
+    {
+      "name": "Status",
+      "type": "object"
+    }
+  ]
+}

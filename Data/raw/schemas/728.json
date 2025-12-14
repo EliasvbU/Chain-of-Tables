@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Client",
+      "type": "object"
+    },
+    {
+      "name": "Years of Operation",
+      "type": "object"
+    },
+    {
+      "name": "Area of Operation",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Services",
+      "type": "object"
+    }
+  ]
+}

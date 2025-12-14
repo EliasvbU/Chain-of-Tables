@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Image",
+      "type": "object"
+    },
+    {
+      "name": "Height\r\nft (m)",
+      "type": "object"
+    },
+    {
+      "name": "Floors",
+      "type": "int64"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

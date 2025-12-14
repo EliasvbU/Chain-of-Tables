@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "int64"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Names",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Qualification",
+      "type": "object"
+    }
+  ]
+}

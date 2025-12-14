@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Jockey",
+      "type": "object"
+    },
+    {
+      "name": "Trainer",
+      "type": "object"
+    },
+    {
+      "name": "Owner",
+      "type": "object"
+    },
+    {
+      "name": "Distance\r\n(Miles)",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Win $",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Round",
+      "type": "int64"
+    },
+    {
+      "name": "Circuit",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Pole Position",
+      "type": "object"
+    },
+    {
+      "name": "Winning driver",
+      "type": "object"
+    },
+    {
+      "name": "Winning team",
+      "type": "object"
+    },
+    {
+      "name": "Trophy winner",
+      "type": "object"
+    }
+  ]
+}

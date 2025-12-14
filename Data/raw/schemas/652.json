@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Director",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Genre",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

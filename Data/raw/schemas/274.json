@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Speed",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Train",
+      "type": "object"
+    },
+    {
+      "name": "Arr.",
+      "type": "object"
+    },
+    {
+      "name": "Power",
+      "type": "object"
+    },
+    {
+      "name": "State",
+      "type": "object"
+    },
+    {
+      "name": "Comments",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Birthday",
+      "type": "object"
+    },
+    {
+      "name": "Size",
+      "type": "object"
+    },
+    {
+      "name": "Weight",
+      "type": "object"
+    },
+    {
+      "name": "Last Team",
+      "type": "object"
+    }
+  ]
+}

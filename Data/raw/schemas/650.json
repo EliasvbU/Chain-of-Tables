@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "int64"
+    },
+    {
+      "name": "Level",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "International\r\ncaps",
+      "type": "object"
+    }
+  ]
+}

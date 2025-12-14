@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    },
+    {
+      "name": "Finish",
+      "type": "object"
+    },
+    {
+      "name": "Manager",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

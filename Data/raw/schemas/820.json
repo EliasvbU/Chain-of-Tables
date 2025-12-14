@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Constituency",
+      "type": "object"
+    },
+    {
+      "name": "c/u",
+      "type": "object"
+    },
+    {
+      "name": "Former Incumbent",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Cause",
+      "type": "object"
+    }
+  ]
+}

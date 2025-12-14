@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Ethnicity",
+      "type": "object"
+    },
+    {
+      "name": "Islam",
+      "type": "object"
+    },
+    {
+      "name": "Christianity",
+      "type": "object"
+    },
+    {
+      "name": "Judaism",
+      "type": "object"
+    },
+    {
+      "name": "Buddhism",
+      "type": "object"
+    },
+    {
+      "name": "Other",
+      "type": "object"
+    },
+    {
+      "name": "None / Atheism",
+      "type": "object"
+    },
+    {
+      "name": "n/a",
+      "type": "object"
+    }
+  ]
+}

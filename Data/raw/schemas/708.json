@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Victim(s)",
+      "type": "object"
+    },
+    {
+      "name": "Age",
+      "type": "object"
+    },
+    {
+      "name": "Gender",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Type of attack",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Details",
+      "type": "object"
+    },
+    {
+      "name": "Source(s)",
+      "type": "object"
+    }
+  ]
+}

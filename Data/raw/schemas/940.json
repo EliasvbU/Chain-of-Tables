@@ -1,0 +1,56 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Tournaments\r\nplayed",
+      "type": "int64"
+    },
+    {
+      "name": "Cuts\r\nmade",
+      "type": "int64"
+    },
+    {
+      "name": "Wins",
+      "type": "int64"
+    },
+    {
+      "name": "2nd",
+      "type": "int64"
+    },
+    {
+      "name": "3rd",
+      "type": "int64"
+    },
+    {
+      "name": "Top 10s",
+      "type": "int64"
+    },
+    {
+      "name": "Best\r\nfinish",
+      "type": "object"
+    },
+    {
+      "name": "Earnings\r\n(\u20ac)",
+      "type": "object"
+    },
+    {
+      "name": "Money\r\nlist rank",
+      "type": "float64"
+    },
+    {
+      "name": "Scoring\r\naverage",
+      "type": "float64"
+    },
+    {
+      "name": "Scoring\r\nrank",
+      "type": "float64"
+    },
+    {
+      "name": "Rolex\r\nranking",
+      "type": "float64"
+    }
+  ]
+}

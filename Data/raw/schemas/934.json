@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "float64"
+    },
+    {
+      "name": "Pair",
+      "type": "int64"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Athletes",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Deficit",
+      "type": "float64"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Venue",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Scoreline",
+      "type": "object"
+    },
+    {
+      "name": "China scorers",
+      "type": "object"
+    }
+  ]
+}

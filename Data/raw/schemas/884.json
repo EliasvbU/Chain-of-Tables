@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Medal",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Sport",
+      "type": "object"
+    },
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Date built",
+      "type": "object"
+    },
+    {
+      "name": "Builder",
+      "type": "object"
+    },
+    {
+      "name": "Works No.",
+      "type": "object"
+    },
+    {
+      "name": "Wheels",
+      "type": "object"
+    },
+    {
+      "name": "Cylinders",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    },
+    {
+      "name": "Withdrawn",
+      "type": "object"
+    }
+  ]
+}

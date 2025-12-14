@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Club",
+      "type": "object"
+    },
+    {
+      "name": "Entered\r\nadministration",
+      "type": "object"
+    },
+    {
+      "name": "Exited\r\nadministration",
+      "type": "object"
+    },
+    {
+      "name": "League(s)",
+      "type": "object"
+    },
+    {
+      "name": "Deduction(s)",
+      "type": "object"
+    }
+  ]
+}

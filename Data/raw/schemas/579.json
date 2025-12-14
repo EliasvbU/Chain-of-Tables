@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Code",
+      "type": "object"
+    },
+    {
+      "name": "District",
+      "type": "object"
+    },
+    {
+      "name": "Headquarters",
+      "type": "object"
+    },
+    {
+      "name": "Population (As of 2011)",
+      "type": "object"
+    },
+    {
+      "name": "Area (km\u00b2)",
+      "type": "object"
+    },
+    {
+      "name": "Density (/km\u00b2)",
+      "type": "int64"
+    }
+  ]
+}

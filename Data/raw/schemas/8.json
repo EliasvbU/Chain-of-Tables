@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Conference",
+      "type": "object"
+    },
+    {
+      "name": "Head Coach",
+      "type": "object"
+    },
+    {
+      "name": "Total Wins",
+      "type": "object"
+    },
+    {
+      "name": "Total Losses",
+      "type": "object"
+    },
+    {
+      "name": "Total Ties",
+      "type": "object"
+    },
+    {
+      "name": "Conference Wins",
+      "type": "object"
+    },
+    {
+      "name": "Conference Losses",
+      "type": "object"
+    },
+    {
+      "name": "Conference Ties",
+      "type": "object"
+    },
+    {
+      "name": "Conference Standing",
+      "type": "object"
+    },
+    {
+      "name": "Postseason Result",
+      "type": "object"
+    }
+  ]
+}

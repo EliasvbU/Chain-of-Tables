@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "int64"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Points",
+      "type": "int64"
+    },
+    {
+      "name": "Points defending",
+      "type": "int64"
+    },
+    {
+      "name": "Points won",
+      "type": "int64"
+    },
+    {
+      "name": "New points",
+      "type": "int64"
+    },
+    {
+      "name": "Withdrew due to",
+      "type": "object"
+    }
+  ]
+}

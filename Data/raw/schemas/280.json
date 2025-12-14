@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Hull",
+      "type": "object"
+    },
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Original Name",
+      "type": "object"
+    },
+    {
+      "name": "Original Operator",
+      "type": "object"
+    },
+    {
+      "name": "Delivery",
+      "type": "object"
+    },
+    {
+      "name": "Disposition (2012)",
+      "type": "object"
+    },
+    {
+      "name": "2nd name",
+      "type": "object"
+    },
+    {
+      "name": "2nd operator",
+      "type": "object"
+    },
+    {
+      "name": "3rd Name",
+      "type": "object"
+    },
+    {
+      "name": "3rd operator",
+      "type": "object"
+    }
+  ]
+}

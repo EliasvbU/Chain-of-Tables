@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent#",
+      "type": "object"
+    },
+    {
+      "name": "Rank#",
+      "type": "object"
+    },
+    {
+      "name": "Site",
+      "type": "object"
+    },
+    {
+      "name": "TV",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Attendance",
+      "type": "object"
+    }
+  ]
+}

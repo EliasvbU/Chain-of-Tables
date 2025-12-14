@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Region",
+      "type": "object"
+    },
+    {
+      "name": "Seed",
+      "type": "float64"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Coach",
+      "type": "object"
+    },
+    {
+      "name": "Finished",
+      "type": "object"
+    },
+    {
+      "name": "Final Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    }
+  ]
+}

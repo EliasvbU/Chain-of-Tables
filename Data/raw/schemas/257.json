@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Ethnicity",
+      "type": "object"
+    },
+    {
+      "name": "1926 census",
+      "type": "object"
+    },
+    {
+      "name": "1939 census",
+      "type": "object"
+    },
+    {
+      "name": "1959 census",
+      "type": "object"
+    },
+    {
+      "name": "1970 census",
+      "type": "object"
+    },
+    {
+      "name": "1979 census",
+      "type": "object"
+    },
+    {
+      "name": "1989 census",
+      "type": "object"
+    },
+    {
+      "name": "2007 estimate",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "No",
+      "type": "int64"
+    },
+    {
+      "name": "Driver",
+      "type": "object"
+    },
+    {
+      "name": "Class",
+      "type": "object"
+    },
+    {
+      "name": "Rounds",
+      "type": "object"
+    }
+  ]
+}

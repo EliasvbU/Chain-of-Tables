@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Moving from",
+      "type": "object"
+    },
+    {
+      "name": "Moving to",
+      "type": "object"
+    },
+    {
+      "name": "Fee",
+      "type": "object"
+    }
+  ]
+}

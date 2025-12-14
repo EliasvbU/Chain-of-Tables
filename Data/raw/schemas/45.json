@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Head Coach",
+      "type": "object"
+    },
+    {
+      "name": "Conf.",
+      "type": "object"
+    },
+    {
+      "name": "Overall",
+      "type": "object"
+    }
+  ]
+}

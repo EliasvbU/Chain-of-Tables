@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Site",
+      "type": "object"
+    },
+    {
+      "name": "Date(s)",
+      "type": "object"
+    },
+    {
+      "name": "Designated",
+      "type": "int64"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Description",
+      "type": "object"
+    }
+  ]
+}

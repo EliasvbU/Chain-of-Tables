@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Games Played",
+      "type": "int64"
+    },
+    {
+      "name": "Field Goals",
+      "type": "int64"
+    },
+    {
+      "name": "Free Throws",
+      "type": "int64"
+    },
+    {
+      "name": "Points",
+      "type": "int64"
+    }
+  ]
+}

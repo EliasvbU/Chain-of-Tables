@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Specifications",
+      "type": "object"
+    },
+    {
+      "name": "Foundation",
+      "type": "object"
+    },
+    {
+      "name": "Essentials",
+      "type": "object"
+    },
+    {
+      "name": "Standard",
+      "type": "object"
+    },
+    {
+      "name": "Datacenter",
+      "type": "object"
+    }
+  ]
+}

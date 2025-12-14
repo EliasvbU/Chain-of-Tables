@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Men's Individual",
+      "type": "object"
+    },
+    {
+      "name": "Women's Individual",
+      "type": "object"
+    },
+    {
+      "name": "Men's Team",
+      "type": "object"
+    },
+    {
+      "name": "Women's Team",
+      "type": "object"
+    },
+    {
+      "name": "Mixed Team",
+      "type": "object"
+    },
+    {
+      "name": "Ref",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Director",
+      "type": "object"
+    },
+    {
+      "name": "Production",
+      "type": "object"
+    },
+    {
+      "name": "Music",
+      "type": "object"
+    },
+    {
+      "name": "Cast",
+      "type": "object"
+    },
+    {
+      "name": "Release date",
+      "type": "object"
+    }
+  ]
+}

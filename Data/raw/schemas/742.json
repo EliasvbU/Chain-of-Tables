@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Release date",
+      "type": "object"
+    },
+    {
+      "name": "Single title",
+      "type": "object"
+    },
+    {
+      "name": "UK Singles Chart\r\nposition",
+      "type": "object"
+    },
+    {
+      "name": "French\r\nCharts",
+      "type": "object"
+    },
+    {
+      "name": "German\r\nCharts",
+      "type": "object"
+    },
+    {
+      "name": "Irish\r\nCharts",
+      "type": "object"
+    },
+    {
+      "name": "Various",
+      "type": "object"
+    }
+  ]
+}

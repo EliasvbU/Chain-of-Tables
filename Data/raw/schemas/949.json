@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "type": "int64"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    },
+    {
+      "name": "Artist(s)",
+      "type": "object"
+    },
+    {
+      "name": "Sales",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Entered",
+      "type": "object"
+    },
+    {
+      "name": "Weeks in\r\ntop 10",
+      "type": "int64"
+    },
+    {
+      "name": "Single",
+      "type": "object"
+    },
+    {
+      "name": "Artist",
+      "type": "object"
+    },
+    {
+      "name": "Peak",
+      "type": "int64"
+    },
+    {
+      "name": "Peak\r\nreached",
+      "type": "object"
+    },
+    {
+      "name": "Weeks\r\nat peak",
+      "type": "float64"
+    }
+  ]
+}

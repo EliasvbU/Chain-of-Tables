@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Film",
+      "type": "object"
+    },
+    {
+      "name": "Language",
+      "type": "object"
+    },
+    {
+      "name": "Character",
+      "type": "object"
+    },
+    {
+      "name": "Co-Star",
+      "type": "object"
+    },
+    {
+      "name": "Music",
+      "type": "object"
+    },
+    {
+      "name": "Banner",
+      "type": "object"
+    }
+  ]
+}

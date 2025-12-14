@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Region",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Format",
+      "type": "object"
+    },
+    {
+      "name": "Version(s)",
+      "type": "object"
+    },
+    {
+      "name": "Label",
+      "type": "object"
+    }
+  ]
+}

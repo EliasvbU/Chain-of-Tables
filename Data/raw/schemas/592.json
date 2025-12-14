@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "object"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Opening\r\ndate",
+      "type": "object"
+    },
+    {
+      "name": "Closing\r\ndate",
+      "type": "object"
+    },
+    {
+      "name": "Performances",
+      "type": "object"
+    },
+    {
+      "name": "Comment",
+      "type": "object"
+    }
+  ]
+}

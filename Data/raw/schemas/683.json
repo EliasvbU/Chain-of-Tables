@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "No.",
+      "type": "int64"
+    },
+    {
+      "name": "Constituency",
+      "type": "object"
+    },
+    {
+      "name": "Winner Candidate",
+      "type": "object"
+    },
+    {
+      "name": "Party",
+      "type": "object"
+    },
+    {
+      "name": "Votes",
+      "type": "int64"
+    },
+    {
+      "name": "Margin",
+      "type": "int64"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Stadium",
+      "type": "object"
+    },
+    {
+      "name": "Capacity",
+      "type": "object"
+    },
+    {
+      "name": "Manager",
+      "type": "object"
+    },
+    {
+      "name": "Captain",
+      "type": "object"
+    },
+    {
+      "name": "Kit manufacturer",
+      "type": "object"
+    },
+    {
+      "name": "Shirt sponsor",
+      "type": "object"
+    }
+  ]
+}

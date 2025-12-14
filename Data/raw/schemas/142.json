@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Thread\r\nnominal size",
+      "type": "object"
+    },
+    {
+      "name": "Outer diameter\r\n[mm (in)]",
+      "type": "object"
+    },
+    {
+      "name": "Threads per inch\r\n(TPI)",
+      "type": "int64"
+    },
+    {
+      "name": "Pitch\r\n[in (mm)]",
+      "type": "object"
+    },
+    {
+      "name": "Inner diameter\r\n[mm (in)]",
+      "type": "object"
+    },
+    {
+      "name": "Cable diameter\r\n[mm (in)]",
+      "type": "object"
+    }
+  ]
+}

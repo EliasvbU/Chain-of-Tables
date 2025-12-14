@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Series\r\nnumber",
+      "type": "object"
+    },
+    {
+      "name": "Key",
+      "type": "object"
+    },
+    {
+      "name": "Composed",
+      "type": "object"
+    },
+    {
+      "name": "Published",
+      "type": "object"
+    },
+    {
+      "name": "Opus No.",
+      "type": "object"
+    },
+    {
+      "name": "Brown",
+      "type": "object"
+    },
+    {
+      "name": "Kobyla\u0144ska",
+      "type": "object"
+    },
+    {
+      "name": "Chominski",
+      "type": "object"
+    },
+    {
+      "name": "Dedication",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

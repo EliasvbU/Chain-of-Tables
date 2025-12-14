@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Term as a Deputy Judge",
+      "type": "object"
+    },
+    {
+      "name": "Reason for termination",
+      "type": "object"
+    }
+  ]
+}

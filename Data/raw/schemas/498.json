@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Building",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "km",
+      "type": "float64"
+    },
+    {
+      "name": "Monument",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "type": "object"
+    },
+    {
+      "name": "Chinese",
+      "type": "object"
+    },
+    {
+      "name": "Pinyin",
+      "type": "object"
+    },
+    {
+      "name": "Cantonese Yale",
+      "type": "object"
+    },
+    {
+      "name": "Hakka pinjim",
+      "type": "object"
+    }
+  ]
+}

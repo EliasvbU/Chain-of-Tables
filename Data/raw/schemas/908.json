@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Match Day",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "H/A",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Aberdeen Scorer(s)",
+      "type": "object"
+    },
+    {
+      "name": "Attendance",
+      "type": "object"
+    }
+  ]
+}

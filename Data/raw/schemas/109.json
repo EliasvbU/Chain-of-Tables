@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "District",
+      "type": "object"
+    },
+    {
+      "name": "Incumbent",
+      "type": "object"
+    },
+    {
+      "name": "Party",
+      "type": "object"
+    },
+    {
+      "name": "First\r\nelected",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Candidates",
+      "type": "object"
+    }
+  ]
+}

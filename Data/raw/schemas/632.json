@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "type": "object"
+    },
+    {
+      "name": "Separation\r\n(arcsec)",
+      "type": "float64"
+    },
+    {
+      "name": "Separation\r\n(au)",
+      "type": "object"
+    },
+    {
+      "name": "Most Recent\r\nPosition Angle",
+      "type": "int64"
+    },
+    {
+      "name": "Period\r\n(years)",
+      "type": "float64"
+    },
+    {
+      "name": "Semi-major axis\r\n(arcseconds)",
+      "type": "float64"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

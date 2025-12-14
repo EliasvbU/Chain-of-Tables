@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "int64"
+    },
+    {
+      "name": "Level",
+      "type": "object"
+    },
+    {
+      "name": "Division",
+      "type": "object"
+    },
+    {
+      "name": "Section",
+      "type": "object"
+    },
+    {
+      "name": "Administration",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Movements",
+      "type": "object"
+    }
+  ]
+}

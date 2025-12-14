@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Pennant",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Hull builder",
+      "type": "object"
+    },
+    {
+      "name": "Ordered",
+      "type": "object"
+    },
+    {
+      "name": "Laid down",
+      "type": "object"
+    },
+    {
+      "name": "Launched",
+      "type": "object"
+    },
+    {
+      "name": "Accepted into service",
+      "type": "object"
+    },
+    {
+      "name": "Commissioned",
+      "type": "object"
+    },
+    {
+      "name": "Est. building cost",
+      "type": "object"
+    },
+    {
+      "name": "Fate",
+      "type": "object"
+    }
+  ]
+}

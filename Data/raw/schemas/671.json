@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Airing\r\ndate",
+      "type": "object"
+    },
+    {
+      "name": "English title\r\n(Chinese title)",
+      "type": "object"
+    },
+    {
+      "name": "Number of episodes",
+      "type": "object"
+    },
+    {
+      "name": "Main cast",
+      "type": "object"
+    },
+    {
+      "name": "Theme song (T)\r\nSub-theme song (ST)",
+      "type": "object"
+    },
+    {
+      "name": "Genre",
+      "type": "float64"
+    },
+    {
+      "name": "Notes",
+      "type": "float64"
+    },
+    {
+      "name": "Official website",
+      "type": "float64"
+    }
+  ]
+}

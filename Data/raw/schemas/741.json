@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "1,62",
+      "type": "object"
+    },
+    {
+      "name": "1,67",
+      "type": "object"
+    },
+    {
+      "name": "1,72",
+      "type": "object"
+    },
+    {
+      "name": "1,75",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

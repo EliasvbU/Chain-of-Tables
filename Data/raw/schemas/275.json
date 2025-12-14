@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Results",
+      "type": "object"
+    },
+    {
+      "name": "Scorers",
+      "type": "object"
+    },
+    {
+      "name": "Type of game",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Peak chart positions\r\nSWE",
+      "type": "object"
+    },
+    {
+      "name": "Peak chart positions\r\nSWI",
+      "type": "object"
+    },
+    {
+      "name": "Peak chart positions\r\nUK",
+      "type": "object"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    }
+  ]
+}

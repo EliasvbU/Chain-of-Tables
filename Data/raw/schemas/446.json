@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Alternante title",
+      "type": "object"
+    },
+    {
+      "name": "TV Network(s)",
+      "type": "object"
+    },
+    {
+      "name": "Series premiere",
+      "type": "object"
+    },
+    {
+      "name": "Series finale",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Game",
+      "type": "int64"
+    },
+    {
+      "name": "December",
+      "type": "int64"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    }
+  ]
+}

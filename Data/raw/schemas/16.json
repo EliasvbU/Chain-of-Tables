@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Place",
+      "type": "object"
+    },
+    {
+      "name": "Map ref",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    },
+    {
+      "name": "Image",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Stage",
+      "type": "int64"
+    },
+    {
+      "name": "Cyclist",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Reason",
+      "type": "object"
+    }
+  ]
+}

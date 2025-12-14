@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Nation",
+      "type": "object"
+    },
+    {
+      "name": "Points",
+      "type": "int64"
+    },
+    {
+      "name": "Games",
+      "type": "int64"
+    },
+    {
+      "name": "Pts/game",
+      "type": "float64"
+    }
+  ]
+}

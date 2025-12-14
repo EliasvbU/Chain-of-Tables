@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Sl no",
+      "type": "float64"
+    },
+    {
+      "name": "Name of the prabandham",
+      "type": "object"
+    },
+    {
+      "name": "Starting from",
+      "type": "float64"
+    },
+    {
+      "name": "Ending with",
+      "type": "float64"
+    },
+    {
+      "name": "Number of pasurams",
+      "type": "int64"
+    },
+    {
+      "name": "Sung by",
+      "type": "object"
+    }
+  ]
+}

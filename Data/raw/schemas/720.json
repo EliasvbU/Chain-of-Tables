@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Number",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Term Started",
+      "type": "int64"
+    },
+    {
+      "name": "Term Ended",
+      "type": "object"
+    },
+    {
+      "name": "Alma Mater",
+      "type": "object"
+    },
+    {
+      "name": "Field(s)",
+      "type": "object"
+    },
+    {
+      "name": "Educational Background",
+      "type": "object"
+    }
+  ]
+}

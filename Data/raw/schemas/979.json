@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Place",
+      "type": "int64"
+    },
+    {
+      "name": "Nation",
+      "type": "object"
+    },
+    {
+      "name": "5 Hoops",
+      "type": "object"
+    },
+    {
+      "name": "3 Balls,\r\n2 Ribbons",
+      "type": "object"
+    },
+    {
+      "name": "Total",
+      "type": "float64"
+    }
+  ]
+}

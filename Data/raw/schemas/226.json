@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Municipality/Communes",
+      "type": "object"
+    },
+    {
+      "name": "Coalition for the Citizen",
+      "type": "object"
+    },
+    {
+      "name": "Coalition for the Future",
+      "type": "object"
+    },
+    {
+      "name": "Other/Independent",
+      "type": "object"
+    },
+    {
+      "name": "Winning Party/Coalition",
+      "type": "object"
+    },
+    {
+      "name": "Voter Turnout",
+      "type": "object"
+    }
+  ]
+}

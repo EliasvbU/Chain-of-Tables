@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Pos",
+      "type": "object"
+    },
+    {
+      "name": "No",
+      "type": "int64"
+    },
+    {
+      "name": "Driver",
+      "type": "object"
+    },
+    {
+      "name": "Constructor",
+      "type": "object"
+    },
+    {
+      "name": "Laps",
+      "type": "int64"
+    },
+    {
+      "name": "Time/Retired",
+      "type": "object"
+    },
+    {
+      "name": "Grid",
+      "type": "float64"
+    },
+    {
+      "name": "Points",
+      "type": "float64"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Club",
+      "type": "object"
+    },
+    {
+      "name": "Nickname",
+      "type": "object"
+    },
+    {
+      "name": "No. of Premierships",
+      "type": "int64"
+    },
+    {
+      "name": "Premiership Years",
+      "type": "object"
+    },
+    {
+      "name": "Moved To",
+      "type": "object"
+    }
+  ]
+}

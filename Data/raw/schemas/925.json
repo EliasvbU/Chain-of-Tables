@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "League",
+      "type": "int64"
+    },
+    {
+      "name": "FA Cup",
+      "type": "int64"
+    },
+    {
+      "name": "League Cup",
+      "type": "int64"
+    },
+    {
+      "name": "JP Trophy",
+      "type": "int64"
+    },
+    {
+      "name": "Total",
+      "type": "int64"
+    }
+  ]
+}

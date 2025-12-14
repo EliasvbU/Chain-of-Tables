@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Round",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Circuit",
+      "type": "object"
+    },
+    {
+      "name": "Winning driver (TA2)",
+      "type": "object"
+    },
+    {
+      "name": "Winning vehicle (TA2)",
+      "type": "object"
+    },
+    {
+      "name": "Winning driver (TA1)",
+      "type": "object"
+    },
+    {
+      "name": "Winning vehicle (TA1)",
+      "type": "object"
+    }
+  ]
+}

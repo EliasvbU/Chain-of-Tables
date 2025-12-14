@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Chord",
+      "type": "object"
+    },
+    {
+      "name": "Root",
+      "type": "object"
+    },
+    {
+      "name": "Minor Third",
+      "type": "object"
+    },
+    {
+      "name": "Perfect Fifth",
+      "type": "object"
+    },
+    {
+      "name": "Major Seventh",
+      "type": "object"
+    }
+  ]
+}

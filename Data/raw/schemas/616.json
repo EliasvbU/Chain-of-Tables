@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Township",
+      "type": "object"
+    },
+    {
+      "name": "FIPS",
+      "type": "int64"
+    },
+    {
+      "name": "Population\r\ncenter",
+      "type": "object"
+    },
+    {
+      "name": "Population",
+      "type": "object"
+    },
+    {
+      "name": "Population\r\ndensity\r\n/km\u00b2 (/sq mi)",
+      "type": "object"
+    },
+    {
+      "name": "Land area\r\nkm\u00b2 (sq mi)",
+      "type": "object"
+    },
+    {
+      "name": "Water area\r\nkm\u00b2 (sq mi)",
+      "type": "object"
+    },
+    {
+      "name": "Water %",
+      "type": "object"
+    },
+    {
+      "name": "Geographic coordinates",
+      "type": "object"
+    }
+  ]
+}

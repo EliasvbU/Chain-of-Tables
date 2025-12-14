@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Transferred From",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    }
+  ]
+}

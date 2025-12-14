@@ -1,0 +1,56 @@
+{
+  "columns": [
+    {
+      "name": "Nation",
+      "type": "object"
+    },
+    {
+      "name": "1986",
+      "type": "object"
+    },
+    {
+      "name": "1989",
+      "type": "object"
+    },
+    {
+      "name": "1991",
+      "type": "object"
+    },
+    {
+      "name": "1997",
+      "type": "object"
+    },
+    {
+      "name": "1999",
+      "type": "object"
+    },
+    {
+      "name": "2000",
+      "type": "object"
+    },
+    {
+      "name": "2003",
+      "type": "object"
+    },
+    {
+      "name": "2005",
+      "type": "object"
+    },
+    {
+      "name": "2007",
+      "type": "object"
+    },
+    {
+      "name": "2009",
+      "type": "object"
+    },
+    {
+      "name": "2011",
+      "type": "object"
+    },
+    {
+      "name": "Years",
+      "type": "int64"
+    }
+  ]
+}

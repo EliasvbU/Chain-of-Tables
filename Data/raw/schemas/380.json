@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Celebrity",
+      "type": "object"
+    },
+    {
+      "name": "Residence",
+      "type": "object"
+    },
+    {
+      "name": "Famous for.../Occupation",
+      "type": "object"
+    },
+    {
+      "name": "Age",
+      "type": "int64"
+    },
+    {
+      "name": "Status",
+      "type": "object"
+    }
+  ]
+}

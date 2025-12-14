@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Competition",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Placing",
+      "type": "int64"
+    },
+    {
+      "name": "Rider",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    }
+  ]
+}

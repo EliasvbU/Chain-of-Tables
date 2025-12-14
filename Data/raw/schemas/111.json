@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Animal Type",
+      "type": "object"
+    },
+    {
+      "name": "Introduced",
+      "type": "float64"
+    },
+    {
+      "name": "Reintroduced",
+      "type": "object"
+    },
+    {
+      "name": "Retired",
+      "type": "float64"
+    },
+    {
+      "name": "Beanie Baby Resembled",
+      "type": "object"
+    }
+  ]
+}

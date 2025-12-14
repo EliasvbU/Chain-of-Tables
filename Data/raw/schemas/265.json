@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "No.",
+      "type": "float64"
+    },
+    {
+      "name": "Title (Latin)",
+      "type": "object"
+    },
+    {
+      "name": "Title (English translation)",
+      "type": "object"
+    },
+    {
+      "name": "Subject",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    }
+  ]
+}

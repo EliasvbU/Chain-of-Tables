@@ -1,0 +1,72 @@
+{
+  "columns": [
+    {
+      "name": "Region",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Size (m)",
+      "type": "object"
+    },
+    {
+      "name": "Payload (metric tonnes)",
+      "type": "object"
+    },
+    {
+      "name": "Degrees of Freedom",
+      "type": "object"
+    },
+    {
+      "name": "X Horiz Disp (mm)",
+      "type": "object"
+    },
+    {
+      "name": "Y Horiz Disp (mm)",
+      "type": "object"
+    },
+    {
+      "name": "Z Vert Disp (mm)",
+      "type": "object"
+    },
+    {
+      "name": "X Horiz Vel (mm/s)",
+      "type": "object"
+    },
+    {
+      "name": "Y Horiz vel (mm/s)",
+      "type": "object"
+    },
+    {
+      "name": "Z Vert vel (mm/s)",
+      "type": "object"
+    },
+    {
+      "name": "X Horiz accel (m/s2)",
+      "type": "object"
+    },
+    {
+      "name": "Y Horiz accel (m/s2)",
+      "type": "object"
+    },
+    {
+      "name": "Z Vert accel (m/s2)",
+      "type": "object"
+    },
+    {
+      "name": "Max Freq (Hz)",
+      "type": "object"
+    },
+    {
+      "name": "Details checked",
+      "type": "object"
+    }
+  ]
+}

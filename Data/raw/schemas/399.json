@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Outcome",
+      "type": "object"
+    },
+    {
+      "name": "No.",
+      "type": "float64"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Championship",
+      "type": "object"
+    },
+    {
+      "name": "Opponent in the final",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    }
+  ]
+}

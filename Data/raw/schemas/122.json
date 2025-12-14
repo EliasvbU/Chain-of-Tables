@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Guests of Honor",
+      "type": "object"
+    },
+    {
+      "name": "Size",
+      "type": "object"
+    }
+  ]
+}

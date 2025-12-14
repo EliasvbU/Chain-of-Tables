@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Seed",
+      "type": "object"
+    },
+    {
+      "name": "School",
+      "type": "object"
+    },
+    {
+      "name": "Conf (Overall)",
+      "type": "object"
+    },
+    {
+      "name": "Tiebreaker",
+      "type": "object"
+    }
+  ]
+}

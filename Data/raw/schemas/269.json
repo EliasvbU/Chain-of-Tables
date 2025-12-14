@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Week",
+      "type": "int64"
+    },
+    {
+      "name": "Room",
+      "type": "object"
+    },
+    {
+      "name": "Winning Couple",
+      "type": "object"
+    },
+    {
+      "name": "2nd Couple",
+      "type": "object"
+    },
+    {
+      "name": "3rd Couple",
+      "type": "object"
+    },
+    {
+      "name": "Chumps",
+      "type": "object"
+    }
+  ]
+}

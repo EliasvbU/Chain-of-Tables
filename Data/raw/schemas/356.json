@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Name of place",
+      "type": "object"
+    },
+    {
+      "name": "Number of counties",
+      "type": "int64"
+    },
+    {
+      "name": "Principal county",
+      "type": "object"
+    },
+    {
+      "name": "Lower zip code",
+      "type": "float64"
+    }
+  ]
+}

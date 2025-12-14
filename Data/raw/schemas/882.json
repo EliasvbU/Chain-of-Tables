@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Number",
+      "type": "int64"
+    },
+    {
+      "name": "Builder",
+      "type": "object"
+    },
+    {
+      "name": "Entered service",
+      "type": "object"
+    },
+    {
+      "name": "Withdrawn",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

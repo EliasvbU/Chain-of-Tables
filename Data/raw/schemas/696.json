@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Issue",
+      "type": "int64"
+    },
+    {
+      "name": "Volume",
+      "type": "object"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Main Feature Story",
+      "type": "object"
+    },
+    {
+      "name": "First/Early Appearance Story/Stories",
+      "type": "object"
+    },
+    {
+      "name": "Release Date",
+      "type": "object"
+    }
+  ]
+}

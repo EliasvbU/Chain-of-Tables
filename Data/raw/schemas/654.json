@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Song",
+      "type": "object"
+    },
+    {
+      "name": "U.S.",
+      "type": "object"
+    },
+    {
+      "name": "U.S.\r\nR&B",
+      "type": "object"
+    },
+    {
+      "name": "U.S.\r\nAC",
+      "type": "object"
+    },
+    {
+      "name": "UK",
+      "type": "object"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    }
+  ]
+}

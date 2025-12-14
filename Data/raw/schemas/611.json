@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Sr. No.",
+      "type": "float64"
+    },
+    {
+      "name": "Train No.",
+      "type": "int64"
+    },
+    {
+      "name": "Name of the Train",
+      "type": "object"
+    },
+    {
+      "name": "Arrival",
+      "type": "object"
+    },
+    {
+      "name": "Departure",
+      "type": "object"
+    },
+    {
+      "name": "Day",
+      "type": "object"
+    }
+  ]
+}

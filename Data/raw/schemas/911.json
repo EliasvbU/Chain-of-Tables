@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Album / Name",
+      "type": "object"
+    },
+    {
+      "name": "Artist(s)",
+      "type": "object"
+    },
+    {
+      "name": "Label",
+      "type": "object"
+    },
+    {
+      "name": "Role/Credit",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Chart#",
+      "type": "object"
+    }
+  ]
+}

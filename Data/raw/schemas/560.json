@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Date established",
+      "type": "object"
+    },
+    {
+      "name": "Area",
+      "type": "object"
+    },
+    {
+      "name": "Description",
+      "type": "object"
+    }
+  ]
+}

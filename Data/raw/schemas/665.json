@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Notability",
+      "type": "object"
+    },
+    {
+      "name": "Birthplace",
+      "type": "object"
+    },
+    {
+      "name": "Advocate",
+      "type": "object"
+    }
+  ]
+}

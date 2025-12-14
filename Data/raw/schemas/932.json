@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "float64"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Lead Vocals",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

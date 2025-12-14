@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Battle",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Date(s)",
+      "type": "object"
+    },
+    {
+      "name": "Engagement remarks",
+      "type": "object"
+    },
+    {
+      "name": "Victor",
+      "type": "object"
+    }
+  ]
+}

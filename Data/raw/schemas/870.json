@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Iteration",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Dates",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Theme",
+      "type": "object"
+    }
+  ]
+}

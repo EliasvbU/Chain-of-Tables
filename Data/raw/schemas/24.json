@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "League",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    },
+    {
+      "name": "Finish",
+      "type": "object"
+    },
+    {
+      "name": "Manager",
+      "type": "object"
+    },
+    {
+      "name": "Playoffs",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

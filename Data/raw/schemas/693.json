@@ -1,0 +1,52 @@
+{
+  "columns": [
+    {
+      "name": "Place",
+      "type": "object"
+    },
+    {
+      "name": "Total",
+      "type": "object"
+    },
+    {
+      "name": "Men",
+      "type": "object"
+    },
+    {
+      "name": "Women",
+      "type": "object"
+    },
+    {
+      "name": "Children",
+      "type": "object"
+    },
+    {
+      "name": "Elderly",
+      "type": "object"
+    },
+    {
+      "name": "Serbs",
+      "type": "object"
+    },
+    {
+      "name": "Jews",
+      "type": "object"
+    },
+    {
+      "name": "Romani",
+      "type": "object"
+    },
+    {
+      "name": "Rusyns",
+      "type": "object"
+    },
+    {
+      "name": "Hungarians",
+      "type": "object"
+    },
+    {
+      "name": "Russians",
+      "type": "object"
+    }
+  ]
+}

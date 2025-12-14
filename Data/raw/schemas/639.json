@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Poll company",
+      "type": "object"
+    },
+    {
+      "name": "Source",
+      "type": "object"
+    },
+    {
+      "name": "Publication date",
+      "type": "object"
+    },
+    {
+      "name": "PSUV",
+      "type": "int64"
+    },
+    {
+      "name": "Opposition",
+      "type": "int64"
+    },
+    {
+      "name": "Undecided",
+      "type": "object"
+    }
+  ]
+}

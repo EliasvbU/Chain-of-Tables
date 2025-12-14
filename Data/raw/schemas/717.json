@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Level",
+      "type": "int64"
+    },
+    {
+      "name": "Division",
+      "type": "object"
+    },
+    {
+      "name": "Place",
+      "type": "object"
+    }
+  ]
+}

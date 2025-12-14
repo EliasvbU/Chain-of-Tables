@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "object"
+    },
+    {
+      "name": "Tournament",
+      "type": "object"
+    },
+    {
+      "name": "Venue",
+      "type": "object"
+    },
+    {
+      "name": "Played",
+      "type": "int64"
+    },
+    {
+      "name": "Won",
+      "type": "int64"
+    },
+    {
+      "name": "Lost",
+      "type": "int64"
+    },
+    {
+      "name": "Tied",
+      "type": "int64"
+    },
+    {
+      "name": "N/R",
+      "type": "int64"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    }
+  ]
+}

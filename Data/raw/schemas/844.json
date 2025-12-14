@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "float64"
+    },
+    {
+      "name": "Athlete",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "2.15",
+      "type": "object"
+    },
+    {
+      "name": "2.20",
+      "type": "object"
+    },
+    {
+      "name": "2.24",
+      "type": "object"
+    },
+    {
+      "name": "2.27",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "float64"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

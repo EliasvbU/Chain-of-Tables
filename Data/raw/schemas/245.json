@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "object"
+    },
+    {
+      "name": "Wrestlers",
+      "type": "object"
+    },
+    {
+      "name": "Reign",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Days\r\nheld",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

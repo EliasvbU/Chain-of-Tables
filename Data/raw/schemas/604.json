@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Driver",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Manufacturer",
+      "type": "object"
+    },
+    {
+      "name": "Race Distance\r\nLaps",
+      "type": "object"
+    },
+    {
+      "name": "Race Distance\r\nMiles (km)",
+      "type": "object"
+    },
+    {
+      "name": "Race Time",
+      "type": "object"
+    },
+    {
+      "name": "Average Speed\r\n(mph)",
+      "type": "float64"
+    },
+    {
+      "name": "Report",
+      "type": "object"
+    }
+  ]
+}

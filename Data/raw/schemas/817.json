@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Single / EP",
+      "type": "object"
+    },
+    {
+      "name": "Tracks",
+      "type": "object"
+    },
+    {
+      "name": "Label",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    }
+  ]
+}

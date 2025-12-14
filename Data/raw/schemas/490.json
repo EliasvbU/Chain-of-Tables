@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Height",
+      "type": "object"
+    },
+    {
+      "name": "Weight",
+      "type": "object"
+    },
+    {
+      "name": "Birthdate",
+      "type": "object"
+    },
+    {
+      "name": "Birthplace",
+      "type": "object"
+    },
+    {
+      "name": "2009\u201310 team",
+      "type": "object"
+    }
+  ]
+}

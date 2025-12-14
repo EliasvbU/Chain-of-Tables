@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Tournament",
+      "type": "object"
+    },
+    {
+      "name": "Venue",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Rank",
+      "type": "object"
+    },
+    {
+      "name": "Event",
+      "type": "object"
+    }
+  ]
+}

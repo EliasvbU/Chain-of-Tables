@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name of President",
+      "type": "object"
+    },
+    {
+      "name": "Picture",
+      "type": "object"
+    },
+    {
+      "name": "Life span",
+      "type": "object"
+    },
+    {
+      "name": "Year of Presidency",
+      "type": "object"
+    },
+    {
+      "name": "Place of Conference",
+      "type": "object"
+    }
+  ]
+}

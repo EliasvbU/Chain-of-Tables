@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "type": "object"
+    },
+    {
+      "name": "Episode title",
+      "type": "object"
+    },
+    {
+      "name": "Romanized title",
+      "type": "object"
+    },
+    {
+      "name": "Translation of title",
+      "type": "object"
+    },
+    {
+      "name": "Broadcast date",
+      "type": "object"
+    },
+    {
+      "name": "Ratings",
+      "type": "object"
+    }
+  ]
+}

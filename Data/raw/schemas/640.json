@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "School",
+      "type": "object"
+    },
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    },
+    {
+      "name": "Conference Record",
+      "type": "object"
+    },
+    {
+      "name": "Place",
+      "type": "object"
+    },
+    {
+      "name": "Postseason",
+      "type": "object"
+    }
+  ]
+}

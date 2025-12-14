@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Rd.",
+      "type": "int64"
+    },
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Circuit",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    }
+  ]
+}

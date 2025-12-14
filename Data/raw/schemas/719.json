@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Matches",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Results",
+      "type": "object"
+    },
+    {
+      "name": "Pakistan\r\nCaptain",
+      "type": "object"
+    },
+    {
+      "name": "Pakistan\r\nCoach",
+      "type": "object"
+    },
+    {
+      "name": "India\r\nCaptain",
+      "type": "object"
+    },
+    {
+      "name": "India\r\nCoach",
+      "type": "object"
+    }
+  ]
+}

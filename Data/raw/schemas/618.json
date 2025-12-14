@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Place",
+      "type": "float64"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Number",
+      "type": "float64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "NASL",
+      "type": "int64"
+    },
+    {
+      "name": "Playoffs",
+      "type": "int64"
+    },
+    {
+      "name": "CFU Club Championship",
+      "type": "int64"
+    },
+    {
+      "name": "CONCACAF Champions League",
+      "type": "int64"
+    },
+    {
+      "name": "Total",
+      "type": "int64"
+    }
+  ]
+}

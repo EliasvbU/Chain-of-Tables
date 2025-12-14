@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Week",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Attendance",
+      "type": "object"
+    }
+  ]
+}

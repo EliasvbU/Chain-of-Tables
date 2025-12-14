@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Home Team",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Away Team",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Agg",
+      "type": "object"
+    }
+  ]
+}

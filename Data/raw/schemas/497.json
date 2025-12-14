@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Date of Incident",
+      "type": "object"
+    },
+    {
+      "name": "Offender",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Offense",
+      "type": "object"
+    },
+    {
+      "name": "Date of Action",
+      "type": "object"
+    },
+    {
+      "name": "Length",
+      "type": "object"
+    }
+  ]
+}

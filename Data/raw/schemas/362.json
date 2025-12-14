@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Episode",
+      "type": "int64"
+    },
+    {
+      "name": "Airdate",
+      "type": "object"
+    },
+    {
+      "name": "Game 1",
+      "type": "object"
+    },
+    {
+      "name": "Game 2",
+      "type": "object"
+    },
+    {
+      "name": "Game 3",
+      "type": "object"
+    },
+    {
+      "name": "Viewers",
+      "type": "object"
+    }
+  ]
+}

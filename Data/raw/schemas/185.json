@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Town",
+      "type": "object"
+    },
+    {
+      "name": "Output (MW AC)",
+      "type": "float64"
+    },
+    {
+      "name": "Modules",
+      "type": "object"
+    },
+    {
+      "name": "Number of arrays",
+      "type": "int64"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Event",
+      "type": "object"
+    },
+    {
+      "name": "Bowling center",
+      "type": "object"
+    },
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "Dates",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    }
+  ]
+}

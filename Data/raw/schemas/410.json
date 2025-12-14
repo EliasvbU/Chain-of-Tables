@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "object"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Goals",
+      "type": "int64"
+    },
+    {
+      "name": "Caps",
+      "type": "int64"
+    },
+    {
+      "name": "Career",
+      "type": "object"
+    }
+  ]
+}

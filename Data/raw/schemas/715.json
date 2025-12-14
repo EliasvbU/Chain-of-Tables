@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Route Number",
+      "type": "object"
+    },
+    {
+      "name": "Route",
+      "type": "object"
+    },
+    {
+      "name": "Via",
+      "type": "object"
+    },
+    {
+      "name": "Operator",
+      "type": "object"
+    },
+    {
+      "name": "Operation",
+      "type": "object"
+    }
+  ]
+}

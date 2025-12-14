@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Game",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Venue",
+      "type": "object"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    },
+    {
+      "name": "Attendance",
+      "type": "object"
+    },
+    {
+      "name": "Goalscorers",
+      "type": "object"
+    }
+  ]
+}

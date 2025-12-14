@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Stages",
+      "type": "object"
+    },
+    {
+      "name": "Distance",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    }
+  ]
+}

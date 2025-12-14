@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "County",
+      "type": "object"
+    },
+    {
+      "name": "Population (2011)",
+      "type": "object"
+    },
+    {
+      "name": "Population (2002)",
+      "type": "object"
+    },
+    {
+      "name": "Altitude (m)",
+      "type": "float64"
+    },
+    {
+      "name": "Year status\r\ngranted* or\r\nfirst attested\u2020",
+      "type": "object"
+    }
+  ]
+}

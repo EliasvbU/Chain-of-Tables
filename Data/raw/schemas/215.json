@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Airline",
+      "type": "object"
+    },
+    {
+      "name": "Destination(s)",
+      "type": "object"
+    },
+    {
+      "name": "Aircraft Scheduled",
+      "type": "object"
+    },
+    {
+      "name": "Service Date(s)",
+      "type": "object"
+    },
+    {
+      "name": "Comments",
+      "type": "object"
+    }
+  ]
+}

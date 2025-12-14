@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Institution",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Enrollment",
+      "type": "object"
+    },
+    {
+      "name": "Nickname",
+      "type": "object"
+    },
+    {
+      "name": "Varsity\r\nSports",
+      "type": "int64"
+    },
+    {
+      "name": "Rugby\r\nSince",
+      "type": "object"
+    },
+    {
+      "name": "Head Coach",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Map or catalog",
+      "type": "object"
+    },
+    {
+      "name": "Creator",
+      "type": "object"
+    },
+    {
+      "name": "Time created",
+      "type": "object"
+    },
+    {
+      "name": "Contets",
+      "type": "object"
+    },
+    {
+      "name": "links",
+      "type": "object"
+    }
+  ]
+}

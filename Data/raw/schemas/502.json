@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Age",
+      "type": "int64"
+    },
+    {
+      "name": "Jockey",
+      "type": "object"
+    },
+    {
+      "name": "Trainer",
+      "type": "object"
+    },
+    {
+      "name": "Owner",
+      "type": "object"
+    },
+    {
+      "name": "Distance\r\n(Miles)",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Purse",
+      "type": "object"
+    },
+    {
+      "name": "Gr",
+      "type": "object"
+    }
+  ]
+}

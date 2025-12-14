@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "object"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Celebrity guest(s)",
+      "type": "object"
+    },
+    {
+      "name": "Directed by",
+      "type": "object"
+    },
+    {
+      "name": "Written by",
+      "type": "object"
+    },
+    {
+      "name": "Original airdate",
+      "type": "object"
+    }
+  ]
+}

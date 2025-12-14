@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Ship",
+      "type": "object"
+    },
+    {
+      "name": "Type of Vessel",
+      "type": "object"
+    },
+    {
+      "name": "Lake",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Lives lost",
+      "type": "object"
+    }
+  ]
+}

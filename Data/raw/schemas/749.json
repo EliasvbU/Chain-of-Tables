@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Courthouse",
+      "type": "object"
+    },
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "Street address",
+      "type": "object"
+    },
+    {
+      "name": "Jurisdiction",
+      "type": "object"
+    },
+    {
+      "name": "Dates of use",
+      "type": "object"
+    },
+    {
+      "name": "Named for",
+      "type": "float64"
+    }
+  ]
+}

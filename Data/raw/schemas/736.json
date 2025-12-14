@@ -1,0 +1,16 @@
+{
+  "columns": [
+    {
+      "name": "Party",
+      "type": "object"
+    },
+    {
+      "name": "Candidate",
+      "type": "object"
+    },
+    {
+      "name": "Votes",
+      "type": "object"
+    }
+  ]
+}

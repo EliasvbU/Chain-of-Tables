@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "No.",
+      "type": "object"
+    },
+    {
+      "name": "Air date",
+      "type": "object"
+    },
+    {
+      "name": "Network",
+      "type": "object"
+    },
+    {
+      "name": "Household\r\nrating",
+      "type": "float64"
+    },
+    {
+      "name": "Viewers\r\n(millions)",
+      "type": "object"
+    }
+  ]
+}

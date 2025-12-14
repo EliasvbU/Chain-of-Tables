@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "int64"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "From",
+      "type": "object"
+    },
+    {
+      "name": "To",
+      "type": "object"
+    },
+    {
+      "name": "Transfer fee\r\n(\u20ac million)",
+      "type": "float64"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Power\r\n[W]",
+      "type": "object"
+    },
+    {
+      "name": "Relative cost",
+      "type": "object"
+    },
+    {
+      "name": "Input range\r\n[V]",
+      "type": "object"
+    },
+    {
+      "name": "Energy storage",
+      "type": "object"
+    },
+    {
+      "name": "Features",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Tournament",
+      "type": "object"
+    },
+    {
+      "name": "Games played",
+      "type": "int64"
+    },
+    {
+      "name": "Points per game",
+      "type": "float64"
+    },
+    {
+      "name": "Rebounds per game",
+      "type": "float64"
+    },
+    {
+      "name": "Assists per game",
+      "type": "float64"
+    }
+  ]
+}

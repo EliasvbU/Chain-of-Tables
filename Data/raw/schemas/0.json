@@ -1,0 +1,96 @@
+{
+  "columns": [
+    {
+      "name": "Poll source",
+      "type": "object"
+    },
+    {
+      "name": "Date(s)\r\nadministered",
+      "type": "object"
+    },
+    {
+      "name": "Sample\r\nsize",
+      "type": "object"
+    },
+    {
+      "name": "Margin of\r\nerror",
+      "type": "object"
+    },
+    {
+      "name": "Ed Burke",
+      "type": "object"
+    },
+    {
+      "name": "Roland Burris",
+      "type": "object"
+    },
+    {
+      "name": "Gery Chico",
+      "type": "object"
+    },
+    {
+      "name": "Bill Daley",
+      "type": "object"
+    },
+    {
+      "name": "Tom Dart",
+      "type": "object"
+    },
+    {
+      "name": "Danny K. Davis",
+      "type": "object"
+    },
+    {
+      "name": "Miguel Del Valle",
+      "type": "object"
+    },
+    {
+      "name": "Rahm Emanuel",
+      "type": "object"
+    },
+    {
+      "name": "Bob Fioretti",
+      "type": "object"
+    },
+    {
+      "name": "Luis Guti\u00e9rrez",
+      "type": "object"
+    },
+    {
+      "name": "Jim Houlihan",
+      "type": "object"
+    },
+    {
+      "name": "Jesse Jackson, Jr.",
+      "type": "object"
+    },
+    {
+      "name": "James Meeks",
+      "type": "object"
+    },
+    {
+      "name": "Carol Moseley Braun",
+      "type": "object"
+    },
+    {
+      "name": "Terry Peterson",
+      "type": "object"
+    },
+    {
+      "name": "Patricia Van Pelt-Watkins",
+      "type": "object"
+    },
+    {
+      "name": "William Walls",
+      "type": "object"
+    },
+    {
+      "name": "Other",
+      "type": "object"
+    },
+    {
+      "name": "Undecided",
+      "type": "object"
+    }
+  ]
+}

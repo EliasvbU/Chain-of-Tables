@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "Venue",
+      "type": "object"
+    },
+    {
+      "name": "Capacity",
+      "type": "object"
+    },
+    {
+      "name": "Head Coach",
+      "type": "object"
+    },
+    {
+      "name": "Team Captain",
+      "type": "object"
+    },
+    {
+      "name": "Past Season",
+      "type": "object"
+    }
+  ]
+}

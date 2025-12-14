@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "int64"
+    },
+    {
+      "name": "Bib",
+      "type": "int64"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Distance (m)",
+      "type": "object"
+    },
+    {
+      "name": "Points",
+      "type": "object"
+    },
+    {
+      "name": "Time difference",
+      "type": "object"
+    }
+  ]
+}

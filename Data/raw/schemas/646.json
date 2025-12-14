@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Region",
+      "type": "object"
+    },
+    {
+      "name": "Coordinates\r\n(links to map & photo sources)",
+      "type": "object"
+    },
+    {
+      "name": "Population",
+      "type": "float64"
+    },
+    {
+      "name": "Elevation",
+      "type": "int64"
+    }
+  ]
+}

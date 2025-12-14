@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Coach",
+      "type": "object"
+    },
+    {
+      "name": "Years",
+      "type": "object"
+    },
+    {
+      "name": "Seasons",
+      "type": "int64"
+    },
+    {
+      "name": "Wins",
+      "type": "int64"
+    },
+    {
+      "name": "Losses",
+      "type": "int64"
+    },
+    {
+      "name": "Ties",
+      "type": "int64"
+    },
+    {
+      "name": "Pct",
+      "type": "float64"
+    }
+  ]
+}

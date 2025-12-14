@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Launch date",
+      "type": "object"
+    },
+    {
+      "name": "Operator",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Sample origin",
+      "type": "object"
+    },
+    {
+      "name": "Samples returned",
+      "type": "object"
+    },
+    {
+      "name": "Recovery date",
+      "type": "object"
+    },
+    {
+      "name": "Mission result",
+      "type": "object"
+    }
+  ]
+}

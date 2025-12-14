@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Responsible Minister(s)",
+      "type": "object"
+    },
+    {
+      "name": "Crown Entities",
+      "type": "object"
+    },
+    {
+      "name": "Monitoring Department(s)",
+      "type": "object"
+    },
+    {
+      "name": "Category / Type",
+      "type": "object"
+    },
+    {
+      "name": "Empowering Legislation",
+      "type": "object"
+    }
+  ]
+}

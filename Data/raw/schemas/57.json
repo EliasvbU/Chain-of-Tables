@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Film",
+      "type": "object"
+    },
+    {
+      "name": "Role",
+      "type": "object"
+    },
+    {
+      "name": "Language",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Version",
+      "type": "object"
+    },
+    {
+      "name": "Length",
+      "type": "object"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    },
+    {
+      "name": "Remixed by",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Comment",
+      "type": "object"
+    }
+  ]
+}

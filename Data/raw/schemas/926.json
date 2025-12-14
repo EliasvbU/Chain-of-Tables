@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "object"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "To par",
+      "type": "object"
+    },
+    {
+      "name": "Money ($)",
+      "type": "object"
+    }
+  ]
+}

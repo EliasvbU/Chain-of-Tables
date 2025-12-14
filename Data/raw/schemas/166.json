@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "float64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Score\r\nJSU",
+      "type": "int64"
+    },
+    {
+      "name": "Score\r\nTU",
+      "type": "int64"
+    },
+    {
+      "name": "Series",
+      "type": "object"
+    }
+  ]
+}

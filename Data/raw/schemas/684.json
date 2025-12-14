@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Wrestler:",
+      "type": "object"
+    },
+    {
+      "name": "Times:",
+      "type": "object"
+    },
+    {
+      "name": "Date:",
+      "type": "object"
+    },
+    {
+      "name": "Location:",
+      "type": "object"
+    },
+    {
+      "name": "Notes:",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "State",
+      "type": "object"
+    },
+    {
+      "name": "City/county",
+      "type": "object"
+    },
+    {
+      "name": "Population served",
+      "type": "object"
+    },
+    {
+      "name": "Charter type",
+      "type": "object"
+    },
+    {
+      "name": "Station name",
+      "type": "object"
+    },
+    {
+      "name": "Web site",
+      "type": "object"
+    }
+  ]
+}

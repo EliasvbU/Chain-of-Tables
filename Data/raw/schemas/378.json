@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "No",
+      "type": "int64"
+    },
+    {
+      "name": "Driver",
+      "type": "object"
+    },
+    {
+      "name": "Entrant",
+      "type": "object"
+    },
+    {
+      "name": "Constructor",
+      "type": "object"
+    },
+    {
+      "name": "Chassis",
+      "type": "object"
+    },
+    {
+      "name": "Engine",
+      "type": "object"
+    },
+    {
+      "name": "Tyre",
+      "type": "object"
+    }
+  ]
+}

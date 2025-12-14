@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Round",
+      "type": "int64"
+    },
+    {
+      "name": "Round.1",
+      "type": "object"
+    },
+    {
+      "name": "Circuit",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Pole Position",
+      "type": "object"
+    },
+    {
+      "name": "Fastest Lap",
+      "type": "object"
+    },
+    {
+      "name": "Winning Driver",
+      "type": "object"
+    },
+    {
+      "name": "Winning Team",
+      "type": "object"
+    },
+    {
+      "name": "Winning Privateer",
+      "type": "object"
+    }
+  ]
+}

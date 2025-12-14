@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Event Year",
+      "type": "int64"
+    },
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Flag bearer",
+      "type": "object"
+    }
+  ]
+}

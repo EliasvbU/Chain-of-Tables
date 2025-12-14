@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "County",
+      "type": "object"
+    },
+    {
+      "name": "Wins",
+      "type": "int64"
+    },
+    {
+      "name": "Years won",
+      "type": "int64"
+    }
+  ]
+}

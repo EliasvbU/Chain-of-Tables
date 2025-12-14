@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Class",
+      "type": "object"
+    },
+    {
+      "name": "No",
+      "type": "object"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Drivers",
+      "type": "object"
+    },
+    {
+      "name": "Chassis",
+      "type": "object"
+    },
+    {
+      "name": "Engine",
+      "type": "object"
+    },
+    {
+      "name": "Laps",
+      "type": "float64"
+    }
+  ]
+}

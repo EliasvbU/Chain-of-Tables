@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Ship Name",
+      "type": "object"
+    },
+    {
+      "name": "Desig",
+      "type": "object"
+    },
+    {
+      "name": "Status",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    },
+    {
+      "name": "Links",
+      "type": "object"
+    }
+  ]
+}

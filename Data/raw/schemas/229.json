@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Property",
+      "type": "object"
+    },
+    {
+      "name": "Test method",
+      "type": "object"
+    },
+    {
+      "name": "units",
+      "type": "object"
+    },
+    {
+      "name": "4275",
+      "type": "object"
+    },
+    {
+      "name": "4301",
+      "type": "object"
+    },
+    {
+      "name": "4435",
+      "type": "object"
+    },
+    {
+      "name": "4630",
+      "type": "object"
+    },
+    {
+      "name": "4645",
+      "type": "object"
+    }
+  ]
+}

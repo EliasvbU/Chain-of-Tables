@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Outcome",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Tournament",
+      "type": "object"
+    },
+    {
+      "name": "Surface",
+      "type": "object"
+    },
+    {
+      "name": "Partnering",
+      "type": "object"
+    },
+    {
+      "name": "Opponent in the final",
+      "type": "object"
+    },
+    {
+      "name": "Score in the final",
+      "type": "object"
+    }
+  ]
+}

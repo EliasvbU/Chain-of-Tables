@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "float64"
+    },
+    {
+      "name": "Lane",
+      "type": "int64"
+    },
+    {
+      "name": "Nation",
+      "type": "object"
+    },
+    {
+      "name": "Swimmers",
+      "type": "object"
+    },
+    {
+      "name": "Time",
+      "type": "object"
+    },
+    {
+      "name": "Time behind",
+      "type": "float64"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

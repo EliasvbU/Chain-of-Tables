@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Games\r\nstarted",
+      "type": "object"
+    },
+    {
+      "name": "Hometown",
+      "type": "object"
+    },
+    {
+      "name": "Height",
+      "type": "object"
+    },
+    {
+      "name": "Weight",
+      "type": "float64"
+    },
+    {
+      "name": "Age",
+      "type": "float64"
+    }
+  ]
+}

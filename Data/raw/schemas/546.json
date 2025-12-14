@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "YEAR",
+      "type": "int64"
+    },
+    {
+      "name": "FILM",
+      "type": "object"
+    },
+    {
+      "name": "SONG",
+      "type": "object"
+    },
+    {
+      "name": "LANGUAGE",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "District",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Party",
+      "type": "object"
+    },
+    {
+      "name": "District Office",
+      "type": "object"
+    },
+    {
+      "name": "First elected",
+      "type": "object"
+    }
+  ]
+}

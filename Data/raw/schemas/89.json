@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Truck(s)",
+      "type": "object"
+    },
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Driver(s)",
+      "type": "object"
+    },
+    {
+      "name": "Primary Sponsor(s)",
+      "type": "object"
+    },
+    {
+      "name": "Listed Owner(s)",
+      "type": "object"
+    },
+    {
+      "name": "Crew Chief",
+      "type": "object"
+    }
+  ]
+}

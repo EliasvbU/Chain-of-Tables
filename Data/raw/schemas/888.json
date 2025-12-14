@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Mile",
+      "type": "float64"
+    },
+    {
+      "name": "Destinations",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

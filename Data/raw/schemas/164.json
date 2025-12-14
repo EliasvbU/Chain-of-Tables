@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Branding",
+      "type": "object"
+    },
+    {
+      "name": "Callsign",
+      "type": "object"
+    },
+    {
+      "name": "Frequency",
+      "type": "object"
+    },
+    {
+      "name": "Power (kW)",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    }
+  ]
+}

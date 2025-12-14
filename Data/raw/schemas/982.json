@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Party/Electoral Alliance",
+      "type": "object"
+    },
+    {
+      "name": "Seats",
+      "type": "object"
+    },
+    {
+      "name": "Change",
+      "type": "object"
+    },
+    {
+      "name": "Votes",
+      "type": "object"
+    },
+    {
+      "name": "%",
+      "type": "object"
+    }
+  ]
+}

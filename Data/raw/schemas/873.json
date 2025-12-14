@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Alma mater",
+      "type": "object"
+    },
+    {
+      "name": "Birth date",
+      "type": "object"
+    },
+    {
+      "name": "Marriage date",
+      "type": "object"
+    },
+    {
+      "name": "President",
+      "type": "object"
+    },
+    {
+      "name": "Tenure",
+      "type": "object"
+    },
+    {
+      "name": "Tenure.1",
+      "type": "object"
+    }
+  ]
+}

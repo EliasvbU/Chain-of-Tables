@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Wins",
+      "type": "int64"
+    },
+    {
+      "name": "Losses",
+      "type": "int64"
+    },
+    {
+      "name": "Win %",
+      "type": "float64"
+    },
+    {
+      "name": "GB",
+      "type": "float64"
+    }
+  ]
+}

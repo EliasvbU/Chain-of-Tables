@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Elected",
+      "type": "object"
+    },
+    {
+      "name": "Term began",
+      "type": "object"
+    },
+    {
+      "name": "Term ended",
+      "type": "object"
+    }
+  ]
+}

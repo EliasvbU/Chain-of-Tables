@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Devanagari",
+      "type": "object"
+    },
+    {
+      "name": "ISO 15919",
+      "type": "object"
+    },
+    {
+      "name": "UNRSGN",
+      "type": "object"
+    },
+    {
+      "name": "IAST",
+      "type": "object"
+    },
+    {
+      "name": "Comment",
+      "type": "object"
+    }
+  ]
+}

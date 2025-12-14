@@ -1,0 +1,64 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Edmonton\r\nHundred",
+      "type": "object"
+    },
+    {
+      "name": "Elthorne\r\nHundred",
+      "type": "object"
+    },
+    {
+      "name": "Gore\r\nHundred",
+      "type": "object"
+    },
+    {
+      "name": "Isleworth\r\nHundred",
+      "type": "object"
+    },
+    {
+      "name": "Ossulstone\r\nHundred\r\nHolborn\r\nDivision",
+      "type": "object"
+    },
+    {
+      "name": "Ossulstone\r\nHundred\r\nFinsbury\r\nDivision",
+      "type": "object"
+    },
+    {
+      "name": "Ossulstone\r\nHundred\r\nKensington\r\nDivision",
+      "type": "object"
+    },
+    {
+      "name": "Ossulstone\r\nHundred\r\nTower\r\nDivision",
+      "type": "object"
+    },
+    {
+      "name": "Spelthorne\r\nHundred",
+      "type": "object"
+    },
+    {
+      "name": "London City\r\nWithin\r\nthe Walls",
+      "type": "object"
+    },
+    {
+      "name": "London City\r\nWithout\r\nthe Walls",
+      "type": "object"
+    },
+    {
+      "name": "Inns of Court\r\nand\r\nChancery",
+      "type": "object"
+    },
+    {
+      "name": "Westminster\r\nCity and\r\nLiberty",
+      "type": "object"
+    },
+    {
+      "name": "Total",
+      "type": "object"
+    }
+  ]
+}

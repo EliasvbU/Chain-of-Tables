@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Jurisdiction",
+      "type": "object"
+    },
+    {
+      "name": "Adherents",
+      "type": "object"
+    },
+    {
+      "name": "Bishops",
+      "type": "int64"
+    },
+    {
+      "name": "Priests",
+      "type": "object"
+    },
+    {
+      "name": "Monastics",
+      "type": "object"
+    },
+    {
+      "name": "Monasteries",
+      "type": "object"
+    },
+    {
+      "name": "Parishes",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Stations",
+      "type": "object"
+    },
+    {
+      "name": "Connections",
+      "type": "object"
+    },
+    {
+      "name": "City/ Neighborhood",
+      "type": "object"
+    },
+    {
+      "name": "Parking",
+      "type": "object"
+    },
+    {
+      "name": "Date Opened",
+      "type": "object"
+    }
+  ]
+}

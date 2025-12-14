@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Component",
+      "type": "object"
+    },
+    {
+      "name": "Model 01",
+      "type": "object"
+    },
+    {
+      "name": "Model 01+",
+      "type": "object"
+    },
+    {
+      "name": "Model 02",
+      "type": "object"
+    },
+    {
+      "name": "Model e2",
+      "type": "object"
+    },
+    {
+      "name": "Model 2+ (Pre-production)",
+      "type": "object"
+    },
+    {
+      "name": "model 03 (China Copy)",
+      "type": "object"
+    }
+  ]
+}

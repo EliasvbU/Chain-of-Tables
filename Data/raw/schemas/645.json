@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "int64"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Record",
+      "type": "object"
+    },
+    {
+      "name": "Head Coach",
+      "type": "object"
+    },
+    {
+      "name": "Quarterback",
+      "type": "object"
+    },
+    {
+      "name": "Leading Rusher",
+      "type": "object"
+    },
+    {
+      "name": "Leading Receiver",
+      "type": "object"
+    },
+    {
+      "name": "All-Pros",
+      "type": "object"
+    },
+    {
+      "name": "Runner Up",
+      "type": "object"
+    }
+  ]
+}

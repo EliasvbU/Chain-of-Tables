@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Artist",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "object"
+    },
+    {
+      "name": "Location/GPS Coordinates",
+      "type": "object"
+    },
+    {
+      "name": "Material",
+      "type": "object"
+    },
+    {
+      "name": "Dimensions",
+      "type": "object"
+    },
+    {
+      "name": "Owner",
+      "type": "object"
+    }
+  ]
+}

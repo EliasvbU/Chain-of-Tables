@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Character",
+      "type": "object"
+    },
+    {
+      "name": "Broadcaster",
+      "type": "object"
+    },
+    {
+      "name": "Episodes",
+      "type": "float64"
+    },
+    {
+      "name": "Date",
+      "type": "int64"
+    }
+  ]
+}

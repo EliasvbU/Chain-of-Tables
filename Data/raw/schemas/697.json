@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Song",
+      "type": "object"
+    },
+    {
+      "name": "Artist(s)",
+      "type": "object"
+    },
+    {
+      "name": "Concert",
+      "type": "object"
+    },
+    {
+      "name": "Film",
+      "type": "object"
+    },
+    {
+      "name": "1978 album",
+      "type": "object"
+    },
+    {
+      "name": "2002 album",
+      "type": "object"
+    }
+  ]
+}

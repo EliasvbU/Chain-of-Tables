@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Constituency number",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Reserved for (SC/ST/None)",
+      "type": "object"
+    },
+    {
+      "name": "District",
+      "type": "object"
+    },
+    {
+      "name": "Number of electorates (2009)",
+      "type": "object"
+    }
+  ]
+}

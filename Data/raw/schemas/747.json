@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "Skip",
+      "type": "object"
+    },
+    {
+      "name": "Third",
+      "type": "object"
+    },
+    {
+      "name": "Second",
+      "type": "object"
+    },
+    {
+      "name": "Lead",
+      "type": "object"
+    },
+    {
+      "name": "Events",
+      "type": "object"
+    }
+  ]
+}

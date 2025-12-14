@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "type": "object"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Nationality",
+      "type": "object"
+    },
+    {
+      "name": "Drafted by",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Round",
+      "type": "object"
+    },
+    {
+      "name": "Overall",
+      "type": "object"
+    }
+  ]
+}

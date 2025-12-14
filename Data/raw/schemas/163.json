@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "AIRLINE",
+      "type": "object"
+    },
+    {
+      "name": "ICAO",
+      "type": "object"
+    },
+    {
+      "name": "IATA",
+      "type": "object"
+    },
+    {
+      "name": "CALLSIGN",
+      "type": "object"
+    },
+    {
+      "name": "COMMENCED\r\nOPERATIONS",
+      "type": "float64"
+    }
+  ]
+}

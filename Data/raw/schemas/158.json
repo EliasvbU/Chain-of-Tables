@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Official Name",
+      "type": "object"
+    },
+    {
+      "name": "Designation",
+      "type": "object"
+    },
+    {
+      "name": "Area km2",
+      "type": "float64"
+    },
+    {
+      "name": "Population",
+      "type": "object"
+    },
+    {
+      "name": "Parish",
+      "type": "object"
+    }
+  ]
+}

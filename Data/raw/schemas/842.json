@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Institution",
+      "type": "object"
+    },
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "State",
+      "type": "object"
+    },
+    {
+      "name": "Team Name",
+      "type": "object"
+    },
+    {
+      "name": "Affiliation",
+      "type": "object"
+    },
+    {
+      "name": "Enrollment",
+      "type": "object"
+    },
+    {
+      "name": "Home Conference",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "State\r\n(linked to\r\nsummaries below)",
+      "type": "object"
+    },
+    {
+      "name": "Incumbent\r\nSenator",
+      "type": "object"
+    },
+    {
+      "name": "Incumbent\r\nParty",
+      "type": "object"
+    },
+    {
+      "name": "Incumbent\r\nElectoral\r\nhistory",
+      "type": "object"
+    },
+    {
+      "name": "Most recent election results",
+      "type": "object"
+    },
+    {
+      "name": "2018 intent",
+      "type": "object"
+    },
+    {
+      "name": "Candidates",
+      "type": "object"
+    }
+  ]
+}

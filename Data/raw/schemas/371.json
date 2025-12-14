@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Competition",
+      "type": "object"
+    },
+    {
+      "name": "Category",
+      "type": "object"
+    },
+    {
+      "name": "Appearances\r\nStart",
+      "type": "int64"
+    },
+    {
+      "name": "Appearances\r\nSub",
+      "type": "int64"
+    },
+    {
+      "name": "Goals",
+      "type": "int64"
+    },
+    {
+      "name": "Team Record",
+      "type": "object"
+    }
+  ]
+}

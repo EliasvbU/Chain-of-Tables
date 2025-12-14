@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "type",
+      "type": "object"
+    },
+    {
+      "name": "elevation\r\n(ground station)",
+      "type": "int64"
+    },
+    {
+      "name": "elevation\r\n(mountain station)",
+      "type": "int64"
+    },
+    {
+      "name": "slope length",
+      "type": "int64"
+    },
+    {
+      "name": "capacity\r\n(persons/hour)",
+      "type": "int64"
+    },
+    {
+      "name": "construction year",
+      "type": "int64"
+    }
+  ]
+}

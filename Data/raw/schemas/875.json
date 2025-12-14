@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Game",
+      "type": "int64"
+    },
+    {
+      "name": "Day",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Kickoff",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Results\r\nScore",
+      "type": "object"
+    },
+    {
+      "name": "Results\r\nRecord",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Attendance",
+      "type": "object"
+    }
+  ]
+}

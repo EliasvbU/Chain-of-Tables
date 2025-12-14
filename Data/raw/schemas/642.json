@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Domestic tournament",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Appearance",
+      "type": "object"
+    },
+    {
+      "name": "Qualified",
+      "type": "object"
+    }
+  ]
+}

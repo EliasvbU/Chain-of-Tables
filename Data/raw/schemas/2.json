@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Massif",
+      "type": "object"
+    },
+    {
+      "name": "Region",
+      "type": "object"
+    },
+    {
+      "name": "Type of nature reserve",
+      "type": "object"
+    },
+    {
+      "name": "Preserved area",
+      "type": "object"
+    },
+    {
+      "name": "Buffer zone",
+      "type": "object"
+    }
+  ]
+}

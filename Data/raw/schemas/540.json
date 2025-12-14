@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Town",
+      "type": "object"
+    },
+    {
+      "name": "Deanery",
+      "type": "object"
+    },
+    {
+      "name": "Vicariate",
+      "type": "object"
+    },
+    {
+      "name": "Founded",
+      "type": "int64"
+    },
+    {
+      "name": "Original Ethnic Community",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "Community",
+      "type": "object"
+    },
+    {
+      "name": "Airport name",
+      "type": "object"
+    },
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Coordinates",
+      "type": "object"
+    }
+  ]
+}

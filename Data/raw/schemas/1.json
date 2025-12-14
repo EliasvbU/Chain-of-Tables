@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Season",
+      "type": "object"
+    },
+    {
+      "name": "North",
+      "type": "object"
+    },
+    {
+      "name": "South",
+      "type": "object"
+    },
+    {
+      "name": "East",
+      "type": "object"
+    },
+    {
+      "name": "West",
+      "type": "object"
+    }
+  ]
+}

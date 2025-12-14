@@ -1,0 +1,72 @@
+{
+  "columns": [
+    {
+      "name": "Model",
+      "type": "object"
+    },
+    {
+      "name": "Launch",
+      "type": "object"
+    },
+    {
+      "name": "Code name",
+      "type": "object"
+    },
+    {
+      "name": "Fab (nm)",
+      "type": "int64"
+    },
+    {
+      "name": "Bus interface",
+      "type": "object"
+    },
+    {
+      "name": "Memory (MiB)",
+      "type": "object"
+    },
+    {
+      "name": "Core clock (MHz)",
+      "type": "int64"
+    },
+    {
+      "name": "Memory clock (MHz)",
+      "type": "int64"
+    },
+    {
+      "name": "Config core1",
+      "type": "object"
+    },
+    {
+      "name": "Fillrate\r\nMOperations/s",
+      "type": "int64"
+    },
+    {
+      "name": "Fillrate\r\nMPixels/s",
+      "type": "int64"
+    },
+    {
+      "name": "Fillrate\r\nMTextels/s",
+      "type": "int64"
+    },
+    {
+      "name": "Fillrate\r\nMVertices/s",
+      "type": "int64"
+    },
+    {
+      "name": "Memory\r\nBandwidth (GB/s)",
+      "type": "float64"
+    },
+    {
+      "name": "Memory\r\nBus type",
+      "type": "object"
+    },
+    {
+      "name": "Memory\r\nBus width (bit)",
+      "type": "int64"
+    },
+    {
+      "name": "DirectX support",
+      "type": "object"
+    }
+  ]
+}

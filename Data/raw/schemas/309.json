@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Model",
+      "type": "object"
+    },
+    {
+      "name": "Released",
+      "type": "object"
+    },
+    {
+      "name": "Usage",
+      "type": "object"
+    },
+    {
+      "name": "Features",
+      "type": "object"
+    },
+    {
+      "name": "Storage",
+      "type": "object"
+    }
+  ]
+}

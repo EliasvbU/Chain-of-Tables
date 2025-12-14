@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "City",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "IATA",
+      "type": "object"
+    },
+    {
+      "name": "ICAO",
+      "type": "object"
+    },
+    {
+      "name": "Airport",
+      "type": "object"
+    },
+    {
+      "name": "Commenced",
+      "type": "object"
+    },
+    {
+      "name": "Ended",
+      "type": "object"
+    }
+  ]
+}

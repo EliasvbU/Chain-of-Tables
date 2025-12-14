@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Plant Name",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Country",
+      "type": "object"
+    },
+    {
+      "name": "Startup Date",
+      "type": "int64"
+    },
+    {
+      "name": "Capacity (mmtpa)",
+      "type": "object"
+    },
+    {
+      "name": "Corporation",
+      "type": "object"
+    }
+  ]
+}

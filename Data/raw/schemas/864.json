@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Pos",
+      "type": "int64"
+    },
+    {
+      "name": "Class",
+      "type": "object"
+    },
+    {
+      "name": "No",
+      "type": "int64"
+    },
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Drivers",
+      "type": "object"
+    },
+    {
+      "name": "Chassis",
+      "type": "object"
+    },
+    {
+      "name": "Engine",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "float64"
+    },
+    {
+      "name": "County",
+      "type": "object"
+    },
+    {
+      "name": "Per capita\r\nincome",
+      "type": "object"
+    },
+    {
+      "name": "Median\r\nhousehold\r\nincome",
+      "type": "object"
+    },
+    {
+      "name": "Median\r\nfamily\r\nincome",
+      "type": "object"
+    },
+    {
+      "name": "Population",
+      "type": "object"
+    },
+    {
+      "name": "Number of\r\nhouseholds",
+      "type": "object"
+    }
+  ]
+}

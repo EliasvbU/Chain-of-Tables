@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Rank",
+      "type": "int64"
+    },
+    {
+      "name": "Wrestler",
+      "type": "object"
+    },
+    {
+      "name": "No. of reigns",
+      "type": "int64"
+    },
+    {
+      "name": "Combined\r\ndefenses",
+      "type": "int64"
+    },
+    {
+      "name": "Combined\r\ndays",
+      "type": "object"
+    }
+  ]
+}

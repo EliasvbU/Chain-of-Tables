@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Model",
+      "type": "object"
+    },
+    {
+      "name": "Origin",
+      "type": "object"
+    },
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Versions",
+      "type": "object"
+    },
+    {
+      "name": "In Service",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    }
+  ]
+}

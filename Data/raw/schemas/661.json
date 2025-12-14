@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Home Ground",
+      "type": "object"
+    },
+    {
+      "name": "First year in\r\nQld Cup",
+      "type": "int64"
+    },
+    {
+      "name": "Last year in\r\nQld Cup",
+      "type": "int64"
+    },
+    {
+      "name": "Qld Cup\r\nPremierships",
+      "type": "object"
+    }
+  ]
+}

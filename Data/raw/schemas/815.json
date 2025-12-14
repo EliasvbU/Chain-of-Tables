@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Model",
+      "type": "object"
+    },
+    {
+      "name": "Fuel Type",
+      "type": "object"
+    },
+    {
+      "name": "mpg (US gallons)",
+      "type": "float64"
+    },
+    {
+      "name": "L/100 km",
+      "type": "float64"
+    },
+    {
+      "name": "NZ Rating\r\n(Stars)",
+      "type": "float64"
+    }
+  ]
+}

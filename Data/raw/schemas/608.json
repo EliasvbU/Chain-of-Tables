@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Elected Party",
+      "type": "object"
+    },
+    {
+      "name": "Constituency",
+      "type": "object"
+    },
+    {
+      "name": "Elected date",
+      "type": "object"
+    },
+    {
+      "name": "Military service",
+      "type": "object"
+    }
+  ]
+}

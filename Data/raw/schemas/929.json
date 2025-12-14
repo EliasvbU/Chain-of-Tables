@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Name of mill and\r\ngrid reference",
+      "type": "object"
+    },
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Maps",
+      "type": "object"
+    },
+    {
+      "name": "First mention\r\nor built",
+      "type": "object"
+    },
+    {
+      "name": "Last mention\r\nor demise",
+      "type": "object"
+    }
+  ]
+}

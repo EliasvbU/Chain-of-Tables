@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Number",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Age\r\n(at Execution)",
+      "type": "int64"
+    },
+    {
+      "name": "Age\r\n(at Offense)",
+      "type": "int64"
+    },
+    {
+      "name": "Race",
+      "type": "object"
+    },
+    {
+      "name": "State",
+      "type": "object"
+    },
+    {
+      "name": "Method",
+      "type": "object"
+    }
+  ]
+}

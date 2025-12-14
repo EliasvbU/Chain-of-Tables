@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Call-sign",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "RF",
+      "type": "int64"
+    },
+    {
+      "name": "PSIP",
+      "type": "float64"
+    },
+    {
+      "name": "Programming",
+      "type": "object"
+    }
+  ]
+}

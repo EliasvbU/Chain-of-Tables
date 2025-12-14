@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Network name",
+      "type": "object"
+    },
+    {
+      "name": "Flagship",
+      "type": "object"
+    },
+    {
+      "name": "Programming type",
+      "type": "object"
+    },
+    {
+      "name": "Owner",
+      "type": "object"
+    },
+    {
+      "name": "Affiliates",
+      "type": "int64"
+    }
+  ]
+}

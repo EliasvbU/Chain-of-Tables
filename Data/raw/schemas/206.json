@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "name": "Saros",
+      "type": "int64"
+    },
+    {
+      "name": "Member",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Time\r\n(Greatest)\r\nUTC",
+      "type": "object"
+    },
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Location\r\nLat,Long",
+      "type": "object"
+    },
+    {
+      "name": "Gamma",
+      "type": "float64"
+    },
+    {
+      "name": "Mag.",
+      "type": "float64"
+    },
+    {
+      "name": "Width\r\n(km)",
+      "type": "float64"
+    },
+    {
+      "name": "Duration\r\n(min:sec)",
+      "type": "object"
+    },
+    {
+      "name": "Ref",
+      "type": "object"
+    }
+  ]
+}

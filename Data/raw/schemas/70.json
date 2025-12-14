@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Pick #",
+      "type": "int64"
+    },
+    {
+      "name": "NFL Team",
+      "type": "object"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "College",
+      "type": "object"
+    }
+  ]
+}

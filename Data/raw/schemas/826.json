@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "No",
+      "type": "object"
+    },
+    {
+      "name": "Driver",
+      "type": "object"
+    },
+    {
+      "name": "Entrant",
+      "type": "object"
+    },
+    {
+      "name": "Constructor",
+      "type": "object"
+    },
+    {
+      "name": "Chassis",
+      "type": "object"
+    },
+    {
+      "name": "Engine",
+      "type": "object"
+    }
+  ]
+}

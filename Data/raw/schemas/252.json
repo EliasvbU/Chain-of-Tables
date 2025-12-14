@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Party Affiliation",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    },
+    {
+      "name": "Number of Votes",
+      "type": "object"
+    },
+    {
+      "name": "Party Affiliation.1",
+      "type": "object"
+    },
+    {
+      "name": "Loser",
+      "type": "object"
+    },
+    {
+      "name": "Number of Votes.1",
+      "type": "object"
+    },
+    {
+      "name": "Percentage of Votes",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Round",
+      "type": "object"
+    },
+    {
+      "name": "Opponents",
+      "type": "object"
+    },
+    {
+      "name": "H / A",
+      "type": "object"
+    },
+    {
+      "name": "Result\r\nF\u2013A",
+      "type": "object"
+    },
+    {
+      "name": "Scorers",
+      "type": "object"
+    },
+    {
+      "name": "Attendance",
+      "type": "object"
+    }
+  ]
+}

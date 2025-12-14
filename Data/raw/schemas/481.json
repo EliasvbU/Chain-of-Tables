@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "name": "Poll source",
+      "type": "object"
+    },
+    {
+      "name": "Date(s)\r\nadministered",
+      "type": "object"
+    },
+    {
+      "name": "Sample\r\nsize",
+      "type": "object"
+    },
+    {
+      "name": "Margin of\r\nerror",
+      "type": "object"
+    },
+    {
+      "name": "Andrew\r\nCuomo (D)",
+      "type": "object"
+    },
+    {
+      "name": "Rob\r\nAstorino (R)",
+      "type": "object"
+    },
+    {
+      "name": "Other",
+      "type": "object"
+    },
+    {
+      "name": "Undecided",
+      "type": "object"
+    }
+  ]
+}

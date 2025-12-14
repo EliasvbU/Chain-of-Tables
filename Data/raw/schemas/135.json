@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "Position",
+      "type": "int64"
+    },
+    {
+      "name": "Club",
+      "type": "object"
+    },
+    {
+      "name": "Played",
+      "type": "int64"
+    },
+    {
+      "name": "Points",
+      "type": "int64"
+    },
+    {
+      "name": "Wins",
+      "type": "int64"
+    },
+    {
+      "name": "Draws",
+      "type": "int64"
+    },
+    {
+      "name": "Losses",
+      "type": "int64"
+    },
+    {
+      "name": "Goals for",
+      "type": "int64"
+    },
+    {
+      "name": "Goals against",
+      "type": "int64"
+    },
+    {
+      "name": "Goal Difference",
+      "type": "int64"
+    }
+  ]
+}

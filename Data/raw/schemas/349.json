@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Year",
+      "type": "int64"
+    },
+    {
+      "name": "Conservative\r\ncouncillors",
+      "type": "int64"
+    },
+    {
+      "name": "Labour\r\ncouncillors",
+      "type": "int64"
+    },
+    {
+      "name": "Independent\r\ncouncillors",
+      "type": "int64"
+    },
+    {
+      "name": "Liberal\r\ncouncillors",
+      "type": "int64"
+    }
+  ]
+}

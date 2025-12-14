@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Place",
+      "type": "object"
+    },
+    {
+      "name": "Code",
+      "type": "int64"
+    },
+    {
+      "name": "Area (km2)",
+      "type": "object"
+    },
+    {
+      "name": "Population",
+      "type": "object"
+    },
+    {
+      "name": "Most spoken language",
+      "type": "object"
+    }
+  ]
+}

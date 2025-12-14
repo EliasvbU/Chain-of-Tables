@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Squad #",
+      "type": "float64"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Transferred to",
+      "type": "object"
+    },
+    {
+      "name": "Fee",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    }
+  ]
+}

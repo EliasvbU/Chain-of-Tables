@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "1968 CF\r\ndesignator",
+      "type": "object"
+    },
+    {
+      "name": "Place of\r\nmanufacture",
+      "type": "object"
+    },
+    {
+      "name": "Primary\r\nrole(s)",
+      "type": "object"
+    },
+    {
+      "name": "Service\r\nperiod",
+      "type": "object"
+    },
+    {
+      "name": "#\r\nused",
+      "type": "object"
+    }
+  ]
+}

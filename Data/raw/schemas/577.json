@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "First operational",
+      "type": "object"
+    },
+    {
+      "name": "Numeral system",
+      "type": "object"
+    },
+    {
+      "name": "Computing mechanism",
+      "type": "object"
+    },
+    {
+      "name": "Programming",
+      "type": "object"
+    },
+    {
+      "name": "Turing complete",
+      "type": "object"
+    }
+  ]
+}

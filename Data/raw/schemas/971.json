@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "M",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Tournament",
+      "type": "object"
+    },
+    {
+      "name": "Round",
+      "type": "object"
+    },
+    {
+      "name": "Ground",
+      "type": "object"
+    },
+    {
+      "name": "Opponent",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Attendance",
+      "type": "object"
+    },
+    {
+      "name": "Dinamo Scorers",
+      "type": "object"
+    },
+    {
+      "name": "Report",
+      "type": "object"
+    }
+  ]
+}

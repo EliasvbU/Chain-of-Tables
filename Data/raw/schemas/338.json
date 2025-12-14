@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Coordinates",
+      "type": "object"
+    },
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Built",
+      "type": "object"
+    },
+    {
+      "name": "Details",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Alternate Title(s)",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "float64"
+    },
+    {
+      "name": "Manufacturer",
+      "type": "object"
+    },
+    {
+      "name": "Genre(s)",
+      "type": "object"
+    },
+    {
+      "name": "Max. Players",
+      "type": "float64"
+    }
+  ]
+}

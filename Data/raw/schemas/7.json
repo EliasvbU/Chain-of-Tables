@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Film",
+      "type": "object"
+    },
+    {
+      "name": "Gross",
+      "type": "object"
+    },
+    {
+      "name": "Top Ten Places",
+      "type": "object"
+    }
+  ]
+}

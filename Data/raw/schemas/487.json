@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Home team",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Visiting team",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Venue",
+      "type": "object"
+    },
+    {
+      "name": "Door",
+      "type": "object"
+    },
+    {
+      "name": "Surface",
+      "type": "object"
+    }
+  ]
+}

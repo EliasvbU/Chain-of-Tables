@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Years Played",
+      "type": "object"
+    },
+    {
+      "name": "Total W-L",
+      "type": "object"
+    },
+    {
+      "name": "Singles W-L",
+      "type": "object"
+    },
+    {
+      "name": "Doubles W-L",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "name": "Lift Name",
+      "type": "object"
+    },
+    {
+      "name": "Type",
+      "type": "object"
+    },
+    {
+      "name": "Top\r\nelevation\r\n(ft)",
+      "type": "object"
+    },
+    {
+      "name": "Bottom\r\nelevation",
+      "type": "object"
+    },
+    {
+      "name": "Vertical\r\nrise",
+      "type": "object"
+    },
+    {
+      "name": "Length\r\n(ft)",
+      "type": "object"
+    },
+    {
+      "name": "Slope\r\n(%)",
+      "type": "object"
+    },
+    {
+      "name": "Capacity\r\n(rides/hr)",
+      "type": "object"
+    },
+    {
+      "name": "Speed\r\n(ft/min)",
+      "type": "int64"
+    },
+    {
+      "name": "Lift\r\nManufacturer",
+      "type": "object"
+    },
+    {
+      "name": "Year\r\ninstalled",
+      "type": "int64"
+    }
+  ]
+}

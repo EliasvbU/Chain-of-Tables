@@ -1,0 +1,40 @@
+{
+  "columns": [
+    {
+      "name": "Team",
+      "type": "object"
+    },
+    {
+      "name": "Basic elements",
+      "type": "float64"
+    },
+    {
+      "name": "Tumbling",
+      "type": "float64"
+    },
+    {
+      "name": "Stunts",
+      "type": "float64"
+    },
+    {
+      "name": "Tosses",
+      "type": "float64"
+    },
+    {
+      "name": "Pyramids",
+      "type": "float64"
+    },
+    {
+      "name": "Deductions",
+      "type": "int64"
+    },
+    {
+      "name": "Total score",
+      "type": "float64"
+    },
+    {
+      "name": "Result",
+      "type": "object"
+    }
+  ]
+}

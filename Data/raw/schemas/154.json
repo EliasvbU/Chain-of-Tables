@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Player",
+      "type": "object"
+    },
+    {
+      "name": "Matches",
+      "type": "int64"
+    },
+    {
+      "name": "Innings",
+      "type": "int64"
+    },
+    {
+      "name": "Runs",
+      "type": "int64"
+    },
+    {
+      "name": "Average",
+      "type": "float64"
+    },
+    {
+      "name": "100s",
+      "type": "int64"
+    },
+    {
+      "name": "50s",
+      "type": "int64"
+    }
+  ]
+}

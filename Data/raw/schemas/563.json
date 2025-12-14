@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "Abbreviation",
+      "type": "object"
+    },
+    {
+      "name": "Settlement",
+      "type": "object"
+    },
+    {
+      "name": "District",
+      "type": "object"
+    },
+    {
+      "name": "Official Name",
+      "type": "object"
+    },
+    {
+      "name": "Division",
+      "type": "object"
+    },
+    {
+      "name": "Cup",
+      "type": "object"
+    },
+    {
+      "name": "Other information",
+      "type": "object"
+    }
+  ]
+}

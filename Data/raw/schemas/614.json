@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Date announced",
+      "type": "object"
+    },
+    {
+      "name": "Plant name",
+      "type": "object"
+    },
+    {
+      "name": "Location",
+      "type": "object"
+    },
+    {
+      "name": "Date of closing",
+      "type": "object"
+    },
+    {
+      "name": "Products",
+      "type": "object"
+    },
+    {
+      "name": "Employees",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "columns": [
+    {
+      "name": "#",
+      "type": "int64"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Venue",
+      "type": "object"
+    },
+    {
+      "name": "Opponents",
+      "type": "object"
+    },
+    {
+      "name": "Score",
+      "type": "object"
+    },
+    {
+      "name": "Comp",
+      "type": "object"
+    },
+    {
+      "name": "Denmark scorers",
+      "type": "object"
+    }
+  ]
+}

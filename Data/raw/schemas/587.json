@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Drop(s)",
+      "type": "object"
+    },
+    {
+      "name": "Multiplayer Map(s)",
+      "type": "object"
+    },
+    {
+      "name": "Spec Ops Mission(s)",
+      "type": "object"
+    },
+    {
+      "name": "Face Off Map(s)",
+      "type": "object"
+    },
+    {
+      "name": "Xbox 360 release date",
+      "type": "object"
+    },
+    {
+      "name": "PlayStation 3 release date",
+      "type": "object"
+    }
+  ]
+}

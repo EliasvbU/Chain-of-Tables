@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Election year",
+      "type": "int64"
+    },
+    {
+      "name": "# of\r\nconstituency votes",
+      "type": "object"
+    },
+    {
+      "name": "# of\r\nparty list votes",
+      "type": "object"
+    },
+    {
+      "name": "% of\r\nparty list votes",
+      "type": "float64"
+    },
+    {
+      "name": "# of\r\noverall seats won",
+      "type": "object"
+    },
+    {
+      "name": "+/\u2013",
+      "type": "float64"
+    }
+  ]
+}

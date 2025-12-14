@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Draw",
+      "type": "int64"
+    },
+    {
+      "name": "Artist",
+      "type": "object"
+    },
+    {
+      "name": "Song",
+      "type": "object"
+    },
+    {
+      "name": "Points",
+      "type": "int64"
+    },
+    {
+      "name": "Place",
+      "type": "object"
+    }
+  ]
+}

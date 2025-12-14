@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Ep#",
+      "type": "int64"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Broadcast Date",
+      "type": "object"
+    },
+    {
+      "name": "Written by",
+      "type": "object"
+    },
+    {
+      "name": "Directed by",
+      "type": "object"
+    }
+  ]
+}

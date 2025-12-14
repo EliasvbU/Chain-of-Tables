@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Clerk",
+      "type": "object"
+    },
+    {
+      "name": "Started",
+      "type": "int64"
+    },
+    {
+      "name": "Finished",
+      "type": "int64"
+    },
+    {
+      "name": "School (year)",
+      "type": "object"
+    },
+    {
+      "name": "Previous clerkship",
+      "type": "object"
+    }
+  ]
+}

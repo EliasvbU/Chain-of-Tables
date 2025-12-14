@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Stage",
+      "type": "object"
+    },
+    {
+      "name": "Date",
+      "type": "object"
+    },
+    {
+      "name": "Route",
+      "type": "object"
+    },
+    {
+      "name": "Terrain",
+      "type": "object"
+    },
+    {
+      "name": "Length",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "County",
+      "type": "object"
+    },
+    {
+      "name": "km",
+      "type": "int64"
+    },
+    {
+      "name": "Intersecting road",
+      "type": "object"
+    },
+    {
+      "name": "Notes",
+      "type": "object"
+    },
+    {
+      "name": "Coordinates",
+      "type": "object"
+    }
+  ]
+}

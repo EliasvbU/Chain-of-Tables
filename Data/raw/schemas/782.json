@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "name": "State",
+      "type": "object"
+    },
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Entered office",
+      "type": "object"
+    }
+  ]
+}

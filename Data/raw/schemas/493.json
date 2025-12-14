@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Term (French)",
+      "type": "object"
+    },
+    {
+      "name": "Description",
+      "type": "object"
+    },
+    {
+      "name": "Temperature range",
+      "type": "object"
+    },
+    {
+      "name": "Temperature range.1",
+      "type": "object"
+    },
+    {
+      "name": "USDA recommended",
+      "type": "object"
+    }
+  ]
+}

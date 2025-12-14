@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "University",
+      "type": "object"
+    },
+    {
+      "name": "Winner",
+      "type": "int64"
+    },
+    {
+      "name": "Runner-Up",
+      "type": "int64"
+    },
+    {
+      "name": "Years Won",
+      "type": "object"
+    },
+    {
+      "name": "Years Runner-up",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Election",
+      "type": "object"
+    },
+    {
+      "name": "Name of the party/alliance",
+      "type": "object"
+    },
+    {
+      "name": "Number of votes",
+      "type": "object"
+    },
+    {
+      "name": "Percentage",
+      "type": "object"
+    },
+    {
+      "name": "Seats in the parliament",
+      "type": "object"
+    }
+  ]
+}

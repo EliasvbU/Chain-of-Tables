@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Year inducted",
+      "type": "int64"
+    },
+    {
+      "name": "Position",
+      "type": "object"
+    },
+    {
+      "name": "Apps",
+      "type": "int64"
+    },
+    {
+      "name": "Goals",
+      "type": "int64"
+    }
+  ]
+}

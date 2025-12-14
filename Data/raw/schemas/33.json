@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "name": "Number",
+      "type": "int64"
+    },
+    {
+      "name": "Name",
+      "type": "object"
+    },
+    {
+      "name": "Year Built",
+      "type": "float64"
+    },
+    {
+      "name": "Boat Builder",
+      "type": "object"
+    },
+    {
+      "name": "Current Status",
+      "type": "object"
+    }
+  ]
+}

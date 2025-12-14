@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "Title",
+      "type": "object"
+    },
+    {
+      "name": "Year",
+      "type": "float64"
+    },
+    {
+      "name": "Peak chart positions\r\nUS",
+      "type": "object"
+    },
+    {
+      "name": "Peak chart positions\r\nUS\r\nR&B",
+      "type": "object"
+    },
+    {
+      "name": "Peak chart positions\r\nUS\r\nRap",
+      "type": "object"
+    },
+    {
+      "name": "Album",
+      "type": "object"
+    }
+  ]
+}
