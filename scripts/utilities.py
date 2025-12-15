@@ -1,12 +1,8 @@
-def find_compatible_table(base_table_id, schemas, min_schema_overlap=0.5):
-    """
-    Dummy function to find a compatible table based on schema overlap.
-    Replace with your actual logic for multi-table selection.
-    """
-    for table_id, schema in schemas.items():
-        if table_id != base_table_id:
-            # Example logic: randomly accept some table
-            import random
-            if random.random() > 0.5:
-                return table_id
-    return None
+def schema_overlap(schema_a, schema_b):
+    if not schema_a or not schema_b:
+        return 0.0
+
+    set_a = set(schema_a)
+    set_b = set(schema_b)
+
+    return len(set_a & set_b) / len(set_a)

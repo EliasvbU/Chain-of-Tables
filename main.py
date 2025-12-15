@@ -1,52 +1,58 @@
-import os
 import csv
-from scripts.load_schemas import load_schemas
-from scripts.build_multitable_datasets import build_multitable_dataset
-from scripts.save_json import save_json
+import os
+import json
+import random
+from scripts.load_wtq import load_wtq
+from scripts.build_multitable_pairs import build_multitable_dataset
 
-def load_wtq(tsv_path):
-    """
-    Load WikiTableQuestions TSV file into a list of examples.
-    Each example is a dict with id, question, table_id, and answer.
-    """
-    examples = []
-    if not os.path.exists(tsv_path):
-        raise FileNotFoundError(f"{tsv_path} not found. Make sure the file exists.")
 
-    with open(tsv_path, newline='', encoding="utf-8") as f:
-        reader = csv.DictReader(f, delimiter='\t')
-        for row in reader:
-            examples.append({
-                "id": row.get("id", ""),
-                "question": row.get("question", ""),
-                "table_id": row.get("table_id", ""),
-                "answer": row.get("answer", None)
-            })
-    return examples
+
+# --------------------------------------------------
+# Save JSON
+# --------------------------------------------------
+def save_json(data, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+# --------------------------------------------------
+# MAIN
+# --------------------------------------------------
+DATA_DIR = "Data"
 
 def main():
-    print("=== Chain-of-Tables Pipeline ===")
+    print("=== Chain-of-Tables: Dataset Construction ===")
 
-    # 1️⃣ Load WikiTableQuestions
+    # 1. Load WTQ
     wtq_tsv = "Data/raw/data/training.tsv"
-    print("[1] Loading WikiTableQuestions...")
     wtq_examples = load_wtq(wtq_tsv)
-    print(f"Loaded {len(wtq_examples)} examples.")
+    print(f"Loaded {len(wtq_examples)} examples")
 
-    # 2️⃣ Load schemas
-    print("[2] Loading table schemas...")
-    schemas = load_schemas()
-    print(f"Loaded {len(schemas)} table schemas.")
+    # 2. Load schemas
+    with open("Data/processed/schemas.json", "r") as f:
+        schemas = json.load(f)
+    print(f"Loaded schemas for {len(schemas)} tables")
 
-    # 3️⃣ Build multi-table dataset
-    print("[3] Building multi-table dataset...")
-    multitable_data = build_multitable_dataset(wtq_examples, schemas, tables_per_example=2)
-    print(f"Built {len(multitable_data)} multi-table examples.")
+    # 3. Build multi-table dataset
+    multitable = build_multitable_dataset(
+        wtq_examples,
+        schemas,
+        2,
+        0.5
+    )
 
-    # 4️⃣ Save to JSON
-    print("[4] Saving dataset to JSON...")
-    save_json(multitable_data)
-    print("Done! Dataset saved to data/processed/multitable_dataset.json")
+    print(f"Created {len(multitable)} multi-table examples")
+
+    # 4. Save
+    out_path = "Data/processed/multitable_2tables.json"
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(multitable, f, indent=2)
+
+    print("Done.")
+    print("Example:")
+    print(multitable[0])
+
 
 if __name__ == "__main__":
     main()
