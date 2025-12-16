@@ -3,7 +3,7 @@ import os
 import json
 import random
 from scripts.load_wtq import load_wtq
-from scripts.build_multitable_pairs import build_multitable_dataset
+from scripts.build_multitable_dataset import build_multitable_dataset
 
 
 
@@ -39,7 +39,7 @@ def main():
         wtq_examples,
         schemas,
         2,
-        0.5
+        0.0
     )
 
     print(f"Created {len(multitable)} multi-table examples")
