@@ -1,0 +1,10 @@
+No,Peak,Location,Elevation (m),Prominence (m),Col height (m),Col location,Parent
+1,Mont Blanc,France/ Italy,"4,810","4,697",113,near Lake Kubenskoye,Everest
+2,Großglockner,Austria,"3,798","2,423",1375,Brenner Pass,Mont Blanc
+3,Finsteraarhorn,Switzerland,"4,274","2,280",1994,near Simplon Pass,Mont Blanc
+4,Wildspitze,Austria,"3,768","2,261",1507,Reschen Pass,Finsteraarhorn1 / MB2
+5,Piz Bernina,Switzerland,"4,049","2,234",1815,Maloja Pass,Finsteraarhorn1 / MB2
+6,Hochkönig,Austria,"2,941","2,181",760,near Maishofen,Großglockner1 / MB2
+7,Monte Rosa,Switzerland,"4,634","2,165",2469,Great St Bernard Pass,Mont Blanc
+8,Hoher Dachstein,Austria,"2,995","2,136",859,Eben im Pongau,Großglockner1 / MB2
+9,Marmolada,Italy,"3,343","2,131",1212,Toblach,Großglockner1 / MB2

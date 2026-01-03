@@ -1,0 +1,6 @@
+Species,Common Name,NCBI Accession #,NCBI Name,Length,Sequence Identity,Sequence Similarity,Years Since Divergence from Human (mya)
+Pan troglodytes,Chimpanzee,XP_003317262,DEPDC5,1572 aa,99%,99%,6.4
+Nomascus leucogenys,Gibbon,XP_003258163,DEPDC5,1602 aa,99%,99%,20.4
+Mus musculus,Mouse,NP_001164038,DEPDC5,1591 aa,94%,96%,92.4
+Bos Taurus,Cow,XP_002694678,DEPDC5,1593 aa,94%,96%,94.4
+Sorex araneus,Shrew,ACE77702,DEPDC5,1570 aa,94%,96%,94.4

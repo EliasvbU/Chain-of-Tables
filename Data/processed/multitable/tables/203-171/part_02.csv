@@ -1,0 +1,6 @@
+Place(Posición),Team(Equipo),Played(PJ),Won(PG),Draw(PE),Lost(PP),Goals Scored(GF),Goals Conceded(GC),+/-(Dif.),Points(Pts.)
+6.,Plaza Amador,13,4,7,2,13,9,+4,19
+7.,Chorrillo F.C.,13,3,7,3,14,13,+1,16
+8.,Atlético Chiriquí,13,4,3,6,14,22,-8,15
+9.,Atlético Veragüense,13,2,5,6,15,28,-13,11
+10.,Alianza,13,3,1,9,25,27,-2,10

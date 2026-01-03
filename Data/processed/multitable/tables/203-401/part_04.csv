@@ -1,0 +1,10 @@
+MAINLAND,Area(sq miles),Area(km²),Population(2011),Density(per km²)
+West Dunbartonshire,68,176,"90,700",515
+West Lothian,165,427,"175,100",410
+TOTAL MAINLAND,"28,260","73,193","5,223,100",71
+ISLANDS,,,,
+Na h-Eileanan Siar,"1,185","3,070","27,700",8
+Orkney Islands,396,"1,025","21,400",21
+Shetland Islands,568,"1,471","23,200",15
+TOTAL ISLANDS,"2,149","5,566","72,300",13
+TOTAL SCOTLAND,"30,409","78,759","5,295,400",67

@@ -1,0 +1,11 @@
+Year,IBM Model Number,Name,Processor,Bus,HD Interface,Case,Notes
+1987,8525-K02,Model 25 Collegiate,8 MHz Intel 8086,ISA 8 bit,,Desktop with integrated Monochrome display,"Two disk drives, enhanced keyboard"
+1987,8525-K05,Model 25 Collegiate,8 MHz Intel 8086,ISA 8 bit,,Desktop with integrated Color display,"Two disk drives, enhanced keyboard"
+1990,8525-006,Model 25 286,10 MHz Intel 286,ISA 16 bit,,Desktop with integrated Color display,Single HD disk drive
+1990,8525-036,Model 25 286,10 MHz Intel 286,ISA 16 bit,"ST-506, 30MB drive",Desktop with integrated Color display,Single HD disk drive
+1990,8525-G06,Model 25 286,10 MHz Intel 286,ISA 16 bit,,Desktop with integrated Color display,"Single HD disk drive, enhanced keyboard"
+1990,8525-G36,Model 25 286,10 MHz Intel 286,ISA 16 bit,"ST-506, 30MB drive",Desktop with integrated Color display,"Single HD disk drive, enhanced keyboard"
+1992,8525-K00,Model 25 SX,16 MHz Intel 386 SX,ISA 16 bit,,Desktop with integrated Color display,Single HD disk drive
+1992,8525-K01,Model 25 SX,16 MHz Intel 386 SX,ISA 16 bit,,Desktop with integrated Color display,"Single HD disk drive, Ethernet network adapter"
+1992,8525-L02,Model 25 SX,16 MHz Intel 386 SX,ISA 16 bit,,Desktop with integrated Color display,"Single HD disk drive, Token-ring network adapter"
+1989,8530-001,Model 30,8 MHz Intel 8086,ISA 8 bit,,Desktop,Single disk drive

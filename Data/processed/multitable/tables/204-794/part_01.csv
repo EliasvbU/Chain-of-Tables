@@ -1,0 +1,8 @@
+IECWorld PlugsType1,Standard,Powerrating,Earthed,Polarised,Fused,Insulatedpins,EuroplugCompatible
+A,NEMA 1-15 unpolarised,15 A/125 V,No,No,No,No,No
+A,NEMA 1-15 polarised,15 A/125 V,No,Yes,No,No,No
+A,"JIS C 8303, Class II",15 A/100 V,No,No,No,No,No
+B,NEMA 5-15,15 A/125 V,Yes*,Yes,No,No,No
+B,NEMA 5-20,20 A/125 V,Yes*,Yes,No,No,No
+B,"JIS C 8303, Class I",15 A/100 V,Yes*,Yes,No,No,No
+C,CEE 7/16 (Europlug),2.5 A/250 V,No,No,No,Yes,Yes

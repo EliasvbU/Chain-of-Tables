@@ -1,0 +1,9 @@
+Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage
+Ray,genomes,"Illumina, mix of Illumina and 454, paired or not","Sébastien Boisvert, François Laviolette & Jacques Corbeil.",2010,OS [GNU General Public License],link
+Sequencher,genomes,traditional and next generation sequence data,Gene Codes Corporation,1991 / 2009 / 2011,C,link
+SeqMan NGen,"(large) genomes, exomes, transcriptomes, metagenomes, ESTs","Illumina, ABI SOLiD, Roche 454, Ion Torrent, Solexa, Sanger",DNASTAR,2007 / 2011,C,link
+SGA,(large) genomes,"Illumina, Sanger (Roche 454?, Ion Torrent?)","Simpson, J.T. et al.",2011 / 2012,OS,link
+SHARCGS,(small) genomes,Solexa,Dohm et al.,2007 / 2007,OS,link
+SOPRA,genomes,"Illumina, SOLiD, Sanger, 454","Dayarian, A. et al.",2010 / 2011,OS,link
+SparseAssembler,(large) genomes,"Illumina, 454, Ion torrent","Ye, C. et al.",2012 / 2012,OS,link
+SSAKE,(small) genomes,Solexa (SOLiD? Helicos?),"Warren, R. et al.",2007 / 2007,OS,link

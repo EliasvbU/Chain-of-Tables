@@ -1,0 +1,12 @@
+Payload type (PT),Name,Type,No. of channels,Clock rate (Hz),Frame size (ms),Default packet size (ms),Description,References
+31,H261,video,1,90000,,,ITU-T H.261 Video,RFC 4587
+32,MPV,video,1,90000,,,MPEG-1 and MPEG-2 Video,RFC 2250
+33,MP2T,audio/video,1,90000,,,MPEG-2 transport stream Video,RFC 2250
+34,H263,video,,90000,,,"H.263 video, first version (1996)","RFC 3551, RFC 2190"
+35 - 71,unassigned,,,,,,,"RFC 3551, Page 32"
+72 - 76,Reserved for RTCP conflict avoidance,N/A,,N/A,,,,"RFC 3551, Page 32"
+77 - 95,unassigned,,,,,,,"RFC 3551, Page 32"
+dynamic,H263-1998,video,,90000,,,"H.263 video, second version (1998)","RFC 3551, RFC 4629, RFC 2190"
+dynamic,H263-2000,video,,90000,,,"H.263 video, third version (2000)",RFC 4629
+dynamic (or profile),H264,video,,90000,,,H.264 video (MPEG-4 Part 10),"RFC 6184, previously RFC 3984"
+dynamic (or profile),theora,video,,90000,,,Theora video,draft-barbato-avt-rtp-theora-01

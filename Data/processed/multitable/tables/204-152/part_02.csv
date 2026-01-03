@@ -1,0 +1,8 @@
+Device,Type,IOPS,Interface,Notes
+Texas Memory Systems RamSan-20,SSD,"120,000+ Random Read/Write IOPS",PCIe,Includes RAM cache
+Fusion-io ioDrive,SSD,"140,000 Read IOPS, 135,000 Write IOPS",PCIe,
+Virident Systems tachIOn,SSD,"320,000 sustained READ IOPS using 4KB blocks and 200,000 sustained WRITE IOPS using 4KB blocks",PCIe,
+OCZ RevoDrive 3 X2,SSD,"200,000 Random Write 4K IOPS",PCIe,
+Fusion-io ioDrive Duo,SSD,"250,000+ IOPS",PCIe,
+Violin Memory Violin 3200,SSD,"250,000+ Random Read/Write IOPS",PCIe /FC/Infiniband/iSCSI,Flash Memory Array
+"WHIPTAIL, ACCELA",SSD,"250,000/200,000+ Write/Read IOPS","Fibre Channel, iSCSI, Infiniband/SRP, NFS, CIFS",Flash Based Storage Array

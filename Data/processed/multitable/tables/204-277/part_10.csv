@@ -1,0 +1,12 @@
+Region,Country,Location,Size (m),Payload (metric tonnes),Degrees of Freedom,X Horiz Disp (mm),Y Horiz Disp (mm),Z Vert Disp (mm),X Horiz Vel (mm/s),Y Horiz vel (mm/s),Z Vert vel (mm/s),X Horiz accel (m/s2),Y Horiz accel (m/s2),Z Vert accel (m/s2),Max Freq (Hz),Details checked
+USA,Connecticut,University of Connecticut,1.5 x 1.5,1,1,±150,n/a,n/a,?,n/a,n/a,±20,n/a,n/a,50,8/5/2008
+USA,Illinois,University of Illinois at Urbana / Champaign,3.7 x 3.7,5,1,±50,?,?,±381,?,?,±30,?,?,50,?
+USA,New York,University at Buffalo (State University of New York) (2 identical tables of 3),3.6 x 3.6,50,6,±150,±150,±75,±1250,±1250,±500,±12,±12,±12,100,12/3/2008
+USA,New York,University at Buffalo (State University of New York) (3 of 3),3.7 x 3.7,50,5,±150,n/a,±75,±762,n/a,±500,±12,n/a,±23,50,12/3/2008
+USA,New York,Rensselaer Polytechnic Institute,1.7 x 2.6,5,1,±130,n/a,n/a,±270,n/a,n/a,±20,n/a,n/a,50,8/5/2008
+USA,Nevada,University of Nevada at Reno (3 identical biaxial tables),4.3 x 4.5,45,2,±300,±300,n/a,±1270,±1270,n/a,±20,±20,n/a,50,8/2/2010
+USA,Nevada,University of Nevada at Reno (6 axis table),2.75 x 2.75,50,6,±75,±300,±100,?,?,?,±20,±40,±10,50,13/3/2008
+USA,Nevada,Dynamic Certification Laboratories,2.0 diameter,4.5,6,±140,±120,±150,±1000,±1000,±1200,±98,±98,±108,100,17/7/2012
+USA,Texas,Rice University,0.465m²,7,1,±75,n/a,n/a,±1400,n/a,n/a,±20,n/a,n/a,50,8/5/2008
+USA,USA,Civil Engineering Research Lab U.S. Army,3.6 x 3.6,45,3,±300,?,?,±1300,?,?,?,?,?,250,?
+USA,Virginia,The George Washington University - Virginia Campus,3 x 3,?,6,?,?,?,?,?,?,?,?,?,?,?

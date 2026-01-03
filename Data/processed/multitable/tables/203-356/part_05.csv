@@ -1,0 +1,9 @@
+Type,Diagonal (mm),Width (mm),Height (mm),Area (mm2),Stops (area),Crop factor
+Leica S,54,45,30,1350,+0.64,0.80
+Pentax 645D,55,44,33,1452,+0.75,0.78
+Standard 65mm film frame,57.30,52.48,23.01,1208,+0.81,0.76
+Kodak KAF 39000 CCD,61.30,49,36.80,1803,+1.06,0.71
+Leaf AFi 10,66.57,56,36,2016,+1.22,0.65
+Medium-format (Hasselblad H5D-60),67.08,53.7,40.2,2159,+1.26,0.65
+"Phase One P 65+, IQ160, IQ180",67.40,53.90,40.40,2178,+1.33,0.64
+IMAX film frame,87.91,70.41,52.63,3706,+2.05,0.49

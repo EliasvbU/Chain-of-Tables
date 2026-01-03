@@ -1,0 +1,57 @@
+City served / Location,ICAO,IATA,Airport name,Usage
+Agen / La Garenne,LFBA,AGF,Agen - La Garenne Aerodrome,Public
+Fumel / Montayral,LFDX,,Fumel - Montayral Airport,Public
+Marmande / Virazeil,LFDM,,Marmande - Virazeil Airport,Public
+Villeneuve-sur-Lot,LFCW,,Villeneuve-sur-Lot Airport,Public
+48: Lozère,,,,
+Mende / Brenoux,LFNB,MEN,Mende - Brenoux Airport,Public
+Florac / Sainte-Enimie,LFNO,,Florac - Sainte-Enimie Aerodrome,Restricted
+49: Maine-et-Loire,,,,
+Angers / Avrillé,LFRA,,Angers - Avrillé Aerodrome,
+Angers / Marcé,LFJR,ANE,Angers - Loire Airport (Angers - Marcé Airport),Public
+Châteaubriant / Pouancé,LFTQ,,Châteaubriant - Pouancé Aerodrome,Restricted
+Cholet / Le Pontreau,LFOU,CET,Cholet - Le Pontreau Aerodrome (UAF),Public
+Saumur / Saint-Florent,LFOD,XSU,Saumur - Saint-Hilaire - Saint-Florent Aerodrome (UAF),Public
+50: Manche,,,,
+Avranches / Le Val-Saint-Père,LFRW,,Avranches - Le Val-Saint-Père Aerodrome,Restricted
+Cherbourg / Maupertus,LFRC,CER,Cherbourg - Maupertus Airport,Public
+Granville / Mont Saint-Michel,LFRF,GFR,Granville - Mont Saint-Michel Aerodrome (UAF),Public
+Lessay,LFOM,,Lessay Airport,Public
+Vauville,LFAU,,Vauville Aerodrome,Restricted
+51: Marne,,,,
+Châlons / Écury-sur-Coole,LFQK,,Châlons - Écury-sur-Coole Airport,Public
+Châlons / Vatry,LFOK,XCR,Châlons Vatry Airport,Public
+Épernay / Plivot,LFSW,XEP,Épernay - Plivot Airport,Public
+Marigny / Le Grand,LFYM,,Marigny - Le Grand Airport,
+Mourmelon,LFXM,,Mourmelon Aerodrome,
+Reims / Champagne,LFSR,RHE,Reims - Champagne Aerodrome (BA 112),Public/Mil.
+Reims / Prunay,LFQA,,Reims - Prunay Aerodrome,Public
+Sézanne / Saint-Remy,LFFZ,,Sézanne - Saint-Remy Airport,Public
+Vitry-le-François / Vauclerc,LFSK,,Vitry-le-François - Vauclerc Airport,Public
+52: Haute-Marne,,,,
+Chaumont / La Vendue,LFSY,,Chaumont - La Vendue Aerodrome,
+Chaumont / Semoutiers,LFJA,XCW,Chaumont - Semoutiers Airport (UAF),Government
+Joinville / Mussey,LFFJ,,Joinville - Mussey Aerodrome,Restricted
+Langres / Rolampont,LFSU,,Langres - Rolampont Airport,Public
+Saint-Dizier / Robinson,LFSI,,Saint-Dizier - Robinson Air Base (BA 113),Military
+53: Mayenne,,,,
+Laval / Entrammes,LFOV,LVA,Laval - Entrammes Airport (UAF),Public
+54: Meurthe-et-Moselle,,,,
+Doncourt-lès-Conflans,LFGR,,Doncourt-lès-Conflans Airport,Public
+Longuyon / Villette,LFGS,,Longuyon - Villette Airport,Public
+Lunéville / Croismare,LFQC,,Lunéville - Croismare Airport,Public
+Nancy / Azelot,LFEX,,Nancy - Azelot Aerodrome,Restricted
+Nancy / Essey,LFSN,ENC,Nancy - Essey Airport,Public
+Nancy / Malzéville,LFEZ,,Nancy - Malzéville Aerodrome,Restricted
+Nancy / Ochey,LFSO,,Nancy - Ochey Air Base (BA 133),Military
+Pont-Saint-Vincent,LFSV,,Pont-Saint-Vincent Aerodrome,Restricted
+Toul / Rosières,LFSL,,Toul-Rosières Air Base (BA 136),Military
+Villerupt,LFAW,,Villerupt Aerodrome,Restricted
+55: Meuse,,,,
+Bar-le-Duc / Les Hauts-de-Chée,LFEU,XBD,Bar-le-Duc - Les Hauts-de-Chée Airport,Public
+Étain / Rouvres,LFQE,,Étain - Rouvres Air Base,
+Montmédy / Marville,LFYK,,Montmédy - Marville Airport,
+Verdun / Le Rozelier,LFGW,XVN,Verdun - Le Rozelier Airport,Public
+56: Morbihan,,,,
+Belle Île (Le Palais),LFEA,,Belle-Île Aerodrome (UAF),Public
+Coëtquidan (Guer),LFXQ,,Coëtquidan Air Base,Military

@@ -1,0 +1,14 @@
+Launch Date,STS Number,Payload Name,Payload Classification,ExperimentName,Payload Carrier Hardware
+01/12/86,24 (61-C),HHG-1,Hitchhiker,Particle Analysis Cameras fortheShuttle (PACS)Capillary PumpLoop (CPL),Hitchhiker Bridge
+01/12/86,24 (61-C),GBA-1,GAS Bridge Assembly-1,G-007G-062G-310G-332G-446G-449G-462G-463G-464G-470G-481G-494,GAS Assembly Bridge (GBA)
+08/08/89,28,G-335G-341,GAS,G-335G-341,Adapter Beam
+10/18/89,34,Shuttle Solar Background Ultraviolet (SSBUV-01),Adapter Beam,Shuttle Solar BackgroundUltraviolet(SSBUV),Adapter Beam
+12/02/90,35,Broad Band X-Ray Telescope (BBXRT),HH,Broad Band X-Ray Telescope(BBXRT),Adapter Beam
+04/28/91,39,"<acronym title=\Multi- Purpose Experiment Canister\"">MPEC</acronym>-01""",CAP,Multi- Purpose Experiment Canister(MPEC),Adapter Beam
+04/28/91,39,"<acronym title=\Space Test Payload\"">Space",,,
+"Test Payload (STP)-1</acronym>""",HH,"Advanced LiquidFeed Experiment (ALFE), <acronym title=\McDonnell Douglas Astronautics Company\"">MDAC</acronym>-<acronym title=\""mission-dependent equipment\"">MDE</acronym>/<acronym title=\""Air Force Astronautics Laboratory\"">AFAL</acronym>",,,
+Data Systems Experiment (DSE)," <acronym title=\""National Aeronautics and Space Administration\"">NASA</acronym><acronym title=\""Goddard Space Flight Center\"">GSFC</acronym>",,,,
+Spacecraft Kinetic Infrared Test,,,,,
+(SKIRT) -Circular Variable Filter,,,,,
+(CVF) / GLOS,,,,,
+Ultraviolet Limb Imaging Experiment (UVLIMB)," <acronym title=\""Naval Research Laboratory\"">",,,,

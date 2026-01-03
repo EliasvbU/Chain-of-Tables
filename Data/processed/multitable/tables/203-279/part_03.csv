@@ -1,0 +1,7 @@
+Interferometer and observing mode,Waveband,Limiting magnitude,Minimum baseline (m)(un-projected),Maximum baseline (m),Approx. no. visibility measurements per year(measurements per night x nights used per year),"Max ratio of no. phase / no. amplitude measurements(measure of imaging performance, 0 = none)",Accuracy of amplitude2 measurements,Accuracy of phase measurements(milli-radians),Number of spectral channels(max in use simultaneously),Comments
+VLTI+UTs AMBER,"J, H, K simultaneously",7,46,130,400,0.3,1%,10,2000,Used for a few weeks per year. Longest overall VLTI Baseline 130m
+VLTI+ATs AMBER,"J, H, K simultaneously",4,46,130,400,0.3,1%,10,2000,Longest overall VLTI Baseline 130m
+VLTI+UTs VINCI,K,11,46,130,400,0,>1%,-,1,Integrated optics beam combiner. Longest overall VLTI Baseline 130m
+VLTI+ATs VINCI,K,Never checked,12,200,400,0,>1%,-,1,Longest overall VLTI Baseline 130m
+VLTI+UTs MIDI,N,4.5,46,130,200,0,10%,-,250,Used for a few weeks per year. Longest overall VLTI Baseline 130m
+VLTI+ATs MIDI,N,4.5,?,200,200,0,10%,-,250,"VLTI inldes World's largest unfilled apertures (siderostats, 1.8-m, 8-m). Longest overall VLTI Baseline 130m"

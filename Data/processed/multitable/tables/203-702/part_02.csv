@@ -1,0 +1,10 @@
+Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage
+DNA Dragon,genomes,"Illumina, SOLiD, Complete Genomics, 454, Sanger",SequentiX,2011,C,link
+DNAnexus,genomes,"Illumina, SOLiD, Complete Genomics",DNAnexus,2011,C,link
+Edena,genomes,Illumina,"D. Hernandez, P. François, L. Farinelli, M. Osteras, and J. Schrenzel.",2008/2013,OS,link
+Euler,genomes,"Sanger, 454 (,Solexa ?)","Pevzner, P. et al.",2001 / 2006?,(C / NC-A?),link
+Euler-sr,genomes,"454, Solexa","Chaisson, MJ. et al.",2008,NC-A,link
+Forge,"(large) genomes, EST, metagenomes","454, Solexa, SOLID, Sanger","Platt, DM, Evers, D.",2010,OS,link
+Geneious,genomes,"Sanger, 454, Solexa, Ion Torrent, Complete Genomics, PacBio, Oxford Nanopore, Illumina",Biomatters Ltd,2009 / 2013,C,link
+Graph Constructor,(large) genomes,"Sanger, 454, Solexa, SOLiD",Convey Computer Corporation,2011,C,link
+IDBA (Iterative De Bruijn graph short read Assembler),(large) genomes,"Sanger,454,Solexa","Yu Peng, Henry C. M. Leung, Siu-Ming Yiu, Francis Y. L. Chin",2010,(C / NC-A?),link

@@ -1,0 +1,13 @@
+Region,Country,Location,Size (m),Payload (metric tonnes),Degrees of Freedom,X Horiz Disp (mm),Y Horiz Disp (mm),Z Vert Disp (mm),X Horiz Vel (mm/s),Y Horiz vel (mm/s),Z Vert vel (mm/s),X Horiz accel (m/s2),Y Horiz accel (m/s2),Z Vert accel (m/s2),Max Freq (Hz),Details checked
+Europe,Italy,European Centre for Training & Research in Earthquake Engineering (EUCENTRE)  - Bearing Testing System,1.6 x 4.4,5000 (vertical load),5,±500,±265,140,±2200,±600,±250,18,-,-,20,-
+Europe,Italy,European Centre for Training & Research in Earthquake Engineering (EUCENTRE)  - Damper Testing System,1.5 x 2,50,1,±250,-,-,±1180,-,-,10,-,-,20,-
+Europe,Macedonia,"Institute of Earthquake Engineering and Engineering Seismology (IZIIS), University of SS. Cyril and Methodius in Skopje (1 of 2)",5 x 5,40,5,n/a,±125,±60,n/a,±1000,±500,n/a,±30,±15,80,20/9/2011
+Europe,Macedonia,"Institute of Earthquake Engineering and Engineering Seismology (IZIIS), University of SS. Cyril and Methodius in Skopje (2 of 2)",1.4 x 2.5,8,1,±100,n/a,n/a,?,n/a,n/a,±20,n/a,n/a,80,7/7/2008
+Europe,The Netherlands,European Space Agency (ESA) ESTEC Test Centre,5.5 x 5.5,22.5,6,±70,±70,±70,±800,±800,±800,±50,±50,±50,2-100,23/7/2008
+Europe,Portugal,Laboratorio Nacional de Engenharia Civil (LNEC),5.6 x 5.6,40,3,±175,±175,±175,±200,±200,±200,±18,±11,±6,20,?
+Europe,Russia,Hydroproject Research Institute,5 x 5,50,3,±70,±70,±40,±600,?,?,±20,±20,?,40,?
+Europe,Spain,CEDEX,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+Europe,Turkey,Bogazici University (1 of 2),3 x 3,10,1,±120,n/a,n/a,±650,n/a,n/a,±20,n/a,n/a,50,3/3/2008
+Europe,Turkey,Bogazici University (2 of 2),0.7 x 0.7,0.1,3,±120,±120,±120,±1200,±1200,±1200,±100,±100,±100,40,3/3/2008
+Europe,Turkey,Middle East Technical University,2 x 1,?,?,?,?,?,?,?,?,?,?,?,?,?
+Europe,UK,University of Bristol (EERC),3 x 3,17,6,±150,±150,±150,±1100,±1100,±1100,±60,±60,±60,100,29/2/2008

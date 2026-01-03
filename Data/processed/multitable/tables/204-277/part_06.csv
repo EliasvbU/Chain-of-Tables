@@ -1,0 +1,13 @@
+Region,Country,Location,Size (m),Payload (metric tonnes),Degrees of Freedom,X Horiz Disp (mm),Y Horiz Disp (mm),Z Vert Disp (mm),X Horiz Vel (mm/s),Y Horiz vel (mm/s),Z Vert vel (mm/s),X Horiz accel (m/s2),Y Horiz accel (m/s2),Z Vert accel (m/s2),Max Freq (Hz),Details checked
+Asia,Korea,Hyundai Institute of Construction Technology Development (1 of 2),2 x 2,5,2,±75,±75,n/a,±500,±500,n/a,±10,±10,n/a,?,5/2/2009
+Asia,Korea,Hyundai Institute of Construction Technology Development (2 of 2),5 x 3,30,1,±100,n/a,n/a,±500,n/a,n/a,±10,n/a,n/a,?,5/2/2009
+Asia,Korea,Korea Institute of Machinery and Metals,4 x 4,30,6,±200,±200,±134,±750,±750,±500,±15,±15,±10,50,?
+Asia,Korea,Pusan National University (1 of 3),5 x 5,300,2,±300,±200,n/a,±1000,±1000,n/a,±20,±20,n/a,60,24/7/2008
+Asia,Korea,Pusan National University (2 of 3),5 x 5,600,2,±300,±200,n/a,±1000,±1000,n/a,±30,±30,n/a,60,24/7/2008
+Asia,Korea,Pusan National University (3 of 3),4 x 4,300,6,±300,±200,±150,±1500,±1500,±1000,±20,±20,±40,60,24/7/2008
+Asia,Malaysia,Sabah University,1.5 x 1.5,?,?,?,?,?,?,?,?,?,?,?,?,?
+Asia,Taiwan,National Center for Research in Earthquake Engineering,5 x 5,50,6,±250,±100,±100,±1000,±600,±500,±10,±30,±10,50,12/3/2008
+Australia,Australia,University of Melbourne,2 x 2,3,?,?,?,?,?,?,?,?,?,?,?,?
+Australia,Australia,"University of Technology, Sydney",3 x 3,10,1,?,?,?,?,?,?,?,?,?,50,15/12/2009
+Canada,Canada,Royal Military College,2.7 x 2.7,5,1,?,?,?,?,?,?,?,?,?,?,?
+Canada,Canada,University of British Columbia (EERF Lab),4 x 4,30,6,?,?,?,?,?,?,?,?,?,?,?

@@ -1,0 +1,11 @@
+Rank,Hospital,City,County,# Beds,Type of Hospital
+12,VA Palo Alto Health Care System,Palo Alto,Santa Clara,967,Veteran Admin
+13,Cedars-Sinai Medical Center,West Hollywood,Los Angeles,952,General Acute Care
+14,Loma Linda University Medica Center,Loma Linda,San Bernardino,822,University/Teaching
+15,UCLA Medical Center,Los Angeles,Los Angeles,668,General Acute Care
+16,Kaweah Delta Regional Medical Center,Visalia,Tulare,629,General Acute Care
+17,Naval Medical Center,San Diego,San Diego,620,Military
+18,UCSD Medical Center,San Diego,San Diego,594,University/Teaching
+19,UCSF Medical Center Mount Zion,San Francisco,San Francisco,579,General Acute Care
+20,UCD Medical Center,Sacramento,Sacramento,577,University/Teaching
+21,California Pacific/Calif Campus,San Francisco,San Francisco,572,General Acute Care

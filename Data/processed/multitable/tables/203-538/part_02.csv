@@ -1,0 +1,7 @@
+Flight,Date,Payload nickname,Payload,Orbit,Result
+F6,"November 27, 1997",,TRMM (Tropical Rainfall Measuring Mission),LEO,Success
+F6,"November 27, 1997",Kiku 7 (Orihime & Hikoboshi),ETS-VII (Engineering Test Satellite-VII),LEO,Success
+F5,"February 21, 1998",Kakehashi,COMETS (Communications and Broadcasting Engineering Test Satellites),GEO,Partial failure
+F8,"November 15, 1999",,MTSAT (Multi-functional Transport Satellite),GEO,Failure
+F7,Canceled,Midori II,ADEOS-II (Advanced Earth Observing Satellite II),,Canceled
+F7,Canceled,,μ-LabSat,,Canceled

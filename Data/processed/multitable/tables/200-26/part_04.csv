@@ -1,0 +1,57 @@
+City served / Location,ICAO,IATA,Airport name,Usage
+Morlaix / Ploujean,LFRU,MXN,Morlaix - Ploujean Airport,Public
+Ushant,LFEC,,Ouessant Airport,Public
+Quimper / Pluguffan,LFRQ,UIP,Quimper - Cornouaille Airport,Public
+30: Gard,,,,
+Alès / Deaux,LFMS,,Alès - Deaux Airport,Public
+Avignon / Pujaut,LFNT,,Avignon - Pujaut Aerodrome (UAF),Restricted
+La Grand-Combe,LFTN,,La Grand-Combe Aerodrome,Restricted
+Nîmes / Courbessac,LFME,,Nîmes - Courbessac Airport,Public
+Nîmes / Garons,LFTW,FNI,Nîmes-Alès-Camargue-Cévennes Airport (Garons Airport),Public
+Uzès,LFNU,,Uzès Aerodrome,Restricted
+31: Haute-Garonne,,,,
+Bagnères-de-Luchon,LFCB,,Bagnères-de-Luchon Airport,Public
+Cazères / Palaminy,LFJH,,Cazères - Palaminy Aerodrome,Restricted
+Toulouse / Bourg-Saint-Bernard,LFIT,,Toulouse - Bourg-Saint-Bernard Aerodrome,Restricted
+Toulouse / Montaudran,LFIO,XYT,Toulouse - Montaudran Airport,
+Muret / Lherm,LFBR,,Muret - Lherm Aerodrome,Public
+Montagne Noire (Revel),LFMG,,Montagne Noire Aerodrome,Restricted
+Revel / Montgey,LFIR,,Revel - Montgey Aerodrome,Restricted
+Saint-Gaudens / Montréjeau,LFIM,,Saint-Gaudens - Montréjeau Airport,Public
+Toulouse / Blagnac,LFBO,TLS,Toulouse - Blagnac Airport,Public
+Toulouse / Francazal,LFBF,,Toulouse - Francazal Air Base (BA 101),Military
+Toulouse / Lasbordes,LFCL,,Toulouse - Lasbordes Airport,Public
+32: Gers,,,,
+Auch / Lamothe,LFDH,,Auch - Lamothe Airport (UAF),Public
+Condom / Valence-sur-Baïse,LFID,,Condom - Valence-sur-Baïse Airport,Public
+Nogaro,LFCN,,Nogaro Airport,Public
+33: Gironde,,,,
+Andernos-les-Bains,LFCD,,Andernos-les-Bains Airport,Public
+Arcachon / La Teste-de-Buch,LFCH,XAC,Arcachon - La Teste-de-Buch Airport,Public
+Bordeaux / Léognan / Saucats,LFCS,,Bordeaux - Leognan - Saucats Airport,Public
+Bordeaux / Mérignac,LFBD,BOD,Bordeaux - Mérignac Airport (BA 106),Public/Mil.
+Bordeaux / Souge,LFDO,,Bordeaux - Souge Aerodrome,
+Bordeaux / Yvrac,LFDY,,Bordeaux - Yvrac Aerodrome,Restricted
+La Réole / Floudès,LFDR,,La Réole - Floudès Airport,Public
+Cazaux (La Teste-de-Buch),LFBC,,Cazaux Air Base (BA 120),Military
+Lesparre / Saint-Laurent-Médoc,LFDU,,Lesparre - Saint-Laurent-de-Médoc Airport,Public
+Libourne / Les Artigues-de-Lussac,LFDI,XLR,Libourne - Artigues-de-Lussac Airport,Public
+Montendre / Marcillac,LFDC,,Montendre - Marcillac Airport,Public
+Soulac-sur-Mer,LFDK,,Soulac-sur-Mer Airport,Public
+Vendays-Montalivet,LFIV,,Vendays-Montalivet Aerodrome,Restricted
+34: Hérault,,,,
+Bédarieux / La Tour,LFNX,,Bédarieux - La Tour-sur-Orb Aerodrome,Restricted
+Béziers / Vias,LFMU,BZR,Béziers Cap d'Agde Airport (Béziers-Vias Airport),Public
+Montpellier / Candillargues,LFNG,,Montpellier - Candillargues Airport,Public
+Montpellier / Méditerranée,LFMT,MPL,Montpellier - Méditerranée Airport,Public
+Pézenas / Nizas,LFNP,,Pézenas - Nizas Aerodrome,Restricted
+Saint-Martin-de-Londres,LFNL,,Saint-Martin-de-Londres Aerodrome,Restricted
+35: Ille-et-Vilaine,,,,
+Dinard / Pleurtuit / Saint-Malo,LFRD,DNR,Dinard - Pleurtuit - Saint-Malo Airport,Public
+Redon / Bains-sur-Oust,LFER,XRN,Redon - Bains-sur-Oust Aerodrome (UAF),Public
+Rennes / Saint-Jacques,LFRN,RNS,Rennes - Saint-Jacques Airport,Public
+Saint-Servan (Saint-Malo),LFEO,XSB,Saint-Servan Airport,
+36: Indre,,,,
+Argenton-sur-Creuse,LFEG,,Argenton-sur-Creuse Airport,Public
+Châteauroux / Déols,LFLX,CHR,"Châteauroux-Centre \Marcel Dassault\"" Airport""",Public
+Châteauroux / Villers,LFEJ,,Châteauroux - Villers Airport,Public

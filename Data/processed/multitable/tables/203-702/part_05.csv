@@ -1,0 +1,9 @@
+Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage
+SOAPdenovo,genomes,Solexa,"Li, R. et al.",2009 / 2009,OS,link
+SPAdes,"(small) genomes, single-cell","Illumina, Solexa","Bankevich, A et al.",2012 / 2013,OS,link
+Staden gap4 package,"BACs (, small genomes?)",Sanger,Staden et al.,1991 / 2008,OS,link
+Taipan,(small) genomes,Illumina,"Schmidt, B. et al.",2009,OS,link
+VCAKE,(small) genomes,"Solexa (SOLiD?, Helicos?)","Jeck, W. et al.",2007 / 2007,OS,link
+Phusion assembler,(large) genomes,Sanger,"Mullikin JC, et al.",2003,OS,link
+Quality Value Guided SRA (QSRA),genomes,"Sanger, Solexa","Bryant DW, et al.",2009,OS,link
+Velvet,(small) genomes,"Sanger, 454, Solexa, SOLiD","Zerbino, D. et al.",2007 / 2009,OS,link

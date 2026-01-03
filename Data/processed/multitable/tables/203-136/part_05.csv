@@ -1,0 +1,10 @@
+Year,IBM Model Number,Name,Processor,Bus,HD Interface,Case,Notes
+1990,8573,P75 486,Intel 80486,MCA 32 bit,SCSI,portable,"4 MCA slots, two full length, two half length."
+1990,8580,80,Intel 80386 DX,MCA 32 bit,SCSI,tower,
+1990,8556,56 SX,Intel 80386 SX,MCA 16 bit,,desktop,
+1990,8565,65 SX,Intel 80386 SX,MCA 16 bit,SCSI,tower,
+1990,8590,90 XP 486,Intel 80486,MCA 32 bit,SCSI,desktop,
+1990,8595,95 XP 486,Intel 80486,MCA 32 bit,SCSI,tower,
+1991,8540,40 SX,Intel 80386 SX,ISA 16 bit,,desktop,
+1991,8557,57 SX,Intel 80386 SX,MCA 16 bit,SCSI,desktop,
+1991,8570,70,"Intel 80386 DX, Intel 80486",MCA 32 bit,,desktop,

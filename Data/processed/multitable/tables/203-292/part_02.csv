@@ -1,0 +1,12 @@
+Payload type (PT),Name,Type,No. of channels,Clock rate (Hz),Frame size (ms),Default packet size (ms),Description,References
+11,L16,audio,1,44100,any,20,"Linear PCM 16-bit Audio 705.6 kbit/s, uncompressed","RFC 3551, Page 27"
+12,QCELP,audio,1,8000,20,20,Qualcomm Code Excited Linear Prediction,"RFC 2658, RFC 3551"
+13,CN,audio,1,8000,,,"Comfort noise. Payload type used with audio codecs that do not support comfort noise as part of the codec itself such as G.711, G.722.1, G.722, G.726, G.727, G.728, GSM 06.10, Siren, and RTAudio.",RFC 3389
+14,MPA,audio,1,90000,,,MPEG-1 or MPEG-2 Audio Only,"RFC 3551, RFC 2250"
+15,G728,audio,1,8000,2.5,20,ITU-T G.728 Audio 16 kbit/s,RFC 3551
+16,DVI4,audio,1,11025,any,20,IMA ADPCM,RFC 3551
+17,DVI4,audio,1,22050,any,20,IMA ADPCM,RFC 3551
+18,G729,audio,1,8000,10,20,ITU-T G.729 and G.729a,"RFC 3551, Page 20"
+25,CELB,video,1,90000,,,Sun's CellB Video Encoding,RFC 2029
+26,JPEG,video,1,90000,,,JPEG Video,RFC 2435
+28,NV,video,1,90000,,,Xerox PARC's Network Video (nv),"RFC 3551, Page 32"

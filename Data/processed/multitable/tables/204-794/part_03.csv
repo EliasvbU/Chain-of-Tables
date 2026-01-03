@@ -1,0 +1,8 @@
+IECWorld PlugsType1,Standard,Powerrating,Earthed,Polarised,Fused,Insulatedpins,EuroplugCompatible
+H,SI 32,16 A/250 V,Yes5,Yes,No,No,Yes
+-,TIS 166-2549,16 A/250 V,Yes,Yes,No,Yes,Yes
+I,AS/NZS 3112,10 A/240 V15 A/240 V20 A/240 V25 A/240 V32 A/240 V,Yes*,Yes,No,Yes,No
+I,CPCS-CCC,10 A/250 V,Yes,Yes,No,No,No
+I,IRAM 2073,10 A/250 V,Yes,Yes,No,No,No
+J,Swiss SEV 1011,10 A/250 V16 A/250 V,Yes*,Yes,Optional5,Optional6,Yes
+K,Danish 107-2-D1,13 A/250 V,Yes*,Yes,No,No,Yes

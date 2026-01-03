@@ -1,0 +1,7 @@
+Location,Reactor type,Status,NetCapacity(MWe),GrossCapacity(MWe)
+Leningrad-3,RBMK-1000,operational until June 2025,925,"1,000"
+Leningrad-4,RBMK-1000,operational until August 2026,925,"1,000"
+Smolensk-1,RBMK-1000,operational until December 2022,925,"1,000"
+Smolensk-2,RBMK-1000,operational until July 2015,925,"1,000"
+Smolensk-3,RBMK-1000,operational until July 2023,925,"1,000"
+Smolensk-4,RBMK-1000,construction cancelled in 1993,925,"1,000"

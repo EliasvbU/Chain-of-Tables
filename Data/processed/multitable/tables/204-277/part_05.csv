@@ -1,0 +1,13 @@
+Region,Country,Location,Size (m),Payload (metric tonnes),Degrees of Freedom,X Horiz Disp (mm),Y Horiz Disp (mm),Z Vert Disp (mm),X Horiz Vel (mm/s),Y Horiz vel (mm/s),Z Vert vel (mm/s),X Horiz accel (m/s2),Y Horiz accel (m/s2),Z Vert accel (m/s2),Max Freq (Hz),Details checked
+Asia,Japan,Okumura Corp.,?,60,6,±125,?,?,±1000,?,?,±30,?,?,70,?
+Asia,Japan,Penta-Ocean Construction Co. Ltd. (1 of 2),?,60,6,±300,?,?,±1000,?,?,±5,?,?,70,?
+Asia,Japan,Penta-Ocean Construction Co. Ltd. (2 of 2),?,60,6,±200,?,?,±750,?,?,±10,?,?,70,?
+Asia,Japan,Port and Airport Research Institute,3.4 x 3.4,55,2,±200,n/a,±100,±750,±500,n/a,±8,±15,n/a,50,?
+Asia,Japan,Public Works Research Institute (PWRI),8 x 8,300,6,±600,±600,±300,±2000,±2000,±1000,±20,±20,±10,50,10/5/2008
+Asia,Japan,Sanryo Heavy Industries Corporation,6 x 6,90.7,3,?,?,?,?,?,?,?,?,?,?,?
+Asia,Japan,Shimizu Corporation,4 x 4,20,3,±200,?,?,±1000,?,?,±10,?,?,50,?
+Asia,Japan,Taisei Corp Ltd,4 x 4,20,2,±200,?,?,±450,?,?,±10,?,?,50,?
+Asia,Japan,Tobishima Corp Ltd,4 x 4,20,2,±75,?,?,?,?,?,±15,?,?,30,?
+Asia,Japan,Tobishima Corp Ltd,?,20,6,±200,?,?,±800,?,?,±10,?,?,30,?
+Asia,Japan,Tokyu Const. Corp.,4 x 4,30,6,±500,±200,±100,±1500,±1000,?,±10,?,?,30,?
+Asia,Japan,Toshiba Electric Co.,5 x 5,20,2,±750,n/a,±380,±400,n/a,±250,±10,n/a,±7,30,?

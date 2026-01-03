@@ -1,0 +1,10 @@
+Year,IBM Model Number,Name,Processor,Bus,HD Interface,Case,Notes
+1987,8530-002,Model 30,8 MHz Intel 8086,ISA 8 bit,,Desktop,Two disk drives
+1987,8530-021,Model 30,8 MHz Intel 8086,ISA 8 bit,"WDI-325Q, 20MB, ESDI",Desktop,Single disk drives
+1988,8530-E01,Model 30 286,10 MHz Intel 286,ISA 16 bit,,Desktop,Single HD disk drive
+1988,8530-E21,Model 30 286,10 MHz Intel 286,ISA 16 bit,"ESDI, 20MB",Desktop,Single HD disk drive
+1989,8530-E31,Model 30 286,10 MHz Intel 286,ISA 16 bit,"ESDI, 30MB",Desktop,Single HD disk drive
+1991,8530-E41,Model 30 286,10 MHz Intel 286,ISA 16 bit,"ESDI, 45MB",Desktop,Single HD disk drive
+1987,8530-R02,Model 30,8 MHz Intel 8086,ISA 8 bit,,"Desktop, intelligent financial workstation","Two disk drives, 4700 host support"
+1987,8530-R21,Model 30,8 MHz Intel 8086,ISA 8 bit,"ST-506, 20MB","Desktop, intelligent financial workstation","Single disk drives, 4700 host support"
+1988,8530-E0R,Model 30 286,10 MHz Intel 286,ISA 16 bit,,"Desktop, intelligent financial workstation","Single HD disk drive, 4700 host support"

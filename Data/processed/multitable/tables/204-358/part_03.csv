@@ -1,0 +1,6 @@
+Species,Common Name,NCBI Accession #,NCBI Name,Length,Sequence Identity,Sequence Similarity,Years Since Divergence from Human (mya)
+Danio rerio,Zebra fish,XP_691450,DEPDC5-like,1590 aa,75%,84%,400.1
+Oreochromis niloticus,Cichlid,XP_003459226,DEPDC5,1577 aa,74%,82%,400.1
+Strongylocentrotus purpuratus,Sea urchin,XP_794020,similar to DEPDC5,1608 aa,43%,57%,742.9
+Drosophila melanogaster,Drosophila,NP_647618,GC12090,1471 aa,41%,57%,782.7
+Pediculus humanus corporis,Louse,XP_002429401,"DEPDC, putative",1538 aa,38%,53%,782.7

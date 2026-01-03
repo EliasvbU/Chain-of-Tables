@@ -1,0 +1,7 @@
+Character,М,М,м,м
+Unicode name,CYRILLIC CAPITAL LETTER EM,CYRILLIC CAPITAL LETTER EM,CYRILLIC SMALL LETTER EM,CYRILLIC SMALL LETTER EM
+Encodings,decimal,hex,decimal,hex
+Unicode,1052,U+041C,1084,U+043C
+UTF-8,208 156,D0 9C,208 188,D0 BC
+Numeric character reference,&#1052;,&#x41C;,&#1084;,&#x43C;
+KOI8-R and KOI8-U,237,ED,205,CD

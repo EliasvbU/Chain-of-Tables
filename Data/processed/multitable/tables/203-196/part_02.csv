@@ -1,0 +1,6 @@
+Terminal,Operator,Depth(m),Berths,Quay length(m),Quay cranes,Area(m²),Capacity(kTEUs)
+Terminal 7 (CT7),HIT,15.5,4,,15,,
+Terminal 8 East (CT8E),HIT/COSCO,15.5,2,640,9,"300,000","1,800"
+Terminal 8 West (CT8W),ACT,15.5,2,740,8,"285,000",">2,000"
+Terminal 9 North (CT9N),HIT,15.5,2,700,9,"190,000",">2,600 (N&S)"
+Terminal 9 South (CT9S),MTL,15.5,4,"1,240",13,"490,000",

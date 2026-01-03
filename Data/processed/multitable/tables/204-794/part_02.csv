@@ -1,0 +1,8 @@
+IECWorld PlugsType1,Standard,Powerrating,Earthed,Polarised,Fused,Insulatedpins,EuroplugCompatible
+-,CEE 7/17,16 A/250 V,No,No2,No,No,Yes
+-,GOST 7396 C 1,6 A/250 V16 A/250 V,No,No,No,No,Yes
+-,BS 4573,Socket0.2 A/250 VPlugUnspecified7,No,No,No,Yes,No
+D,BS 546,2 A/250 V5 A/250 V15 A/250 V30 A/250 V,Yes,Yes,Optional,Optional,No
+E,CEE 7/5 ‡,16 A/250 V,Yes*,Yes4,No,No†,Yes
+F,CEE 7/4 Schuko ‡,16 A/250 V,Yes*,No,No,No†,Yes
+G,"BS 1363, IS 401 & 411, MS 589, SS 145",13 A/250 V,Yes,Yes,Yes,Yes,No

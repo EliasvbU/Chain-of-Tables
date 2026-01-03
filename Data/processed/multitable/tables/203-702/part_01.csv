@@ -1,0 +1,10 @@
+Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage
+ABySS,(large) genomes,"Solexa, SOLiD","Simpson, J. et al.",2008 / 2011,NC-A,link
+ALLPATHS-LG,(large) genomes,"Solexa, SOLiD","Gnerre, S. et al.",2011,OS,link
+AMOS,genomes,"Sanger, 454","Salzberg, S. et al.",2002? / 2008?,OS,link
+Arapan-M,Medium Genomes (e.g. E.coli),All,"Sahli, M. & Shibuya, T.",2011 / 2012,OS,link
+Arapan-S,Small Genomes (Viruses and Bacteria),All,"Sahli, M. & Shibuya, T.",2011 / 2012,OS,link
+Celera WGA Assembler / CABOG,(large) genomes,"Sanger, 454, Solexa","Myers, G. et al.; Miller G. et al.",2004 / 2010,OS,link
+CLC Genomics Workbench & CLC Assembly Cell,genomes,"Sanger, 454, Solexa, SOLiD",CLC bio,2008 / 2010 / 2011,C,link
+Cortex,genomes,"Solexa, SOLiD","Iqbal, Z. et al.",2011,OS,link
+DNA Baser,genomes,"Sanger, 454",Heracle BioSoft SRL,01.2014,C,www.DnaBaser.com

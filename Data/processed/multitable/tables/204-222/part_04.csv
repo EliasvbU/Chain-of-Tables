@@ -1,0 +1,14 @@
+Launch Date,STS Number,Payload Name,Payload Classification,ExperimentName,Payload Carrier Hardware
+11/12/93,51,LDCE-04LDCE-05,CAP,LDCE-04LDCE-05,Adapter Beam
+10/22/92,52,"<acronym title=\Attitude Sensor Package\"">ASP</acronym>""",HH,Attitude Sensor Package (ASP),Adapter Beam
+10/22/92,52,TPCE-01,CAP,TPCE-01,AdapterBeam
+12/02/92,53,GCP,HH,Orbital DebrisRadar Calibration Spheres(ODERACS-1)CryogenicHeat PipeExperiment(CRYOHP)Shuttle Glow(GLO-1),Adapter Beam
+01/13/93,54,"<acronym title=\Diffuse X-ray Spectrometer\"">DXS</acronym>""",HH,Diffuse X-ray Spectrometer(DXS),Adapter Beam
+04/26/93,55,"<acronym title=\Reaction Kinetics in Glass Melts\"">RKGM</acronym>""",CAP,RKGM,Adapter Beam
+04/08/93,56,"<acronym title=\Solar Ultra-Violet Experiment\"">SUVE</acronym>""",CAP,SUVE,Adapter Beam
+06/21/93,57,"<acronym title=\Super Fluid Helium On Orbit Transfer\"">SHOOT</acronym>""",HH,Super Fluid HeliumOn Orbit Transfer (SHOOT)experiment,Adapter Beam
+06/21/93,57,GBA-5,GAS,CONCAP-IV-01G-022G-324G-399G-450G-452G-453G-454G-535G-601G-647,GBA
+04/09/94,59,"CONCAP IV-02<acronym title=\Goddard ground support equipment\""></acronym>""",CAP,CONCAP IV-02,Adapter Beam
+04/09/94,59,G-203G-300G-458,GAS,G-203G-300G-458,AdapterBeam
+02/03/94,60,COB/GBAODERACS-1RBREMSAT,GAS Bridge Assembly-6 withHitchhiker Avionic,"Capillary Pumped Loop (CAPL),NASA GSFC",GBAw/ HH Avionics
+02/03/94,60,COB/GBAODERACS-1RBREMSAT,HH,"Orbital Debris Radar CalibrationSpheres (ODERACS-1R),USAF",GBAw/ HH Avionics

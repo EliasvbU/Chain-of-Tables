@@ -1,0 +1,10 @@
+Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage
+LIGR Assembler (derived from TIGR Assembler),genomic,Sanger,-,2009/ 2012,OS,link
+MaSuRCA (Maryland Super Read - Celera Assembler),(large) genomes,"Sanger, Illumina, 454","Aleksey Zimin, Guillaume Marçais, Daniela Puiu, Michael Roberts, Steven L. Salzberg, James A. Yorke",2012 / 2013,OS,link
+MIRA (Mimicking Intelligent Read Assembly),"genomes, ESTs","Sanger, 454, Solexa","Chevreux, B.",1998 / 2011,OS,link
+NextGENe,(small genomes?),"454, Solexa, SOLiD",Softgenetics,2008,C,link
+Newbler,"genomes, ESTs","454, Sanger",454/Roche,2009,C,link
+PADENA,genomes,"454, Sanger",454/Roche,2010,OS,link
+PASHA,(large) genomes,Illumina,"Liu, Schmidt, Maskell",2011,OS,link
+Phrap,genomes,"Sanger, 454, Solexa","Green, P.",1994 / 2008,C / NC-A,link
+TIGR Assembler,genomic,Sanger,-,1995 / 2003,OS,link

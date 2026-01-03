@@ -1,0 +1,9 @@
+interval name,size (steps),size (cents),midi,just ratio,just (cents),midi,error
+17:13 narrow fourth,28,466.66,play (help·info),17:13,464.43,,+2.24
+tridecimal major third,27,450,play (help·info),13:10,454.21,play (help·info),−4.21
+septendecimal supermajor third,27,450,play (help·info),22:17,446.36,,+3.64
+septimal major third,26,433.33,play (help·info),9:7,435.08,play (help·info),−1.75
+undecimal major third,25,416.67,play (help·info),14:11,417.51,play (help·info),−0.84
+major third,23,383.33,play (help·info),5:4,386.31,play (help·info),−2.98
+tridecimal neutral third,22,366.67,play (help·info),16:13,359.47,,+7.19
+neutral third,21,350,play (help·info),11:9,347.41,play (help·info),+2.59

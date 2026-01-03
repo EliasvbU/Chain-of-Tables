@@ -1,0 +1,8 @@
+Location,Reactor type,Status,NetCapacity(MWe),GrossCapacity(MWe)
+Ignalina-2,RBMK-1500,shut down in 2009,"1,185","1,300"
+Ignalina-3,RBMK-1500,construction cancelled in 1988,"1,380","1,500"
+Ignalina-4,RBMK-1500,plan cancelled in 1988,"1,380","1,500"
+Kostroma-1,RBMK-1500,construction cancelled in 1980s,"1,380","1,500"
+Kostroma-2,RBMK-1500,construction cancelled in 1980s,"1,380","1,500"
+Kursk-1,RBMK-1000,operational until 2021,925,"1,000"
+Kursk-2,RBMK-1000,operational until 2024,925,"1,000"

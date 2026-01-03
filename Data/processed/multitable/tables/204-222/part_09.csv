@@ -1,0 +1,13 @@
+Launch Date,STS Number,Payload Name,Payload Classification,ExperimentName,Payload Carrier Hardware
+05/27/99,96,SVF-02,CAP,"Shuttle Vibration Forces (SVF-02), NASA JPL",Adapter Beam
+05/27/99,96,STARSHINE,HH,"Student Tracked AtmosphericResearch Satellite for Heuristic International Networking Experiment (STARSHINE), Rocky Mountain NASA Space Grant Consortium/USU",AdapterBeam
+05/19/00,101,MARS,CAP,MARS,Adapter Beam
+05/19/00,101,SEM-06,SEM,SEM-06,AdapterBeam
+03/08/01,102,WSVFM,CAP,Wide-band Shuttle VibrationForce Measurement(WSVFM) NASA JPL,Adapter Beam
+03/08/01,102,G-783,GAS,G-783,AdapterBeam
+03/08/01,102,SEM-09,SEM,SEM-09,AdapterBeam
+03/08/01,102,Beam - Bay 4,Beam - Contingency I,Beam - Bay 4,AdapterBeam
+08/10/01,105,HEAT,HH,"Advance Carrier Equipment (ACE)SimpleSat, NASA/GSFC",Adapter Beam
+08/10/01,105,HEAT,GAS,G-774,
+08/10/01,105,HEAT,SEM,SEM-10,AdapterBeam
+08/10/01,105,G-780,GAS,G-780,AdapterBeam

@@ -1,0 +1,9 @@
+interval name,size (steps),size (cents),midi,just ratio,just (cents),midi,error
+perfect fifth,42,700,play (help·info),3:2,701.96,play (help·info),−1.96
+septendecimal tritone,36,600,,17:12,603.00,,−3.00
+septimal tritone,35,583.33,play (help·info),7:5,582.51,play (help·info),+0.82
+tridecimal tritone,34,566.67,play (help·info),18:13,563.38,,+3.28
+11th harmonic,33,550,play (help·info),11:8,551.32,play (help·info),−1.32
+(15:11) augmented fourth,32,533.33,play (help·info),15:11,536.95,,−3.62
+perfect fourth,30,500,play (help·info),4:3,498.04,play (help·info),+1.96
+septimal narrow fourth,28,466.66,play (help·info),21:16,470.78,play (help·info),−4.11

@@ -1,0 +1,12 @@
+Payload type (PT),Name,Type,No. of channels,Clock rate (Hz),Frame size (ms),Default packet size (ms),Description,References
+0,PCMU,audio,1,8000,any,20,ITU-T G.711 PCM µ-Law Audio 64 kbit/s,RFC 3551
+1,reserved (previously 1016),audio,1,8000,,,"reserved, previously CELP Audio 4.8 kbit/s","RFC 3551, previously RFC 1890"
+2,reserved (previously G721),audio,1,8000,,,"reserved, previously ITU-T G.721 ADPCM Audio 32 kbit/s","RFC 3551, previously RFC 1890"
+3,GSM,audio,1,8000,20,20,European GSM Full Rate Audio 13 kbit/s (GSM 06.10),RFC 3551
+4,G723,audio,1,8000,30,30,ITU-T G.723.1,RFC 3551
+5,DVI4,audio,1,8000,any,20,IMA ADPCM Audio 32 kbit/s,RFC 3551
+6,DVI4,audio,1,16000,any,20,IMA ADPCM 64 kbit/s,RFC 3551
+7,LPC,audio,1,8000,any,20,Experimental Linear Predictive Coding Audio,RFC 3551
+8,PCMA,audio,1,8000,any,20,ITU-T G.711 PCM A-Law Audio 64 kbit/s,RFC 3551
+9,G722,audio,1,8000,any,20,ITU-T G.722 Audio,RFC 3551 - Page 14
+10,L16,audio,2,44100,any,20,"Linear PCM 16-bit Stereo Audio 1411.2 kbit/s, uncompressed","RFC 3551, Page 27"

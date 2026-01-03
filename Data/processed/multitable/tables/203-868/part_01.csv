@@ -1,0 +1,5 @@
+Frequency Band,Band number,Radio Interface,Generation,Status,Notes
+850 MHz,5,GSM/GPRS/EDGE,2G,Roaming,"Not operated by T-Mobile, except for CMA629 in SC after the acquisition of SunCom. Competitor 850 MHz networks are accessible via roaming agreements."
+850 MHz CLR,5,UMTS/HSPA+,3G,Roaming,"Not operated by T-Mobile. After the failed acquisition of T-Mobile USA by AT&T, part of the failed acquisition was a 7-year AT&T 3G roaming agreement."
+1900 MHz,2,GSM/GPRS/EDGE,2G,In Service,"Most of this spectrum will be upgraded to 4G/LTE networks in the next two years.  (More Details See 4G LTE Upgrade) It is unclear if that means this network will be decommissioned anytime soon, but it is possible."
+1700/2100 MHz AWS,4,UMTS/DC-HSPA 42Mbit/s,4G,In Service,"Has marketed 3G HSPA+ as \4G\"" since 2011. Covers 230 million+ POPs as of March"

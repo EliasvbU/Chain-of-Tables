@@ -1,0 +1,8 @@
+Flight,Date,Payload nickname,Payload,Orbit,Result
+TF1 (Test Flight),"February 4, 1994",Ryūsei,OREX (Orbital Re-entry Experiment),LEO,Success
+TF1 (Test Flight),"February 4, 1994",Myōjō,VEP (Vehicle Evaluation Payload),GTO,Success
+TF2,"August 28, 1994",Kiku 6,ETS-VI (Engineering Test Satellite-VI),GEO,Success
+TF3,"March 18, 1995",Himawari 5,GMS-5 (Geostationary Meteorological Satellite-5),GEO,Success
+TF3,"March 18, 1995",,SFU (Space Flyer Unit),LEO,Success
+F4,"August 17, 1996",Midori,ADEOS (Advanced Earth Observing Satellite),LEO,Success
+F4,"August 17, 1996",Fuji 3,"Fuji OSCAR 29, JAS-2",LEO,Success

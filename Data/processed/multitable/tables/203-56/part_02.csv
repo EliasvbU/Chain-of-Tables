@@ -1,0 +1,7 @@
+Star,Startyear,Endyear,Maximumyear,Maximummagnitude,Distance atmaximum (LY),Currentdistance,Currentmagnitude
+Capella,"-210,000","-160,000","-240,000",-0.82,27.9,42.2,0.08
+Canopus (third time),"-160,000","-90,000","-160,000",-0.70,302,310,-0.72
+Sirius (current),"-90,000","+210,000","+60,000",-1.64,7.8,8.6,-1.46
+Vega,"+210,000","+480,000","+290,000",-0.81,17.2,25.04,0.03
+Canopus (fourth time),"+480,000","+990,000","+480,000",-0.40,346,310,-0.72
+Beta Aurigae,"+990,000","+1,150,000","+1,190,000",-0.40,28.5,82.1,1.9

@@ -1,0 +1,10 @@
+Year,IBM Model Number,Name,Processor,Bus,HD Interface,Case,Notes
+1988,8530-E2R,Model 30 286,10 MHz Intel 286,ISA 16 bit,"ESDI, 20MB","Desktop, intelligent financial workstation","Single HD disk drive, 4700 host support"
+1987,8550-021,50,Intel 80286,MCA 16 bit,,desktop,
+1987,8560,60,Intel 80286,MCA 16 bit,MFM or ESDI,tower,
+1987,8580,80,Intel 80386 DX,MCA 32 bit,MFM or ESDI,tower,
+1988,"8550-031, 8550-061",50 Z,Intel 80286,MCA 16 bit,,desktop,
+1988,8570,70,Intel 80386 DX,MCA 32 bit,,desktop,
+1989,8555,55 SX,Intel 80386 SX,MCA 16 bit,ESDI,desktop,
+1989,8570,70,"Intel 80386 DX, Intel 80486",MCA 32 bit,,desktop,
+1989,8573-031,P70 386,Intel 80386 DX,MCA 32 bit,,portable,"2 MCA slots, one full length, one half length."

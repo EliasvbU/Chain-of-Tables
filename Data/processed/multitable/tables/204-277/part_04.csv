@@ -1,0 +1,13 @@
+Region,Country,Location,Size (m),Payload (metric tonnes),Degrees of Freedom,X Horiz Disp (mm),Y Horiz Disp (mm),Z Vert Disp (mm),X Horiz Vel (mm/s),Y Horiz vel (mm/s),Z Vert vel (mm/s),X Horiz accel (m/s2),Y Horiz accel (m/s2),Z Vert accel (m/s2),Max Freq (Hz),Details checked
+Asia,Japan,Kyoto University,5 x 3,14,6,±300,?,?,±1500,?,?,±10,?,?,50,?
+Asia,Japan,Kyoto University Disaster Prevention Research Centre,3.5 diameter,?,6,?,?,?,?,?,?,?,?,?,?,?
+Asia,Japan,Ministry of Construction,6 x 8,100,2,±75,n/a,?,±600,n/a,?,±7,n/a,?,30,?
+Asia,Japan,Mitsubishi Electric Corp.,?,40,2,±100,?,?,±700,?,?,±25,?,?,30,?
+Asia,Japan,Mitsubishi Heavy Industries Corp.,?,100,3,±50,?,?,±1500,?,?,±20,?,?,50,?
+Asia,Japan,National Research Institute of Agriculture Engineering,6 x 4,45,3,±150,?,?,±750,?,?,±10,?,?,40,?
+Asia,Japan,NIED (Nat. Inst. for Disaster Prevention) (1 of 2),6 x 6,1100,3,±1000,?,?,±2000,?,?,±10,?,?,15,?
+Asia,Japan,NIED (Nat. Inst. for Disaster Prevention) (2 of 2),12 x 12,500,1,±220,?,?,±900,?,?,±10,?,?,50,?
+Asia,Japan,Nishimatsu Construction Corp,5.5 x 5.5,65,6,±500,?,?,±1500,?,?,±20,?,?,50,?
+Asia,Japan,Nuclear Power Engineering Corporation,15 x 15,908,2,±200,n/a,±100,±750,n/a,±375,±18,n/a,±9,30,?
+Asia,Japan,NYK Corporation,2.6 x 2.6,20,6,±200,?,?,±600,?,?,±20,?,?,80,?
+Asia,Japan,Obayashi-Gumi Corporation,5 x 5,46,3,±600,?,?,±2000,?,?,±30,?,?,50,?
