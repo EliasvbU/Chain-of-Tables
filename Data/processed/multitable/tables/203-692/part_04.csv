@@ -1,8 +1,8 @@
-name,pos.,caps,goals,club
-Vincent Persson,FW,1,1,Degerfors IF
-"Birger \Bian\"" Rosengren""",MF,1,0,IFK Norrköping
-"Carl-Erik \Pigge\"" Sandberg""",FW,1,0,Malmö FF
-"Carl \Timpa\"" Simonsson""",FW,1,0,Jönköpings Södra IF
-"Gustav \Gurra\"" Sjöberg""",GK,6,0,AIK Solna
-Börje Tapper,FW,1,5,Malmö FF
-"Lennart \Skinnet\"" Wigren""",MF,1,0,IFK Norrköping
+name,pos.,caps,goals,club,Unused_1
+Vincent Persson,FW,1,1,Degerfors IF,
+"Birger \Bian\"" Rosengren""",MF,1,0,IFK Norrköping,
+"Carl-Erik \Pigge\"" Sandberg""",FW,1,0,Malmö FF,
+"Carl \Timpa\"" Simonsson""",FW,1,0,Jönköpings Södra IF,
+"Gustav \Gurra\"" Sjöberg""",GK,6,0,AIK Solna,
+Börje Tapper,FW,1,5,Malmö FF,
+"Lennart \Skinnet\"" Wigren""",MF,1,0,IFK Norrköping,

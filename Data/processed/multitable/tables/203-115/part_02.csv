@@ -1,77 +1,77 @@
-Name of place,Counties,Principal county,Lower zip code
-Captain Kidd Estates,1,Suffolk County,11952
-Cardiff,1,Onondaga County,13084
-Cards Corners,1,Onondaga County,
-Cardtown,1,Otsego County,
-Careys Corners,1,Oneida County,
-Carle Place,1,Nassau County,11514
-Carle Terrace,1,Ulster County,12449
-Carley Mills,1,Oswego County,
-Carlisle,1,Schoharie County,12031
-Carlisle,1,Schoharie County,
-Carlisle Center,1,Schoharie County,12035
-Carlisle Gardens,1,Niagara County,14094
-Carlton,1,Orleans County,14411
-Carlton,1,Orleans County,
-Carman,1,Schenectady County,12303
-Carmel,1,Putnam County,10512
-Carmel,1,Putnam County,
-Carmel Hamlet,1,Putnam County,
-Carmel Hills,1,Putnam County,
-Carmel Park Estates,1,Putnam County,10512
-Carmen,1,Albany County,12303
-Carmichael Hill,1,Oneida County,
-Carnegie,1,Erie County,14075
-Caroga,1,Fulton County,
-Caroga Lake,1,Fulton County,12032
-Caroline,1,Tompkins County,14817
-Caroline,1,Tompkins County,
-Caroline Center,1,Tompkins County,14817
-Caroline Depot,1,Tompkins County,
-Carpenters Corners,1,Fulton County,
-Carroll,1,Cattaraugus County,
-Carroll,1,Chautauqua County,
-Carrollton,1,Cattaraugus County,14748
-Carrollton,1,Cattaraugus County,
-Carson,1,Steuben County,14823
-Carterville,1,Oswego County,
-Carthage,1,Jefferson County,13619
-Carver,1,New York County,
-Cascade,1,Cayuga County,13118
-Cascade Valley,1,Broome County,
-Case,1,Onondaga County,13084
-Casowasco,1,Cayuga County,13118
-Cass,1,Erie County,14206
-Cassadaga,1,Chautauqua County,14718
-Cassville,1,Oneida County,13318
-Castile,1,Wyoming County,14427
-Castile,1,Wyoming County,
-Castile Center,1,Wyoming County,14427
-Castle,1,Westchester County,10801
-Castle Clinton National Monument,1,New York County,10005
-Castle Creek,1,Broome County,13744
-Castle Hill,1,Bronx County,10462
-Castle Point,1,Dutchess County,12511
-Castleton Corners,1,Richmond County,10314
-Castleton on Hudson,1,Rensselaer County,12033
-Castleton-on-Hudson,1,Rensselaer County,12033
-Castorland,1,Lewis County,13620
-Catatonk,1,Tioga County,13827
-Catawba,1,Steuben County,
-Catfish Corners,1,Oswego County,
-Catharine,1,Schuyler County,14869
-Catharine,1,Schuyler County,
-Cathedral,1,New York County,10025
-Catherine,1,Schuyler County,
-Catherineville,1,St. Lawrence County,
-Catlin,1,Chemung County,
-Catlin Hill,1,Tioga County,
-Town of Cato,1,Cayuga County,13033
-Village of Cato,1,Cayuga County,
-Caton,1,Steuben County,14830
-Caton,1,Steuben County,
-Cator Corners,1,Wayne County,
-Catskill (town),1,Greene County,12414
-Catskill (village),1,Greene County,
-Cattaraugus,1,Cattaraugus County,14719
-Cattaraugus Indian Reservation,3,Cattaraugus County,14204
+Name of place,Counties,Principal county,Lower zip code,Dummy_Col_1
+Captain Kidd Estates,1,Suffolk County,11952,ZVXbiwp
+Cardiff,1,Onondaga County,13084,AbNYZ
+Cards Corners,1,Onondaga County,,OAowY
+Cardtown,1,Otsego County,,wQbLDkg
+Careys Corners,1,Oneida County,,JlPnZOWd
+Carle Place,1,Nassau County,11514,IEYRo
+Carle Terrace,1,Ulster County,12449,UNicWIdE
+Carley Mills,1,Oswego County,,eWukEGUU
+Carlisle,1,Schoharie County,12031,GasEbI
+Carlisle,1,Schoharie County,,HTZBq
+Carlisle Center,1,Schoharie County,12035,CZUlvoK
+Carlisle Gardens,1,Niagara County,14094,ybmvkXQ
+Carlton,1,Orleans County,14411,JcibvFau
+Carlton,1,Orleans County,,tqvAMn
+Carman,1,Schenectady County,12303,VZLjm
+Carmel,1,Putnam County,10512,axtSLZv
+Carmel,1,Putnam County,,XeLJDZ
+Carmel Hamlet,1,Putnam County,,BYPchY
+Carmel Hills,1,Putnam County,,HVJLui
+Carmel Park Estates,1,Putnam County,10512,FrMstsu
+Carmen,1,Albany County,12303,TDAsjboZ
+Carmichael Hill,1,Oneida County,,qKneA
+Carnegie,1,Erie County,14075,rUrThamp
+Caroga,1,Fulton County,,lPwunpc
+Caroga Lake,1,Fulton County,12032,VBJsKwbP
+Caroline,1,Tompkins County,14817,VoRFoRY
+Caroline,1,Tompkins County,,diehteBQ
+Caroline Center,1,Tompkins County,14817,HXFwwA
+Caroline Depot,1,Tompkins County,,szwDxMm
+Carpenters Corners,1,Fulton County,,YSRRZ
+Carroll,1,Cattaraugus County,,fNmRJe
+Carroll,1,Chautauqua County,,RalNd
+Carrollton,1,Cattaraugus County,14748,AiqPJ
+Carrollton,1,Cattaraugus County,,YOcYSG
+Carson,1,Steuben County,14823,bjApAad
+Carterville,1,Oswego County,,lJHgBGAK
+Carthage,1,Jefferson County,13619,xaQEKjmY
+Carver,1,New York County,,aIaOb
+Cascade,1,Cayuga County,13118,UBPjZ
+Cascade Valley,1,Broome County,,XyRlVQK
+Case,1,Onondaga County,13084,cRwMl
+Casowasco,1,Cayuga County,13118,MBCPX
+Cass,1,Erie County,14206,WjfYE
+Cassadaga,1,Chautauqua County,14718,aUpocAe
+Cassville,1,Oneida County,13318,PCvkvpS
+Castile,1,Wyoming County,14427,jEZzj
+Castile,1,Wyoming County,,HiCYeEP
+Castile Center,1,Wyoming County,14427,rFLrk
+Castle,1,Westchester County,10801,MzWXlh
+Castle Clinton National Monument,1,New York County,10005,fDExDwaH
+Castle Creek,1,Broome County,13744,wVHhMdit
+Castle Hill,1,Bronx County,10462,rNfppW
+Castle Point,1,Dutchess County,12511,xaPDW
+Castleton Corners,1,Richmond County,10314,NhiqCRgy
+Castleton on Hudson,1,Rensselaer County,12033,SYmJnhUB
+Castleton-on-Hudson,1,Rensselaer County,12033,nPvsxwvX
+Castorland,1,Lewis County,13620,CNvNWvr
+Catatonk,1,Tioga County,13827,ZNwwElD
+Catawba,1,Steuben County,,upnTa
+Catfish Corners,1,Oswego County,,gVVMSXzC
+Catharine,1,Schuyler County,14869,wwmBfJkG
+Catharine,1,Schuyler County,,zSvMqkbS
+Cathedral,1,New York County,10025,QTUdePng
+Catherine,1,Schuyler County,,VAFgUJN
+Catherineville,1,St. Lawrence County,,eDLvil
+Catlin,1,Chemung County,,ICvFS
+Catlin Hill,1,Tioga County,,JKkJx
+Town of Cato,1,Cayuga County,13033,obQHpnF
+Village of Cato,1,Cayuga County,,apJpBr
+Caton,1,Steuben County,14830,FMWghb
+Caton,1,Steuben County,,HdXCsH
+Cator Corners,1,Wayne County,,pDHkQc
+Catskill (town),1,Greene County,12414,xoXVIs
+Catskill (village),1,Greene County,,mQwEN
+Cattaraugus,1,Cattaraugus County,14719,XkGIObt
+Cattaraugus Indian Reservation,3,Cattaraugus County,14204,rIlTXcYT

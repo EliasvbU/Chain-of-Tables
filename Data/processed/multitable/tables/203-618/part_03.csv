@@ -1,8 +1,11 @@
-Pick,Player,Team,Position,School
-17,Brad Lidge,Houston Astros,P,University of Notre Dame
-18,Seth Etherton,Anaheim Angels,P,University of Southern California
-19,Tony Torcato,San Francisco Giants,OF,"Woodland HS (Woodland, CA)"
-20,CC Sabathia,Cleveland Indians,P,"Vallejo HS (Vallejo, CA)"
-21,Jason Tyner,New York Mets,OF,Texas A&M University
-22,Matt Thornton,Seattle Mariners,P,Grand Valley State University
-23,Bubba Crosby,Los Angeles Dodgers,OF,Rice University
+Pick,Player,Team,Position,School,Noise_Field_1
+21,Jason Tyner,New York Mets,OF,Texas A&M University,KnsndIJ
+22,Matt Thornton,Seattle Mariners,P,Grand Valley State University,OWLfJgP
+23,Bubba Crosby,Los Angeles Dodgers,OF,Rice University,CsszWdSk
+24,Andy Brown,New York Yankees,OF,"Richmond HS (Richmond, IN)",lwdhS
+25,Nate Bump,San Francisco Giants,P,Penn State University,inomjC
+26,Rick Elder,Baltimore Orioles,OF,"Sprayberry HS (Sprayberry, GA)",KkoTFO
+27,Chip Ambres,Florida Marlins,OF,"West Brook HS (Beaumont, TX)",EpxuAA
+28,Matt Roney,Colorado Rockies,P,"Edmond North HS (Edmond, OK)",ZAzVsGi
+29,Arturo McDowell,San Francisco Giants,OF,"Forest Hill Community HS (West Palm Beach, FL)",kWQeRIu
+30,Matt Burch,Kansas City Royals,P,Virginia Commonwealth University,ljNpPyz

@@ -1,10 +1,13 @@
-Pos.,Div.,No.,Team,Drivers,Car,Laps,Qual.Pos.
-10,1,6,Mobil 1 Racing,Charlie O'Brien David Parsons,Ford Sierra RS500,121,10
-11,1,12,Ray Lintott,Ray Lintott Terry Shiel,Ford Sierra RS500,121,13
-12,1,26,Garry Rogers Motorsport,Garry Rogers Paul Fordham,Holden VL Commodore SS Group A SV,121,14
-13,1,27,Terry Finnigan,Terry Finnigan Geoff Leeds,Holden VL Commodore SS Group A SV,120,15
-14,1,42,Lusty Engineering,John Lusty Bernie Stack,Holden VL Commodore SS Group A SV,119,20
-15,2,51,Phil Ward Racing,Phil Ward John Goss,Mercedes-Benz 190E 2.3-16,118,23
-16,2,54,Bryce Racing,Brett Riley Craig Baird,BMW M3,117,26
-17,1,2,Alf Grant,Alf Grant Tim Grant,Nissan Skyline HR31 GTS-R,117,24
-18,1,45,Lester Smerdon,Lester Smerdon Graham Jonsson,Holden VL Commodore SS Group A SV,116,25
+Pos.,Div.,No.,Team,Drivers,Car,Laps,Qual.Pos.,Irrelevant_1,Irrelevant_2
+13,1,27,Terry Finnigan,Terry Finnigan Geoff Leeds,Holden VL Commodore SS Group A SV,120,15,smWlfg,HWuUa2
+14,1,42,Lusty Engineering,John Lusty Bernie Stack,Holden VL Commodore SS Group A SV,119,20,0yOus77n,kp5fXm
+15,2,51,Phil Ward Racing,Phil Ward John Goss,Mercedes-Benz 190E 2.3-16,118,23,CE2ohs2d,1SR9Q
+16,2,54,Bryce Racing,Brett Riley Craig Baird,BMW M3,117,26,tsuTWjaV,6OhCt3fD
+17,1,2,Alf Grant,Alf Grant Tim Grant,Nissan Skyline HR31 GTS-R,117,24,JcgTeLcv,rmf3QAT
+18,1,45,Lester Smerdon,Lester Smerdon Graham Jonsson,Holden VL Commodore SS Group A SV,116,25,quDPiI,oWy7fG
+19,3,71,Toyota Dealer Team,John Faulkner John Smith Neal Bates,Toyota Corolla FX-GT,115,28,WiWU0V,7Rh3j
+20,2,53,Brian Bolwell Racing,Brian Bolwell Mike Twigden,BMW 323i,111,29,2sofO,I7IW3Wf
+21,3,78,Phoenix Motorsport,Geoff Full David Ratcliff,Toyota Sprinter,111,30,TJngF,1dDGL
+22,1,32,Hersonne Engineering,Laurie Donaher Marc Ducquet,Holden VL Commodore SS Group A,109,34,Um006pB,H6Q54bH
+23,3,76,Peter Verheyen,Peter Verheyen John Vernon,Toyota Sprinter,109,36,wQdd84gA,w5rH5CDW
+24,3,72,David Sala,David Sala Richard Vorst,Toyota Corolla,106,32,s9dj3Rx,ZObxiqN

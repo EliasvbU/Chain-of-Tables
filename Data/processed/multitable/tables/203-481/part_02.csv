@@ -1,6 +1,9 @@
-N°,Name,Position,Date of birth,Nationality
-7,Jean-François Exiga,L,9 marzo 1982,France
-8,Nuno Pinheiro,P,31 dicembre 1984,Portugal
-10,Guillaume Di Betta,S,8 settembre 1994,France
-12,Maxime Dillies,P,11 aprile 1984,France
-13,Kamil Baránek,S,2 maggio 1983,Czech Republic
+N°,Name,Position,Date of birth,Nationality,Random_Column_1,Filler_2,Noise_Field_3
+10,Guillaume Di Betta,S,8 settembre 1994,France,SvtAg,iYXdZl,ERbeu
+12,Maxime Dillies,P,11 aprile 1984,France,UDyFa7n,JQvyLeq,TNJbvB
+13,Kamil Baránek,S,2 maggio 1983,Czech Republic,9yiOgf,MEXJrA,CMrDyeXY
+14,Renaud Lachaise,P,12 maggio 1991,France,XktZUh,oVxqIS,AZyrNPzi
+15,David Smith,C,15 maggio 1985,United States,OoKE2U5,EWRiUaf,sfQykW
+16,Emmanuel Ragondet,S,6 agosto 1987,France,3FObf5,IwAfDwfE,mbJUAm
+17,Victor Le Guennec,S,19 giugno 1994,France,KmidYfN,ieQed,vZMGhKtU
+18,Thibault Szymkowiak,C,19 settembre 1991,France,TwhUUe,pdPzx,rKGPKj

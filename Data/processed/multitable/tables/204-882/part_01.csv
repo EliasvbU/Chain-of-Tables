@@ -1,7 +1,10 @@
-Number,Builder,Entered service,Withdrawn,Notes
-439,NZR Addington,9-1-1909,2-3-1957,"Converted to 4-cylinder simple, 6-1949"
-440,NZR Addington,25-3-1909,2-3-1957,"Converted to 4-cylinder simple, 7-1948"
-441,NZR Addington,10-5-1909,2-3-1957,
-442,NZR Addington,10-7-1909,4-3-1944,"Converted to 4-cylinder simple, 6-1943. In Use Ohai Railway Board 1944-1968. Preserved at Feilding and District Steam Rail Society"
-443,NZR Addington,1-12-1909,2-3-1957,"Converted to 4-cylinder simple, 7-1947"
-444,NZR Addington,3-2-1910,2-3-1957,"Converted to 4-cylinder simple, 12-1949"
+Number,Builder,Entered service,Withdrawn,Notes,Noise_Field_1
+439,NZR Addington,9-1-1909,2-3-1957,"Converted to 4-cylinder simple, 6-1949",qpZvBF
+440,NZR Addington,25-3-1909,2-3-1957,"Converted to 4-cylinder simple, 7-1948",kTRqPCI
+441,NZR Addington,10-5-1909,2-3-1957,,AYNSDECt
+442,NZR Addington,10-7-1909,4-3-1944,"Converted to 4-cylinder simple, 6-1943. In Use Ohai Railway Board 1944-1968. Preserved at Feilding and District Steam Rail Society",mxQFV
+443,NZR Addington,1-12-1909,2-3-1957,"Converted to 4-cylinder simple, 7-1947",NLfUz
+444,NZR Addington,3-2-1910,2-3-1957,"Converted to 4-cylinder simple, 12-1949",Ieshad
+445,NZR Addington,24-5-1910,26-5-1949,,niLIsUs
+446,NZR Addington,30-4-1910,6-12-1946,"Converted to 4-cylinder simple, 12-1946. In Use Ohai Railway Board 1946-1959.",eqkRPDe
+588,NZR Addington,14-10-1913,2-3-1957,"Converted to 4-cylinder simple, 5-1951",qBOaqN

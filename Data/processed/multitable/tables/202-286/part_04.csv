@@ -1,9 +1,9 @@
-Outcome,No.,Date,Tournament,Surface,Partner,Opponents in the final,Score in the final
-Runner-up,12.,1979,"San Jose, Costa Rica",Hard,Anand Amritraj,Ion Ţiriac Guillermo Vilas,"4–6, 6–2, 4–6"
-Runner-up,13.,1979,"Tulsa, US",Hard (i),Tom Gullikson,Francisco González Eliot Teltscher,"7–6, 5–7, 3–6"
-Runner-up,14.,1979,"Stowe, US",Hard,Anand Amritraj,Mike Cahill Steve Krulevitz,"6–3, 3–6, 4–6"
-Runner-up,15.,1979,"Tel Aviv, Israel",Hard,Mike Cahill,Ilie Năstase Tom Okker,"5–7, 4–6"
-Winner,14.,1979,"Tokyo Outdoor, Japan",Clay,Pat Du Pré,Rod Frawley Francisco González,"3–6, 6–1, 6–1"
-Winner,15.,1979,"Adelaide, Australia",Grass,Chris Kachel,John Alexander Phil Dent,"6–7, 7–6, 6–4"
-Winner,16.,1980,"Metz, France",Carpet,Gene Mayer,Chris Delaney Kim Warwick,"7–6, 7–5"
-Winner,17.,1981,"Adelaide, Australia",Grass,John James,Craig Edwards Eddie Edwards,"6–3, 6–4"
+Outcome,No.,Date,Tournament,Surface,Partner,Opponents in the final,Score in the final,Extra_Data_1,Unused_2,Unused_3
+Runner-up,12.,1979,"San Jose, Costa Rica",Hard,Anand Amritraj,Ion Ţiriac Guillermo Vilas,"4–6, 6–2, 4–6",847,,
+Runner-up,13.,1979,"Tulsa, US",Hard (i),Tom Gullikson,Francisco González Eliot Teltscher,"7–6, 5–7, 3–6",59,,
+Runner-up,14.,1979,"Stowe, US",Hard,Anand Amritraj,Mike Cahill Steve Krulevitz,"6–3, 3–6, 4–6",47,,
+Runner-up,15.,1979,"Tel Aviv, Israel",Hard,Mike Cahill,Ilie Năstase Tom Okker,"5–7, 4–6",18,,
+Winner,14.,1979,"Tokyo Outdoor, Japan",Clay,Pat Du Pré,Rod Frawley Francisco González,"3–6, 6–1, 6–1",29,,
+Winner,15.,1979,"Adelaide, Australia",Grass,Chris Kachel,John Alexander Phil Dent,"6–7, 7–6, 6–4",665,,
+Winner,16.,1980,"Metz, France",Carpet,Gene Mayer,Chris Delaney Kim Warwick,"7–6, 7–5",869,,
+Winner,17.,1981,"Adelaide, Australia",Grass,John James,Craig Edwards Eddie Edwards,"6–3, 6–4",52,,

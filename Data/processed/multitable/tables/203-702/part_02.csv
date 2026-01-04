@@ -1,10 +1,12 @@
-Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage
-DNA Dragon,genomes,"Illumina, SOLiD, Complete Genomics, 454, Sanger",SequentiX,2011,C,link
-DNAnexus,genomes,"Illumina, SOLiD, Complete Genomics",DNAnexus,2011,C,link
-Edena,genomes,Illumina,"D. Hernandez, P. François, L. Farinelli, M. Osteras, and J. Schrenzel.",2008/2013,OS,link
-Euler,genomes,"Sanger, 454 (,Solexa ?)","Pevzner, P. et al.",2001 / 2006?,(C / NC-A?),link
-Euler-sr,genomes,"454, Solexa","Chaisson, MJ. et al.",2008,NC-A,link
-Forge,"(large) genomes, EST, metagenomes","454, Solexa, SOLID, Sanger","Platt, DM, Evers, D.",2010,OS,link
-Geneious,genomes,"Sanger, 454, Solexa, Ion Torrent, Complete Genomics, PacBio, Oxford Nanopore, Illumina",Biomatters Ltd,2009 / 2013,C,link
-Graph Constructor,(large) genomes,"Sanger, 454, Solexa, SOLiD",Convey Computer Corporation,2011,C,link
-IDBA (Iterative De Bruijn graph short read Assembler),(large) genomes,"Sanger,454,Solexa","Yu Peng, Henry C. M. Leung, Siu-Ming Yiu, Francis Y. L. Chin",2010,(C / NC-A?),link
+Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage,Unused_1,Extra_Data_2,Dummy_Col_3
+Edena,genomes,Illumina,"D. Hernandez, P. François, L. Farinelli, M. Osteras, and J. Schrenzel.",2008/2013,OS,link,,693,tURywxP
+Euler,genomes,"Sanger, 454 (,Solexa ?)","Pevzner, P. et al.",2001 / 2006?,(C / NC-A?),link,,312,IBIzNw
+Euler-sr,genomes,"454, Solexa","Chaisson, MJ. et al.",2008,NC-A,link,,662,cRzNURcn
+Forge,"(large) genomes, EST, metagenomes","454, Solexa, SOLID, Sanger","Platt, DM, Evers, D.",2010,OS,link,,997,gJOMIGcv
+Geneious,genomes,"Sanger, 454, Solexa, Ion Torrent, Complete Genomics, PacBio, Oxford Nanopore, Illumina",Biomatters Ltd,2009 / 2013,C,link,,988,YXAZS
+Graph Constructor,(large) genomes,"Sanger, 454, Solexa, SOLiD",Convey Computer Corporation,2011,C,link,,432,nrGCKE
+IDBA (Iterative De Bruijn graph short read Assembler),(large) genomes,"Sanger,454,Solexa","Yu Peng, Henry C. M. Leung, Siu-Ming Yiu, Francis Y. L. Chin",2010,(C / NC-A?),link,,420,cdKYr
+LIGR Assembler (derived from TIGR Assembler),genomic,Sanger,-,2009/ 2012,OS,link,,98,DWtnBF
+MaSuRCA (Maryland Super Read - Celera Assembler),(large) genomes,"Sanger, Illumina, 454","Aleksey Zimin, Guillaume Marçais, Daniela Puiu, Michael Roberts, Steven L. Salzberg, James A. Yorke",2012 / 2013,OS,link,,829,ktikREP
+MIRA (Mimicking Intelligent Read Assembly),"genomes, ESTs","Sanger, 454, Solexa","Chevreux, B.",1998 / 2011,OS,link,,825,jgCZCYPA
+NextGENe,(small genomes?),"454, Solexa, SOLiD",Softgenetics,2008,C,link,,428,DatqqB

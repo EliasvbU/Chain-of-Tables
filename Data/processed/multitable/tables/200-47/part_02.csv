@@ -1,6 +1,6 @@
-Date,Event,Duration(months),Duration(years)
-May 1962,4th drop fell,97,8.1
-August 1970,5th drop fell,99,8.3
-April 1979,6th drop fell,104,8.7
-July 1988,7th drop fell,111,9.2
-28 November 2000,8th drop fell,148,12.3
+Date,Event,Duration(months),Duration(years),Extra_Data_1,Random_Column_2
+May 1962,4th drop fell,97,8.1,968,NZPf3TY
+August 1970,5th drop fell,99,8.3,99,baDqHLkR
+April 1979,6th drop fell,104,8.7,459,bSjmoD
+July 1988,7th drop fell,111,9.2,221,t5W2nEc
+28 November 2000,8th drop fell,148,12.3,326,410UKN

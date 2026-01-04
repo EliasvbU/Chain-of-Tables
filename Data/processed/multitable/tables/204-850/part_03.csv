@@ -1,10 +1,12 @@
 name,railway,series,maker,dates,drive,wheel arrangement,weight,power,notes
-DB Class 103,,,,1970–73,Electric,Co'Co',114 t,"9,977 horsepower (7,440 kW)",
-060-EA,Romanian Railways(CFR),001-1000,Electroputere Craiova,1970-91,Electric,Co'Co',120 t,"6,839 horsepower (5,100 kW)",Most powerful locomotive in 1970s; highest continuous tractive effort
-060-EA Softronic Phoenix version,Romanian Railways (CFR) and Hungarian State Railways ( MÁV ),"001, 2001-2004",Softronic Craiova,2009–present,Electric,Co'Co',120 t,"8,851 horsepower (6,600 kW)",Most powerful locomotive with highest continuous tractive effort
-Softronic TransMONTANA (060-EA version),Romanian Railways (CFR),1,Softronic Craiova,2010,Electric,Co'Co',120 t,"10,997 horsepower (8,200 kW)",
 SBB-CFF-FFS Re 620,Gotthardbahn,,BBC,1972–80,Electric,Bo'Bo'Bo',120 t,"10,527 horsepower (7,850 kW)",Most powerful single-frame locomotive when built
 JR Freight Class EF200,JR Freight,,Hitachi Ltd.,1990–,Electric,Bo'Bo'Bo',100.8 t,"8,046 horsepower (6,000 kW)",Most powerful single-frame narrow-gauge locomotive in series production
 EMD SD90MAC,Union Pacific,8500-8561,Electro-Motive Diesel,1996–2002,Diesel-Electric,C-C,210 t,"6,300 horsepower (4,698 kW)","Retired from service, some on lease with EMLX"
 GE AC6000CW,Union Pacific; CSX Transportation; BHP Billiton,"600-699, 5000-5016, 6070-6077, 7500-7579 (being overhauled and renumbered 69xx)",General Electric,1996–2001,Diesel-Electric,Co'Co',210 t,"6,250 horsepower (4,661 kW)",Actual HP output on early production units is 4350 hp due to use of the 7FDL engine.
 Indian locomotive class WAG-9,Indian Railways,,"Chittaranjan Locomotive Works, India",1998,Electric,Co'Co',123 t,"6,350 horsepower (4,735 kW)",Most powerful electric locomotive in India in 2010.
+China Railways HXN3,China Railways,HXN30001-HXN30300,"Dalian Locomotive, EMD",2008–,Diesel-Electric,Co'Co',150 t,"6,300 horsepower (4,698 kW)",Most powerful diesel-electric locomotive in active production.
+China Railways HXN5,China Railways,HXN50001-HXN50300,"GE, CSR Qishuyan Locomotive",2008–,Diesel-Electric,Co'Co',150 t,"6,250 horsepower (4,661 kW)",Most powerful diesel-electric locomotive in active production.
+China Railways HXD1,China Railways,HXD10001-HXD10220,"CSR Zhuzhou Electric Locomotive, Siemens",2006–08,Electric,Bo'Bo'+Bo'Bo',200 t,"12,874 horsepower (9,600 kW)",
+China Railways HXD2,China Railways,HXD20001-HXD20180,"Datong Electric Locomotive, Alstom",2006–08,Electric,Bo'Bo'+Bo'Bo',200 t,"13,410 horsepower (10,000 kW)",
+China Railways HXD3,China Railways,"HXD30001-HXD30890, HXD38001-38150","Toshiba, Dalian Locomotive",2006–09,Electric,Co'Co',150 t,"9,655 horsepower (7,200 kW)",
+China Railways HXD1B,China Railways,HXD1B0001-HXD1B0500,"CSR Zhuzhou Electric Locomotive, Siemens",2009–,Electric,Co'Co',150 t,"12,874 horsepower (9,600 kW)",Most powerful single-frame locomotive in series production

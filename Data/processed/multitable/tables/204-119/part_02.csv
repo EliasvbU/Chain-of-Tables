@@ -1,9 +1,11 @@
-Date,Time,Opponent,Site,TV,Result,Attendance,Record
-12/08/2012*,3:00 PM,at Air Force,"Clune Arena • Colorado Springs, CO",,L 49–65,"1,553",1–8
-12/18/2012*,7:00 PM,at Akron,"James A. Rhodes Arena • Akron, OH",,L 46–76,"2,639",1–9
-12/22/2012*,8:25 PM,UTEP,"Don Haskins Center • El Paso, TX(Sun Bowl Invitational)",,L 61–83,"7,132",1–10
-12/23/2012*,6:00 PM,Central Michigan,"Don Haskins Center • El Paso, TX(Sun Bowl Invitational)",,L 45–62,"7,532",1–11
-01/02/2013,7:30 PM,Mississippi Valley State,"K. L. Johnson Complex • Pine Bluff, AR",,W 79–64,"1,651",2–11 (1–0)
-01/06/2013,6:00 PM,at Alabama State,"K. L. Johnson Complex • Pine Bluff, AR",,W 73–58,"2,333",3–11 (2–0)
-01/08/2013,7:30 PM,Alabama A&M,"K. L. Johnson Complex • Pine Bluff, AR",,W 77–61,"3,989",4–11 (3–0)
-01/12/2013,4:25 PM,at Southern,"F. G. Clark Center • Baton Rouge, LA",,L 50–84,"1,880",4–12 (3–1)
+Date,Time,Opponent,Site,TV,Result,Attendance,Record,Dummy_Col_1
+12/22/2012*,8:25 PM,UTEP,"Don Haskins Center • El Paso, TX(Sun Bowl Invitational)",,L 61–83,"7,132",1–10,xcjFUG
+12/23/2012*,6:00 PM,Central Michigan,"Don Haskins Center • El Paso, TX(Sun Bowl Invitational)",,L 45–62,"7,532",1–11,BvgNmCIp
+01/02/2013,7:30 PM,Mississippi Valley State,"K. L. Johnson Complex • Pine Bluff, AR",,W 79–64,"1,651",2–11 (1–0),VBtuztw
+01/06/2013,6:00 PM,at Alabama State,"K. L. Johnson Complex • Pine Bluff, AR",,W 73–58,"2,333",3–11 (2–0),FstFJi
+01/08/2013,7:30 PM,Alabama A&M,"K. L. Johnson Complex • Pine Bluff, AR",,W 77–61,"3,989",4–11 (3–0),tLrkg
+01/12/2013,4:25 PM,at Southern,"F. G. Clark Center • Baton Rouge, LA",,L 50–84,"1,880",4–12 (3–1),DYhGIh
+01/14/2013,7:45 PM,at Alcorn State,"Davey Whitney Complex • Lorman, MS",,W 62–52,500,5–12 (4–1),dyghSplV
+01/19/2013,7:30 PM,Texas Southern,"K. L. Johnson Complex • Pine Bluff, AR",,W 66–63,"3,674",6–12 (5–1),joQXyi
+01/21/2013,7:30 PM,Prairie View A&M,"K. L. Johnson Complex • Pine Bluff, AR",,W 55–51,"3,173",7–12 (6–1),lUkMUUpZ
+01/26/2013,5:00 PM,at Grambling State,"Fredrick C. Hobdy Assembly Center • Grambling, LA",,W 79–67,"1,384",8–12 (7–1),COHDG

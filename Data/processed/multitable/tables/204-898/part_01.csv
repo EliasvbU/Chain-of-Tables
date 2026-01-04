@@ -1,6 +1,8 @@
-Seed,School,Conf (Overall),Tiebreaker
-#1,Georgetown‡†,14-4 (24-5),2-1 vs. Louisville/Marquette
-#2,Louisville‡†,14-4 (26-5),1-1 vs. Georgetown/Marquette
-#3,Marquette‡†,14-4 (23-7),1-2 vs. Georgetown/Louisville
-#4,Pittsburgh†,12-6 (24-7),
-#5,Syracuse#,11-7 (23-8),1-0 vs. Notre Dame
+Seed,School,Conf (Overall),Tiebreaker,Dummy_Col_1
+#1,Georgetown‡†,14-4 (24-5),2-1 vs. Louisville/Marquette,cuYVfJoV
+#2,Louisville‡†,14-4 (26-5),1-1 vs. Georgetown/Marquette,CICFbW
+#3,Marquette‡†,14-4 (23-7),1-2 vs. Georgetown/Louisville,bNzEIEGK
+#4,Pittsburgh†,12-6 (24-7),,XzEKPR
+#5,Syracuse#,11-7 (23-8),1-0 vs. Notre Dame,vgtvklZ
+#6,Notre Dame#,11-7 (23-8),0-1 vs. Syracuse,SjxeH
+#7,Villanova#,10-8 (19-12),,OGoLa

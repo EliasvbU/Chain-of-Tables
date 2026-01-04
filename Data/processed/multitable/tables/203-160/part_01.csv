@@ -1,7 +1,9 @@
-Rank,Heat,Nation,Competitors,Time,Notes
-1,2,United States,"Kelly Willie, Derrick Brew, Andrew Rock, Darold Williamson",2:59.30,Q
-2,2,Nigeria,"James Godday, Musa Audu, Saul Weigopwa, Enefiok Udo-Obong",3:01.60,"Q, SB"
-3,2,Bahamas,"Andrae Williams, Dennis Darling, Nathaniel McKinney, Christopher Brown",3:01.74,"Q, SB"
-4,1,Great Britain,"Timothy Benjamin, Sean Baldock, Malachi Davis, Matthew Elias",3:02.40,"Q, SB"
-5,1,Japan,"Yuki Yamaguchi, Jun Osakada, Tomohiro Ito, Mitsuhiro Sato",3:02.71,Q
-6,1,Germany,"Ingo Schultz, Kamghe Gaba, Ruwen Faller, Bastian Swillims",3:02.77,Q
+Rank,Heat,Nation,Competitors,Time,Notes,Dummy_Col_1
+1,2,United States,"Kelly Willie, Derrick Brew, Andrew Rock, Darold Williamson",2:59.30,Q,HPMWnzDk
+2,2,Nigeria,"James Godday, Musa Audu, Saul Weigopwa, Enefiok Udo-Obong",3:01.60,"Q, SB",gOnrq
+3,2,Bahamas,"Andrae Williams, Dennis Darling, Nathaniel McKinney, Christopher Brown",3:01.74,"Q, SB",vZJsWL
+4,1,Great Britain,"Timothy Benjamin, Sean Baldock, Malachi Davis, Matthew Elias",3:02.40,"Q, SB",jkfOLOEt
+5,1,Japan,"Yuki Yamaguchi, Jun Osakada, Tomohiro Ito, Mitsuhiro Sato",3:02.71,Q,SvqakxEp
+6,1,Germany,"Ingo Schultz, Kamghe Gaba, Ruwen Faller, Bastian Swillims",3:02.77,Q,qvRRuxRi
+7,1,Australia,"John Steffensen, Clinton Hill, Patrick Dwyer, Mark Ormrod",3:03.06,q,zfXslHp
+8,1,Botswana,"Oganeditse Moseki, Johnson Kubisa, California Molefe, Kagiso Kilego",3:03.32,"q, SB",PBsCfZEA

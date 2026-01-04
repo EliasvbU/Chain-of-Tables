@@ -1,7 +1,7 @@
-Component,Model 01,Model 01+,Model 02,Model e2,Model 2+ (Pre-production),model 03 (China Copy)
-Docking Cable,USB 1.1,USB 2.0,replaced by dongle or dock,replaced by dongle or dock,replaced by dongle or dock,replaced by dongle or dock
-Dock,Zinc stand,Zinc stand,Gloss Black w/ optical drive,Gloss Black w/ optical drive,Gloss Black w/ optical drive,Gloss Black w/ optical drive
-Ethernet,10BaseT,100BaseT,100BaseT,100BaseT,100BaseT,100BaseT
-Dongle,,,RJ45 & VGA,RJ45 & VGA,unknown,unknown
-Keyboard,57 key,57 key,58 key,58 key,58 key,58 key
-Weight,397g,397g,413g*,413g*,413g*,426g*
+Component,Model 01,Model 01+,Model 02,Model e2,Model 2+ (Pre-production),model 03 (China Copy),Unused_1,Unused_2
+Docking Cable,USB 1.1,USB 2.0,replaced by dongle or dock,replaced by dongle or dock,replaced by dongle or dock,replaced by dongle or dock,,
+Dock,Zinc stand,Zinc stand,Gloss Black w/ optical drive,Gloss Black w/ optical drive,Gloss Black w/ optical drive,Gloss Black w/ optical drive,,
+Ethernet,10BaseT,100BaseT,100BaseT,100BaseT,100BaseT,100BaseT,,
+Dongle,,,RJ45 & VGA,RJ45 & VGA,unknown,unknown,,
+Keyboard,57 key,57 key,58 key,58 key,58 key,58 key,,
+Weight,397g,397g,413g*,413g*,413g*,426g*,,

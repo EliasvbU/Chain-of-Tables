@@ -1,9 +1,11 @@
-Season,Level,Division,Section,Position,Movements
-1985,Tier 4,Division 3,Norra Norrland,5th,
-1986,Tier 4,Division 3,Norra Norrland,4th,Promoted
-1987,Tier 3,Division 2,Norra,5th,
-1988,Tier 3,Division 2,Norra,1st,Promoted
-1989,Tier 2,Division 1,Norra,3rd,
-1990,Tier 2,Division 1,Norra,6th,
-1991,Tier 2,Division 1,Norra,1st,Spring
-,Tier 2,Division 1,Kvalsvenskan,8th,Autumn
+Season,Level,Division,Section,Position,Movements,Extra_Data_1,Filler_2
+1985,Tier 4,Division 3,Norra Norrland,5th,,857,ubPMj
+1986,Tier 4,Division 3,Norra Norrland,4th,Promoted,350,RGLljvH
+1987,Tier 3,Division 2,Norra,5th,,758,jlSgY
+1988,Tier 3,Division 2,Norra,1st,Promoted,344,cTPmnevF
+1989,Tier 2,Division 1,Norra,3rd,,130,IeuhV
+1990,Tier 2,Division 1,Norra,6th,,341,ojCvn
+1991,Tier 2,Division 1,Norra,1st,Spring,107,NWbzmKAQ
+,Tier 2,Division 1,Kvalsvenskan,8th,Autumn,127,wAWlegp
+1992,Tier 2,Division 1,Norra,7th,Spring,351,aQbGP
+,Tier 2,Division 1,Norra,8th,Autumn - Relegated,426,vseWv

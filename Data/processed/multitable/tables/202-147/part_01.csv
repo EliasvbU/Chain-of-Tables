@@ -1,7 +1,7 @@
-Kant,Latitude,Longitude,Diameter
-B,9.7° S,18.6° E,16 km
-C,9.3° S,22.1° E,20 km
-D,11.5° S,18.7° E,52 km
-G,9.2° S,19.5° E,32 km
-H,9.1° S,20.8° E,7 km
-N,9.9° S,19.7° E,10 km
+Kant,Latitude,Longitude,Diameter,Extra_Data_1,Dummy_Col_2,Dummy_Col_3
+B,9.7° S,18.6° E,16 km,915,KBRdNcT,MZhLd
+C,9.3° S,22.1° E,20 km,271,rKaFExcR,OrwPDU
+D,11.5° S,18.7° E,52 km,355,JrkOBrL,VIWpT
+G,9.2° S,19.5° E,32 km,409,ZmJLqER,peiFKK
+H,9.1° S,20.8° E,7 km,161,uFsHLTdG,jGguW
+N,9.9° S,19.7° E,10 km,108,ZanIY,POprLBf

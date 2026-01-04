@@ -1,12 +1,12 @@
-#,Stadium,Capacity,City,Country,Domed or Retractable roof
-36,Marlins Ballpark,"37,000","Miami, Florida",United States,RR
-37,Osaka Dome,"36,477",Osaka,Japan,D
-38,Fukuoka Dome,"35,695",Fukuoka,Japan,RR
-39,Seibu Dome,"35,655",Tokorozawa,Japan,RR
-40,Ordos Stadium,"35,107",Ordos,China,RR
-41,Parken Stadion,"38,065",Copenhagen,Denmark,RR
-42,GelreDome,"32,500",Arnhem,Netherlands,RR; retractable playing surface
-43,Nantong Stadium,"32,244",Nantong,China,RR
-44,Forsyth Barr Stadium at University Plaza,"30,748",Dunedin,New Zealand,D
-45,Astana Arena,"30,000",Astana,Kazakhstan,RR
-46,Tele2 Arena,"30,000",Stockholm,Sweden,RR
+#,Stadium,Capacity,City,Country,Domed or Retractable roof,Extra_Data_1,Dummy_Col_2
+36,Marlins Ballpark,"37,000","Miami, Florida",United States,RR,608,vHKgzCp
+37,Osaka Dome,"36,477",Osaka,Japan,D,803,FGqlWOC
+38,Fukuoka Dome,"35,695",Fukuoka,Japan,RR,102,trSCwGaJ
+39,Seibu Dome,"35,655",Tokorozawa,Japan,RR,314,xDDbGPBq
+40,Ordos Stadium,"35,107",Ordos,China,RR,545,vSvzsy
+41,Parken Stadion,"38,065",Copenhagen,Denmark,RR,856,szGDZgrY
+42,GelreDome,"32,500",Arnhem,Netherlands,RR; retractable playing surface,548,FMIZCopm
+43,Nantong Stadium,"32,244",Nantong,China,RR,540,jZqrV
+44,Forsyth Barr Stadium at University Plaza,"30,748",Dunedin,New Zealand,D,139,WJeCcYU
+45,Astana Arena,"30,000",Astana,Kazakhstan,RR,259,MDRXnGN
+46,Tele2 Arena,"30,000",Stockholm,Sweden,RR,340,YlOkq

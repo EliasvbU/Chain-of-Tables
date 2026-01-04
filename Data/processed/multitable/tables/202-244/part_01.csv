@@ -1,8 +1,14 @@
-Rank,Title,Studio,Actors,Gross
-1.,Star Wars*,Lucasfilm/20th Century Fox,"Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, David Prowse, James Earl Jones, Anthony Daniels, Kenny Baker and Peter Mayhew","$460,998,007"
-2.,Smokey and the Bandit,Universal/Rastar,"Burt Reynolds, Sally Field, Jackie Gleason, Jerry Reed and Mike Henry","$300,000,000"
-3.,Close Encounters of the Third Kind*,Columbia,"Richard Dreyfuss, Teri Garr, Melinda Dillon and François Truffaut","$166,000,000"
-4.,Saturday Night Fever,Paramount,John Travolta and Karen Lynn Gorney,"$139,486,124"
-5.,The Goodbye Girl,MGM/Warner Bros./Rastar,"Richard Dreyfuss, Marsha Mason and Quinn Cummings","$102,000,000"
-6.,The Rescuers*,Disney,"voices of Eva Gabor, Bob Newhart and Geraldine Page","$71,215,869"
-7.,"Oh, God!",Warner Bros.,"George Burns, John Denver and Teri Garr","$51,061,196"
+Rank,Title,Studio,Actors,Gross,Irrelevant_1,Extra_Data_2,Random_Column_3
+1.,Star Wars*,Lucasfilm/20th Century Fox,"Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, David Prowse, James Earl Jones, Anthony Daniels, Kenny Baker and Peter Mayhew","$460,998,007",SaKdx5w,335,CIAY7WcP
+2.,Smokey and the Bandit,Universal/Rastar,"Burt Reynolds, Sally Field, Jackie Gleason, Jerry Reed and Mike Henry","$300,000,000",KGhSSGZZ,361,g9OJk4ol
+3.,Close Encounters of the Third Kind*,Columbia,"Richard Dreyfuss, Teri Garr, Melinda Dillon and François Truffaut","$166,000,000",aCp44f5,538,SPL2b
+4.,Saturday Night Fever,Paramount,John Travolta and Karen Lynn Gorney,"$139,486,124",eEGvUmr,730,Eo31eF
+5.,The Goodbye Girl,MGM/Warner Bros./Rastar,"Richard Dreyfuss, Marsha Mason and Quinn Cummings","$102,000,000",IrjOoPWF,834,WV1BM5Z
+6.,The Rescuers*,Disney,"voices of Eva Gabor, Bob Newhart and Geraldine Page","$71,215,869",NmAQFBu,844,x7zrD
+7.,"Oh, God!",Warner Bros.,"George Burns, John Denver and Teri Garr","$51,061,196",hZDoKmlW,215,7udq9t
+8.,A Bridge Too Far,United Artists,"Dirk Bogarde, James Caan, Sean Connery, Elliott Gould, Laurence Olivier, Ryan O'Neal, Robert Redford, Liv Ullmann, Michael Caine, Edward Fox, Anthony Hopkins, Gene Hackman, Hardy Krüger and Maximilian Schell","$50,800,000",vTaD8n,70,XWAuX1
+9.,The Deep,Columbia,"Robert Shaw, Nick Nolte and Jacqueline Bisset","$50,681,884",jecY9Iyo,497,SQJR9
+10.,The Spy Who Loved Me,United Artists,"Roger Moore, Barbara Bach, Curd Jürgens and Richard Kiel","$46,838,673",5pYkE,720,dgcbVT
+11.,Annie Hall,United Artists,Woody Allen and Diane Keaton,"$38,251,425",W0Sqqb,993,lkUyF06V
+12.,Semi-Tough,United Artists,"Burt Reynolds, Kris Kristofferson and Jill Clayburgh","$37,187,139",vsiC9,170,d2YUkO
+13.,Pete's Dragon,Disney,"Helen Reddy, Mickey Rooney and Shelley Winters","$36,000,000",XUNau4,911,SudRZlj

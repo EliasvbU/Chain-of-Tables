@@ -1,18 +1,18 @@
-Map (coordinates),Municipality,Area(square kilometers) (square miles),Population,Mesoregion,Microregion
-6°24′42″S 36°47′23″W﻿ / ﻿6.41167°S 36.78972°W,Currais Novos,864.431 (333.757),"42,668",Central Potiguar,Seridó Oriental
-6°5′40″S 38°22′29″W﻿ / ﻿6.09444°S 38.37472°W,Doutor Severiano,108.277 (41.786),"6,495",Oeste Potiguar,Serra de São Miguel
-6°6′38″S 38°18′19″W﻿ / ﻿6.11056°S 38.30528°W,Encanto,125.747 (48.555),"5,228",Oeste Potiguar,Serra de São Miguel
-6°56′42″S 36°43′6″W﻿ / ﻿6.94500°S 36.71833°W,Equador,264.983 (102.310),"5,822",Central Potiguar,Seridó Oriental
-6°19′56″S 35°18′34″W﻿ / ﻿6.33222°S 35.30944°W,Espírito Santo,143.673 (55.472),"10,480",Leste Potiguar,Litoral Sul
-5°42′20″S 35°18′26″W﻿ / ﻿5.70556°S 35.30722°W,Extremoz,125.665 (48.519),"24,550",Leste Potiguar,Natal
-5°36′9″S 37°41′19″W﻿ / ﻿5.60250°S 37.68861°W,Felipe Guerra,268.427 (103.640),"5,734",Oeste Potiguar,Chapada do Apodi
-5°41′50″S 36°31′52″W﻿ / ﻿5.69722°S 36.53111°W,Fernando Pedroza,322.540 (124.533),"2,850",Central Potiguar,Angicos
-6°7′38″S 36°49′5″W﻿ / ﻿6.12722°S 36.81806°W,Florânia,504.022 (194.603),"9,672",Central Potiguar,Serra de Santana
-6°4′42″S 38°7′10″W﻿ / ﻿6.07833°S 38.11944°W,Francisco Dantas,181.593 (70.113),"2,874",Oeste Potiguar,Pau dos Ferros
-6°9′30″S 37°53′23″W﻿ / ﻿6.15833°S 37.88972°W,Frutuoso Gomes,63.278 (24.432),"4,233",Oeste Potiguar,Umarizal
-5°5′26″S 36°16′31″W﻿ / ﻿5.09056°S 36.27528°W,Galinhos,342.442 (132.217),"2,150",Central Potiguar,Macau
-6°15′53″S 35°12′35″W﻿ / ﻿6.26472°S 35.20972°W,Goianinha,192.227 (74.219),"22,467",Leste Potiguar,Litoral Sul
-5°27′32″S 37°31′15″W﻿ / ﻿5.45889°S 37.52083°W,Governador Dix-Sept Rosado,"1,129.373 (436.051)","12,373",Oeste Potiguar,Chapada do Apodi
-4°58′47″S 37°9′17″W﻿ / ﻿4.97972°S 37.15472°W,Grossos,126.451 (48.823),"9,393",Oeste Potiguar,Mossoró
-5°6′27″S 36°19′13″W﻿ / ﻿5.10750°S 36.32028°W,Guamaré,259.181 (100.070),"12,431",Central Potiguar,Macau
-5°49′27″S 35°33′10″W﻿ / ﻿5.82417°S 35.55278°W,Ielmo Marinho,305.185 (117.832),"12,188",Agreste Potiguar,Agreste Potiguar
+Map (coordinates),Municipality,Area(square kilometers) (square miles),Population,Mesoregion,Microregion,Dummy_Col_1,Dummy_Col_2,Extra_Data_3
+6°24′42″S 36°47′23″W﻿ / ﻿6.41167°S 36.78972°W,Currais Novos,864.431 (333.757),"42,668",Central Potiguar,Seridó Oriental,PvfMS,ExLBci,265
+6°5′40″S 38°22′29″W﻿ / ﻿6.09444°S 38.37472°W,Doutor Severiano,108.277 (41.786),"6,495",Oeste Potiguar,Serra de São Miguel,uXvLr,uKIQllFc,65
+6°6′38″S 38°18′19″W﻿ / ﻿6.11056°S 38.30528°W,Encanto,125.747 (48.555),"5,228",Oeste Potiguar,Serra de São Miguel,NAARama,FsMChXEr,252
+6°56′42″S 36°43′6″W﻿ / ﻿6.94500°S 36.71833°W,Equador,264.983 (102.310),"5,822",Central Potiguar,Seridó Oriental,AmJzGUEw,IrNvULCu,718
+6°19′56″S 35°18′34″W﻿ / ﻿6.33222°S 35.30944°W,Espírito Santo,143.673 (55.472),"10,480",Leste Potiguar,Litoral Sul,RaznEQL,WMurP,468
+5°42′20″S 35°18′26″W﻿ / ﻿5.70556°S 35.30722°W,Extremoz,125.665 (48.519),"24,550",Leste Potiguar,Natal,akYCwrUO,lOdzx,551
+5°36′9″S 37°41′19″W﻿ / ﻿5.60250°S 37.68861°W,Felipe Guerra,268.427 (103.640),"5,734",Oeste Potiguar,Chapada do Apodi,KcSZjZmI,lQhAi,808
+5°41′50″S 36°31′52″W﻿ / ﻿5.69722°S 36.53111°W,Fernando Pedroza,322.540 (124.533),"2,850",Central Potiguar,Angicos,CoPoJqgU,NKnbCPp,471
+6°7′38″S 36°49′5″W﻿ / ﻿6.12722°S 36.81806°W,Florânia,504.022 (194.603),"9,672",Central Potiguar,Serra de Santana,WSneRxc,mzYyZ,490
+6°4′42″S 38°7′10″W﻿ / ﻿6.07833°S 38.11944°W,Francisco Dantas,181.593 (70.113),"2,874",Oeste Potiguar,Pau dos Ferros,bESHYn,iTtKovk,366
+6°9′30″S 37°53′23″W﻿ / ﻿6.15833°S 37.88972°W,Frutuoso Gomes,63.278 (24.432),"4,233",Oeste Potiguar,Umarizal,ClBCHBZ,GwZCSuQ,744
+5°5′26″S 36°16′31″W﻿ / ﻿5.09056°S 36.27528°W,Galinhos,342.442 (132.217),"2,150",Central Potiguar,Macau,uSVFcM,MEudM,788
+6°15′53″S 35°12′35″W﻿ / ﻿6.26472°S 35.20972°W,Goianinha,192.227 (74.219),"22,467",Leste Potiguar,Litoral Sul,DXHkIQl,yrZhN,976
+5°27′32″S 37°31′15″W﻿ / ﻿5.45889°S 37.52083°W,Governador Dix-Sept Rosado,"1,129.373 (436.051)","12,373",Oeste Potiguar,Chapada do Apodi,ihtdbxk,SuADm,272
+4°58′47″S 37°9′17″W﻿ / ﻿4.97972°S 37.15472°W,Grossos,126.451 (48.823),"9,393",Oeste Potiguar,Mossoró,XGvdYb,ZrMBsu,958
+5°6′27″S 36°19′13″W﻿ / ﻿5.10750°S 36.32028°W,Guamaré,259.181 (100.070),"12,431",Central Potiguar,Macau,WSPtdm,suOFBGQ,872
+5°49′27″S 35°33′10″W﻿ / ﻿5.82417°S 35.55278°W,Ielmo Marinho,305.185 (117.832),"12,188",Agreste Potiguar,Agreste Potiguar,TlJHNWv,kvFmdG,805

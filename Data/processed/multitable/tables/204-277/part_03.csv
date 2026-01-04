@@ -1,13 +1,13 @@
-Region,Country,Location,Size (m),Payload (metric tonnes),Degrees of Freedom,X Horiz Disp (mm),Y Horiz Disp (mm),Z Vert Disp (mm),X Horiz Vel (mm/s),Y Horiz vel (mm/s),Z Vert vel (mm/s),X Horiz accel (m/s2),Y Horiz accel (m/s2),Z Vert accel (m/s2),Max Freq (Hz),Details checked
-Asia,Japan,Building Research Institute,3 x 4,20,3,?,?,?,?,?,?,?,?,?,?,?
-Asia,Japan,Central Research Institute of Electric Power Industry,5 x 5,60,1,±500,n/a,n/a,±1500,n/a,n/a,±10,n/a,n/a,30,12/3/2008
-Asia,Japan,"NIED ‘E-Defence’ Laboratory, Miki City",20 x 15,1200,6,±1000,±1000,±500,±2000,±2000,±700,±9,±9,±15,50,3/3/2008
-Asia,Japan,Fujita Corporation,4 x 4,25,1,±500,n/a,n/a,±1500,n/a,n/a,±10,n/a,n/a,50,?
-Asia,Japan,Hazama Corp Ltd.,6 x 4,80,3,±300,±150,±100,±1150,?,?,±20,±3,±2,50,?
-Asia,Japan,Hitachi Engineering Corp,4 x 4,20,1,±150,?,?,±750,?,?,±20,?,?,30,?
-Asia,Japan,Ishikawajima Harima Heavy Ind Corp.,4.5 x 4.5,35,6,±100,±100,±67,±750,±750,±500,±15,±15,±10,50,?
-Asia,Japan,JDC Corp.,?,20,6,±300,?,?,±1000,?,?,±10,?,?,50,?
-Asia,Japan,Kawasaki Heavy Industries Corp.,?,30,3,±75,?,?,±400,?,?,±10,?,?,50,?
-Asia,Japan,Kajima Corp. Ltd. (1 of 2),5 x 5,50,6,±200,±200,±100,±1000,±1000,±500,±20,±20,±20,60,3/3/2008
-Asia,Japan,Kajima Corp. Ltd. (2 of 2),4 x 4,20,2,±150,n/a,±75,±1140,n/a,±4450,±20,n/a,±10,50,?
-Asia,Japan,Kumagai-Gumi Corp Ltd,5 x 5,64,6,±80,±260,±50,±600,±1500,±500,±30,±10,±10,70,?
+Region,Country,Location,Size (m),Payload (metric tonnes),Degrees of Freedom,X Horiz Disp (mm),Y Horiz Disp (mm),Z Vert Disp (mm),X Horiz Vel (mm/s),Y Horiz vel (mm/s),Z Vert vel (mm/s),X Horiz accel (m/s2),Y Horiz accel (m/s2),Z Vert accel (m/s2),Max Freq (Hz),Details checked,Dummy_Col_1,Extra_Data_2,Unused_3
+Asia,Japan,Building Research Institute,3 x 4,20,3,?,?,?,?,?,?,?,?,?,?,?,sieUp,268,
+Asia,Japan,Central Research Institute of Electric Power Industry,5 x 5,60,1,±500,n/a,n/a,±1500,n/a,n/a,±10,n/a,n/a,30,12/3/2008,uAFib,255,
+Asia,Japan,"NIED ‘E-Defence’ Laboratory, Miki City",20 x 15,1200,6,±1000,±1000,±500,±2000,±2000,±700,±9,±9,±15,50,3/3/2008,hKrZi,28,
+Asia,Japan,Fujita Corporation,4 x 4,25,1,±500,n/a,n/a,±1500,n/a,n/a,±10,n/a,n/a,50,?,ZxYuNHy,577,
+Asia,Japan,Hazama Corp Ltd.,6 x 4,80,3,±300,±150,±100,±1150,?,?,±20,±3,±2,50,?,zweRJ,614,
+Asia,Japan,Hitachi Engineering Corp,4 x 4,20,1,±150,?,?,±750,?,?,±20,?,?,30,?,TqSre,248,
+Asia,Japan,Ishikawajima Harima Heavy Ind Corp.,4.5 x 4.5,35,6,±100,±100,±67,±750,±750,±500,±15,±15,±10,50,?,IpbZnfU,128,
+Asia,Japan,JDC Corp.,?,20,6,±300,?,?,±1000,?,?,±10,?,?,50,?,OhCvanir,279,
+Asia,Japan,Kawasaki Heavy Industries Corp.,?,30,3,±75,?,?,±400,?,?,±10,?,?,50,?,VPlvpN,221,
+Asia,Japan,Kajima Corp. Ltd. (1 of 2),5 x 5,50,6,±200,±200,±100,±1000,±1000,±500,±20,±20,±20,60,3/3/2008,IwwaIDc,673,
+Asia,Japan,Kajima Corp. Ltd. (2 of 2),4 x 4,20,2,±150,n/a,±75,±1140,n/a,±4450,±20,n/a,±10,50,?,FdEBXNHp,127,
+Asia,Japan,Kumagai-Gumi Corp Ltd,5 x 5,64,6,±80,±260,±50,±600,±1500,±500,±30,±10,±10,70,?,fBhPV,179,

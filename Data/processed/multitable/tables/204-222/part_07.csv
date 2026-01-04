@@ -1,14 +1,14 @@
-Launch Date,STS Number,Payload Name,Payload Classification,ExperimentName,Payload Carrier Hardware
-11/19/96,80,SEM-01,SEM,SEM-01,Adapter Beam
-04/04/97,83,CRYOFD,HH,"Cryogenic Flexible Diode (CRYOFD),NASA GSFC/USAF Phillips Lab",Adapter Beam
-08/07/97,85,TAS-01,HH,"Shuttle Laser Altimeter (SLA-02), NASA GSFCInfrared Spectral Imaging Radiometer (ISIR), NASA GSFCCritical Viscosity of Xenon (CVX-01), NASA LeRCSpace Experiment Module (SEM-02), NASA GSFCSolar Constant (SOLCON-1), Royal Meteorological Institute of BelgiumTwo-Phase Flow (TPF), NASA GSFCCOOLLAR Flight Experiment (CFE), USAF Phillips Lab",HH Bridge
-08/07/97,85,TAS-01,SEM,SEM-02,HHBridge
-08/07/97,85,IEH-2,HH,"Ultraviolet Spectrograph Telescope for Astronomical Research (UVSTAR), U of AZ/ESAShuttle Glow Experiment-5 & 6 (GLO-5 & 6), U of AZSolar Extreme Ultraviolet Hitchhiker (SEH), USCDistribution and Automation Technology Advancement - Colorado HitchhikerAnd Student Experiment of solar Radiation (DATA-CHASER), Universityof Colorado",HHBridge
-08/07/97,85,G-572G-745,GAS,G-572G-745,Adapter Beam
-19/25/97,86,SEEDSII,CAP,SEEDSII,Adapter Beam
-11/19/97,87,LHP/NaSBE (LNBP),HH,"Loop Heat Pipe Experiment (LHP), DynathermSodium Surface Battery Experiment (NaSBE), NRL",Adapter Beam
-11/19/97,87,SOLSE-01,HH-Jr,"Shuttle Ozone Limb Sounding Experiment (SOLSE-01), NASA GSFC",AdapterBeam
-11/19/97,87,TGDF,CAP,TGDF,AdapterBeam
-11/19/97,87,G-036,GAS,G-036,AdapterBeam
-12/04/98,88,MIGHTYSAT-1,HH,"MightySat-1, USAF PhillipsLabSatellite de Aplicaciones Cientifico-A (SAC-A), Argentinean National Commission of Space Activities",Adapter Beam
-12/04/98,88,JSC APFR,HH,JSC APFR,AdapterBeam
+Launch Date,STS Number,Payload Name,Payload Classification,ExperimentName,Payload Carrier Hardware,Irrelevant_1,Unused_2,Dummy_Col_3
+11/19/96,80,SEM-01,SEM,SEM-01,Adapter Beam,2PQsCy,,kYlcE
+04/04/97,83,CRYOFD,HH,"Cryogenic Flexible Diode (CRYOFD),NASA GSFC/USAF Phillips Lab",Adapter Beam,pjfcHh0,,VHzrxaW
+08/07/97,85,TAS-01,HH,"Shuttle Laser Altimeter (SLA-02), NASA GSFCInfrared Spectral Imaging Radiometer (ISIR), NASA GSFCCritical Viscosity of Xenon (CVX-01), NASA LeRCSpace Experiment Module (SEM-02), NASA GSFCSolar Constant (SOLCON-1), Royal Meteorological Institute of BelgiumTwo-Phase Flow (TPF), NASA GSFCCOOLLAR Flight Experiment (CFE), USAF Phillips Lab",HH Bridge,OW2P7,,YdEZoN
+08/07/97,85,TAS-01,SEM,SEM-02,HHBridge,qZu3rUVJ,,YpOhTES
+08/07/97,85,IEH-2,HH,"Ultraviolet Spectrograph Telescope for Astronomical Research (UVSTAR), U of AZ/ESAShuttle Glow Experiment-5 & 6 (GLO-5 & 6), U of AZSolar Extreme Ultraviolet Hitchhiker (SEH), USCDistribution and Automation Technology Advancement - Colorado HitchhikerAnd Student Experiment of solar Radiation (DATA-CHASER), Universityof Colorado",HHBridge,PqLI00Un,,kUjDZksa
+08/07/97,85,G-572G-745,GAS,G-572G-745,Adapter Beam,Q7peSWFZ,,ncAqd
+19/25/97,86,SEEDSII,CAP,SEEDSII,Adapter Beam,5tQKxqs6,,ZeBmehw
+11/19/97,87,LHP/NaSBE (LNBP),HH,"Loop Heat Pipe Experiment (LHP), DynathermSodium Surface Battery Experiment (NaSBE), NRL",Adapter Beam,J180SRN,,UaDppQbx
+11/19/97,87,SOLSE-01,HH-Jr,"Shuttle Ozone Limb Sounding Experiment (SOLSE-01), NASA GSFC",AdapterBeam,MFDUnnJn,,IpaRtkuH
+11/19/97,87,TGDF,CAP,TGDF,AdapterBeam,JCfqS,,ARmdG
+11/19/97,87,G-036,GAS,G-036,AdapterBeam,C7n35goj,,dDtkZamS
+12/04/98,88,MIGHTYSAT-1,HH,"MightySat-1, USAF PhillipsLabSatellite de Aplicaciones Cientifico-A (SAC-A), Argentinean National Commission of Space Activities",Adapter Beam,YR2W0WBi,,NxZenrFJ
+12/04/98,88,JSC APFR,HH,JSC APFR,AdapterBeam,aQ63IM,,lExEqi

@@ -1,6 +1,6 @@
-Pos.,Driver,Co-Driver,Car,Time
-6,Filipe Freitas,Daniel Figueiroa,Mitsubishi Lancer X R4,+5m36s
-7,Filipe Pires,Vasco Rodrigues,Mitsubishi Lancer X,+9m11.2s
-8,Luís Serrado,João Sousa,Peugeot 206 S1600,+10m53.7s
-9,José Camacho,Fernando Spínola,Peugeot 206 S1600,+13m08.3s
-10,Rui Conceição,Duarte Coelho,Ford Escort Cosworth,+16m50.1s
+Pos.,Driver,Co-Driver,Car,Time,Extra_Data_1,Noise_Field_2
+6,Filipe Freitas,Daniel Figueiroa,Mitsubishi Lancer X R4,+5m36s,960,GumHF
+7,Filipe Pires,Vasco Rodrigues,Mitsubishi Lancer X,+9m11.2s,126,PSmgETVd
+8,Luís Serrado,João Sousa,Peugeot 206 S1600,+10m53.7s,567,LOtfkh
+9,José Camacho,Fernando Spínola,Peugeot 206 S1600,+13m08.3s,299,rCthnJ
+10,Rui Conceição,Duarte Coelho,Ford Escort Cosworth,+16m50.1s,619,wApws

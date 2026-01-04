@@ -1,6 +1,8 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-1,Vietnam (VIE),3,0,3,6
-2,South Korea (KOR),2,1,2,5
-3,Kyrgyzstan (KGZ),1,1,2,4
-4,Kazakhstan (KAZ),1,1,1,3
-5,Iraq (IRQ),1,0,1,2
+Rank,Nation,Gold,Silver,Bronze,Total,Dummy_Col_1
+1,Vietnam (VIE),3,0,3,6,entJMAld
+2,South Korea (KOR),2,1,2,5,WbleqXn
+3,Kyrgyzstan (KGZ),1,1,2,4,NBkOf
+4,Kazakhstan (KAZ),1,1,1,3,BkDAKRs
+5,Iraq (IRQ),1,0,1,2,sosHh
+5,Turkmenistan (TKM),1,0,1,2,gZFFft
+7,Jordan (JOR),0,2,3,5,oJfRk

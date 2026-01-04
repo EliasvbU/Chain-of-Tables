@@ -1,10 +1,12 @@
-name,railway,series,maker,dates,drive,wheel arrangement,weight,power,notes
-China Railways HXN3,China Railways,HXN30001-HXN30300,"Dalian Locomotive, EMD",2008–,Diesel-Electric,Co'Co',150 t,"6,300 horsepower (4,698 kW)",Most powerful diesel-electric locomotive in active production.
-China Railways HXN5,China Railways,HXN50001-HXN50300,"GE, CSR Qishuyan Locomotive",2008–,Diesel-Electric,Co'Co',150 t,"6,250 horsepower (4,661 kW)",Most powerful diesel-electric locomotive in active production.
-China Railways HXD1,China Railways,HXD10001-HXD10220,"CSR Zhuzhou Electric Locomotive, Siemens",2006–08,Electric,Bo'Bo'+Bo'Bo',200 t,"12,874 horsepower (9,600 kW)",
-China Railways HXD2,China Railways,HXD20001-HXD20180,"Datong Electric Locomotive, Alstom",2006–08,Electric,Bo'Bo'+Bo'Bo',200 t,"13,410 horsepower (10,000 kW)",
-China Railways HXD3,China Railways,"HXD30001-HXD30890, HXD38001-38150","Toshiba, Dalian Locomotive",2006–09,Electric,Co'Co',150 t,"9,655 horsepower (7,200 kW)",
-China Railways HXD1B,China Railways,HXD1B0001-HXD1B0500,"CSR Zhuzhou Electric Locomotive, Siemens",2009–,Electric,Co'Co',150 t,"12,874 horsepower (9,600 kW)",Most powerful single-frame locomotive in series production
-China Railways HXD2B,China Railways,HXD2B0001-HXD2B0500,"Datong Electric Locomotive, Alstom",2009–,Electric,Co'Co',150 t,"12,874 horsepower (9,600 kW)",Most powerful single-frame locomotive in series production
-China Railways HXD3B,China Railways,HXD3B0001-HXD3B0500,"Dalian, Bombardier",2009–,Electric,Co'Co',150 t,"12,874 horsepower (9,600 kW)",Most powerful single-frame locomotive in series production
-China Railways HXD1C,China Railways,HXD1C0001-HXD1C0990,"CSR Zhuzhou Electric Locomotive, Siemens",2009–,Electric,Co'Co',150 t,"9,655 horsepower (7,200 kW)",
+name,railway,series,maker,dates,drive,wheel arrangement,weight,power,notes,Random_Column_1
+China Railways HXD2B,China Railways,HXD2B0001-HXD2B0500,"Datong Electric Locomotive, Alstom",2009–,Electric,Co'Co',150 t,"12,874 horsepower (9,600 kW)",Most powerful single-frame locomotive in series production,VCztMT
+China Railways HXD3B,China Railways,HXD3B0001-HXD3B0500,"Dalian, Bombardier",2009–,Electric,Co'Co',150 t,"12,874 horsepower (9,600 kW)",Most powerful single-frame locomotive in series production,XYgxU
+China Railways HXD1C,China Railways,HXD1C0001-HXD1C0990,"CSR Zhuzhou Electric Locomotive, Siemens",2009–,Electric,Co'Co',150 t,"9,655 horsepower (7,200 kW)",,OWUwulQ
+China Railways HXD2C,China Railways,HXD2C0001-,"Datong Electric Locomotive, Alstom",2010–,Electric,Co'Co',150 t,"9,655 horsepower (7,200 kW)",,5qJBCO
+China Railways HXD3C,China Railways,HXD3C0001-,"Dalian, Bombardier",2010–,Electric,Co'Co',150 t,"9,655 horsepower (7,200 kW)",,2PVH7r
+IORE,Malmbanan,IORE 101-IORE 126,Bombardier,2000–04,Electric,Co'Co'+Co'Co',360 t,"14,483 horsepower (10,800 kW)for a pair, possible to operate halves which is not usually done",Highest continuous tractive effort,YwsJs4mz
+Jawn Henry,Norfolk and Western Railway (N&W),2300,Baldwin Locomotive Works,1954-58,Steam Turbine Electric,C+C-C+C,404 t,"4,500 horsepower (3,356 kW)","Struck from the N&W roster on January 4, 1958",SLjVkKw
+VL85,Russian Railways,270,Novocherkassk Electric Locomotive Plant,1983-94,Electric,Bo'Bo'Bo'+Bo'Bo'Bo',300 t,"13,437 horsepower (10,020 kW)",,bqI0RR
+WDG5,Indian Railways,,EMD / DLW,2012–present,Diesel-Electric Transmission,Bo-Bo-Bo,,5500HP locomotive with 560KN tractive effort,"The most powerful diesel locomotive in India. A vision statement of IR suggests that up to 5,000 units of this class will be manufactured by 2020.",UXCZ0H0
+Union Pacific Coal GTEL,Union Pacific,80 (later 8080),Union Pacific Omaha Shops,1961,Diesel-Electric + Gas Turbine-Electric,A1A-A1A+2-D-D-2,728 t,"7,000 horsepower (5,220 kW) (2000hp Diesel + 5000hp turbine)","Home-built experimental coal-fired gas turbine. Assembled from ALCO PA-1 UP #607, GN W1 #5018, and the tender from Challenger #3990. 215 feet (66 m) overall length; 1,457,280 pounds (661,011 kg) total weight. Unsuccessful; set aside in 1964 and scrapped in 1968.",Vsp6n
+H220,Victorian Railways,H Class,Victorian Railways / [Newport Workshop],1941–1958,"220 PSI Steam Boiler, 3 Cylinder",4-8-4,265t,"3,600 HP / 2,680KW coal fired steam locomotive (50 mph) with 245KN tractive effort.","The most powerful steam locomotive, at the time built in, Australia. 1 Built. Preserved at Newport, Victoria",SEiOMyI

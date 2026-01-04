@@ -1,5 +1,5 @@
-Frequency Band,Band number,Radio Interface,Generation,Status,Notes
-1900 MHz PCS,2,UMTS/HSPA+ 21Mbit/s,4G,In Service/Building out,"HSPA+ 21Mbps on the 1900 band — this is due to the T-Mobile’s 1900MHz not being DC-HSDPA capable. Moving 3G HSPA+ traffic to this band. Covers 203 million POPs as of Oct, 2013"
-1700/2100 MHz AWS,4,LTE,4G,In Service/Building out,"Covers 210 million POPs as of March, 2014"
-700 MHz Block A,12,LTE,4G,Rollout starts by Q4 2014,Spectrum acquired from Verizon Wireless
-1900 MHz PCS,2,LTE,4G,Rolling out in 2014,
+Frequency Band,Band number,Radio Interface,Generation,Status,Notes,Filler_1,Noise_Field_2
+1900 MHz PCS,2,UMTS/HSPA+ 21Mbit/s,4G,In Service/Building out,"HSPA+ 21Mbps on the 1900 band — this is due to the T-Mobile’s 1900MHz not being DC-HSDPA capable. Moving 3G HSPA+ traffic to this band. Covers 203 million POPs as of Oct, 2013",wLQLHM,cEcbpS
+1700/2100 MHz AWS,4,LTE,4G,In Service/Building out,"Covers 210 million POPs as of March, 2014",Xqyqc,huhBqL
+700 MHz Block A,12,LTE,4G,Rollout starts by Q4 2014,Spectrum acquired from Verizon Wireless,IIhKw,lDecRD
+1900 MHz PCS,2,LTE,4G,Rolling out in 2014,,tdfqPpW,kYVOEv

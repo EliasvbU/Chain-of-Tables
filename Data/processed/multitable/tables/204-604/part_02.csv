@@ -1,7 +1,10 @@
-Year,Date,Driver,Team,Manufacturer,Race DistanceLaps,Race DistanceMiles (km),Race Time,Average Speed(mph),Report
-2003,April 27,Kurt Busch,Roush Racing,Ford,250,500 (804.672),3:34:07,140.111,Report
-2004,May 2,Jeff Gordon,Hendrick Motorsports,Chevrolet,250,500 (804.672),3:38:33,137.268,Report
-2005,February 27,Greg Biffle,Roush Racing,Ford,250,500 (804.672),3:34:45,139.697,Report
-2006,February 26,Matt Kenseth,Roush Racing,Ford,251*,502 (807.89),3:23:43,147.852,Report
-2007,February 25,Matt Kenseth,Roush Fenway Racing,Ford,250,500 (804.672),3:36:41,138.451,Report
-2008,Feb 24/25*,Carl Edwards,Roush Fenway Racing,Ford,250,500 (804.672),3:46:04,132.704,Report
+Year,Date,Driver,Team,Manufacturer,Race DistanceLaps,Race DistanceMiles (km),Race Time,Average Speed(mph),Report,Unused_1,Filler_2,Noise_Field_3
+2006,February 26,Matt Kenseth,Roush Racing,Ford,251*,502 (807.89),3:23:43,147.852,Report,,BmHiiq,qfnrWlr
+2007,February 25,Matt Kenseth,Roush Fenway Racing,Ford,250,500 (804.672),3:36:41,138.451,Report,,xBwaeM,MnDdzr
+2008,Feb 24/25*,Carl Edwards,Roush Fenway Racing,Ford,250,500 (804.672),3:46:04,132.704,Report,,QnwuHI,zUXBr
+2009,February 22,Matt Kenseth,Roush Fenway Racing,Ford,250,500 (804.672),3:40:51,135.839,Report,,cCaxdB,ILZzzV
+2010,February 21,Jimmie Johnson,Hendrick Motorsports,Chevrolet,250,500 (804.672),3:31:24,141.911,Report,,czZVO,iLnzx
+2011*,March 27,Kevin Harvick,Richard Childress Racing,Chevrolet,200,400 (643.737),2:39:06,150.849,Report,,pbBVC,BKkur
+2012,March 25,Tony Stewart,Stewart-Haas Racing,Chevrolet,129*,258 (415.21),1:36:39,160.166,Report,,Ylveac,KoCmNtIN
+2013,March 24,Kyle Busch,Joe Gibbs Racing,Toyota,200,400 (643.737),2:57:19,135.351,Report,,LNFNdSQS,wAecCjhL
+2014,March 23,Kyle Busch,Joe Gibbs Racing,Toyota,206*,412 (663.05),3:05:53,132.987,Report,,xXcDDCy,kcTET

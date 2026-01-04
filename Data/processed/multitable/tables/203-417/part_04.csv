@@ -1,27 +1,27 @@
-Rnd.,Pick #,NFL team,Player,Pos.,College,Conf.,Notes
-3,82,New Orleans Saints,James Allen,LB,Oregon State,Pac-10,
-3¤,83,Houston Texans,Charles Hill,NT,Maryland,ACC,
-3,84,St. Louis Rams,Lamar Gordon,FB,North Dakota State,NCIAC,from Washington via Kansas City
-3,–,Denver Broncos,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation
-3,85,Seattle Seahawks,Kris Richard,CB,USC,Pac-10,
-3,86,Tampa Bay Buccaneers,Marquise Walker,WR,Michigan,Big Ten,
-3,87,Washington Redskins,Cliff Russell,WR,Utah,MWC,from Baltimore
-3,88,New York Jets,Chris Baker,TE,Michigan State,Big Ten,
-3,89,Jacksonville Jaguars,Akin Ayodele,LB,Purdue,Big Ten,from Oakland via Washington
-3,90,Miami Dolphins,Seth McKinney,C,Texas A&M,Big 12,
-3,91,Philadelphia Eagles,Brian Westbrook†,RB,Villanova,A-10,
-3,–,San Francisco 49ers,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation
-3,92,Green Bay Packers,Marques Anderson,FS,UCLA,Pac-10,
-3,93,Chicago Bears,Terrence Metcalf,G,Mississippi,SEC,
-3,94,Pittsburgh Steelers,Chris Hope†,FS,Florida State,ACC,
-3,95,St. Louis Rams,Eric Crouch,WR,Nebraska,Big 12,2001 Heisman Trophy winner
-3,96,Denver Broncos,Dorsett Davis,DT,Mississippi State,SEC,from New England viaWashington and Baltimore
-3*,97,Buffalo Bills,Coy Wire,SS,Stanford,Pac-10,
-3*,98,Arizona Cardinals,Dennis Johnson,DE,Kentucky,SEC,
-4,99,Houston Texans,Jonathan Wells,RB,Ohio State,Big Ten,
-4,100,Carolina Panthers,Dante Wesley,CB,Arkansas–Pine Bluff,SWAC,
-4,101,Cleveland Browns,Kevin Bentley,LB,Northwestern,Big Ten,from Detroit
-4,102,San Francisco 49ers,Jeff Chandler,K,Florida,SEC,from Buffalo
-4,103,San Diego Chargers,Justin Peelle,TE,Oregon,Pac-10,
-4,104,Chicago Bears,Alex Brown,DE,Florida,SEC,from Dallas
-4,105,Minnesota Vikings,Brian Williams,DB,NC State,ACC,
+Rnd.,Pick #,NFL team,Player,Pos.,College,Conf.,Notes,Extra_Data_1,Irrelevant_2,Extra_Data_3
+3,82,New Orleans Saints,James Allen,LB,Oregon State,Pac-10,,612,9HOrxA,925
+3¤,83,Houston Texans,Charles Hill,NT,Maryland,ACC,,532,BAg75m,694
+3,84,St. Louis Rams,Lamar Gordon,FB,North Dakota State,NCIAC,from Washington via Kansas City,522,hJQVbPc,734
+3,–,Denver Broncos,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,630,ycfXYP,338
+3,85,Seattle Seahawks,Kris Richard,CB,USC,Pac-10,,471,8jGV1pA,175
+3,86,Tampa Bay Buccaneers,Marquise Walker,WR,Michigan,Big Ten,,133,hGjYX,993
+3,87,Washington Redskins,Cliff Russell,WR,Utah,MWC,from Baltimore,495,J7c2PBI,22
+3,88,New York Jets,Chris Baker,TE,Michigan State,Big Ten,,274,bjAZz,635
+3,89,Jacksonville Jaguars,Akin Ayodele,LB,Purdue,Big Ten,from Oakland via Washington,869,HFXzLzXa,122
+3,90,Miami Dolphins,Seth McKinney,C,Texas A&M,Big 12,,505,fnXMqp,614
+3,91,Philadelphia Eagles,Brian Westbrook†,RB,Villanova,A-10,,965,Z0k9i5P,818
+3,–,San Francisco 49ers,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,forfeited due to a salary cap violation,383,xcfJQ9Ha,192
+3,92,Green Bay Packers,Marques Anderson,FS,UCLA,Pac-10,,302,aTIkE4y,818
+3,93,Chicago Bears,Terrence Metcalf,G,Mississippi,SEC,,143,07u4C2,375
+3,94,Pittsburgh Steelers,Chris Hope†,FS,Florida State,ACC,,999,hqFG33,83
+3,95,St. Louis Rams,Eric Crouch,WR,Nebraska,Big 12,2001 Heisman Trophy winner,612,QyJhRjkH,206
+3,96,Denver Broncos,Dorsett Davis,DT,Mississippi State,SEC,from New England viaWashington and Baltimore,685,2ARaw2s,712
+3*,97,Buffalo Bills,Coy Wire,SS,Stanford,Pac-10,,970,t19FA,861
+3*,98,Arizona Cardinals,Dennis Johnson,DE,Kentucky,SEC,,668,hmrjH3Ta,220
+4,99,Houston Texans,Jonathan Wells,RB,Ohio State,Big Ten,,773,IyYj7i,951
+4,100,Carolina Panthers,Dante Wesley,CB,Arkansas–Pine Bluff,SWAC,,489,rxkIj,693
+4,101,Cleveland Browns,Kevin Bentley,LB,Northwestern,Big Ten,from Detroit,892,vxpfphH1,56
+4,102,San Francisco 49ers,Jeff Chandler,K,Florida,SEC,from Buffalo,8,nuZMYN,443
+4,103,San Diego Chargers,Justin Peelle,TE,Oregon,Pac-10,,92,7IPXVY,390
+4,104,Chicago Bears,Alex Brown,DE,Florida,SEC,from Dallas,881,XyLvE,289
+4,105,Minnesota Vikings,Brian Williams,DB,NC State,ACC,,235,IhNy9,889

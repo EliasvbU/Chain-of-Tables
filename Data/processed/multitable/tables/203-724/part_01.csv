@@ -1,9 +1,12 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-1,Russia,8,12,10,30
-2,China,7,4,2,13
-3,Ukraine,7,1,1,9
-4,Poland,3,4,2,9
-5,Belarus,2,2,2,6
-6,Germany,2,1,2,5
-6,South Africa,2,1,2,5
-7,Australia,2,1,1,4
+Rank,Nation,Gold,Silver,Bronze,Total,Noise_Field_1,Noise_Field_2,Extra_Data_3
+1,Russia,8,12,10,30,IPsCDuX,aeqEMQtP,267
+2,China,7,4,2,13,dnsohXe,ZJKiVgB,93
+3,Ukraine,7,1,1,9,fnloKFK,FfueX,15
+4,Poland,3,4,2,9,PbTDl,dowBw,153
+5,Belarus,2,2,2,6,SEXQDzh,QrstrKw,453
+6,Germany,2,1,2,5,HapAea,bSTwIAAY,466
+6,South Africa,2,1,2,5,HsLjfowi,ipLid,887
+7,Australia,2,1,1,4,kwOEoD,AGFemEKL,885
+8,Japan,2,0,1,3,XbriY,psKEUv,893
+9,France,1,3,0,4,sHOjTxGP,WuaKB,19
+10,Romania,1,2,2,5,ZCWWgwna,JMjgb,758

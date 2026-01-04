@@ -1,10 +1,12 @@
-Pos,Rider,Manufacturer,Time/Retired,Points
-10,Wilco Zeelenberg,Honda,+36.273,6
-11,Toshihiko Honma,Yamaha,+41.787,5
-12,Adrien Bosshard,Honda,+52.489,4
-13,Carlos Checa,Honda,+57.206,3
-14,Eskil Suter,Aprilia,+1:01.503,2
-15,Luis Maurel,Honda,+1:03.353,1
-16,Patrick vd Goorbergh,Aprilia,+1:04.277,
-17,Adolf Stadler,Honda,+1:16.427,
-18,Juan Borja,Honda,+1:19.607,
+Pos,Rider,Manufacturer,Time/Retired,Points,Dummy_Col_1,Dummy_Col_2
+13,Carlos Checa,Honda,+57.206,3,YGtIoF,BfJHzQh
+14,Eskil Suter,Aprilia,+1:01.503,2,pYEbVWIk,SGtSpBy
+15,Luis Maurel,Honda,+1:03.353,1,EmCLYXgt,amuHwg
+16,Patrick vd Goorbergh,Aprilia,+1:04.277,,OmJwg,wBzvm
+17,Adolf Stadler,Honda,+1:16.427,,IUWKNuB,ZuaDcFO
+18,Juan Borja,Honda,+1:19.607,,vHmHN,EWiAv
+19,Chrisrian Boudinot,Aprilia,+1:20.163,,rKxjtH,AQYMW
+20,Bernd Kassner,Aprilia,+1:20.761,,bPAcSmDK,khDfyy
+21,Andreas Preining,Aprilia,+1:26.864,,mqeHU,hXsCDdV
+22,Noel Ferro,Honda,+1:27.009,,wmlzG,pfKVdBRp
+23,Sebastien Scarnato,Honda,+1:36.321,,kkuSKqr,kKlGEXM

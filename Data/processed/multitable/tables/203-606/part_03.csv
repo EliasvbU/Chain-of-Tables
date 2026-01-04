@@ -1,9 +1,11 @@
-Region,Rnd,Host,Venue,City,State
-Midwest,1,Northern Illinois University,Chick Evans Field House,DeKalb,Illinois
-Midwest,1,Ohio State University,St. John Arena,Columbus,Ohio
-Midwest,1,University of Southern Mississippi,Reed Green Coliseum,Hattiesburg,Mississippi
-Midwest,1,Oklahoma State University,Gallagher-Iba Arena,Stillwater,Oklahoma
-Midwest,2,Louisiana Tech University,Thomas Assembly Center,Ruston,Louisiana
-Midwest,2,North Carolina State University,Reynolds Coliseum,Raleigh,North Carolina
-Midwest,2,University of Texas,Frank Erwin Center,Austin,Texas
-Midwest,2,Purdue University,Mackey Arena,West Lafayette,Indiana
+Region,Rnd,Host,Venue,City,State,Dummy_Col_1,Noise_Field_2,Irrelevant_3
+Midwest,2,University of Texas,Frank Erwin Center,Austin,Texas,qTaJtwfS,SYxLOoNI,lIXKL
+Midwest,2,Purdue University,Mackey Arena,West Lafayette,Indiana,JpHWhGa,tqDfnAr,wkd8DOq
+West,1,Long Beach State,University Gym (Gold Mine),Long Beach,California,GbwBlS,lgoaiXY,FC0L93c
+West,1,University of Mississippi,Tad Smith Coliseum,"University, Mississippi",Mississippi,KdkKalw,qZDyUWj,UvP8GN
+West,1,University of Montana,Dahlberg Arena,Missoula,Montana,LqZWS,uTkUU,jtZdZ1lX
+West,1,University of Arkansas,Barnhill Arena,Fayetteville,Arkansas,FJpNXl,wEGPPtsw,TiucRC
+West,2,University of Georgia,Georgia Coliseum (Stegeman Coliseum),Athens,Georgia,BilRq,yTKxuTI,C05qLWo
+West,2,Stanford University,Maples Pavilion,Stanford,California,yxHFVE,TvTKU,XdzW87
+West,2,"University of Nevada, Las Vegas",South Gym,Paradise,Nevada,ytarcRp,vFxoqTZc,lQNU31
+West,2,Stephen F. Austin University,William R. Johnson Coliseum,Nacogdoches,Texas,yQXoVP,iItlr,j67Pa9

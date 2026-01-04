@@ -1,6 +1,11 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-1,Germany,17,9,14,40
-2,Russia,12,16,8,36
-3,Ukraine,6,11,9,26
-4,Norway,6,2,7,15
-5,France,5,4,3,12
+Rank,Nation,Gold,Silver,Bronze,Total,Unused_1,Unused_2,Noise_Field_3
+1,Germany,17,9,14,40,,,ghjXdD
+2,Russia,12,16,8,36,,,XlfgubFy
+3,Ukraine,6,11,9,26,,,NTfkdehp
+4,Norway,6,2,7,15,,,ZnfkKma
+5,France,5,4,3,12,,,gxdlC
+6,Switzerland,3,5,3,11,,,vKPWGTq
+7,Finland,3,2,4,9,,,NtuhUp
+8,Japan,2,2,1,5,,,jnnIcqO
+9,Netherlands,2,0,1,3,,,QUiBzN
+10,Sweden,1,2,2,5,,,TdEYMVen

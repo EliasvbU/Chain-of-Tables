@@ -1,12 +1,12 @@
-District,Senator,Party,Caucus,First elected,Counties Represented
-12,Michael N. Gianaris,Democratic,Democratic,2010,Queens
-13,Jose Peralta,Democratic,Democratic,2010†,Queens
-14,Malcolm Smith,Democratic,No caucus,2000†,Queens
-15,"Joseph Addabbo, Jr.",Democratic,Democratic,2008,Queens
-16,Toby Ann Stavisky,Democratic,Democratic,1999†,Queens
-17,Simcha Felder,Democratic,Republican,2012,Brooklyn
-18,Martin Malave Dilan,Democratic,Democratic,2002,Brooklyn
-19,John L. Sampson,Democratic,No caucus,1996,Brooklyn
-20,Vacant,,,,Brooklyn
-21,Kevin S. Parker,Democratic,Democratic,2002,Brooklyn
-22,Martin J. Golden,Republican,Republican,2002,Brooklyn
+District,Senator,Party,Caucus,First elected,Counties Represented,Extra_Data_1,Unused_2,Unused_3
+12,Michael N. Gianaris,Democratic,Democratic,2010,Queens,764,,
+13,Jose Peralta,Democratic,Democratic,2010†,Queens,626,,
+14,Malcolm Smith,Democratic,No caucus,2000†,Queens,179,,
+15,"Joseph Addabbo, Jr.",Democratic,Democratic,2008,Queens,378,,
+16,Toby Ann Stavisky,Democratic,Democratic,1999†,Queens,427,,
+17,Simcha Felder,Democratic,Republican,2012,Brooklyn,423,,
+18,Martin Malave Dilan,Democratic,Democratic,2002,Brooklyn,663,,
+19,John L. Sampson,Democratic,No caucus,1996,Brooklyn,946,,
+20,Vacant,,,,Brooklyn,519,,
+21,Kevin S. Parker,Democratic,Democratic,2002,Brooklyn,863,,
+22,Martin J. Golden,Republican,Republican,2002,Brooklyn,437,,

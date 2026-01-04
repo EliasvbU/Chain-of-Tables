@@ -1,7 +1,9 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-7,Soviet Union (URS),0,2,4,6
-8,South Africa (RSA),0,1,3,4
-9,Argentina (ARG),0,1,1,2
-9,Germany (GER),0,1,1,2
-9,Romania (ROU),0,1,1,2
-9,Sweden (SWE),0,1,1,2
+Rank,Nation,Gold,Silver,Bronze,Total,Noise_Field_1,Noise_Field_2,Filler_3
+9,Germany (GER),0,1,1,2,EGzYC,XSwRlrFD,QniiQX
+9,Romania (ROU),0,1,1,2,BdXgd,iuDSp,NjmwJ
+9,Sweden (SWE),0,1,1,2,cWdKnEjO,OaLDt,vjasVVRf
+13,Ireland (IRL),0,1,0,1,kcdRP,OLMAAF,jgVEoSMJ
+14,Bulgaria (BUL),0,0,1,1,HaFig,YDXdOzT,RoCxrHYF
+14,Denmark (DEN),0,0,1,1,nPpuVUYx,FBjcv,MrQFPf
+14,France (FRA),0,0,1,1,UhgRxP,UOOmc,yfFfMb
+14,South Korea (KOR),0,0,1,1,MhTQFMK,atEphZQ,tAGbjWzM

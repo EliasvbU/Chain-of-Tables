@@ -1,6 +1,11 @@
-Round,Opponent,Result,Bro.,Opp.,Date,Venue,Crowd,Position
-6,North Queensland Cowboys,Win,42,16,5 Apr,Stockland Stadium,"30,122",1/10
-7,Adelaide Rams,Win,20,10,13 Apr,Adelaide Oval,"17,633",1/10
-8,Penrith Panthers,Loss,26,27,21 Apr,Penrith Football Stadium,"12,648",1/10
-9,Canterbury Bulldogs,Win,34,16,28 Apr,ANZ Stadium,"17,921",1/10
-10,Auckland Warriors,Win,34,18,4 May,Mt Smart Stadium,"16,471",1/10
+Round,Opponent,Result,Bro.,Opp.,Date,Venue,Crowd,Position,Dummy_Col_1,Dummy_Col_2,Dummy_Col_3
+11,North Queensland Cowboys,Draw,20,20,25 May,ANZ Stadium,"14,167",1/10,uXyQBiU,braeVcHa,eDkuG
+12,Hunter Mariners,Loss,6,24,30 May,Topper Stadium,"7,124",1/10,zwHgsTN,aUomKU,GpKiVx
+13,Cronulla Sharks,Loss,4,32,30 Jun,Endeavour Field,"12,240",1/10,GdWmgXL,XWKLpO,rtfIpk
+14,Perth Reds,Win,50,14,6 Jul,ANZ Stadium,"11,806",1/10,opjABWdL,MTzLILMN,FSvzIFUt
+15,Canberra Raiders,Win,19,4,14 Jul,Bruce Stadium,"13,067",1/10,adQFCU,ekaLVhM,xWbzYiz
+16,Penrith Panthers,Win,54,12,10 Aug,ANZ Stadium,"13,921",1/10,QBXof,cytyyh,iiickuK
+17,Hunter Mariners,Win,34,16,18 Aug,ANZ Stadium,"13,830",1/10,dAYjIkFd,WTWwzw,MopclXq
+18,Canterbury Bulldogs,Win,32,24,25 Aug,Belmore Oval,"9,781",1/10,ZyziKs,RjnSOQ,gpzBIGG
+Semi Final,Cronulla Sharks,Win,34,2,6 Sep,Stockland Stadium,"26,256",,qTEUn,tiIlXmw,cmxPWUDv
+GRAND FINAL,Cronulla Sharks,Win,26,8,20 Sep,ANZ Stadium,"58,912",,rvInmjl,rqYaznte,fqZiiL

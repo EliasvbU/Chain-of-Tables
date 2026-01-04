@@ -1,20 +1,20 @@
-Number,Name,Team,Position,Years with franchise,Note
-—,Jerry Krause,Chicago Bulls,—,1985–2003,As general manager.
-7,Bingo Smith,Cleveland Cavaliers,F,1970–1979,
-11,Žydrūnas Ilgauskas,Cleveland Cavaliers,C,1997–2010,Did not play in 1999–2000 season.
-22,Larry Nance,Cleveland Cavaliers,F,1988–1994,Briefly wore No. 6 in 1988.
-25,Mark Price,Cleveland Cavaliers,G,1986–1995,
-34,Austin Carr,Cleveland Cavaliers,G,1971–1980,
-42,Nate Thurmond,Cleveland Cavaliers,C,1975–1977,
-43,Brad Daugherty,Cleveland Cavaliers,C,1986–1994,
-Microphone,Joe Tait,Cleveland Cavaliers,—,1972–2011,As broadcaster.
-15,Brad Davis,Dallas Mavericks,G,1980–1992,
-22,Rolando Blackman,Dallas Mavericks,G,1981–1992,
-2,Alex English,Denver Nuggets,F,1980–1990,
-33,David Thompson,Denver Nuggets,F,1975–1982,
-40,Byron Beck,Denver Nuggets,C,1967–1977,
-44,Dan Issel,Denver Nuggets,C,1975–1985,
-432,Doug Moe,Denver Nuggets,—,1981–1990,As head coach; the number represents his 432 victories coaching the Nuggets.
-2,Chuck Daly,Detroit Pistons,—,1983–1992,As head coach; the number represents the two NBA championship teams he coached.
-4,Joe Dumars,Detroit Pistons,G,1985–1999; 2000–present,Also served as team president (2000–present).
-10,Dennis Rodman,Detroit Pistons,F,1986–1993,"Number currently issued to Greg Monroe at the time of the announcement, and he is allowed to continue wearing the number."
+Number,Name,Team,Position,Years with franchise,Note,Extra_Data_1
+—,Jerry Krause,Chicago Bulls,—,1985–2003,As general manager.,988
+7,Bingo Smith,Cleveland Cavaliers,F,1970–1979,,791
+11,Žydrūnas Ilgauskas,Cleveland Cavaliers,C,1997–2010,Did not play in 1999–2000 season.,356
+22,Larry Nance,Cleveland Cavaliers,F,1988–1994,Briefly wore No. 6 in 1988.,720
+25,Mark Price,Cleveland Cavaliers,G,1986–1995,,845
+34,Austin Carr,Cleveland Cavaliers,G,1971–1980,,460
+42,Nate Thurmond,Cleveland Cavaliers,C,1975–1977,,119
+43,Brad Daugherty,Cleveland Cavaliers,C,1986–1994,,136
+Microphone,Joe Tait,Cleveland Cavaliers,—,1972–2011,As broadcaster.,229
+15,Brad Davis,Dallas Mavericks,G,1980–1992,,47
+22,Rolando Blackman,Dallas Mavericks,G,1981–1992,,226
+2,Alex English,Denver Nuggets,F,1980–1990,,927
+33,David Thompson,Denver Nuggets,F,1975–1982,,372
+40,Byron Beck,Denver Nuggets,C,1967–1977,,197
+44,Dan Issel,Denver Nuggets,C,1975–1985,,581
+432,Doug Moe,Denver Nuggets,—,1981–1990,As head coach; the number represents his 432 victories coaching the Nuggets.,442
+2,Chuck Daly,Detroit Pistons,—,1983–1992,As head coach; the number represents the two NBA championship teams he coached.,415
+4,Joe Dumars,Detroit Pistons,G,1985–1999; 2000–present,Also served as team president (2000–present).,904
+10,Dennis Rodman,Detroit Pistons,F,1986–1993,"Number currently issued to Greg Monroe at the time of the announcement, and he is allowed to continue wearing the number.",184

@@ -1,10 +1,12 @@
-#,Date,Winner,Score,Location,Notes
-46,"January 2, 1971",West,17-13,"Oakland, CA",
-47,"December 31, 1971",West,17-13,"San Francisco, CA",
-48,"December 30, 1972",East,9-3,"San Francisco, CA",
-49,"December 29, 1973",East,35-7,"San Francisco, CA",
-50,"December 28, 1974",East,16-14,"Stanford, CA",
-51,"January 3, 1976",West,21-14,"Stanford, CA",
-52,"January 2, 1977",West,30-14,"Stanford, CA",
-53,"December 31, 1977",West,23-3,"Stanford, CA",
-54,"January 6, 1979",East,56-17,"Stanford, CA",
+#,Date,Winner,Score,Location,Notes,Filler_1
+46,"January 2, 1971",West,17-13,"Oakland, CA",,ZotWTY
+47,"December 31, 1971",West,17-13,"San Francisco, CA",,kZHQZ
+48,"December 30, 1972",East,9-3,"San Francisco, CA",,mDggge
+49,"December 29, 1973",East,35-7,"San Francisco, CA",,ncxNugXF
+50,"December 28, 1974",East,16-14,"Stanford, CA",,StYby
+51,"January 3, 1976",West,21-14,"Stanford, CA",,lkquix
+52,"January 2, 1977",West,30-14,"Stanford, CA",,AwmmdsM
+53,"December 31, 1977",West,23-3,"Stanford, CA",,YcQtyDRC
+54,"January 6, 1979",East,56-17,"Stanford, CA",,mYxnRBdQ
+55,"January 5, 1980",West,20-10,"Stanford, CA",,MBmqxAt
+56,"January 10, 1981",East,21-3,"Stanford, CA",,YeZUHH

@@ -1,7 +1,10 @@
-No.,Country,2009 WinterUniversiade,2007 WJCC,2007 WWCC,2008 WJCC,2008 WWCC,Points
-1,Canada,24,12,9,12,10,67
-2,China,28,-,14,4,6,52
-3,Sweden,10,5,12,14,9,50
-4,Great Britain,16,14,5,1,12,48
-5,Russia,20,8,6,6,5,45
-6,United States,4,6,4,10,8,32
+No.,Country,2009 WinterUniversiade,2007 WJCC,2007 WWCC,2008 WJCC,2008 WWCC,Points,Noise_Field_1,Extra_Data_2
+1,Canada,24,12,9,12,10,67,thcHAHV,758
+2,China,28,-,14,4,6,52,ByJRbYGA,389
+3,Sweden,10,5,12,14,9,50,dDzHWdj,34
+4,Great Britain,16,14,5,1,12,48,OwkRpp,447
+5,Russia,20,8,6,6,5,45,LtbSSV,901
+6,United States,4,6,4,10,8,32,nCmJPUTL,618
+7,Switzerland,-,10,8,8,3,29,kwEHlW,431
+8,Germany,-,-,7,2,14,23,kgNTe,323
+9,Denmark,-,3,10,-,7,20,QKmMdfO,785

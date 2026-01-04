@@ -1,10 +1,12 @@
-Type,Diagonal (mm),Width (mm),Height (mm),Area (mm2),Stops (area),Crop factor
-Super 8mm film frame,7.04,5.79,4.01,23.22,-5.24,6.15
-"1/2.5\ (Sony Cyber-shot DSC-T5)""",7.18,5.76,4.29,24.70,-5.12,6.02
-"1/2.3\ (Pentax Q) (Sony Cyber-shot DSC-W330)(gopro hero 3) (Panasonic HX-A500)""",7.66,6.17,4.55,28.50,-4.92,5.64
-"1/2\ (Fujifilm HS30EXR)""",8.00,6.40,4.80,30.70,-4.81,5.41
-"1/1.8\ (Nokia N8)""",8.93,7.18,5.32,38.20,-4.50,4.84
-"1/1.7\ (Pentax Q7)""",9.50,7.60,5.70,43.30,-4.32,4.55
-"1/1.6\"",10.07""",8.08,6.01,48.56,-4.15,4.30,
-2/3\ (Nokia Lumia 1020, Fujifilm X-S1, X20," XF1)""",11.00,8.80,6.60
-Standard 16mm film frame,12.7,10.26,7.49,76.85,-3.49,3.41
+Type,Diagonal (mm),Width (mm),Height (mm),Area (mm2),Stops (area),Crop factor,Filler_1,Filler_2
+"1/2.3\ (Pentax Q) (Sony Cyber-shot DSC-W330)(gopro hero 3) (Panasonic HX-A500)""",7.66,6.17,4.55,28.50,-4.92,5.64,gRoJO,NBmYNngv
+"1/2\ (Fujifilm HS30EXR)""",8.00,6.40,4.80,30.70,-4.81,5.41,NaHNwzj,HLVjAC
+"1/1.8\ (Nokia N8)""",8.93,7.18,5.32,38.20,-4.50,4.84,rhNbJEdN,gzlAcMa
+"1/1.7\ (Pentax Q7)""",9.50,7.60,5.70,43.30,-4.32,4.55,KuoEET,gDprtnZp
+"1/1.6\"",10.07""",8.08,6.01,48.56,-4.15,4.30,,FVamp,NPEGbhLo
+2/3\ (Nokia Lumia 1020, Fujifilm X-S1, X20," XF1)""",11.00,8.80,6.60,eSDzdCi,drltKORp
+Standard 16mm film frame,12.7,10.26,7.49,76.85,-3.49,3.41,ULiQM,hGrHT
+"1/1.2\ (Nokia 808 PureView)""",13.33,10.67,8.00,85.33,-3.34,3.24,gbZjAq,yECyr
+Blackmagic Pocket Cinema Camera,14.32,12.48,7.02,87.6,-3.30,3.02,CpkpcC,ZXTleWo
+Super 16mm film frame,14.54,12.52,7.41,92.80,-3.22,2.97,TXguEx,iSUaV
+1\ Nikon CX," Sony Cyber-shot DSC-RX100 and Sony Cyber-shot DSC-RX10""",15.86,13.20,8.80,116,-2.90,izUHJ,GeQCroC

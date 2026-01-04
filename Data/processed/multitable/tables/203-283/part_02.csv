@@ -1,5 +1,5 @@
-#,Name,Strike tone(ST-1/16),Weight(kg),Diameter(mm),Inscription
-5,Leopardus,fis1 +3,850,1078,SANCTE LEOPARDE ORA PRO NOBIS ANNO 1 6 5 9 (Saint Leopardus pray for us. Made 1659.)
-6,Stephanus,g1 +8,715,1027,SANCTE STEPHANE ORA PRO NOBIS ANNO 1 6 5 9 (St Stephen pray for us. Made 1659.)
-7,Petrus,a1 +1,425,894,SANCTE PETRE ORA PRO NOBIS ANNO 1 6 5 9 (St. Peter pray for us. Made 1659.)
-8,Simeon,h1 +8,290,793,"SANCTE SIMEON JUSTE ET TIMORATE ORA PRO NOBIS (St Simon, just and devout, pray for us)"
+#,Name,Strike tone(ST-1/16),Weight(kg),Diameter(mm),Inscription,Noise_Field_1,Noise_Field_2
+5,Leopardus,fis1 +3,850,1078,SANCTE LEOPARDE ORA PRO NOBIS ANNO 1 6 5 9 (Saint Leopardus pray for us. Made 1659.),qDvSv,qIgcNyGt
+6,Stephanus,g1 +8,715,1027,SANCTE STEPHANE ORA PRO NOBIS ANNO 1 6 5 9 (St Stephen pray for us. Made 1659.),opWnkXXQ,HnUXPiQ
+7,Petrus,a1 +1,425,894,SANCTE PETRE ORA PRO NOBIS ANNO 1 6 5 9 (St. Peter pray for us. Made 1659.),osKUB,xMVubnj
+8,Simeon,h1 +8,290,793,"SANCTE SIMEON JUSTE ET TIMORATE ORA PRO NOBIS (St Simon, just and devout, pray for us)",gYCVUKFI,LqNBhex

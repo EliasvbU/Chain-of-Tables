@@ -1,7 +1,13 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-7,China,0,1,1,2
-7,Cuba,0,1,1,2
-7,Greece,0,1,1,2
-7,Turkey,0,1,1,2
-11,Canada,0,1,0,1
-11,Germany,0,1,0,1
+Rank,Nation,Gold,Silver,Bronze,Total,Noise_Field_1,Noise_Field_2,Unused_3
+11,Morocco,0,1,0,1,lbMgmMAa,wSvlyc,
+11,Philippines,0,1,0,1,XpWfZ,iTjHfU,
+11,Russia,0,1,0,1,bwHDCDGL,GVuiZYWB,
+16,Mexico,0,0,4,4,PWJOwEYu,BbuCxDMa,
+17,Australia,0,0,3,3,TOWrKG,FuYYrw,
+18,Croatia,0,0,2,2,aQfpMP,dmRNVMkR,
+18,United States,0,0,2,2,hzVnmE,ioWNNa,
+20,Ecuador,0,0,1,1,BOIYvn,WjpKDKJ,
+20,Saudi Arabia,0,0,1,1,nlhiC,gpxVQ,
+20,Thailand,0,0,1,1,xdXEo,VYCMAi,
+20,Yugoslavia,0,0,1,1,CekmTp,DaKuz,
+Total,Total,16,16,32,64,oRuGYmHN,OHBdVjq,

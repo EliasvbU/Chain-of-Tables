@@ -1,11 +1,13 @@
-#,Name,Age,Disappeared,Found
-21,Sandra Kay Gabbert,17,"April 17, 1983","April 1, 1984"
-22,Kimi-Kai Pitsor,16,"April 17, 1983","December 15, 1983"
-23,Marie M. Malvar,18,"April 30, 1983","September 26, 2003"
-24,Carol Ann Christensen,21,"May 3, 1983","May 8, 1983"
-25,Martina Theresa Authorlee,18,"May 22, 1983","November 14, 1984"
-26,Cheryl Lee Wims,18,"May 23, 1983","March 22, 1984"
-27,"Yvonne \Shelly\"" Antosh""",19,"May 31, 1983","October 15, 1983"
-28,Carrie Ann Rois,15,"May 31 – June 13, 1983","March 10, 1985"
-29,Constance Elizabeth Naon,19,"June 8, 1983","October 27, 1983"
-30,Kelly Marie Ware,22,"July 18, 1983","October 29, 1983"
+#,Name,Age,Disappeared,Found,Extra_Data_1
+26,Cheryl Lee Wims,18,"May 23, 1983","March 22, 1984",944
+27,"Yvonne \Shelly\"" Antosh""",19,"May 31, 1983","October 15, 1983",187
+28,Carrie Ann Rois,15,"May 31 – June 13, 1983","March 10, 1985",707
+29,Constance Elizabeth Naon,19,"June 8, 1983","October 27, 1983",951
+30,Kelly Marie Ware,22,"July 18, 1983","October 29, 1983",501
+31,Tina Marie Thompson,21,"July 25, 1983","April 20, 1984",206
+32,April Dawn Buttram,16,"August 18, 1983","August 30, 2003",582
+33,Debbie May Abernathy,26,"September 5, 1983","March 31, 1984",994
+34,Tracy Ann Winston,19,"September 12, 1983","March 27, 1986",967
+35,Maureen Sue Feeney,19,"September 28, 1983","May 2, 1986",361
+36,Mary Sue Bello,25,"October 11, 1983","October 12, 1984",59
+37,Pammy Annette Avent,15,"October 26, 1983","August 16, 2003",93

@@ -1,7 +1,12 @@
-Name,metres,feet,Name,metres,feet
-Cristallo,"3,221","10,568",Cima d'Asta,"2,848","9,344"
-Cima di Vezzana,"3,192","10,470",Cima di Canali,"2,846","9,338"
-Cimon della Pala,"3,184","10,453",Croda Grande,"2,839","9,315"
-Langkofel / Sassolungo,"3,181","10,427",Vajoletturm / Torri del Vajolet (highest),"2,821","9,256"
-Pelmo,"3,169","10,397",Sass Maor,"2,816","9,239"
-Dreischusterspitze,"3,162","10,375",Cima di Ball,"2,783","9,131"
+Name,metres,feet,Name,metres,feet,Extra_Data_1,Noise_Field_2,Random_Column_3
+Dreischusterspitze,"3,162","10,375",Cima di Ball,"2,783","9,131",664,qGuHb,lDlUOlT
+Boespitze / Piz Boè (Sella group),"3,152","10,342",Cima della Madonna (Sass Maor),"2,751","9,026",932,jChHxb,PMOFj
+Croda Rossa (Hohe Gaisl),"3,148","10,329",Rosetta,"2,741","8,993",842,GjJpjsI,sH0him
+Piz Popena,"3,143","10,312",Croda da Lago,"2,716","8,911",50,TrwmL,wrQ4MSMY
+Grohmannspitze (Langkofel),"3,126","10,256",Central Grasleitenspitze,"2,705","8,875",492,mnurIOAk,qy28ug
+Zwölferkofel,"3,094","10,151",Schlern,"2,562","8,406",498,TxmlGUD,ucoKvghj
+Elferkofel,"3,092","10,144",Sasso di Mur,"2,554","8,380",896,gcqcf,nNiyMT3
+Sass Rigais (Geislerspitzen),"3,025","9,925",Cima delle Dodici,"2,338","7,671",860,JJlvwn,Rnyu36k9
+Kesselkogel (Rosengarten),"3,004","9,856",Monte Pavione,"2,336","7,664",262,oUJgobuW,TW56UJ
+Tre Cime di Lavaredo (Drei Zinnen),"2,999","9,839",Cima di Posta,"2,235","7,333",183,oRbLTJDU,uhcTt
+Fünffingerspitze,"2,997","9,833",Monte Pasubio,"2,232","7,323",113,lGbbNLuC,yB4fBOw

@@ -1,10 +1,12 @@
-Fin,St,Driver,Car #,Make,Points,Bonus,Laps,Winnings
-1,1,Jeff Gordon,24,Chevrolet,195,10,192,"$355,511"
-2,8,Jimmie Johnson,48,Chevrolet,175,5,192,"$251,736"
-3,26,Kurt Busch,2,Dodge,170,5,192,"$212,483"
-4,2,David Gilliland,38,Ford,160,,192,"$182,689"
-5,25,Jamie McMurray,26,Ford,160,5,192,"$134,675"
-6,41,Kevin Harvick,29,Chevrolet,150,,192,"$164,536"
-7,36,Dale Earnhardt Jr.,8,Chevrolet,151,5,192,"$149,233"
-8,20,David Stremme,40,Dodge,147,5,192,"$106,025"
-9,28,Ryan Newman,12,Dodge,138,,192,"$133,450"
+Fin,St,Driver,Car #,Make,Points,Bonus,Laps,Winnings,Irrelevant_1,Dummy_Col_2
+1,1,Jeff Gordon,24,Chevrolet,195,10,192,"$355,511",Edl0DiO,ySVeAtc
+2,8,Jimmie Johnson,48,Chevrolet,175,5,192,"$251,736",PfaX7,IHcYfjK
+3,26,Kurt Busch,2,Dodge,170,5,192,"$212,483",Sqe92Z,IHTFQ
+4,2,David Gilliland,38,Ford,160,,192,"$182,689",Un7dP,xPvCRd
+5,25,Jamie McMurray,26,Ford,160,5,192,"$134,675",OLeGCEcc,IgroESX
+6,41,Kevin Harvick,29,Chevrolet,150,,192,"$164,536",uLekb,lrTHLO
+7,36,Dale Earnhardt Jr.,8,Chevrolet,151,5,192,"$149,233",1hwuW,pwPTaLLw
+8,20,David Stremme,40,Dodge,147,5,192,"$106,025",eQsIiU,dyUborP
+9,28,Ryan Newman,12,Dodge,138,,192,"$133,450",gpFOGoh,vjzfNDT
+10,37,Martin Truex Jr.,1,Chevrolet,134,,192,"$126,495",O1FdExX9,svUkRhKu
+11,9,Scott Riggs,10,Dodge,130,,192,"$107,050",D3xaM1R,axSrtBD

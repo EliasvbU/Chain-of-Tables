@@ -1,6 +1,6 @@
-Position,Team,Points,Played,Won,Drawn,Lost,For,Against,Difference
-6,Sírio,7,9,3,1,5,21,20,1
-7,Ypiranga-SP,7,9,3,1,5,16,22,-6
-8,Portuguesa,7,9,2,3,4,17,26,-9
-9,AA São Bento,4,9,2,0,7,9,31,-22
-10,SC Internacional de São Paulo,1,9,0,1,8,9,24,-15
+Position,Team,Points,Played,Won,Drawn,Lost,For,Against,Difference,Dummy_Col_1,Filler_2,Noise_Field_3
+6,Sírio,7,9,3,1,5,21,20,1,tagCPS,SeWJtI,zpPrriT
+7,Ypiranga-SP,7,9,3,1,5,16,22,-6,skyuY,QCxKML,WXdiyN
+8,Portuguesa,7,9,2,3,4,17,26,-9,FIcOiVqc,CtZxXKU,HXXdBx
+9,AA São Bento,4,9,2,0,7,9,31,-22,bTegcqPb,esHzFgyw,VrAfA
+10,SC Internacional de São Paulo,1,9,0,1,8,9,24,-15,zLzQvZH,ZmAxB,tbNJbT

@@ -1,9 +1,12 @@
-Tenure,Coach,Years,Record,Pct.
-1892,Shelby Fletcher,1,1–0,1.000
-1893,W. M. Walker,1,4–6–1,.409
-1894,J. H. Lyons,1,10–3,.769
-1895,J. F. Jenkins,1,9–3,.750
-1896,Eli Abbott,1,5–5,.500
-1897,"\Kid\"" Peeples""",1,10–0,1.000
-1898,Joseph Black,1,2–3,.400
-1899,F. C. Owen,1,3–6,.333
+Tenure,Coach,Years,Record,Pct.,Extra_Data_1
+1892,Shelby Fletcher,1,1–0,1.000,314
+1893,W. M. Walker,1,4–6–1,.409,636
+1894,J. H. Lyons,1,10–3,.769,318
+1895,J. F. Jenkins,1,9–3,.750,627
+1896,Eli Abbott,1,5–5,.500,160
+1897,"\Kid\"" Peeples""",1,10–0,1.000,768
+1898,Joseph Black,1,2–3,.400,215
+1899,F. C. Owen,1,3–6,.333,128
+1900,Ardis Smith,1,9–3,.750,329
+1901–1905,Thomas Stouch,5,49–25–1,.660,62
+1906,Schwartz,1,4–16–1,.214,987

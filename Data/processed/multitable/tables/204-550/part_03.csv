@@ -1,9 +1,12 @@
-Event,Record,Athlete,Date,Meet,Place
-High jump,1.89 m,Turuariki George Baxter,25 September 2009,Pacific Mini Games,"Nikao, Cook Islands"
-Pole vault,3.10 m,Akanoa William,18 December 1987,South Pacific Games,"Nouméa, New Caledonia"
-Long jump,7.16 m,Harmon Harmon,2 June 2003,,"Tereora, Cook Islands"
-Triple jump,13.63 m,Harmon Harmon,16 October 2001,,"Tereora, Cook Islands"
-Shot put,13.85 m,Mau George,25 September 2009,Pacific Mini Games,"Nikao, Cook Islands"
-Discus throw,44.96 m,Robert McNabb,14 February 1999,,"Brisbane, Australia"
-Hammer throw,48.92 m,Vainga Tonga,5 June 1995,,"Avarua, Cook Islands"
-Javelin throw,57.18 m,Daniel Tutai,24 September 2009,Pacific Mini Games,"Nikao, Cook Islands"
+Event,Record,Athlete,Date,Meet,Place,Extra_Data_1,Random_Column_2,Extra_Data_3
+Discus throw,44.96 m,Robert McNabb,14 February 1999,,"Brisbane, Australia",750,rbCnSX1,824
+Hammer throw,48.92 m,Vainga Tonga,5 June 1995,,"Avarua, Cook Islands",144,mXMHl,411
+Javelin throw,57.18 m,Daniel Tutai,24 September 2009,Pacific Mini Games,"Nikao, Cook Islands",37,noD75JS,795
+Decathlon,5244 pts,Akanoa William,17–18 December 1987,South Pacific Games,"Nouméa, New Caledonia",715,00GPHa,996
+Decathlon,"12.01 (100 m), 6.37 m (long jump), 9.18 m (shot put), 1.67 m (high jump), 53.55 (400 m) /16.95 (110 m hurdles), 27.68 m (discus), 3.10 m (pole vault), 43.30 m (javelin), 5:31.19 (1500 m)","12.01 (100 m), 6.37 m (long jump), 9.18 m (shot put), 1.67 m (high jump), 53.55 (400 m) /16.95 (110 m hurdles), 27.68 m (discus), 3.10 m (pole vault), 43.30 m (javelin), 5:31.19 (1500 m)","12.01 (100 m), 6.37 m (long jump), 9.18 m (shot put), 1.67 m (high jump), 53.55 (400 m) /16.95 (110 m hurdles), 27.68 m (discus), 3.10 m (pole vault), 43.30 m (javelin), 5:31.19 (1500 m)","12.01 (100 m), 6.37 m (long jump), 9.18 m (shot put), 1.67 m (high jump), 53.55 (400 m) /16.95 (110 m hurdles), 27.68 m (discus), 3.10 m (pole vault), 43.30 m (javelin), 5:31.19 (1500 m)","12.01 (100 m), 6.37 m (long jump), 9.18 m (shot put), 1.67 m (high jump), 53.55 (400 m) /16.95 (110 m hurdles), 27.68 m (discus), 3.10 m (pole vault), 43.30 m (javelin), 5:31.19 (1500 m)",59,ECFlAdAX,244
+3000 m walk (track),15:56.0,Uaongo Areai,July 1985,,"Tereora, Cook Islands",202,hcbvIy,430
+10 km walk (road),57:27.0+,Uaongo Areai,1 May 1980,,"Avarua, Cook Islands",881,BI0uquYa,894
+20 km walk (road),1:52:33,Uaongo Areai,1 May 1980,,"Avarua, Cook Islands",35,vJBQbKnN,73
+50 km walk (road),5:37:31,Uaongo Areai,June 1980,,"Okato, New Zealand",529,QOkuYnB,702
+4x100 m relay,44.80,Cook IslandsTeokotai SimionaTenoa PunaMichael TinirauVictor Ioane,2 August 1985,South Pacific Mini Games,"Avarua, Cook Islands",901,wnljMQ2,470
+4x400 m relay,3:37.6,Cook IslandsTeriapii MatapoWilliam TaramaiM. MoeroaM. Raina,19 April 1979,,"Avarua, Cook Islands",777,h5IAnwJQ,119

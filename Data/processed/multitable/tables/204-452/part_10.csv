@@ -1,48 +1,48 @@
-Number,South or west terminus,North or east terminus,Length (mi),Length (km),Formed,Deleted,Notes
-SR-280,I-80 south of Coalville,Coalville,0.399,0.642,1963,current,
-SR-281,SR-34 in St. George,Dixie State University,,,1969,1991,
-SR-282,SR-186 and local streets in Salt Lake City,University of Utah,2.944,4.738,1969,current,
-SR-283,,,,,1969,2001,
-SR-284,SR-203 and local streets in Ogden,Weber State University,1.717,2.763,1969,current,
-SR-285,Local streets in Ogden,Ogden City School District building,0.333,0.536,1969,current,
-SR-286,SR-235 in Ogden,Ogden-Weber Applied Technology College,1.307,2.103,1969,current,
-SR-287,SR-140 in Draper,Utah State Prison,0.759,1.221,1969,current,
-SR-288,,,,,1969,2007,
-SR-289,SR-130 in Cedar City,Southern Utah University,1.920,3.090,1969,current,
-SR-290,US-89 in Ephraim,Snow College,1.165,1.875,1969,current,
-SR-291,Harrison Boulevard in Ogden,Utah Schools for the Deaf and the Blind,0.565,0.909,1969,current,
-SR-292,SR-68 and local streets,Salt Lake Community College,1.721,2.770,1969,current,
-SR-293,SR-186,Utah State Capitol,0.383,0.616,1969,current,Also signed as Center Street in Provo
-SR-295,,,,,1982,2003,
-SR-296,700 North in American Fork,Utah State Developmental Center,1.424,2.292,1969,current,
-SR-297,,,,,1969,1999,
-SR-298,Drivers' license test course in Ogden,,0.900,1.448,1972,current,
-SR-299,Drivers' license test course in West Valley City,,1.030,1.658,1977,current,
-SR-300,,,,,1972,1996,
-SR-301,Steinaker State Park,US-191,2.039,3.281,1972,current,
-SR-302,SR-32,Rockport State Park,3.452,5.555,1972,current,
-SR-303,Goblin Valley State Park,Towards SR-24,1.770,2.849,1972,current,
-SR-304,Hyrum Lake State Park,Hyrum,0.086,0.138,1972,current,
-SR-305,,,,,1972,1990,
-SR-306,East Canyon State Park,SR-66,0.227,0.365,1972,current,
-SR-307,,,,,1972,1984,
-SR-308,,,,,1972,2003,
-SR-309,Towards Ferron,Millsite State Park,0.357,0.575,1972,current,
-SR-310,SR-21,Minersville Reservoir,0.353,0.568,1972,current,
-SR-311,US-40,Starvation State Park,3.916,6.302,1972,current,
-SR-312,Willard Bay State Park,Towards Farr West,0.573,0.922,1972,current,
-SR-313,Dead Horse Point State Park,US-191 near Seven Mile Canyon (near Moab),22.506,36.220,1975,current,
-SR-314,US-189,Deer Creek State Park,0.767,1.234,1974,current,
-SR-315,Willard Bay State Park,US-89 in Willard,1.760,2.832,1974,current,
-SR-316,Goosenecks State Park,SR-261,3.513,5.654,1975,current,
-SR-317,South 2700 West in West Valley City,Calvin L. Rampton Complex,1.620,2.607,1983,current,
-SR-318,SR-9,Quail Creek State Park,2.214,3.563,1992,current,
-SR-319,US-40,Jordanelle State Park,1.203,1.936,1989,current,
-SR-320,SR-68,Camp Williams,2.190,3.524,1992,current,
-I-415,I-15/I-215 in Murray,I-80 in Parley's Canyon,,,1959,1969,Combined with I-215
-US-450,US-50 at Crescent Junction,Colorado state line near Dove Creek,,,1926,1930s,"Replaced by US-160, Modern US-191 and US-491"
-US-491,US-191 in Monticello,Colorado state line near Dove Creek,17.020,27.391,2003,Current,
-US-530,US-40 near Park City,US-30S at Echo,,,1926,1938,"Replaced by US-189, now part of I-80"
-US-666,US-191 in Monticello,"Colorado state line near Dove Creek, Colorado",17.020,27.391,1977,2003,Replaced by US-491
-SR-900,Skull Valley,I-80 at Delle and Lakeside,16.18,26.04,1999,current,
-SR-901,Skull Valley,SR-196,43.48,69.97,1999,current,
+Number,South or west terminus,North or east terminus,Length (mi),Length (km),Formed,Deleted,Notes,Random_Column_1,Irrelevant_2,Random_Column_3
+SR-280,I-80 south of Coalville,Coalville,0.399,0.642,1963,current,,z970KNQ,pkVjpRav,jl9K5
+SR-281,SR-34 in St. George,Dixie State University,,,1969,1991,,1ska7,aV19Qg4,0xRWg
+SR-282,SR-186 and local streets in Salt Lake City,University of Utah,2.944,4.738,1969,current,,O0p5e,zUndcV,DHII3PME
+SR-283,,,,,1969,2001,,TILx9e6,q2dpX9hM,a7jsrU2
+SR-284,SR-203 and local streets in Ogden,Weber State University,1.717,2.763,1969,current,,XdJ1ZAOS,HlDx7J,kb6VtVxJ
+SR-285,Local streets in Ogden,Ogden City School District building,0.333,0.536,1969,current,,a5f8y,pAXO6,NmXXN1S7
+SR-286,SR-235 in Ogden,Ogden-Weber Applied Technology College,1.307,2.103,1969,current,,ZLWpu,LSpor,AKKQXo
+SR-287,SR-140 in Draper,Utah State Prison,0.759,1.221,1969,current,,QOagOzPu,OPicM,29LBDj
+SR-288,,,,,1969,2007,,5wLeL,knWHOf6,yB87Mt8
+SR-289,SR-130 in Cedar City,Southern Utah University,1.920,3.090,1969,current,,jdNNKFDt,IYYPY,JzgMrtEA
+SR-290,US-89 in Ephraim,Snow College,1.165,1.875,1969,current,,Vk8nwvRE,NH2NWp,YvuMDjj
+SR-291,Harrison Boulevard in Ogden,Utah Schools for the Deaf and the Blind,0.565,0.909,1969,current,,w3kVsk,Ziq1T,2KpPa8T
+SR-292,SR-68 and local streets,Salt Lake Community College,1.721,2.770,1969,current,,uYJWe9q,9utjuVb,EHTmrJun
+SR-293,SR-186,Utah State Capitol,0.383,0.616,1969,current,Also signed as Center Street in Provo,2kel9DjB,rkkMk1,RWtj2W
+SR-295,,,,,1982,2003,,qdzPUyh,1gKcNRp,HQPEM5
+SR-296,700 North in American Fork,Utah State Developmental Center,1.424,2.292,1969,current,,5pCRiOeI,hY8WHs1u,gk37A
+SR-297,,,,,1969,1999,,PMv6j,ajKFLU,lkPyU
+SR-298,Drivers' license test course in Ogden,,0.900,1.448,1972,current,,7Hm5j0CF,9cRqF,hG78az3D
+SR-299,Drivers' license test course in West Valley City,,1.030,1.658,1977,current,,qNFptG5,LEGlXA,8CDWmAJ
+SR-300,,,,,1972,1996,,yCwuyGt,932Pn,rqsKJO
+SR-301,Steinaker State Park,US-191,2.039,3.281,1972,current,,ns1jiA,sySbqbK,ey7xRa3t
+SR-302,SR-32,Rockport State Park,3.452,5.555,1972,current,,rD683,UmERTUy,8M5MBgS
+SR-303,Goblin Valley State Park,Towards SR-24,1.770,2.849,1972,current,,yNMD75I,KJe8ureT,Y2S2O2a
+SR-304,Hyrum Lake State Park,Hyrum,0.086,0.138,1972,current,,ugJkAlK,YVZKMM0,pUtrr
+SR-305,,,,,1972,1990,,y1UuXyXV,OuKMcUj,v6lN12r
+SR-306,East Canyon State Park,SR-66,0.227,0.365,1972,current,,eDlEylL,XDig0v,xu8UkCbo
+SR-307,,,,,1972,1984,,noQ8KD,kwCR8UDW,9iUCAuB
+SR-308,,,,,1972,2003,,yMBbt,wi1n4a,WoE05
+SR-309,Towards Ferron,Millsite State Park,0.357,0.575,1972,current,,THZf76,UU7bp,fhC6wpa1
+SR-310,SR-21,Minersville Reservoir,0.353,0.568,1972,current,,IohO2,kkQYGjTB,Jt4a9HYG
+SR-311,US-40,Starvation State Park,3.916,6.302,1972,current,,6pr8LwDx,RGhWLy,s3jyb7k0
+SR-312,Willard Bay State Park,Towards Farr West,0.573,0.922,1972,current,,8XDBz4Qd,hW8ev,3hNsdmsZ
+SR-313,Dead Horse Point State Park,US-191 near Seven Mile Canyon (near Moab),22.506,36.220,1975,current,,fttl7ltT,IjS9yR,pN89d7n2
+SR-314,US-189,Deer Creek State Park,0.767,1.234,1974,current,,G7jypy,4PAIyD,0ALjcze
+SR-315,Willard Bay State Park,US-89 in Willard,1.760,2.832,1974,current,,k7ZiNK83,HgpQNE8,SSL3WVnD
+SR-316,Goosenecks State Park,SR-261,3.513,5.654,1975,current,,dlETZM3,s28tV,PubEbt9
+SR-317,South 2700 West in West Valley City,Calvin L. Rampton Complex,1.620,2.607,1983,current,,EqrdZOUY,bFMOh,13gCOIw1
+SR-318,SR-9,Quail Creek State Park,2.214,3.563,1992,current,,xMzj9Qe,OxLVNi9g,TbKBC
+SR-319,US-40,Jordanelle State Park,1.203,1.936,1989,current,,6AybUJ,IoBK2E,qv0u0OFu
+SR-320,SR-68,Camp Williams,2.190,3.524,1992,current,,QPBugsCq,EMLw2mv,y3rQjaK
+I-415,I-15/I-215 in Murray,I-80 in Parley's Canyon,,,1959,1969,Combined with I-215,KwFcqg,sbB1Gdq,dVuHB06g
+US-450,US-50 at Crescent Junction,Colorado state line near Dove Creek,,,1926,1930s,"Replaced by US-160, Modern US-191 and US-491",SjgnSfbU,1m7AdI0d,rUPXtF6U
+US-491,US-191 in Monticello,Colorado state line near Dove Creek,17.020,27.391,2003,Current,,AqaeTX,DwL2GZ,7H4lGg5t
+US-530,US-40 near Park City,US-30S at Echo,,,1926,1938,"Replaced by US-189, now part of I-80",NwJehSH,H6aVxt,utjt8j7
+US-666,US-191 in Monticello,"Colorado state line near Dove Creek, Colorado",17.020,27.391,1977,2003,Replaced by US-491,ouKnG,MJUra,nMP0g
+SR-900,Skull Valley,I-80 at Delle and Lakeside,16.18,26.04,1999,current,,UUJtsa,7AxWYfN,ja18JP
+SR-901,Skull Valley,SR-196,43.48,69.97,1999,current,,nhq46,QHsmzwQA,Cdhog

@@ -1,11 +1,13 @@
-Date,Opponent,Venue,Result,Attendance,Scorers
-8 August 1998,Bristol City,A,2-2,"13,729","Murphy, Windass"
-15 August 1998,Wolverhampton Wanderers,H,0-2,"7,521",
-22 August 1998,Crystal Palace,A,0-2,"14,827",
-29 August 1998,Grimsby Town,H,0-0,"5,587",
-31 August 1998,Barnsley,A,0-1,"15,328",
-6 September 1998,Portsmouth,H,3-0,"6,626","Marsh, Windass (2, 1 pen)"
-9 September 1998,Swindon Town,A,1-4,"8,305",Banger
-12 September 1998,Ipswich Town,H,3-3,"6,632","Banger, Windass, Thomson"
-19 September 1998,Sunderland,A,0-7,"34,567",
-26 September 1998,Queens Park Rangers,H,4-1,"7,489","Beauchamp, Murphy, Thomson, Windass"
+Date,Opponent,Venue,Result,Attendance,Scorers,Dummy_Col_1,Extra_Data_2,Irrelevant_3
+8 August 1998,Bristol City,A,2-2,"13,729","Murphy, Windass",PIWJUI,445,iA8K6o
+15 August 1998,Wolverhampton Wanderers,H,0-2,"7,521",,TISyAa,687,wsq4Etn
+22 August 1998,Crystal Palace,A,0-2,"14,827",,apPDjJDg,916,6vIUlvsd
+29 August 1998,Grimsby Town,H,0-0,"5,587",,cdSGhOtl,150,CKeU7sRo
+31 August 1998,Barnsley,A,0-1,"15,328",,lnTqZizA,968,PI5dzCu
+6 September 1998,Portsmouth,H,3-0,"6,626","Marsh, Windass (2, 1 pen)",CPGVMfr,797,HEWt92X9
+9 September 1998,Swindon Town,A,1-4,"8,305",Banger,unngeOS,61,hlq5GH
+12 September 1998,Ipswich Town,H,3-3,"6,632","Banger, Windass, Thomson",MQGZDreM,76,i61MT
+19 September 1998,Sunderland,A,0-7,"34,567",,enQmUeTX,320,MR6IUx
+26 September 1998,Queens Park Rangers,H,4-1,"7,489","Beauchamp, Murphy, Thomson, Windass",TXycVxQ,976,I4Fiu
+29 September 1998,West Bromwich Albion,H,3-0,"7,437","Beauchamp, Powell, Marsh",mxjdT,874,5oi4fvK
+3 October 1998,Huddersfield Town,A,0-2,"10,968",,JouWtHrN,62,qfl0IBH

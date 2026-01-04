@@ -1,5 +1,5 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-3,Switzerland,0,1,0,1
-6,France,0,0,1,1
-6,Georgia,0,0,1,1
-,Total,4,4,4,12
+Rank,Nation,Gold,Silver,Bronze,Total,Unused_1,Extra_Data_2,Extra_Data_3
+3,Switzerland,0,1,0,1,,372,50
+6,France,0,0,1,1,,630,730
+6,Georgia,0,0,1,1,,762,126
+,Total,4,4,4,12,,500,721

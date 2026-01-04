@@ -1,13 +1,13 @@
-Designation,Classification,Constellation,Apparent Magnitude
-NGC 6745,S,Lyra,13.3
-NGC 6872,SAB(rs)c,Pavo,12.7
-NGC 6946,SAB(rs)cd,Cepheus,9.6
-NGC 7217,(R)SA(r)ab,Pegasus,11.0
-NGC 7318,SB(s)bc pec,Pegasus,14.4 / 13.9
-NGC 7331,SA(s)b,Pegasus,10.4
-NGC 7479,SB(s)c,Pegasus,11.6
-NGC 7742,SA(r)b,Pegasus,12.4
-NGC 7752,SAB(rs)bc,Pegasus,12.8
-NGC 7793,SA(s)d,Sculptor,10.0
-NGC 7814,SA(S)ab,Pegasus,11.6
-"UGC 10214, Tadpole Galaxy",SB(s)c pec,Draco,14.4
+Designation,Classification,Constellation,Apparent Magnitude,Unused_1
+NGC 6745,S,Lyra,13.3,
+NGC 6872,SAB(rs)c,Pavo,12.7,
+NGC 6946,SAB(rs)cd,Cepheus,9.6,
+NGC 7217,(R)SA(r)ab,Pegasus,11.0,
+NGC 7318,SB(s)bc pec,Pegasus,14.4 / 13.9,
+NGC 7331,SA(s)b,Pegasus,10.4,
+NGC 7479,SB(s)c,Pegasus,11.6,
+NGC 7742,SA(r)b,Pegasus,12.4,
+NGC 7752,SAB(rs)bc,Pegasus,12.8,
+NGC 7793,SA(s)d,Sculptor,10.0,
+NGC 7814,SA(S)ab,Pegasus,11.6,
+"UGC 10214, Tadpole Galaxy",SB(s)c pec,Draco,14.4,

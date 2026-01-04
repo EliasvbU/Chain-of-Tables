@@ -1,7 +1,7 @@
-#,Date,Opponent,Score,Win,Loss,Save,Attendance,Record
-97,July 18,@ Braves,7–6,Hudson (10–7),Redding (7–4),González (4),"39,861",36–61
-98,July 19,@ Braves,8–2,Lannan (6–9),Jurrjens (9–5),,"43,285",37–61
-99,July 20,@ Braves,15–6,Pérez (3–7),Reyes (3–9),,"29,320",38–61
-100,July 22,@ Giants,6–3,Zito (5–12),Bergmann (1–7),Wilson (26),"34,813",38–62
-101,July 23,@ Giants,6–4,Espineli (1–0),Ayala (1–6),Wilson (27),"35,539",38–63
-102,July 24,@ Giants,1–0,Cain (6–8),Redding (7–5),,"36,963",38–64
+#,Date,Opponent,Score,Win,Loss,Save,Attendance,Record,Filler_1,Noise_Field_2
+97,July 18,@ Braves,7–6,Hudson (10–7),Redding (7–4),González (4),"39,861",36–61,KINtEjHi,EhOoFWN
+98,July 19,@ Braves,8–2,Lannan (6–9),Jurrjens (9–5),,"43,285",37–61,kEvQn,nwczLh
+99,July 20,@ Braves,15–6,Pérez (3–7),Reyes (3–9),,"29,320",38–61,pYhHUlGm,RNRdi
+100,July 22,@ Giants,6–3,Zito (5–12),Bergmann (1–7),Wilson (26),"34,813",38–62,dfseavP,dXImOpXI
+101,July 23,@ Giants,6–4,Espineli (1–0),Ayala (1–6),Wilson (27),"35,539",38–63,gikkBUJ,GNSUA
+102,July 24,@ Giants,1–0,Cain (6–8),Redding (7–5),,"36,963",38–64,vMbpVHCt,aCbLLwa

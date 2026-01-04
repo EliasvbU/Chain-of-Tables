@@ -1,7 +1,7 @@
-Week,Date,Opponent,Result,Attendance
-1,"September 30, 1956",Philadelphia Eagles,W 27–7,"54,412"
-2,"October 7, 1956",at San Francisco 49ers,L 33–30,"54,589"
-3,"October 14, 1956",at Detroit Lions,L 24–21,"56,281"
-4,"October 21, 1956",at Green Bay Packers,L 42–17,"24,200"
-5,"October 28, 1956",Detroit Lions,L 16–7,"76,758"
-6,"November 4, 1956",Chicago Bears,L 35–24,"69,894"
+Week,Date,Opponent,Result,Attendance,Extra_Data_1,Random_Column_2
+1,"September 30, 1956",Philadelphia Eagles,W 27–7,"54,412",8,bGevx0o
+2,"October 7, 1956",at San Francisco 49ers,L 33–30,"54,589",567,6nQheS
+3,"October 14, 1956",at Detroit Lions,L 24–21,"56,281",507,WGqu1PTC
+4,"October 21, 1956",at Green Bay Packers,L 42–17,"24,200",922,yWec2
+5,"October 28, 1956",Detroit Lions,L 16–7,"76,758",576,ItQDRe
+6,"November 4, 1956",Chicago Bears,L 35–24,"69,894",412,LCKOI8Qv

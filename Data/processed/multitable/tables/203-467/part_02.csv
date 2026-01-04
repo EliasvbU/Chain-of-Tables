@@ -1,7 +1,7 @@
-Year,Numer of Jamaicansgranted Britishcitizenship,Naturalisationby residence,Naturalisationby marriage,Registrationof a minor child,Registrationby other means
-2003,"2,795","1,285",985,520,5
-2004,"3,180","1,415","1,060",640,65
-2005,"3,515","1,585","1,080",770,80
-2006,"2,525","1,110",710,655,55
-2007,"3,165","1,575",825,725,45
-2008,"2,715","1,275",695,700,45
+Year,Numer of Jamaicansgranted Britishcitizenship,Naturalisationby residence,Naturalisationby marriage,Registrationof a minor child,Registrationby other means,Unused_1
+2003,"2,795","1,285",985,520,5,
+2004,"3,180","1,415","1,060",640,65,
+2005,"3,515","1,585","1,080",770,80,
+2006,"2,525","1,110",710,655,55,
+2007,"3,165","1,575",825,725,45,
+2008,"2,715","1,275",695,700,45,

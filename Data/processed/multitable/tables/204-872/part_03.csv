@@ -1,11 +1,11 @@
-Name,Completed,Architect,Location,Year of listing & ref(s)
-Corn Exchange,1903,Unknown,Exchange Square,1973
-"Canada House, Manchester",1905,,Chepstow Street,
-Dalton Ellis Hall,1882,G. T. Redmayne,Conygham Road,1974
-Derros Building,1899,William Sharpe,Great Ancoats Street,1998
-Greenhayes Centre,1896,Unknown,Moss Side,1994
-Hanover Building,1909,F.E.L Harris,Corporation Street,1988
-Holyoake House,1911,F.E.L Harris,Dantzic Street,1988
-National and Provoncial Building Society,Circa. 1910,C. R. Cockerell,King Street,1974
-New Century House,1962,G. S. Hay & Gordon Tait,Miller Street,1995
-Manchester Deansgate railway station,1896,Unknown,,1998
+Name,Completed,Architect,Location,Year of listing & ref(s),Extra_Data_1
+Corn Exchange,1903,Unknown,Exchange Square,1973,912
+"Canada House, Manchester",1905,,Chepstow Street,,884
+Dalton Ellis Hall,1882,G. T. Redmayne,Conygham Road,1974,864
+Derros Building,1899,William Sharpe,Great Ancoats Street,1998,850
+Greenhayes Centre,1896,Unknown,Moss Side,1994,612
+Hanover Building,1909,F.E.L Harris,Corporation Street,1988,381
+Holyoake House,1911,F.E.L Harris,Dantzic Street,1988,295
+National and Provoncial Building Society,Circa. 1910,C. R. Cockerell,King Street,1974,771
+New Century House,1962,G. S. Hay & Gordon Tait,Miller Street,1995,545
+Manchester Deansgate railway station,1896,Unknown,,1998,128

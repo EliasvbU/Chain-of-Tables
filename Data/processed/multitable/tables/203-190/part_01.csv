@@ -1,7 +1,9 @@
-Name,Type,Circle,Bench,Formed,Notes
-Überlingen,Imperial City,Swab,SW,1268,1803: Mediatized to Baden
-Ulm,1155: Free Imperial City,Swab,SW,1115,1803: Mediatized to Bavaria1809: To Wurttemberg
-Umpfenbach,Lordship1805: HRE Princely County,,,,To Trauttmansdorff
-Unterwalden,Imperial valley,,,1415,Division into Nidwalden and Obwalden1173: To Counts of Habsburg1291: Nidwalden became a founding member of the Swiss League1324: Immediate Imperial fief (Reichsunmittelbar)1350s: Division into Obwalden and Nidwalden1648: Left Empire as member of Swiss Confederation
-Upper Salm,1163: County,,,1170,Partitioned from Salm1499: Raised to Wild- and Rhinegraves of Salm1574: Divided into Salm-Salm and Salm-Grumbach
-Upper Bavaria (Oberbayern),Duchy,,,1255,
+Name,Type,Circle,Bench,Formed,Notes,Dummy_Col_1
+Überlingen,Imperial City,Swab,SW,1268,1803: Mediatized to Baden,TQvMIZTC
+Ulm,1155: Free Imperial City,Swab,SW,1115,1803: Mediatized to Bavaria1809: To Wurttemberg,FZxPWi
+Umpfenbach,Lordship1805: HRE Princely County,,,,To Trauttmansdorff,subob
+Unterwalden,Imperial valley,,,1415,Division into Nidwalden and Obwalden1173: To Counts of Habsburg1291: Nidwalden became a founding member of the Swiss League1324: Immediate Imperial fief (Reichsunmittelbar)1350s: Division into Obwalden and Nidwalden1648: Left Empire as member of Swiss Confederation,blBAlxA
+Upper Salm,1163: County,,,1170,Partitioned from Salm1499: Raised to Wild- and Rhinegraves of Salm1574: Divided into Salm-Salm and Salm-Grumbach,cARyQZu
+Upper Bavaria (Oberbayern),Duchy,,,1255,,MiwqLqh
+Upper Schönburg,County,Upp Sax,,1569,Partitioned from Schönburg1800: Partitioned into Schönburg-Hartenstein and Schönburg-Waldenburg,pfxodO
+Urach,County,,,,"1060: 1st mention of Urach1080: 1st use of \Count of Urach\""",YErSOHbo

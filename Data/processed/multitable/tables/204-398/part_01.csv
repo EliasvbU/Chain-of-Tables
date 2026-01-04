@@ -1,11 +1,14 @@
-Title,Year,Publisher,Developer,Platforms
-The Hobbit,1982,Melbourne House,Beam Software,"Amstrad CPC, ZX Spectrum, Commodore 64, BBC (no graphics), Dragon 32, Oric Atmos, MSX, Apple II, IBM PC"
-Lord of the Rings: Game One (AKA: The Fellowship of The Ring),1985,Melbourne House,Beam Software,"ZX Spectrum, Commodore 64, BBC, Dragon 32, Apple Macintosh, Apple II, IBM PC"
-The Shadows of Mordor,1987,Melbourne House,Beam Software,"Amstrad CPC, Commodore 64, ZX Spectrum, Apple II, IBM PC"
-War in Middle-earth,1988,Melbourne House,Melbourne House,"C64, Spectrum, Amstrad CPC, Amiga, Atari ST, IBM PC"
-The Crack of Doom,1989,Melbourne House,Beam Software,"Commodore 64, IBM PC"
-The Lord of the Rings Volume 1,1990,"Interplay,Electronic Arts","Interplay, Chaos Studios (Amiga)","Amiga, IBM PC"
-The Lord of the Rings Volume 2,1992,Interplay,Interplay,IBM PC
-Riders of Rohan,1991,"Konami, Mirrorsoft","Beam Software, Papyrus",IBM PC
-The Lord of the Rings Volume 1,1994,Interplay,Interplay,Super NES
-The Lord of the Rings: The Fellowship of the Ring,2002,Vivendi Universal Games,Surreal Software,"MS Windows, PlayStation 2"
+Title,Year,Publisher,Developer,Platforms,Dummy_Col_1,Extra_Data_2
+The Hobbit,1982,Melbourne House,Beam Software,"Amstrad CPC, ZX Spectrum, Commodore 64, BBC (no graphics), Dragon 32, Oric Atmos, MSX, Apple II, IBM PC",OOsWbElB,391
+Lord of the Rings: Game One (AKA: The Fellowship of The Ring),1985,Melbourne House,Beam Software,"ZX Spectrum, Commodore 64, BBC, Dragon 32, Apple Macintosh, Apple II, IBM PC",TFCxQATR,315
+The Shadows of Mordor,1987,Melbourne House,Beam Software,"Amstrad CPC, Commodore 64, ZX Spectrum, Apple II, IBM PC",FedSx,872
+War in Middle-earth,1988,Melbourne House,Melbourne House,"C64, Spectrum, Amstrad CPC, Amiga, Atari ST, IBM PC",pAXXZtL,263
+The Crack of Doom,1989,Melbourne House,Beam Software,"Commodore 64, IBM PC",veOuS,901
+The Lord of the Rings Volume 1,1990,"Interplay,Electronic Arts","Interplay, Chaos Studios (Amiga)","Amiga, IBM PC",QPmHGo,922
+The Lord of the Rings Volume 2,1992,Interplay,Interplay,IBM PC,ZKtbN,448
+Riders of Rohan,1991,"Konami, Mirrorsoft","Beam Software, Papyrus",IBM PC,sYCWE,512
+The Lord of the Rings Volume 1,1994,Interplay,Interplay,Super NES,eyjIP,469
+The Lord of the Rings: The Fellowship of the Ring,2002,Vivendi Universal Games,Surreal Software,"MS Windows, PlayStation 2",cWmMv,28
+The Lord of the Rings: The Fellowship of the Ring,2002,Vivendi Universal Games,The Whole Experience,Xbox,KHutur,745
+The Lord of the Rings: The Fellowship of the Ring,2002,Vivendi Universal Games,Pocket Studios,Game Boy Advance,pCqyQW,803
+The Lord of the Rings: The Two Towers,2002,Electronic Arts,Stormfront StudiosHypnos Entertainment (GCN),"PlayStation 2, Xbox, Nintendo GameCube",MgYGPI,68

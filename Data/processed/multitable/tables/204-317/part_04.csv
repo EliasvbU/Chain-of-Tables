@@ -1,10 +1,12 @@
-Metropolitan area,Country,Rank,Forstall2003 est.,Official population,Year
-Moscow,Russia,15,"15,000,000","17,000,000",
-Mumbai,India,5,"19,200,000","20,748,395",2011
-Nagoya,Japan,,,"9,107,000",2010
-New York,United States,4,"19,750,000","19,831,858",2012
-Osaka-Kobe-Kyoto (Keihanshin),Japan,9,"17,375,000","19,342,000",2010
-Paris,France,,,"12,223,100",2010
-Philadelphia,United States,,,"6,018,800",2012
-Pune,India,,,"5,049,968",2011
-Ruhr,Germany,,,"5,135,136",2012
+Metropolitan area,Country,Rank,Forstall2003 est.,Official population,Year,Dummy_Col_1,Random_Column_2,Irrelevant_3
+Pune,India,,,"5,049,968",2011,RbLWD,BKMp4G,FiURv
+Ruhr,Germany,,,"5,135,136",2012,pFUAadTV,y1CVF,gRqSg4JH
+Rio de Janeiro,Brazil,,,"11,846,530",2012,KrrNRI,8zqjIF,70viTkY
+São Paulo,Brazil,7,"18,850,000","19,956,590",2012,jYRFU,J8E1F7M,trLgutA
+Santiago,Chile,,,"6,683,852",2012,iVlOcoBv,1WQ9z,69auApD
+Shanghai,China,10,"16,650,000",,,sFXQOAc,FruO1RxT,HHuo1
+Seoul,South Korea,2,"20,550,000","25,721,000",2012,YWrJzejQ,Lq48i0,HEhUZ5
+Singapore,Singapore,,,"5,312,000",2012,NSpIhY,CO68s6V,J1cb9
+Tokyo,Japan,1,"32,450,000","36,923,000",2010,XnVzDCiA,zr8bY,VLEjoHA
+Toronto,Canada,,,"5,583,064",2011,OPwPGs,YwX7jU0,DRyVOur
+"Washington, D.C.",United States,,,"5,860,342",2012,UCaNJXU,p8iqCo,QjxDmT

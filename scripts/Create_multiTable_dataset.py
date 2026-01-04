@@ -1,61 +1,47 @@
 import os
 import csv
 import json
+import random
+import string
 from pathlib import Path
 from typing import List, Dict, Tuple
 
 
-# =========================
+
 # CONFIG (EDIT THESE)
-# =========================
-WTQ_TSV = Path("Data/raw/data/training.tsv")  # <-- your WTQ tsv
-TABLES_ROOT = Path("Data/raw/CSV")            # <-- folder that contains 200-csv/, 201-csv/, ...
+
+WTQ_TSV = Path("Data/raw/data/training.tsv")  # Training wtq tsv path
+TABLES_ROOT = Path("Data/raw/CSV")            # WTQ table files root path
 OUT_TABLES_DIR = Path("Data/processed/multitable/tables")
 OUT_DATASET_JSON = Path("Data/processed/multitable/wtq_multitable.json")
 
 
-# =========================
-# SPLIT POLICY (your rules)
-# =========================
+
+# SPLIT POLICY
+
 def decide_num_splits(num_rows: int) -> int:
     """
-    num_rows = number of data rows (excluding header)
-    Your rule:
-      8 rows -> 2 tables
-      14 -> 3
-      20 -> 4
-      40 -> 5
-      60 -> 6
-      70 -> 7
-      80 -> 8
-      90 -> 9
-      100 -> 10
-    For < 8 rows we keep it as 1 table (otherwise you create ultra-tiny splits).
+    Determine number of table splits based on row count.
+    
+    Rule:
+      - < 10 rows: 1 table
+      - >= 10 rows: num_rows // 10, minimum 2, capped at 10 max
+    
+    Examples:
+      - 10 rows: 2 tables
+      - 30 rows: 3 tables
+      - 50 rows: 5 tables
+      - 100 rows: 10 tables
     """
-    if num_rows >= 100:
-        return 10
-    if num_rows >= 90:
-        return 9
-    if num_rows >= 80:
-        return 8
-    if num_rows >= 70:
-        return 7
-    if num_rows >= 60:
-        return 6
-    if num_rows >= 40:
-        return 5
-    if num_rows >= 20:
-        return 4
-    if num_rows >= 14:
-        return 3
-    if num_rows >= 8:
-        return 2
-    return 1
+    if num_rows < 10:
+        return 1
+    else:
+        return min(max(2, num_rows // 10), 10)
 
 
-# =========================
+
 # IO HELPERS
-# =========================
+
 def ensure_dir(p: Path) -> None:
     p.mkdir(parents=True, exist_ok=True)
 
@@ -135,6 +121,57 @@ def write_csv(path: Path, header: List[str], rows: List[List[str]]) -> None:
         writer.writerows(rows)
 
 
+def generate_noise_headers(num_noise: int) -> List[Tuple[str, str]]:
+    """Generate random noise column headers with their types.
+    Returns list of (header_name, data_type) tuples.
+    """
+    noise_templates = [
+        ("Random_Column_{}", "letters_numbers"),
+        ("Noise_Field_{}", "letters"),
+        ("Extra_Data_{}", "numbers"),
+        ("Dummy_Col_{}", "letters"),
+        ("Unused_{}", "empty"),
+        ("Filler_{}", "letters"),
+        ("Irrelevant_{}", "letters_numbers"),
+    ]
+    headers = []
+    for i in range(num_noise):
+        template, data_type = random.choice(noise_templates)
+        headers.append((template.format(i + 1), data_type))
+    return headers
+
+
+def add_noise_columns(header: List[str], rows: List[List[str]], num_noise: int) -> Tuple[List[str], List[List[str]]]:
+    """Add noise columns to a table."""
+    noise_headers_with_types = generate_noise_headers(num_noise)
+    noise_header_names = [h for h, _ in noise_headers_with_types]
+    new_header = header + noise_header_names
+    
+    # Add random values for noise columns in each row based on data type
+    new_rows = []
+    for row in rows:
+        noise_values = []
+        for _, data_type in noise_headers_with_types:
+            if data_type == "letters":
+                # Just letters (5-8 characters)
+                value = ''.join(random.choices(string.ascii_letters, k=random.randint(5, 8)))
+            elif data_type == "numbers":
+                # Just numbers
+                value = str(random.randint(0, 999))
+            elif data_type == "letters_numbers":
+                # Mix of letters and numbers (5-8 characters)
+                value = ''.join(random.choices(string.ascii_letters + string.digits, k=random.randint(5, 8)))
+            elif data_type == "empty":
+                # Empty string
+                value = ""
+            else:
+                value = ""
+            noise_values.append(value)
+        new_rows.append(row + noise_values)
+    
+    return new_header, new_rows
+
+
 def split_rows_evenly(rows: List[List[str]], k: int) -> List[List[List[str]]]:
     """
     Split rows into k chunks as evenly as possible.
@@ -163,8 +200,8 @@ def split_rows_evenly(rows: List[List[str]], k: int) -> List[List[List[str]]]:
 def resolve_context_to_file(context: str) -> Path:
     """
     WTQ context looks like: csv/204-csv/590.csv
-    Your actual files are under: Data/raw/CSV/204-csv/590.csv
-    So we drop the leading 'csv/' and join with TABLES_ROOT.
+    Actual files are under: Data/raw/CSV/204-csv/590.csv
+    Drop leading 'csv/' and join with TABLES_ROOT.
     """
     context = context.replace("\\", "/").strip()
     if context.startswith("csv/"):
@@ -174,9 +211,9 @@ def resolve_context_to_file(context: str) -> Path:
     return TABLES_ROOT / rel
 
 
-# =========================
+
 # MAIN PIPELINE
-# =========================
+
 def build_multitable_dataset() -> None:
     print("=== WTQ -> Multi-table construction (row-splitting) ===")
 
@@ -205,6 +242,17 @@ def build_multitable_dataset() -> None:
         # Split rows
         chunks = split_rows_evenly(rows, k)
 
+        # Decide which tables get noise headers
+        # At least 1 table must have NO noise
+        # Randomly select 1-5 tables to add noise (if k > 1)
+        tables_with_noise = set()
+        if k > 1:
+            # Ensure at least one table has no noise
+            num_tables_with_noise = min(random.randint(1, 5), k - 1)
+            # Randomly select which tables get noise
+            all_indices = list(range(k))
+            tables_with_noise = set(random.sample(all_indices, num_tables_with_noise))
+
         # Save split tables
         # Make stable unique folder per original table
         # Example: csv/204-csv/590.csv -> 204-csv_590
@@ -213,8 +261,17 @@ def build_multitable_dataset() -> None:
 
         split_paths = []
         for i, chunk in enumerate(chunks, start=1):
+            # Determine if this table should have noise
+            table_header = header
+            table_rows = chunk
+            
+            if (i - 1) in tables_with_noise:
+                # Add 1-3 noise columns to this table
+                num_noise_cols = random.randint(1, 3)
+                table_header, table_rows = add_noise_columns(header, chunk, num_noise_cols)
+            
             out_csv = OUT_TABLES_DIR / safe_name / f"part_{i:02d}.csv"
-            write_csv(out_csv, header, chunk)
+            write_csv(out_csv, table_header, table_rows)
             split_paths.append(str(out_csv).replace("\\", "/"))
 
         out_entries.append({

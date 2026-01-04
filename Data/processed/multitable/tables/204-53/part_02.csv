@@ -1,8 +1,14 @@
-Date,Result,Opponent,Event,Location,Method,Round,Time
-2011-03-19,Loss,Gino Bourne,Fight Night Turnhout,"Turnhout, Belgium",DQ,,
-2011-02-12,Win,Henri van Opstal,War of the Ring,"Amsterdam, Netherlands",Decision (unanimous),3,3:00
-2010-12-04,Win,Alessandro Campagna,Janus Fight Night 2010,"Padua, Italy",Decision,3,3:00
-2010-09-10,Win,Edson Fortes,Ring Sensation Gala,"Utrecht, Netherlands",Decision,3,3:00
-2010-03-21,Loss,Mohamed Khamal,"K-1 World MAX 2010 West Europe Tournament, Final","Utrecht, Netherlands",KO (punch),2,
-2010-03-21,Win,Anthony Kane,"K-1 World MAX 2010 West Europe Tournament, Semi Finals","Utrecht, Netherlands",Decision,3,3:00
-2010-03-21,Win,Bruno Carvalho,"K-1 World MAX 2010 West Europe Tournament, Quarter Finals","Utrecht, Netherlands",Decision,3,3:00
+Date,Result,Opponent,Event,Location,Method,Round,Time,Dummy_Col_1,Random_Column_2
+2009-11-21,Win,Seo Doo Won,It's Showtime 2009 Barneveld,"Barneveld, Netherlands",TKO (referee stoppage),1,,BwCwIDd,bBY3I
+2009-09-24,Win,Chris Ngimbi,It's Showtime 2009 Lommel,"Lommel, Belgium",Extra round decision,4,4:00,jxyeKyWS,edas1
+2009-04-11,Win,Farid Riffi,Almelo Fight for Delight,"Almelo, Netherlands",TKO,,,HkvtK,riiw8n4Q
+2009-03-14,Win,Viktor Sarezki,War of the Ring,Belgium,KO (punch to the body),1,,nUjwksZ,mBtWoiaW
+2009-02-21,Win,Pedro Sedarous,Turnhout Gala,"Turnhout, Belgium",Decision,5,3:00,QSGvEJd,EAqjn
+2009-01-31,Win,Dahou Naim,Tielrode Gala,"Tielrode, Belgium",2nd extra round decision,5,3:00,dNadq,GsvrYrF3
+2008-09-20,Win,Abdallah Mabel,"S-Cup Europe 2008, Reserve Bout","Gorinchem, Netherlands",Decision,3,3:00,GNWPLuf,eRIM15Wi
+2008-09-14,Win,Jordy Sloof,The Outland Rumble,"Rotterdam, Netherlands",KO (Right cross),1,,nirRsjqU,esgEzlB
+2008-03-08,Win,Naraim Ruben,Lommel Gala,"Lommel, Belgium",TKO (retirement),3,,ArFTAlK,P9rnhfH9
+2008-02-23,Win,Pierre Petit,St. Job Gala,"St. Job, Belgium",KO (Right punch),2,,ccEBJp,umdz6
+2008-01-26,Win,Yildiz Bullut,Tielrode Gala,"Tielrode, Belgium",TKO,2,,XjEGXJ,rDbaL
+2007-11-28,Win,Ibrahim Benazza,Lint Gala,"Lint, Belgium",Decision,5,2:00,oDupFoUJ,Wocj0w
+2007-10-27,Win,Anthony Kane,One Night in Bangkok,"Antwerp, Belgium",Decision,5,,WKdQd,3F8QMv

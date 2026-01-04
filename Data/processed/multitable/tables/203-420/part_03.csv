@@ -1,9 +1,11 @@
-#,Stadium,Capacity,City,Home team
-16=,Lakeview Park,"3,000",Loughgall,Loughgall
-16=,YMCA Grounds,"3,000",Drumahoe,Institute
-16=,Stangmore Park,"3,000",Dungannon,Dungannon Swifts
-16=,Tillysburn Park,"3,000",Belfast,Harland & Wolff Welders
-21,Clandeboye Park,"2,850",Bangor,"Bangor, Ards"
-22,Wilgar Park,"2,500",Belfast,Dundela
-23=,Allen Park,"2,000",Antrim,Chimney Corner
-23=,Ferney Park,"2,000",Ballinamallard,Ballinamallard United
+#,Stadium,Capacity,City,Home team,Unused_1,Extra_Data_2
+21,Clandeboye Park,"2,850",Bangor,"Bangor, Ards",,651
+22,Wilgar Park,"2,500",Belfast,Dundela,,336
+23=,Allen Park,"2,000",Antrim,Chimney Corner,,601
+23=,Ferney Park,"2,000",Ballinamallard,Ballinamallard United,,512
+23=,Hagan Park,"2,000",Coagh,Coagh United,,307
+23=,Mill Meadow,"2,000",Castledawson,"Wakehurst, Moyola Park",,185
+23=,Riada Stadium,"2,000",Ballymoney,"Glebe Rangers, Ballymoney United",,53
+28=,Crystal Park,"1,500",Banbridge,Banbridge Town,,342
+28=,Fortwilliam Park,"1,500",Tobermore,Tobermore United,,566
+28=,Newforge Lane,"1,500",Belfast,PSNI,,816

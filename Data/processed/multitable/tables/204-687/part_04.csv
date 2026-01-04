@@ -1,10 +1,12 @@
-Year,Men,Sport,Women,Sport,Team,Sport,Promising Talent,Sport,Paralympic,Sport,Coach,Sport
-1984,Claude Criquielion,cycling,Ingrid Berghmans (4),judo,,,,,,,,
-1983,Eddy Annys,athletics,Ingrid Berghmans (3),judo,,,,,,,,
-1982,Jacky Ickx,motorsport,Ingrid Berghmans (2),judo,,,,,,,,
-1981,Freddy Maertens,cycling,Annie Lambrechts,roller skating,,,,,,,,
-1980,Robert Van De Walle (2),judo,Ingrid Berghmans,judo,,,,,,,,
-1979,Robert Van De Walle,judo,Carine Verbauwen (3),swimming,,,,,,,,
-1978,Raymond Ceulemans,billiards,Carine Verbauwen (2),swimming,,,,,,,,
-1977,Michel Pollentier,cycling,Anne-Marie Pira (2),athletics,,,,,,,,
-1976,Ivo Van Damme,athletics,Anne-Marie Pira,athletics,,,,,,,,
+Year,Men,Sport,Women,Sport,Team,Sport,Promising Talent,Sport,Paralympic,Sport,Coach,Sport,Extra_Data_1
+1977,Michel Pollentier,cycling,Anne-Marie Pira (2),athletics,,,,,,,,,41
+1976,Ivo Van Damme,athletics,Anne-Marie Pira,athletics,,,,,,,,,973
+1975,Bruno Brokken,athletics,Carine Verbauwen,swimming,,,,,,,,,696
+1974,Eddy Merckx (6),cycling,–,–,,,,,,,,,830
+1973,Eddy Merckx (5),cycling,–,–,,,,,,,,,33
+1972,Eddy Merckx (4),cycling,–,–,,,,,,,,,271
+1971,Eddy Merckx (3),cycling,–,–,,,,,,,,,763
+1970,Eddy Merckx (2),cycling,–,–,,,,,,,,,77
+1969,Eddy Merckx,cycling,–,–,,,,,,,,,977
+1968,Serge Reding,weightlifting,–,–,,,,,,,,,475
+1967,Ferdinand Bracke,cycling,–,–,,,,,,,,,708

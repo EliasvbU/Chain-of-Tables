@@ -1,67 +1,67 @@
-Year,City,"State, province, dept., etc.",Country,Notes
-1536,Popayán,Cauca,Colombia,
-1536,San Pedro Sula,Cortés,Honduras,
-1536,Tupiza,Potosí,Bolivia,
-1537,Asunción,,Paraguay,Oldest continuously inhabited European established settlement in Paraguay.
-1537,Recife,Pernambuco,Brazil,Capital of the state of Pernambuco. It is the oldest city among Brazil's current state capitals.
-1538,Bogotá,Cundinamarca,Colombia,
-1538,Guayaquil,Guayas,Ecuador,
-1538,Iguape,São Paulo,Brazil,
-1538,Sucre,Chuquisaca,Bolivia,Originally called Ciudad de la Plata de la Nueva Toledo and the oldest continuously inhabited European established settlement in Bolivia.
-1540,Arequipa,Arequipa,Peru,
-1540,Ayacucho,Ayacucho,Peru,
-1540,Campeche,Campeche,Mexico,
-1540,Yuriria,Guanajuato,Mexico,
-1540,Campeche,Campeche,Mexico,Founded on the site of Mayan village Kimpech.
-1541,Huánuco,Huánuco,Peru,
-1541,Moquegua,Moquegua,Peru,
-1541,Santiago,Santiago,Chile,Oldest continuously inhabited European established settlement in Chile.
-1542,Guadalajara,Jalisco,Mexico,
-1542,Genaro Codina,Zacatecas,Mexico,
-1542,San Miguel de Allende,Guanajuato,Mexico,
-1542,Mérida,Yucatan,Mexico,Built on the site of Mayan city T'ho.
-1542,San Luis de la Paz,Guanajuato,Mexico,
-1543,Antigua Guatemala,Sacatepéquez,Guatemala,
-1543,Cobán,Alta Verapaz,Guatemala,
-1543,Santa Cruz Verapaz,Alta Verapaz,Guatemala,
-1545,Potosí,Potosí,Bolivia,
-1546,Neyba,Bahoruco,Dominican Republic,
-1546,Tepezalá,Aguascalientes,Mexico,
-1548,Asientos,Aguascalientes,Mexico,
-1548,La Paz,La Paz,Bolivia,
-1548,Pánuco,Zacatecas,Mexico,
-1548,Zacatecas,Zacatecas,Mexico,
-1549,Salvador,Bahia,Brazil,
-1550,Concepción,Concepción,Chile,
-1551,Vitória,Espírito Santo,Brazil,
-1552,Sonsonate,Sonsonate,El Salvador,
-1553,Santiago del Estero,Santiago del Estero,Argentina,Oldest continuously inhabited European established settlement in Argentina.
-1553,São Bernardo do Campo,São Paulo,Brazil,
-1554,Embu,São Paulo,Brazil,
-1554,São Paulo,São Paulo,Brazil,
-1555,Saín Alto,Zacatecas,Mexico,
-1556,Chalchihuites,Zacatecas,Mexico,
-1557,Santo Amaro,Bahia,Brazil,
-1558,Mérida,Mérida,Venezuela,
-1560,Ipojuca,Pernambuco,Brazil,
-1561,Santa Cruz de la Sierra,Santa Cruz,Bolivia,
-1561,San Cristobal,Táchira,Venezuela,
-1562,San Juan,San Juan,Argentina,
-1562,Río Grande,Zacatecas,Mexico,
-1562,Susticacán,Zacatecas,Mexico,
-1563,Cartago,Cartago,Costa Rica,Oldest continuously inhabited European established settlement in Costa Rica.
-1564,São Mateus,Espírito Santo,Brazil,
-1565,Rio de Janeiro,Rio de Janeiro,Brazil,
-1565,Saint Augustine,Florida,United States,"Oldest continuously inhabited European established settlement in the continental United States. Preceded by Puerto Rican colonies, Pensacola, Florida, which was destroyed in 1559, and Fort Caroline, destroyed in 1565."
-1565,Tucumán,Tucumán,Argentina,
-1567,Caracas,Capital District,Venezuela,
-1568,Mazapil,Zacatecas,Mexico,
-1568,Goiana,Pernambuco,Brazil,Declared vila in 1685; cidade in 1840.
-1568,Valaparaíso,Zacatecas,Mexico,
-1569,Santa Ana,Santa Ana,El Salvador,Built over Mayan city of Sihuatehuacán.
-1570,Jerez,Zacatecas,Mexico,
-1570,Sombrerete,Zacatecas,Mexico,
-1571,Cochabamba,Cochabamba,Bolivia,
-1572,Huancavelica,Huancavelica,Peru,
-1573,San German,Puerto Rico,United States,Second oldest European settlement in Puerto Rico
-1573,Córdoba,Córdoba,Argentina,
+Year,City,"State, province, dept., etc.",Country,Notes,Noise_Field_1
+1536,Popayán,Cauca,Colombia,,GGnJOBA
+1536,San Pedro Sula,Cortés,Honduras,,efYrfMTD
+1536,Tupiza,Potosí,Bolivia,,IutzPqMh
+1537,Asunción,,Paraguay,Oldest continuously inhabited European established settlement in Paraguay.,XWBFAXvd
+1537,Recife,Pernambuco,Brazil,Capital of the state of Pernambuco. It is the oldest city among Brazil's current state capitals.,ZZaSfm
+1538,Bogotá,Cundinamarca,Colombia,,adivnIYy
+1538,Guayaquil,Guayas,Ecuador,,jckquP
+1538,Iguape,São Paulo,Brazil,,dQExXx
+1538,Sucre,Chuquisaca,Bolivia,Originally called Ciudad de la Plata de la Nueva Toledo and the oldest continuously inhabited European established settlement in Bolivia.,StqPbyrN
+1540,Arequipa,Arequipa,Peru,,ZDjrU
+1540,Ayacucho,Ayacucho,Peru,,rMbqsJC
+1540,Campeche,Campeche,Mexico,,iXbxn
+1540,Yuriria,Guanajuato,Mexico,,HfWYCp
+1540,Campeche,Campeche,Mexico,Founded on the site of Mayan village Kimpech.,XGYLhHJ
+1541,Huánuco,Huánuco,Peru,,nQdhawh
+1541,Moquegua,Moquegua,Peru,,rlgiRP
+1541,Santiago,Santiago,Chile,Oldest continuously inhabited European established settlement in Chile.,FECYKvJK
+1542,Guadalajara,Jalisco,Mexico,,oUyxfqt
+1542,Genaro Codina,Zacatecas,Mexico,,yhsos
+1542,San Miguel de Allende,Guanajuato,Mexico,,eIIeltV
+1542,Mérida,Yucatan,Mexico,Built on the site of Mayan city T'ho.,JnOLUe
+1542,San Luis de la Paz,Guanajuato,Mexico,,FXCqT
+1543,Antigua Guatemala,Sacatepéquez,Guatemala,,ysbwI
+1543,Cobán,Alta Verapaz,Guatemala,,lpCGk
+1543,Santa Cruz Verapaz,Alta Verapaz,Guatemala,,sTYAEdE
+1545,Potosí,Potosí,Bolivia,,uNaJtt
+1546,Neyba,Bahoruco,Dominican Republic,,ntUVFfK
+1546,Tepezalá,Aguascalientes,Mexico,,VBXjlO
+1548,Asientos,Aguascalientes,Mexico,,GcGne
+1548,La Paz,La Paz,Bolivia,,woFESYw
+1548,Pánuco,Zacatecas,Mexico,,PdaJtnS
+1548,Zacatecas,Zacatecas,Mexico,,bchme
+1549,Salvador,Bahia,Brazil,,ZuEsH
+1550,Concepción,Concepción,Chile,,COqrQc
+1551,Vitória,Espírito Santo,Brazil,,QoFbPycB
+1552,Sonsonate,Sonsonate,El Salvador,,SaaTuqc
+1553,Santiago del Estero,Santiago del Estero,Argentina,Oldest continuously inhabited European established settlement in Argentina.,LrtXHBJa
+1553,São Bernardo do Campo,São Paulo,Brazil,,vOhyEo
+1554,Embu,São Paulo,Brazil,,bWFwLJ
+1554,São Paulo,São Paulo,Brazil,,tXHgD
+1555,Saín Alto,Zacatecas,Mexico,,aoJkqP
+1556,Chalchihuites,Zacatecas,Mexico,,TWrCUo
+1557,Santo Amaro,Bahia,Brazil,,EzqAq
+1558,Mérida,Mérida,Venezuela,,fcKnIOJo
+1560,Ipojuca,Pernambuco,Brazil,,dMHJFf
+1561,Santa Cruz de la Sierra,Santa Cruz,Bolivia,,rXqHn
+1561,San Cristobal,Táchira,Venezuela,,UPHdFTGG
+1562,San Juan,San Juan,Argentina,,ouEKDOR
+1562,Río Grande,Zacatecas,Mexico,,AzrNjn
+1562,Susticacán,Zacatecas,Mexico,,bTXDP
+1563,Cartago,Cartago,Costa Rica,Oldest continuously inhabited European established settlement in Costa Rica.,VyRIRC
+1564,São Mateus,Espírito Santo,Brazil,,OpyhD
+1565,Rio de Janeiro,Rio de Janeiro,Brazil,,NHdjMRxn
+1565,Saint Augustine,Florida,United States,"Oldest continuously inhabited European established settlement in the continental United States. Preceded by Puerto Rican colonies, Pensacola, Florida, which was destroyed in 1559, and Fort Caroline, destroyed in 1565.",PgajQ
+1565,Tucumán,Tucumán,Argentina,,wgiGse
+1567,Caracas,Capital District,Venezuela,,zqugbZIp
+1568,Mazapil,Zacatecas,Mexico,,ScBWgzF
+1568,Goiana,Pernambuco,Brazil,Declared vila in 1685; cidade in 1840.,mNHSV
+1568,Valaparaíso,Zacatecas,Mexico,,IbdksSde
+1569,Santa Ana,Santa Ana,El Salvador,Built over Mayan city of Sihuatehuacán.,HhAIion
+1570,Jerez,Zacatecas,Mexico,,ZDlAom
+1570,Sombrerete,Zacatecas,Mexico,,RnJktbS
+1571,Cochabamba,Cochabamba,Bolivia,,rQkwYR
+1572,Huancavelica,Huancavelica,Peru,,mALpnFy
+1573,San German,Puerto Rico,United States,Second oldest European settlement in Puerto Rico,UrtiyI
+1573,Córdoba,Córdoba,Argentina,,xFxemVHI

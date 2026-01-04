@@ -1,8 +1,8 @@
-Airline,Destination(s),Aircraft Scheduled,Service Date(s),Comments
-Delta Air Lines,"Atlanta, Cincinnati, Dayton, Detroit, Fort Wayne","Convair 440, Boeing 727-200, Boeing 737-300, MD-88, DC-9-30",,
-Eastern Airlines,Columbus,"Constellation L-1049G, Locheed Electra, Boeing 727-100, Boeing 727-200, DC-9-30, DC-9-50",,
-Frontier Airlines mk 1,"Denver, Detroit","Boeing 737-200, MD-80",,
-Liberty Airlines,Chicago Midway & O'Hare,Convair 440,02/1982-5/16/1983,"Plans for CMH, CLE, STL, BUF, & EWR scrapped. Also flew CAK-ORD"
-Midway Connection,Chicago Midway,"EMB-120, Dornier 228",,
-Mesaba Aviation,"Detroit, Youngstown","Dash 8-200, Fokker 27, Metro III, Saab 340",,Original and dba Northwest Airlink
-Piedmont Airlines,Dayton,"Boeing 727-200, Boeing 737-200",,Merged with USAir
+Airline,Destination(s),Aircraft Scheduled,Service Date(s),Comments,Unused_1,Random_Column_2
+Delta Air Lines,"Atlanta, Cincinnati, Dayton, Detroit, Fort Wayne","Convair 440, Boeing 727-200, Boeing 737-300, MD-88, DC-9-30",,,,VjEUJHF5
+Eastern Airlines,Columbus,"Constellation L-1049G, Locheed Electra, Boeing 727-100, Boeing 727-200, DC-9-30, DC-9-50",,,,daAT1j
+Frontier Airlines mk 1,"Denver, Detroit","Boeing 737-200, MD-80",,,,K67qB5r6
+Liberty Airlines,Chicago Midway & O'Hare,Convair 440,02/1982-5/16/1983,"Plans for CMH, CLE, STL, BUF, & EWR scrapped. Also flew CAK-ORD",,aN94xB
+Midway Connection,Chicago Midway,"EMB-120, Dornier 228",,,,d9FzkWR
+Mesaba Aviation,"Detroit, Youngstown","Dash 8-200, Fokker 27, Metro III, Saab 340",,Original and dba Northwest Airlink,,OvvuFWZZ
+Piedmont Airlines,Dayton,"Boeing 727-200, Boeing 737-200",,Merged with USAir,,eHixq7DS

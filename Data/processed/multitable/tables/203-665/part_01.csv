@@ -1,7 +1,9 @@
-Name,Municipality,Established,Tower heightin meters (ft),Focal planein meters (ft),Current status,Current condition
-Los Morrillos Light,Cabo Rojo,1882,12 m (40 ft.),37 m (121 ft),Active,Restored for tourism
-Punta Higuero Light,Rincón,1892,21 m (69 ft),27 m (90 ft),Active,"It has been fully restored and is part of the El Faro Park, a tourist and recreation center."
-Punta Borinquen Light,Aguadilla,1892,18 m (60 ft),89 m (292 ft),Active,Operational
-Arecibo Light,Arecibo,1898,14 m (46 ft),36 m (120 ft),Active,Restored for tourism
-Port San Juan Light,San Juan,1846,15.5 m (51 ft),55 m (181 ft),Active,"Restored for tourism. Also known as El Morro, Faro de Morro or Faro del Castillo del Morro or Puerto San Juan Light."
-Cape San Juan Light,Fajardo,1880,14 m (45 ft),79 m (260 ft),Active,Restored for tourism
+Name,Municipality,Established,Tower heightin meters (ft),Focal planein meters (ft),Current status,Current condition,Extra_Data_1,Filler_2,Unused_3
+Los Morrillos Light,Cabo Rojo,1882,12 m (40 ft.),37 m (121 ft),Active,Restored for tourism,919,YBLUqsm,
+Punta Higuero Light,Rincón,1892,21 m (69 ft),27 m (90 ft),Active,"It has been fully restored and is part of the El Faro Park, a tourist and recreation center.",262,rdRIx,
+Punta Borinquen Light,Aguadilla,1892,18 m (60 ft),89 m (292 ft),Active,Operational,521,dHIacid,
+Arecibo Light,Arecibo,1898,14 m (46 ft),36 m (120 ft),Active,Restored for tourism,85,hKHlY,
+Port San Juan Light,San Juan,1846,15.5 m (51 ft),55 m (181 ft),Active,"Restored for tourism. Also known as El Morro, Faro de Morro or Faro del Castillo del Morro or Puerto San Juan Light.",696,jmadrs,
+Cape San Juan Light,Fajardo,1880,14 m (45 ft),79 m (260 ft),Active,Restored for tourism,388,FAZfDEsn,
+Guánica Light,Guanica,1893,N/A,N/A,Inactive,Ruins,274,RaXLP,
+Cardona Island Light,Ponce,1889,11 m (36 ft),14 m (46 ft),Active,Good,600,wyAAjWs,

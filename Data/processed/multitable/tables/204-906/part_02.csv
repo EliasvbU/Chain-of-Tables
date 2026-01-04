@@ -1,6 +1,9 @@
-#,Title,Songwriters,Producer(s),Performer
-7,"\Death Row\""""","P. Chapman, K-Def, M. Williams","K-Def, Marley Marl",Tragedy
-8,"\Speech [Check The Time]\""""",,Kool Tee,*Interlude*
-9,"\Mad Brothas Know His Name\""""","P. Chapman, K-Def, M. Williams","K-Def, Marley Marl",Tragedy
-10,"\Pass the Teck\""""","P. Chapman, K-Def",K-Def,"Tragedy, Havoc"
-11,"\Street Life\""""","P. Chapman, Epitome Of Scratch",Epitome Of Scratch,Tragedy
+#,Title,Songwriters,Producer(s),Performer,Extra_Data_1
+9,"\Mad Brothas Know His Name\""""","P. Chapman, K-Def, M. Williams","K-Def, Marley Marl",Tragedy,668
+10,"\Pass the Teck\""""","P. Chapman, K-Def",K-Def,"Tragedy, Havoc",136
+11,"\Street Life\""""","P. Chapman, Epitome Of Scratch",Epitome Of Scratch,Tragedy,238
+12,"\Pump the Funk\""""","P. Chapman, M. Williams",Marley Marl,Tragedy,78
+13,"\Role Model\""""","P. Chapman, Kool Tee",Kool Tee,Tragedy,981
+14,"\The Posse [Shoot ’Em Up]\""""","P. Chapman, Mr. Freaknasti",Mr. Freaknasti,Tragedy,706
+15,"\Grand Groove [Bonus Mix]\""""","P. Chapman, K-Def",K-Def,Tragedy,911
+16,"\Funky Roll Outro\""""",,,*Interlude*,797

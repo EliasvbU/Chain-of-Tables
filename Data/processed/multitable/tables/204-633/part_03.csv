@@ -1,7 +1,7 @@
-Launch date,Operator,Name,Sample origin,Samples returned,Recovery date,Mission result
-"August 8, 2001",,Genesis,Solar wind,Solar wind particles,"September 8, 2004",Partial successReturn capsule damaged after failed parachute deploymentSome usable samples recovered
-"May 9, 2003",,Hayabusa,25143 Itokawa(Asteroid surface),"1,500 grainsof asteroid particles","June 13, 2010",Partial successPlanned to return several hundred milligrams
-"November 8, 2011",,Fobos-Grunt,Phobos(Mars satellite soil),None,-,FailureFailed to leave Earth orbitCrashed into the southern Pacific OceanReturned none of the 200 grams (7.1 oz) planned
-"July 2014(planned, earliest)",,Hayabusa 2,Planned for(162173) 1999 JU3(Asteroid surface),-,2020 (planned),
-2016(planned),,OSIRIS-REx,Planned for101955 Bennu(Asteroid regolith),-,2023 (planned),Planned to return between 60 g to 2 kg (2.1 oz to 4.4 lb)
-2017(planned),,Chang'e 5,The Moon,-,2017 (planned),Planned to return at least 2 kilograms (4.4 lb)
+Launch date,Operator,Name,Sample origin,Samples returned,Recovery date,Mission result,Filler_1
+"August 8, 2001",,Genesis,Solar wind,Solar wind particles,"September 8, 2004",Partial successReturn capsule damaged after failed parachute deploymentSome usable samples recovered,GHfbCDP
+"May 9, 2003",,Hayabusa,25143 Itokawa(Asteroid surface),"1,500 grainsof asteroid particles","June 13, 2010",Partial successPlanned to return several hundred milligrams,jeywvu
+"November 8, 2011",,Fobos-Grunt,Phobos(Mars satellite soil),None,-,FailureFailed to leave Earth orbitCrashed into the southern Pacific OceanReturned none of the 200 grams (7.1 oz) planned,AJUcXWz
+"July 2014(planned, earliest)",,Hayabusa 2,Planned for(162173) 1999 JU3(Asteroid surface),-,2020 (planned),,fivXAC
+2016(planned),,OSIRIS-REx,Planned for101955 Bennu(Asteroid regolith),-,2023 (planned),Planned to return between 60 g to 2 kg (2.1 oz to 4.4 lb),DciAGH
+2017(planned),,Chang'e 5,The Moon,-,2017 (planned),Planned to return at least 2 kilograms (4.4 lb),mTCbun

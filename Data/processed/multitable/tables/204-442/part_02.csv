@@ -1,5 +1,5 @@
-Institution,Location,Enrollment,Nickname,VarsitySports,RugbySince,Head Coach
-North Carolina State,"Raleigh, North Carolina","34,767",Wolfpack,25,1965,Jim Latham
-University of Virginia,"Charlottesville, Virginia","20,895",Cavaliers,25,1961,Jon Roberts
-Virginia Tech,"Blacksburg, Virginia","30,379",Hokies,21,1891 / 1968,Andy Richards
-Wake Forest,"Winston-Salem, North Carolina","7,079",Demon Deacons,18,1973,Patrick Kane
+Institution,Location,Enrollment,Nickname,VarsitySports,RugbySince,Head Coach,Extra_Data_1
+North Carolina State,"Raleigh, North Carolina","34,767",Wolfpack,25,1965,Jim Latham,484
+University of Virginia,"Charlottesville, Virginia","20,895",Cavaliers,25,1961,Jon Roberts,168
+Virginia Tech,"Blacksburg, Virginia","30,379",Hokies,21,1891 / 1968,Andy Richards,478
+Wake Forest,"Winston-Salem, North Carolina","7,079",Demon Deacons,18,1973,Patrick Kane,555

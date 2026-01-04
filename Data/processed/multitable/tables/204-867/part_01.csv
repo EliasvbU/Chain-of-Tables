@@ -1,6 +1,8 @@
-Number,Date,Name,Age(at Execution),Age(at Offense),Race,State,Method
-1,"November 2, 1984",Velma Margie Barfield,52,45,White,North Carolina,Lethal injection
-2,"February 3, 1998",Karla Faye Tucker,38,23,White,Texas,Lethal injection
-3,"March 30, 1998",Judias V. Buenoano,54,28,White,Florida,Electrocution
-4,"February 24, 2000",Betty Lou Beets,62,46,White,Texas,Lethal injection
-5,"May 2, 2000",Christina Marie Riggs,28,26,White,Arkansas,Lethal injection
+Number,Date,Name,Age(at Execution),Age(at Offense),Race,State,Method,Filler_1
+1,"November 2, 1984",Velma Margie Barfield,52,45,White,North Carolina,Lethal injection,byMUNxoW
+2,"February 3, 1998",Karla Faye Tucker,38,23,White,Texas,Lethal injection,AZgEl
+3,"March 30, 1998",Judias V. Buenoano,54,28,White,Florida,Electrocution,rpKjHPj
+4,"February 24, 2000",Betty Lou Beets,62,46,White,Texas,Lethal injection,IVpKYm
+5,"May 2, 2000",Christina Marie Riggs,28,26,White,Arkansas,Lethal injection,lCMjou
+6,"January 11, 2001",Wanda Jean Allen,41,29,Black,Oklahoma,Lethal injection,ZCNXSRJR
+7,"May 1, 2001",Marilyn Kay Plantz,40,27,White,Oklahoma,Lethal injection,BMKcX

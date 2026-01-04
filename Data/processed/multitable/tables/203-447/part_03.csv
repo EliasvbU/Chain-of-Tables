@@ -1,10 +1,13 @@
-Constituency,Region,Name,Party,Last elected
-11,Maule,Andrés Zaldívar,PDC,2009
-11,Maule,Hernán Larraín Fernández,UDI,2009
-12,Biobío,"Alejandro Navarro Brain(Vice-President, March 20, 2012–March 20, 2013)",MAS,2005
-12,Biobío,Hosain Sabag Castillo,PDC,2005
-13,Biobío,Mariano Ruiz-Esquide Jara,PDC,2005
-13,Biobío,Víctor Pérez Varela,UDI,2005
-14,Araucanía,Jaime Quintana,PPD,2009
-14,Araucanía,Alberto Espina Otero,RN,2009
-15,Araucanía,Eugenio Tuma,PPD,2009
+Constituency,Region,Name,Party,Last elected,Dummy_Col_1,Noise_Field_2
+14,Araucanía,Jaime Quintana,PPD,2009,BaLBkLE,KdRTCBG
+14,Araucanía,Alberto Espina Otero,RN,2009,bsLwXCpR,rJbjsasP
+15,Araucanía,Eugenio Tuma,PPD,2009,ZcNWatSB,DqXVWUik
+15,Araucanía,José García Ruminot,RN,2009,YMIlI,bHDtO
+16,Los Ríos(plus District 55),Carlos Larraín Peña,RN,2005,XciXrYCE,JaqhF
+16,Los Ríos(plus District 55),"Eduardo Frei Ruiz-Tagle(President, March 11, 2006-March 12, 2008)",PDC,2005,KOLez,EzRrUTA
+17,Los Lagos(minus District 55),"Camilo Escalona Medina(President, March 20, 2012–March 20, 2013)",PS,2005,umqvDG,xcBYdwOz
+17,Los Lagos(minus District 55),Carlos Kuschel Silva,RN,2005,MdvjypkQ,MbHUQun
+18,Aisén,Patricio Walker,PDC,2009,qHalqW,yWlfXqXZ
+18,Aisén,Antonio Horvath Kiss,RN,2001,reRsfo,SdJpkHn
+19,Magallanes,"Carlos Bianchi Chelech(Vice-President, March 13, 2009–March 11, 2010)",Ind.,2005,knJCWMll,jGdlHBXo
+19,Magallanes,Pedro Muñoz Aburto,PS,2005,OOGUZM,JZtVday

@@ -1,8 +1,14 @@
-Pos,Rider,Manufacturer,Time/Retired,Grid,Points
-1,Roberto Rolfo,Honda,45:14.Ret3,8,25
-2,Anthony West,Aprilia,+14.040,11,20
-3,Fonsi Nieto,Aprilia,+33.511,5,16
-4,Franco Battaini,Aprilia,+54.252,3,13
-5,Alex Debón,Honda,+1:06.895,13,11
-6,Naoki Matsudo,Yamaha,+1:06.943,9,10
-7,Erwan Nigon,Aprilia,+1:13.421,12,9
+Pos,Rider,Manufacturer,Time/Retired,Grid,Points,Random_Column_1,Dummy_Col_2,Random_Column_3
+1,Roberto Rolfo,Honda,45:14.Ret3,8,25,86bhpC,lmXnz,D3V7OA
+2,Anthony West,Aprilia,+14.040,11,20,lTlbJ,yMziRt,GLUHZ8AB
+3,Fonsi Nieto,Aprilia,+33.511,5,16,t2dmtG4B,HYTmqa,k6kQC
+4,Franco Battaini,Aprilia,+54.252,3,13,0iYYDu,Ivuhmgh,4CopTx
+5,Alex Debón,Honda,+1:06.895,13,11,xcBpHoWm,SMLLkizE,kmyKSXBa
+6,Naoki Matsudo,Yamaha,+1:06.943,9,10,j6sdRbHI,swPWiw,oiErbJ
+7,Erwan Nigon,Aprilia,+1:13.421,12,9,MZbMMl,fqpIo,iAEQiU8S
+8,Jaroslav Huleš,Yamaha,+1:22.119,10,8,rLqCT,iAtPe,ZO5EYpU
+9,Manuel Poggiali,Aprilia,+1:22.163,7,7,UkzLW1TO,vBZrOP,7oO79iKS
+10,Johann Stigefelt,Aprilia,+1:25.303,22,6,7rPSD,sPbuDtVz,6iettE
+11,Toni Elías,Aprilia,+1:41.591,1,5,bkdrzy,zXgngyGs,A2IPsj
+12,Lukáš Pešek,Yamaha,+2:49.682,18,4,ioSjuVp,AQdgd,KRAZw
+13,Dirk Heidolf,Aprilia,+1 Lap,17,3,dSdZqEN,FuFVRJLT,oh4By

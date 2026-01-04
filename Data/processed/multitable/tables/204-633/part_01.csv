@@ -1,8 +1,14 @@
-Launch date,Operator,Name,Sample origin,Samples returned,Recovery date,Mission result
-"June 14, 1969",,Luna E-8-5 No.402,The Moon,None,-,FailureLaunch failure
-"July 13, 1969",,Luna 15,The Moon,None,-,FailureCrash-landed on the Moon
-23 September 1969,,Cosmos 300,The Moon,None,-,FailureFailed to leave Earth orbit
-22 October 1969,,Cosmos 305,The Moon,None,-,FailureFailed to leave Earth orbit
-6 February 1970,,Luna E-8-5 No.405,The Moon,None,-,FailureLaunch failure
-"September 12, 1970",,Luna 16,The Moon,101 grams (3.6 oz)of lunar rock,"September 24, 1970",Success
-"September 2, 1971",,Luna 18,The Moon,None,-,FailureCrash-landed on the Moon
+Launch date,Operator,Name,Sample origin,Samples returned,Recovery date,Mission result,Irrelevant_1,Filler_2,Filler_3
+"June 14, 1969",,Luna E-8-5 No.402,The Moon,None,-,FailureLaunch failure,0VhmuG0W,hcoKcJMc,xDQuNt
+"July 13, 1969",,Luna 15,The Moon,None,-,FailureCrash-landed on the Moon,1UtYHWc,qentci,RgbLSEmh
+23 September 1969,,Cosmos 300,The Moon,None,-,FailureFailed to leave Earth orbit,mrJg0,Guwgr,htJbfP
+22 October 1969,,Cosmos 305,The Moon,None,-,FailureFailed to leave Earth orbit,pzji2GfO,ZrPgPXsf,xAsZhxR
+6 February 1970,,Luna E-8-5 No.405,The Moon,None,-,FailureLaunch failure,RfiKWX8,BStmv,MUJGAiMN
+"September 12, 1970",,Luna 16,The Moon,101 grams (3.6 oz)of lunar rock,"September 24, 1970",Success,9j4AK,ATeXs,jrscpYJC
+"September 2, 1971",,Luna 18,The Moon,None,-,FailureCrash-landed on the Moon,raBu1,CgtCzhwn,oYJUSwP
+"February 14, 1972",,Luna 20,The Moon,55 grams (1.9 oz)of lunar rock,"February 25, 1972",Success,kjqdOHvP,tJFCyIn,FhRRf
+"November 2, 1974",,Luna 23,The Moon,None,-,FailureDrilling device damaged on Moon landingMission abandoned,Rj2Ivkq,ugExJldG,RGKyIG
+"October 16, 1975",,Luna E-8-5M No.412,The Moon,None,-,FailureLaunch failure,o66eWzc,zLRcjA,mPVPWT
+"August 9, 1976",,Luna 24,The Moon,170 grams (6.0 oz)of lunar rock,"August 22, 1976",Success,S9x9jeCR,QkXHQ,TbgPAZ
+1979 (planned)(canceled 1977),,"Mars 79 (\Mars 5M\"")""",Mars,-,-,Canceled in 1977Planned to return 500 grams (18 oz),obhJC,eAjQztk,SurxkDCD
+"February 7, 1999",,Stardust,81P/Wild(Comet coma),Over 1 millioncomet particles,"January 15, 2006",Success,SwRQd5R,bgPjYRg,WZqLBG

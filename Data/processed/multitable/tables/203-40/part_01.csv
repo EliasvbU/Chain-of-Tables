@@ -1,13 +1,13 @@
-P.S. #,School Name,Neighborhood,Low Grade,High Grade,Year Closed,Building Status
-1,School 1,Lakeview,K,8,1976,Demolished
-2,School 2,Downtown,K,8,1961,Demolished
-4,Harbor Heights Elementary School,First Ward,K,8,2002,Vacant
-5,School 5,Kaisertown,K,8,1955,Demolished
-7,School 7,Babcock,K,8,1950,Demolished
-8,Follow Through Urban Learning Lab School,Masten Park,K,8,2004,Vacant
-9,School 9,Schiller Park,K,8,1980,Demolished
-10,School 10,Downtown,K,8,1955,Demolished
-11,Poplar Academy,Schiller Park,K,4,2009,Vacant
-12,Harriet Ross Tubman Early Childhood Center,Willert Park,K,4,2005,House Office of Special Education
-13,School 13,Downtown,K,12,2003,Private Apartments/Office Space
-14,School 14,Downtown,K,8,1930s,Demolished
+P.S. #,School Name,Neighborhood,Low Grade,High Grade,Year Closed,Building Status,Irrelevant_1,Noise_Field_2,Dummy_Col_3
+1,School 1,Lakeview,K,8,1976,Demolished,JWMLeF3,qBMBtggD,ZqetTaSp
+2,School 2,Downtown,K,8,1961,Demolished,tPvEEj9,IozMd,MTvaAIpc
+4,Harbor Heights Elementary School,First Ward,K,8,2002,Vacant,kUiQ5N,OZfbdC,QacoG
+5,School 5,Kaisertown,K,8,1955,Demolished,ZlxaVmi,ychZuQbg,qUaUMzD
+7,School 7,Babcock,K,8,1950,Demolished,XVLJKr,LADWE,pAHXU
+8,Follow Through Urban Learning Lab School,Masten Park,K,8,2004,Vacant,fHbLWh,DpeDdHoq,BhAFp
+9,School 9,Schiller Park,K,8,1980,Demolished,MI2Cqz,TMxcq,xDistyHt
+10,School 10,Downtown,K,8,1955,Demolished,cpsefcm,dHBoSQ,QDHfIsl
+11,Poplar Academy,Schiller Park,K,4,2009,Vacant,TZqNN0T,ebnLaMIl,IsYXHQ
+12,Harriet Ross Tubman Early Childhood Center,Willert Park,K,4,2005,House Office of Special Education,xllr25dG,mGlTD,AoiDeZ
+13,School 13,Downtown,K,12,2003,Private Apartments/Office Space,ylxNJ,KOIpzEj,CyZwlZnc
+14,School 14,Downtown,K,8,1930s,Demolished,OyZfBAqP,Cvhgfry,eMINSl

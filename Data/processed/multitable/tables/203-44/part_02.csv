@@ -1,7 +1,13 @@
-Stage,Date,Route,Terrain,Length,Winner
-7,28 June,Besançon – Thonon-les-Bains,Plain stage,195 km (121 mi),Jan Janssen (NED)
-8,29 June,Thonon-les-Bains – Briançon,Stage with mountain(s),249 km (155 mi),Federico Bahamontes (ESP)
-9,30 June,Briançon – Monaco,Stage with mountain(s),239 km (149 mi),Jacques Anquetil (FRA)
-10A,1 July,Monaco – Hyères,Plain stage,187 km (116 mi),Jan Janssen (NED)
-10B,1 July,Hyères – Toulon,Individual time trial,21 km (13 mi),Jacques Anquetil (FRA)
-11,2 July,Toulon – Montpellier,Plain stage,250 km (160 mi),Edward Sels (BEL)
+Stage,Date,Route,Terrain,Length,Winner,Unused_1,Irrelevant_2
+12,3 July,Montpellier – Perpignan,Plain stage,174 km (108 mi),Jo de Roo (NED),,WODLiQb
+13,4 July,Perpignan – Andorra,Stage with mountain(s),170 km (110 mi),Julio Jiménez (ESP),,VqbMpSs
+14,6 July,Andorra – Toulouse,Stage with mountain(s),186 km (116 mi),Edward Sels (BEL),,LO01y
+15,7 July,Toulouse – Luchon,Stage with mountain(s),203 km (126 mi),Raymond Poulidor (FRA),,wsGgn
+16,8 July,Luchon – Pau,Stage with mountain(s),197 km (122 mi),Federico Bahamontes (ESP),,f7D3KbP
+17,9 July,Peyrehorade – Bayonne,Individual time trial,43 km (27 mi),Jacques Anquetil (FRA),,y5a6M8j
+18,10 July,Bayonne – Bordeaux,Plain stage,187 km (116 mi),André Darrigade (FRA),,rHBR0
+19,11 July,Bordeaux – Brive,Plain stage,215 km (134 mi),Edward Sels (BEL),,4U4DTk4o
+20,12 July,Brive – Puy de Dôme,Stage with mountain(s),217 km (135 mi),Julio Jiménez (ESP),,2MQl7Yk
+21,13 July,Clermont-Ferrand – Orléans,Plain stage,311 km (193 mi),Jean Stablinski (FRA),,E5BPf
+22A,14 July,Orléans – Versailles,Plain stage,119 km (74 mi),Benoni Beheyt (BEL),,J5X3H0
+22B,14 July,Versailles – Paris,Individual time trial,27 km (17 mi),Jacques Anquetil (FRA),,LmT7r0

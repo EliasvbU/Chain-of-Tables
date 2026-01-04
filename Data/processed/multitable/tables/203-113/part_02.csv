@@ -1,6 +1,11 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-4,East Germany (GDR),1,1,0,2
-4,Great Britain (GBR),1,1,0,2
-8,Norway (NOR),1,0,0,1
-8,Romania (ROU),1,0,0,1
-10,China (CHN),0,1,1,2
+Rank,Nation,Gold,Silver,Bronze,Total,Extra_Data_1,Dummy_Col_2,Irrelevant_3
+11,Chile (CHI),0,1,0,1,950,iQRxLS,6cqrK
+11,France (FRA),0,1,0,1,917,qxSGtu,xoCUU
+11,Japan (JPN),0,1,0,1,647,jCBUmC,Ey7R4
+11,South Korea (KOR),0,1,0,1,503,SKkaS,ExxfJc
+11,Sweden (SWE),0,1,0,1,351,TmPKbVWI,XljRe
+11,United States (USA),0,1,0,1,333,ZyKgk,rCcZMjr
+17,Hungary (HUN),0,0,2,2,182,VLcukkG,pofzFrQ
+18,Belgium (BEL),0,0,1,1,641,MMwQSQa,53qfz
+18,Spain (ESP),0,0,1,1,856,lbBpT,RNXdjBF
+Total,Total,13,13,13,39,759,Qenpa,IMUEtBo

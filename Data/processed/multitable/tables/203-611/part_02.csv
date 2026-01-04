@@ -1,7 +1,13 @@
-Player,HR,Date reached 500 HR,Team,Seasons played
-Sammy Sosa,609,"April 4, 2003",Chicago Cubs,"1989–2005,2007"
-Frank Robinson,586,"September 13, 1971",Baltimore Orioles,1956–1976
-Mark McGwire,583,"August 5, 1999",St. Louis Cardinals,1986–2001
-Harmon Killebrew,573,"August 10, 1971",Minnesota Twins,1954–1975
-Rafael Palmeiro,569,"May 11, 2003",Texas Rangers,1986–2005
-Reggie Jackson,563,"September 17, 1984",California Angels,1967–1987
+Player,HR,Date reached 500 HR,Team,Seasons played,Unused_1,Extra_Data_2
+Manny Ramirez,555,"May 31, 2008",Boston Red Sox,1993–2011,,731
+Mike Schmidt,548,"April 18, 1987",Philadelphia Phillies,1972–1989,,837
+Mickey Mantle,536,"May 14, 1967",New York Yankees,1951–1968,,925
+Jimmie Foxx,534,"September 24, 1940",Boston Red Sox,"1925–1942,1944–1945",,651
+Ted Williams,521,"June 17, 1960",Boston Red Sox,"1939–1942,1946–1960",,422
+Willie McCovey,521,"June 30, 1978",San Francisco Giants,1959–1980,,351
+Frank Thomas,521,"June 28, 2007",Toronto Blue Jays,1990–2008,,512
+Ernie Banks,512,"May 12, 1970",Chicago Cubs,1953–1971,,72
+Eddie Mathews,512,"July 14, 1967",Houston Astros,1952–1968,,401
+Mel Ott,511,"August 1, 1945",New York Giants,1926–1947,,724
+Gary Sheffield,509,"April 17, 2009",New York Mets,1988–2009,,887
+Eddie Murray,504,"September 6, 1996",Baltimore Orioles,1977–1997,,703

@@ -1,6 +1,11 @@
-Outcome,No.,Date,Championship,Surface,Opponent,Score
-Runner-up,1.,1973,"Baltimore, U.S.",Hard (i),Jimmy Connors,"4–6, 5–7"
-Winner,1.,1974,"Baltimore, U.S.",Carpet,Clark Graebner,"6–2, 6–1"
-Runner-up,2.,1974,"Birmingham, U.S.",Carpet,Jimmy Connors,"5–7, 3–6"
-Winner,2.,1974,"Paramus, U.S.",Indoor,Jürgen Fassbender,"6–1, 6–3"
-Winner,3.,1974,"Jackson, U.S.",Carpet,Karl Meiler,"7–6, 7–5"
+Outcome,No.,Date,Championship,Surface,Opponent,Score,Extra_Data_1,Extra_Data_2,Unused_3
+Runner-up,1.,1973,"Baltimore, U.S.",Hard (i),Jimmy Connors,"4–6, 5–7",609,466,
+Winner,1.,1974,"Baltimore, U.S.",Carpet,Clark Graebner,"6–2, 6–1",501,588,
+Runner-up,2.,1974,"Birmingham, U.S.",Carpet,Jimmy Connors,"5–7, 3–6",430,988,
+Winner,2.,1974,"Paramus, U.S.",Indoor,Jürgen Fassbender,"6–1, 6–3",709,108,
+Winner,3.,1974,"Jackson, U.S.",Carpet,Karl Meiler,"7–6, 7–5",940,666,
+Runner-up,3.,1975,"Maui, U.S.",Hard,Jimmy Connors,"1–6, 0–6",76,631,
+Runner-up,4.,1975,Hong Kong,Hard,Tom Gorman,"3–6, 1–6, 1–6",297,833,
+Winner,4.,1977,"Little Rock, U.S.",Carpet,Haroon Rahim,"6–2, 6–4",814,940,
+Runner-up,5.,1977,"San Jose, U.S.",Hard,Jiří Hřebec,"6–3, 4–6, 5–7",111,617,
+Winner,5.,1977,"Hampton, U.S.",Carpet,Stan Smith,"4–6, 6–3, 6–2, 1–6, 6–3",95,250,

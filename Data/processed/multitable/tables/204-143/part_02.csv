@@ -1,10 +1,13 @@
-National park,Region,Land area (km²),Established,Visitation (2009),Coordinates
-Kurjenrahka,Finland Proper,29,1998,"28,500",60°43′14″N 22°23′1″E﻿ / ﻿60.72056°N 22.38361°E
-Lauhanvuori,Southern Ostrobothnia,53,1982,"10,000",62°09′7″N 22°10′30″E﻿ / ﻿62.15194°N 22.17500°E
-Leivonmäki,Central Finland,29,2003,"12,500",61°56′N 26°2′E﻿ / ﻿61.933°N 26.033°E
-Lemmenjoki,Lapland,"2,850",1956,"10,000",68°30′N 25°30′E﻿ / ﻿68.500°N 25.500°E
-Liesjärvi,Tavastia Proper,22,1956,"30,500",60°40′50″N 23°51′30″E﻿ / ﻿60.68056°N 23.85833°E
-Linnansaari,Southern Savonia / Northern Savonia,38,1956,"31,000",62°6′38″N 28°30′34″E﻿ / ﻿62.11056°N 28.50944°E
-Nuuksio,Uusimaa,45,1994,"179,500",60°18′27″N 24°29′57″E﻿ / ﻿60.30750°N 24.49917°E
-Oulanka,Northern Ostrobothnia / Lapland,270,1956,"165,500",66°22′32″N 29°20′19″E﻿ / ﻿66.37556°N 29.33861°E
-Päijänne,Päijänne Tavastia,14,1993,"15,000",61°23′12″N 25°23′36″E﻿ / ﻿61.38667°N 25.39333°E
+National park,Region,Land area (km²),Established,Visitation (2009),Coordinates,Extra_Data_1
+Lemmenjoki,Lapland,"2,850",1956,"10,000",68°30′N 25°30′E﻿ / ﻿68.500°N 25.500°E,399
+Liesjärvi,Tavastia Proper,22,1956,"30,500",60°40′50″N 23°51′30″E﻿ / ﻿60.68056°N 23.85833°E,483
+Linnansaari,Southern Savonia / Northern Savonia,38,1956,"31,000",62°6′38″N 28°30′34″E﻿ / ﻿62.11056°N 28.50944°E,157
+Nuuksio,Uusimaa,45,1994,"179,500",60°18′27″N 24°29′57″E﻿ / ﻿60.30750°N 24.49917°E,716
+Oulanka,Northern Ostrobothnia / Lapland,270,1956,"165,500",66°22′32″N 29°20′19″E﻿ / ﻿66.37556°N 29.33861°E,246
+Päijänne,Päijänne Tavastia,14,1993,"15,000",61°23′12″N 25°23′36″E﻿ / ﻿61.38667°N 25.39333°E,272
+Pallas-Yllästunturi,Lapland,"1,020",2005,"419,000",68°9′32″N 24°2′25″E﻿ / ﻿68.15889°N 24.04028°E,787
+Patvinsuo,North Karelia,105,1982,"12,000",63°6′41″N 30°42′16″E﻿ / ﻿63.11139°N 30.70444°E,706
+Perämeri,Lapland,2.5,1991,"9,000",65°37′22″N 24°19′10″E﻿ / ﻿65.62278°N 24.31944°E,712
+Petkeljärvi,North Karelia,6,1956,"19,500",62°35′N 31°11′E﻿ / ﻿62.583°N 31.183°E,216
+Puurijärvi-Isosuo,Pirkanmaa / Satakunta,27,1993,"11,500",61°14′57″N 22°34′1″E﻿ / ﻿61.24917°N 22.56694°E,624
+Pyhä-Häkki,Central Finland,13,1956,"17,000",62°50′44″N 25°28′21″E﻿ / ﻿62.84556°N 25.47250°E,171

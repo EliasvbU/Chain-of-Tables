@@ -1,7 +1,10 @@
-Year,Host / Location,Division I Overall,Division I Undergraduate,Division II Overall,Division II Community College
-1997,Penn,Chicago,N/A,N/A,N/A
-1998,Vanderbilt,Stanford,Swarthmore,Harvard,N/A
-1999,Michigan,Chicago,Carleton,Princeton,N/A
-2000,Boston U,Illinois,Princeton,Harvard,N/A
-2001,"Washington, St. Louis",Chicago,Princeton,Pittsburgh,N/A
-2002,North Carolina,Michigan,Princeton,Yale,Valencia CC
+Year,Host / Location,Division I Overall,Division I Undergraduate,Division II Overall,Division II Community College,Extra_Data_1
+1997,Penn,Chicago,N/A,N/A,N/A,591
+1998,Vanderbilt,Stanford,Swarthmore,Harvard,N/A,13
+1999,Michigan,Chicago,Carleton,Princeton,N/A,926
+2000,Boston U,Illinois,Princeton,Harvard,N/A,359
+2001,"Washington, St. Louis",Chicago,Princeton,Pittsburgh,N/A,785
+2002,North Carolina,Michigan,Princeton,Yale,Valencia CC,819
+2003,UCLA and Caltech,Chicago,Harvard,Berkeley,Valencia CC,626
+2004,"Washington, St. Louis",Cal-Berkeley,Illinois,UCLA,Valencia CC,46
+2005,Tulane,Michigan,VA Commonwealth,Chicago,Faulkner St CC,614

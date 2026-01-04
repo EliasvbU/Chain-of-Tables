@@ -1,7 +1,7 @@
-Year,Author,Illustrator,Title,Publisher
-1994,Trish Cooke,Helen Oxenbury,So Much,Walker
-1995,Kathy Henderson,Patrick Benson,The Little Boat,Walker
-1996,Babette Cole,Cole,Drop Dead,J. Cape
-1997,William Mayne,Jonathan Heale,Lady Muck,Heinemann
-1998,Anthony Browne,Browne,Voices in the Park,Doubleday
-1999,Lewis Carroll (1865),Helen Oxenbury,Alice's Adventures in Wonderland,Walker
+Year,Author,Illustrator,Title,Publisher,Extra_Data_1,Unused_2
+1994,Trish Cooke,Helen Oxenbury,So Much,Walker,491,
+1995,Kathy Henderson,Patrick Benson,The Little Boat,Walker,38,
+1996,Babette Cole,Cole,Drop Dead,J. Cape,951,
+1997,William Mayne,Jonathan Heale,Lady Muck,Heinemann,725,
+1998,Anthony Browne,Browne,Voices in the Park,Doubleday,959,
+1999,Lewis Carroll (1865),Helen Oxenbury,Alice's Adventures in Wonderland,Walker,467,

@@ -1,10 +1,12 @@
-Month,Year,Player,County,Club,Position
-April,2006,Mark Foley,Limerick,Adare,4
-May,2006,Eoin Kelly,Tipperary,Mullinahone,15
-June,2006,Joe Deane,Cork,Killeagh,15
-July,2006,Dan Shanahan,Waterford,Lismore,10
-August,2006,Henry Shefflin,Kilkenny,Ballyhale Shamrocks,14
-September,2006,James Fitzpatrick,Kilkenny,Ballyhale Shamrocks,9
-April,2007,Séamus Prendergast,Waterford,Ardmore,14
-May,2007,Ronan Curran,Cork,St. Finbarr's,6
-June,2007,Ollie Moran,Limerick,Ahane,11
+Month,Year,Player,County,Club,Position,Dummy_Col_1
+April,2006,Mark Foley,Limerick,Adare,4,XnoGyx
+May,2006,Eoin Kelly,Tipperary,Mullinahone,15,LUkZgb
+June,2006,Joe Deane,Cork,Killeagh,15,LuSoH
+July,2006,Dan Shanahan,Waterford,Lismore,10,rOizRx
+August,2006,Henry Shefflin,Kilkenny,Ballyhale Shamrocks,14,DNnATkKF
+September,2006,James Fitzpatrick,Kilkenny,Ballyhale Shamrocks,9,JzCPYJJD
+April,2007,Séamus Prendergast,Waterford,Ardmore,14,fucYuHpG
+May,2007,Ronan Curran,Cork,St. Finbarr's,6,OjKErT
+June,2007,Ollie Moran,Limerick,Ahane,11,GpTLSA
+July,2007,Dan Shanahan,Waterford,Lismore,10,ubBBPcVv
+August,2007,Andrew O'Shaughnessy,Limerick,Kilmallock,13,VbGOuA

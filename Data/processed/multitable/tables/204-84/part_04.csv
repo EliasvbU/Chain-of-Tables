@@ -1,10 +1,12 @@
-No,Peak,Location,Elevation (m),Prominence (m),Col height (m),Col location,Parent
-28,Presanella,Italy,"3,558","1,676",1882,Tonale Pass,Ortler
-29,Birnhorn,Austria,"2,634","1,665",969,Hochfilzen,Großglockner1 / MB2
-30,Col Nudo,Italy,"2,471","1,644",827,Passo di Sant'Osvaldo,Antelao1 / MB2
-31,Pointe Percée,France,"2,750","1,643",1107,near Pont d'Arbon near Megève,Mont Blanc
-32,Jôf di Montasio,Italy,"2,753","1,597",1156,Predil Pass,Triglav
-33,Mölltaler Polinik,Austria,"2,784","1,579",1205,Iselsberg Pass,Großglockner1 / MB2
-34,Tödi,Switzerland,"3,614","1,570",2044,Oberalp Pass,Finsteraarhorn
-35,Birkkarspitze,Austria,"2,749","1,569",1180,Seefeld in Tirol,Zugspitze1 / MB2
-36,Ellmauer Halt,Austria,"2,344","1,551",793,near Ellmau,Großglockner1 / MB2
+No,Peak,Location,Elevation (m),Prominence (m),Col height (m),Col location,Parent,Irrelevant_1
+34,Tödi,Switzerland,"3,614","1,570",2044,Oberalp Pass,Finsteraarhorn,nJw70o
+35,Birkkarspitze,Austria,"2,749","1,569",1180,Seefeld in Tirol,Zugspitze1 / MB2,KTTfQsc
+36,Ellmauer Halt,Austria,"2,344","1,551",793,near Ellmau,Großglockner1 / MB2,NP73SQ
+37,Grande Tête de l'Obiou,France,"2,790","1,542",1248,Col Bayard,Barre des Écrins1 / MB2,RP3KL
+38,Cima Tosa,Italy,"3,173","1,521",1652,near Campo Carlo Magno,Presanella1 / MB2,I1jgMF
+39,Hochtor,Austria,"2,369","1,520",849,Schober Pass,Großglockner1 / MB2,pzZzet7n
+40,Grimming,Austria,"2,351","1,518",833,near Schrödis near Tauplitz,Großer Priel,cJ98xcE
+41,Grand Combin,Switzerland,"4,314","1,517",2797,Fenêtre de Durand,Monte Rosa,7vMr91vH
+42,La Tournette,France,"2,351","1,514",837,Col du Marais,Pointe Percée1 / MB2,4woK9K3
+43,Zirbitzkogel,Austria,"2,396","1,502",894,Neumarkter Sattel,Großglockner1 / MB2,3PEBea
+44,Piz Kesch,Switzerland,"3,418","1,502",1916,Lukmanier Pass,Finsteraarhorn1 / MB2,EpgIkVJ9

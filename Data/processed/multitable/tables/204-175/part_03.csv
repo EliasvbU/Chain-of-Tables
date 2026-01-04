@@ -1,9 +1,12 @@
-Pos,No.,Driver,Team,Laps,Time/Retired,Grid,Laps Led,Points
-19,19,Alex Lloyd,Dale Coyne Racing,198,+2 laps,30,0,15
-20,36,Pippa Mann (R),Conquest Racing,198,+2 laps,31,0,15
-21,24,Ana Beatriz,Dreyer & Reinbold Racing,197,+3 laps,32,0,15
-22,43,John Andretti,Andretti Autosport,197,+3 laps,17,0,16
-23,41,Ryan Hunter-Reay2,A. J. Foyt Enterprises,197,+3 laps,33,0,12
-24,11,Davey Hamilton,Dreyer & Reinbold Racing,193,+7 laps,15,0,16
-25,23,Paul Tracy,Dreyer & Reinbold Racing,175,+25 laps,24,0,13
-26,99,Townsend Bell,Sam Schmidt Motorsports,157,Contact,4,0,21
+Pos,No.,Driver,Team,Laps,Time/Retired,Grid,Laps Led,Points,Extra_Data_1,Noise_Field_2
+24,11,Davey Hamilton,Dreyer & Reinbold Racing,193,+7 laps,15,0,16,873,IRZaFf
+25,23,Paul Tracy,Dreyer & Reinbold Racing,175,+25 laps,24,0,13,93,jikHr
+26,99,Townsend Bell,Sam Schmidt Motorsports,157,Contact,4,0,21,257,Eutbfpm
+27,6,Ryan Briscoe,Team Penske,157,Contact,26,0,13,299,iBpmMJ
+28,77,Alex Tagliani,Sam Schmidt Motorsports,147,Contact,1,20,25,332,eMBcsB
+29,06,James Hinchcliffe (R),Newman/Haas Racing,99,Contact,13,0,14,248,WKSnusw
+30,88,Jay Howard (R),Sam Schmidt Motorsports,60,Contact,20,0,14,471,WUTdrdq
+31,78,Simona de Silvestro,HVM Racing,44,Handling,23,0,14,849,YCfbqVuS
+32,59,E. J. Viso,KV Racing Technology – Lotus,27,Contact,18,0,14,652,vZwvKurG
+33,5,Takuma Sato,KV Racing Technology – Lotus,20,Contact,10,0,14,649,fKCJKTr
+Wth,41,Bruno Junqueira2,A. J. Foyt Enterprises,-,Withdrawn,-,-,4,346,hcKFuy

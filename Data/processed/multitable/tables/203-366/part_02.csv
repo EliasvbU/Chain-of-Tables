@@ -1,11 +1,14 @@
-Pos,Class,No,Team,Drivers,Chassis,Engine,Laps
-27,P+5.0,5,Holman & Moody,Roger McCluskey Frank Gardner,Ford GT40 Mk.IIB,Ford 7.0L V8,179
-28,GT+5.0,9,Dana Chevrolet Inc.,Bob Bondurant Dick Guldstrand,Chevrolet Corvette,Chevrolet 7.0L V8,167
-29,P2.0,29,Equipe Matra Sports,Jean-Pierre Beltoise Johnny Servoz-Gavin,Matra MS630,BRM 2.0L V8,155
-30,P5.0,25,North American Racing Team (NART),Pedro Rodriguez Giancarlo Baghetti,Ferrari 412P,Ferrari 4.0L V12,144
-31,GT2.0,67,Pierre Boutin,Pierre Boutin Patrice Sanson,Porsche 911S,Porsche 2.0L Flat-6,134
-32,GT2.0,60,Philippe Farjon,Philippe Farjon André Wicky,Porsche 911S,Porsche 2.0L Flat-6,126
-33,S5.0,18,Scuderia Filipinetti,Umberto Maglioli Mario Casoni,Ford GT40 Mk.I,Ford 4.7L V8,116
-34,P5.0,20,SpA Ferrari SEFAC,Chris Amon Nino Vaccarella,Ferrari 330 P3 Spyder,Ferrari 4.0L V12,105
-35,P2.0,40,Porsche System Engineering,Gerhard Mitter Jochen Rindt,Porsche 907/6L,Porsche 2.0L Flat-6,103
-36,P+5.0,8,Chaparral Cars Inc.,Bob Johnson Bruce Jennings,Chaparral 2F,Chevrolet 7.0L V8,91
+Pos,Class,No,Team,Drivers,Chassis,Engine,Laps,Random_Column_1,Filler_2,Random_Column_3
+30,P5.0,25,North American Racing Team (NART),Pedro Rodriguez Giancarlo Baghetti,Ferrari 412P,Ferrari 4.0L V12,144,ER68G8X,kvXQqP,nJkRg
+31,GT2.0,67,Pierre Boutin,Pierre Boutin Patrice Sanson,Porsche 911S,Porsche 2.0L Flat-6,134,dJFh6aVG,JRwTa,N3jwdu
+32,GT2.0,60,Philippe Farjon,Philippe Farjon André Wicky,Porsche 911S,Porsche 2.0L Flat-6,126,5Seq0hR,sRAGzvo,7R6WuN
+33,S5.0,18,Scuderia Filipinetti,Umberto Maglioli Mario Casoni,Ford GT40 Mk.I,Ford 4.7L V8,116,ygO1lO,wjgxGt,Ykfcg
+34,P5.0,20,SpA Ferrari SEFAC,Chris Amon Nino Vaccarella,Ferrari 330 P3 Spyder,Ferrari 4.0L V12,105,JiZH7vz,dDVyEqd,sPTsjDcV
+35,P2.0,40,Porsche System Engineering,Gerhard Mitter Jochen Rindt,Porsche 907/6L,Porsche 2.0L Flat-6,103,nskofF,qOEyAQW,DT2Jx
+36,P+5.0,8,Chaparral Cars Inc.,Bob Johnson Bruce Jennings,Chaparral 2F,Chevrolet 7.0L V8,91,Xycrl9UV,NIutktM,J4jI1K
+37,P5.0,22,Scuderia Filipinetti,Jean Guichet Herbert Müller,Ferrari 412P,Ferrari 4.0L V12,88,pdVpliFd,FBXKe,MErKF5OU
+38,P+5.0,4,Holman & Moody,Denis Hulme Lloyd Ruby,Ford GT40 Mk.IV,Ford 7.0L V8,86,98VrB6lo,oiSeTZ,t9n42b
+39,P2.0,39,Porsche System Engineering,Udo Schütz Joe Buzzetta,Porsche 910/6L,Porsche 2.0L Flat-6,84,21V8o85,plPFce,mF5lHwln
+40,P1.15,58,Société des Automobiles Alpine,Philippe Vidal Leo Cella,Alpine A210,Renault-Gordini 1.0L I4,67,BULa0Ly,SVabIP,c3U6fk
+41,P+5.0,14,John Wyer Automotive Engineering,David Piper Richard Thompson,Mirage M1(Ford GT40 Lightweight),Ford 5.7L V8,59,SIstWrt,gdoaDVYU,TY5JyxvL
+42,GT5.0,17,Claude Dubois,Claude Dubois Chris Tuerlinckx,Ford-Shelby Mustang GT350,Ford 4.7L V8,58,9Q5DmfxC,MCoou,iI3SngK

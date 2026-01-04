@@ -1,8 +1,14 @@
-Team,Constructor,Motorcycle,Tyres,No,Rider,Rounds
-Camel Yamaha Team,Yamaha,Yamaha YZR-M1,M,5,Colin Edwards,All
-Camel Yamaha Team,Yamaha,Yamaha YZR-M1,M,46,Valentino Rossi,All
-Konica Minolta Honda,Honda,Honda RC211V,M,6,Makoto Tamada,All
-Tech 3 Yamaha,Yamaha,Yamaha YZR-M1,D,7,Carlos Checa,All
-Tech 3 Yamaha,Yamaha,Yamaha YZR-M1,D,77,James Ellison,All
-Team Roberts,Team Roberts,KR211V,M,10,"Kenny Roberts, Jr.",All
-Ducati Marlboro Team,Ducati,Ducati Desmosedici GP6,B,15,Sete Gibernau,"1–7, 10–11, 13–16"
+Team,Constructor,Motorcycle,Tyres,No,Rider,Rounds,Extra_Data_1
+Camel Yamaha Team,Yamaha,Yamaha YZR-M1,M,5,Colin Edwards,All,34
+Camel Yamaha Team,Yamaha,Yamaha YZR-M1,M,46,Valentino Rossi,All,430
+Konica Minolta Honda,Honda,Honda RC211V,M,6,Makoto Tamada,All,578
+Tech 3 Yamaha,Yamaha,Yamaha YZR-M1,D,7,Carlos Checa,All,362
+Tech 3 Yamaha,Yamaha,Yamaha YZR-M1,D,77,James Ellison,All,455
+Team Roberts,Team Roberts,KR211V,M,10,"Kenny Roberts, Jr.",All,239
+Ducati Marlboro Team,Ducati,Ducati Desmosedici GP6,B,15,Sete Gibernau,"1–7, 10–11, 13–16",627
+Ducati Marlboro Team,Ducati,Ducati Desmosedici GP6,B,65,Loris Capirossi,All,335
+Ducati Marlboro Team,Ducati,Ducati Desmosedici GP6,B,66,Alex Hofmann,"8–9, 12",16
+Ducati Marlboro Team,Ducati,Ducati Desmosedici GP6,B,12,Troy Bayliss,17,878
+Kawasaki Racing Team,Kawasaki,Kawasaki Ninja ZX-RR,B,17,Randy de Puniet,All,417
+Kawasaki Racing Team,Kawasaki,Kawasaki Ninja ZX-RR,B,56,Shinya Nakano,All,130
+Kawasaki Racing Team,Kawasaki,Kawasaki Ninja ZX-RR,B,8,Naoki Matsudo,15,800

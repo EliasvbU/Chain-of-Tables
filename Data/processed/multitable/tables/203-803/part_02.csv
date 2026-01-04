@@ -1,7 +1,13 @@
-Draw,Country,Language,Artist,Song,English translation,Place,Points
-07,Sweden,Swedish,Christer Björkman,"\I morgon är en annan dag\""""",Tomorrow is another day,22,9
-08,Portugal,Portuguese,Dina,"\Amor d'água fresca\""""",Fresh water love,17,26
-09,Cyprus,Greek,Evridiki,"\Teriazoume\"" (Ταιριάζουμε)""",We hit it off,11,57
-10,Malta,English,Mary Spiteri,"\Little Child\""""",–,3,123
-11,Iceland,Icelandic,Heart 2 Heart,"\Nei eða já\""""",No or yes?,7,80
-12,Finland,Finnish,Pave Maijanen,\Yamma," yamma\""""",–,23
+Draw,Country,Language,Artist,Song,English translation,Place,Points,Filler_1,Noise_Field_2,Noise_Field_3
+13,Switzerland,French,Daisy Auvray,"\Mister Music Man\""""",–,15,32,mRaorDi,maMZU,MEGpI
+14,Luxembourg,Luxembourgish,Marion Welter & Kontinent,"\Sou fräi\""""",So free,21,10,dqXcex,rnGnhu,eNuRYFGO
+15,Austria,German,Tony Wegas,"\Zusammen geh'n\""""",Go together,10,63,wDTcz,YwOijrKO,qFkOZ
+16,United Kingdom,English,Michael Ball,"\One Step Out of Time\""""",–,2,139,EuzeiZv,rLzKj,OQBSgzj
+17,Ireland,English,Linda Martin,"\Why Me?\""""",–,1,155,DjVSOz,dhKVG,GGqAVJw
+18,Denmark,Danish,Kenny Lübcke & Lotte Nilsson,"\Alt det som ingen ser\""""",All the things that nobody sees,12,47,iyXKwer,qXdgEdG,uYBEGGlT
+19,Italy,Italian,Mia Martini,"\Rapsodia\""""",Rhapsody,4,111,zDRckL,elAojh,SQbVr
+20,FR Yugoslavia,Serbian,Extra Nena,"\Ljubim te pesmama\""",,,,SCbTEi,sYodDn,GIvMAU
+"(Љубим те песмама)""",I'm kissing you with songs,13,44,,,,,hMposv,IvpsVj,pDBiYG
+21,Norway,Norwegian,Merethe Trøan,"\Visjoner\""""",Visions,18,23,clftSf,GSNwyy,FFQQkRdp
+22,Germany,German,Wind,"\Träume sind für alle da\""""",Dreams are there for everyone,16,27,IzFtyQnS,rSChOFQe,APvNf
+23,Netherlands,Dutch,Humphrey Campbell,"\Wijs me de weg\""""",Show me the way,9,67,serWVhZ,ynyqDnsk,KPrqWS

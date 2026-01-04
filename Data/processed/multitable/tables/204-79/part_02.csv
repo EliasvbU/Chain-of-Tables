@@ -1,6 +1,8 @@
-Season,Tier,Division,Place
-1991/92,5,Pref. Aut.,7th
-1992/93,5,Pref. Aut.,9th
-1993/94,5,Pref. Aut.,4th
-1994/95,5,Pref. Aut.,6th
-1995/96,5,Pref. Aut.,3rd
+Season,Tier,Division,Place,Unused_1,Extra_Data_2
+1993/94,5,Pref. Aut.,4th,,548
+1994/95,5,Pref. Aut.,6th,,581
+1995/96,5,Pref. Aut.,3rd,,971
+1996/97,5,Pref. Aut.,3rd,,18
+1997/98,5,Pref. Aut.,1st,,765
+1998/99,4,3ª,17th,,215
+1999/00,5,Pref. Aut.,6th,,836

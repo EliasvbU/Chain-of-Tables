@@ -1,7 +1,12 @@
-Stage,Date,Route,Terrain,Length,Winner
-6,7 July,Châteaubriant – Nantes,Individual time trial,58 km (36 mi),Bert Oosterbosch (NED)
-7,8 July,Nantes – Île d'Oléron,Plain stage,216 km (134 mi),Riccardo Magrini (ITA)
-8,9 July,La Rochelle – Bordeaux,Plain stage,222 km (138 mi),Bert Oosterbosch (NED)
-9,10 July,Bordeaux – Pau,Plain stage,207 km (129 mi),Philippe Chevallier (FRA)
-10,11 July,Pau – Bagnères-de-Luchon,Stage with mountain(s),201 km (125 mi),Robert Millar (GBR)
-11,12 July,Bagnères-de-Luchon – Fleurance,Plain stage,177 km (110 mi),Régis Clère (FRA)
+Stage,Date,Route,Terrain,Length,Winner,Noise_Field_1,Extra_Data_2,Dummy_Col_3
+12,13 July,Fleurance – Roquefort-sur-Soulzon,Plain stage,261 km (162 mi),Kim Andersen (DEN),yrVdcMM,316,HpNdPqw
+13,14 July,Roquefort-sur-Soulzon – Aurillac,Hilly stage,210 km (130 mi),Henk Lubberding (NED),ooaaVTGq,141,AwVKpA
+14,15 July,Aurillac – Issoire,Hilly stage,149 km (93 mi),Pierre Le Bigaut (FRA),YzFHvVXZ,988,CTmWF
+15,16 July,Clermont-Ferrand – Puy de Dôme,Individual time trial,16 km (9.9 mi),Ángel Arroyo (ESP),LSmIV,326,vFUhDF
+16,17 July,Issoire – Saint-Étienne,Hilly stage,144 km (89 mi),Michel Laurent (FRA),VELKvzl,605,HGEfWBxX
+17,18 July,La Tour-du-Pin – Alpe d'Huez,Stage with mountain(s),223 km (139 mi),Peter Winnen (NED),uicOV,218,zqYCfxiv
+18,20 July,Le Bourg-d'Oisans – Morzine,Stage with mountain(s),247 km (153 mi),Jacques Michaud (FRA),fAjGko,996,fHxDp
+19,21 July,Morzine – Avoriaz,Individual time trial,15 km (9.3 mi),Lucien Van Impe (BEL),LEbym,250,XGRXqnD
+20,22 July,Morzine – Dijon,Plain stage,291 km (181 mi),Philippe Leleu (FRA),QZWmi,666,BKCqtoN
+21,23 July,Dijon,Individual time trial,50 km (31 mi),Laurent Fignon (FRA),uwhTedU,426,PUlrPij
+22,24 July,Alfortville – Paris (Champs-Élysées),Plain stage,195 km (121 mi),Gilbert Glaus (SUI),OStxy,760,BAvMdAUG

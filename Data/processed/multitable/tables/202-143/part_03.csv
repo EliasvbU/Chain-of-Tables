@@ -1,6 +1,6 @@
-Pos,No,Driver,Constructor,Laps,Time/Retired,Grid,Points
-13,17,Mika Salo,Arrows,69,+2 Laps,19,
-14,16,Pedro Diniz,Arrows,69,+2 Laps,17,
-15,2,Heinz-Harald Frentzen,Williams-Mecachrome,68,Suspension,8,
-16,10,Ralf Schumacher,Jordan-Mugen-Honda,68,+3 Laps,6,
-17,22,Shinji Nakano,Minardi-Ford,65,Engine,21,
+Pos,No,Driver,Constructor,Laps,Time/Retired,Grid,Points,Noise_Field_1,Extra_Data_2,Extra_Data_3
+13,17,Mika Salo,Arrows,69,+2 Laps,19,,qAYRIF,235,609
+14,16,Pedro Diniz,Arrows,69,+2 Laps,17,,csrYTD,2,262
+15,2,Heinz-Harald Frentzen,Williams-Mecachrome,68,Suspension,8,,YtIEK,522,229
+16,10,Ralf Schumacher,Jordan-Mugen-Honda,68,+3 Laps,6,,lpNuYEjQ,77,789
+17,22,Shinji Nakano,Minardi-Ford,65,Engine,21,,WVDaCY,517,808

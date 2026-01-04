@@ -1,9 +1,12 @@
-Pos,Rider,Manufacturer,Time/Retired,Points
-19,Chrisrian Boudinot,Aprilia,+1:20.163,
-20,Bernd Kassner,Aprilia,+1:20.761,
-21,Andreas Preining,Aprilia,+1:26.864,
-22,Noel Ferro,Honda,+1:27.009,
-23,Sebastien Scarnato,Honda,+1:36.321,
-24,Krisse Kaas,Yamaha,+1 Lap,
-25,Donnie Hough,Honda,+1 Lap,
-Ret,Rodney Fee,Honda,Retirement,
+Pos,Rider,Manufacturer,Time/Retired,Points,Random_Column_1,Dummy_Col_2
+24,Krisse Kaas,Yamaha,+1 Lap,,3hZSrZ,shPMSe
+25,Donnie Hough,Honda,+1 Lap,,1TYxT7,aCOfJJvM
+Ret,Rodney Fee,Honda,Retirement,,gKnAvx5,khiZYJu
+Ret,Jurgen vd Goorbergh,Aprilia,Retirement,,yjMIVT7,LsTTCFK
+Ret,Luis D'Antin,Honda,Retirement,,sxFLT7C,GLBbRSM
+Ret,Manuel Hernandez,Aprilia,Retirement,,nUamj4VS,SKfWA
+Ret,Frederic Protat,Honda,Retirement,,SCrWdf,mGCnY
+Ret,Giuseppe Fiorillo,Honda,Retirement,,iHXVU,JQoxfESp
+Ret,José Luis Cardoso,Aprilia,Retirement,,1bJ6iN,sZHjIrxo
+Ret,Enrique de Juan,Aprilia,Retirement,,ea4dEtKn,ofGxfEhB
+Ret,Alessandro Gramigni,Aprilia,Retirement,,5JjFF,NEiECf

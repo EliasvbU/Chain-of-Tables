@@ -1,10 +1,10 @@
-Date,Opponent,Venue,Result,Attendance,Scorers
-20 March 1999,Crewe Alexandra,A,1-3,"4,791",Thomson
-26 March 1999,Sheffield United,A,2-1,"14,115","Thomson, Banger"
-3 April 1999,Bolton Wanderers,H,0-0,"7,547",
-5 April 1999,Tranmere Rovers,A,2-2,"7,837","Weatherstone, Gilchrist"
-10 April 1999,Bury,H,0-1,"6,358",
-17 April 1999,Port Vale,A,0-1,"7,393",
-24 April 1999,Norwich City,H,2-4,"7,345","Wilsterman, Francis"
-1 May 1999,Bradford City,A,0-0,"15,064",
-9 May 1999,Stockport County,H,5-0,"6,830","Gilchrist, Powell, Beauchamp, Murphy, Thomson"
+Date,Opponent,Venue,Result,Attendance,Scorers,Extra_Data_1
+20 March 1999,Crewe Alexandra,A,1-3,"4,791",Thomson,412
+26 March 1999,Sheffield United,A,2-1,"14,115","Thomson, Banger",760
+3 April 1999,Bolton Wanderers,H,0-0,"7,547",,842
+5 April 1999,Tranmere Rovers,A,2-2,"7,837","Weatherstone, Gilchrist",539
+10 April 1999,Bury,H,0-1,"6,358",,718
+17 April 1999,Port Vale,A,0-1,"7,393",,176
+24 April 1999,Norwich City,H,2-4,"7,345","Wilsterman, Francis",717
+1 May 1999,Bradford City,A,0-0,"15,064",,275
+9 May 1999,Stockport County,H,5-0,"6,830","Gilchrist, Powell, Beauchamp, Murphy, Thomson",155

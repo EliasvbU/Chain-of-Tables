@@ -1,6 +1,9 @@
-Rank,Mountain Peak,Mountain Range,Elevation,Prominence,Isolation,Location
-7,Mount Keith,Sierra Nevada,"13,982 ft4262 m","1,936 ft590 m",3.1 mi5.0 km,36°42′00″N 118°20′37″W﻿ / ﻿36.7001°N 118.3436°W
-8,Mount Darwin,Sierra Nevada,"13,837 ft4218 m","1,891 ft576 m",7 mi11 km,37°10′01″N 118°40′20″W﻿ / ﻿37.1669°N 118.6721°W
-9,Mount Kaweah,Sierra Nevada,"13,807 ft4209 m","2,027 ft618 m",11 mi17 km,36°31′34″N 118°28′43″W﻿ / ﻿36.5261°N 118.4785°W
-10,Mount Morgan,Sierra Nevada,"13,758 ft4193 m","2,648 ft807 m",10 mi16 km,37°24′19″N 118°43′58″W﻿ / ﻿37.4053°N 118.7329°W
-11,Mount Gabb,Sierra Nevada,"13,747 ft4190 m","2,601 ft793 m",4.3 mi6.9 km,37°22′37″N 118°48′09″W﻿ / ﻿37.3769°N 118.8025°W
+Rank,Mountain Peak,Mountain Range,Elevation,Prominence,Isolation,Location,Noise_Field_1,Unused_2,Extra_Data_3
+9,Mount Kaweah,Sierra Nevada,"13,807 ft4209 m","2,027 ft618 m",11 mi17 km,36°31′34″N 118°28′43″W﻿ / ﻿36.5261°N 118.4785°W,tTTdRo,,26
+10,Mount Morgan,Sierra Nevada,"13,758 ft4193 m","2,648 ft807 m",10 mi16 km,37°24′19″N 118°43′58″W﻿ / ﻿37.4053°N 118.7329°W,RiTUzSO,,259
+11,Mount Gabb,Sierra Nevada,"13,747 ft4190 m","2,601 ft793 m",4.3 mi6.9 km,37°22′37″N 118°48′09″W﻿ / ﻿37.3769°N 118.8025°W,JSRMzoTa,,430
+12,Mount Tom,Sierra Nevada,"13,657 ft4163 m","1,992 ft607 m",4.8 mi7.7 km,37°22′34″N 119°10′44″W﻿ / ﻿37.3762°N 119.1789°W,BfYSLRZe,,152
+13,Mount Dubois,White Mountains,"13,565 ft4135 m","2,339 ft713 m",10 mi16 km,37°47′00″N 118°20′36″W﻿ / ﻿37.7834°N 118.3432°W,TDqHE,,7
+14,Mount Pinchot,Sierra Nevada,"13,500 ft4115 m","2,110 ft643 m",4.7 mi7.6 km,36°56′50″N 118°24′19″W﻿ / ﻿36.9473°N 118.4054°W,tbhALU,,8
+15,Red Slate Mountain,Sierra Nevada,"13,162 ft4012 m","1,736 ft529 m",8 mi13 km,37°30′27″N 118°52′09″W﻿ / ﻿37.5075°N 118.8693°W,QVDQXAmz,,244
+16,Mount Ritter,Sierra Nevada,"13,149 ft4008 m","3,990 ft1216 m",22 mi35 km,37°41′21″N 119°11′59″W﻿ / ﻿37.6891°N 119.1996°W,yOhzTYk,,624

@@ -1,9 +1,11 @@
-Rank,Bib,Athlete,Country,Run 1,Run 2,Total,Behind
-10,13,Daniel Pfister,Austria,48.602 (9),48.654 (13),1:37.256,+0.881
-11,18,Jo Alexander Koppang,Norway,48.695 (13),48.608 (11),1:37.303,+0.928
-12,19,Mārtiņš Rubenis,Latvia,48.675 (11),48.653 (12),1:37.328,+0.953
-13,14,Gregory Carigiet,Switzerland,48.699 (14),48.663 (14),1:37.362,+0.987
-14,8,Viktor Kneyb,Russia,48.692 (12),48.752 (18),1:37.444,+1.069
-15,20,Jozef Ninis,Slovakia,48.757 (15),48.692 (15),1:37.449,+1.074
-16,17,Dominik Fischnaller,Italy,48.918 (23),48.576 (9),1:37.494,+1.119
-17,21,Taylor Morris,United States,48.763 (16),48.780 (20),1:37.543,+1.168
+Rank,Bib,Athlete,Country,Run 1,Run 2,Total,Behind,Random_Column_1
+12,19,Mārtiņš Rubenis,Latvia,48.675 (11),48.653 (12),1:37.328,+0.953,2xJrc
+13,14,Gregory Carigiet,Switzerland,48.699 (14),48.663 (14),1:37.362,+0.987,M405eRH1
+14,8,Viktor Kneyb,Russia,48.692 (12),48.752 (18),1:37.444,+1.069,wQtdie
+15,20,Jozef Ninis,Slovakia,48.757 (15),48.692 (15),1:37.449,+1.074,z9f4vf
+16,17,Dominik Fischnaller,Italy,48.918 (23),48.576 (9),1:37.494,+1.119,khuST
+17,21,Taylor Morris,United States,48.763 (16),48.780 (20),1:37.543,+1.168,0UHRh
+18,9,David Mair,Italy,48.793 (17),48.771 (19),1:37.564,+1.189,EmlCRGrE
+19,25,Ondřej Hyman,Czech Republic,48.894 (21),48.709 (16),1:37.603,+1.228,e0SIl
+20,15,Manuel Pfister,Austria,48.889 (20),48.780 (20),1:37.669,+1.294,7MZ0Q1G
+21,11,Reinhard Egger,Austria,48.965 (25),48.712 (17),1:37.677,+1.302,KGWTI

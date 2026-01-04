@@ -1,9 +1,11 @@
-Pick,Player,Team,Position,School
-1,Pat Burrell,Philadelphia Phillies,1B,University Of Miami
-2,Mark Mulder,Oakland Athletics,P,Michigan State University
-3,Corey Patterson,Chicago Cubs,OF,"Harrison HS (Kennesaw, GA)"
-4,Jeff Austin,Kansas City Royals,P,Stanford University
-5,J. D. Drew,St. Louis Cardinals,OF,Florida State University
-6,Ryan Mills,Minnesota Twins,P,Arizona State University
-7,Austin Kearns,Cincinnati Reds,OF,"Lafayette HS (Lexington, KY)"
-8,Felipe López,Toronto Blue Jays,3B,"Lake Brantley HS (Altamonte Springs, FL)"
+Pick,Player,Team,Position,School,Filler_1,Dummy_Col_2,Noise_Field_3
+1,Pat Burrell,Philadelphia Phillies,1B,University Of Miami,sGyZTp,nuRaLk,rNZrzajr
+2,Mark Mulder,Oakland Athletics,P,Michigan State University,qcjjYm,fCyqOAT,gptpBYT
+3,Corey Patterson,Chicago Cubs,OF,"Harrison HS (Kennesaw, GA)",bySJnigt,nTxcfyZy,oNHGvJ
+4,Jeff Austin,Kansas City Royals,P,Stanford University,YQoKvU,QVUkS,fYITQ
+5,J. D. Drew,St. Louis Cardinals,OF,Florida State University,bmWbjWf,STiBEE,rLGBs
+6,Ryan Mills,Minnesota Twins,P,Arizona State University,Isnugo,iNlZvVxb,qVDqN
+7,Austin Kearns,Cincinnati Reds,OF,"Lafayette HS (Lexington, KY)",sGAdzd,SFNLtVEp,UHzOg
+8,Felipe López,Toronto Blue Jays,3B,"Lake Brantley HS (Altamonte Springs, FL)",fohaGp,MBhEz,lRRAjJYh
+9,Sean Burroughs,San Diego Padres,3B,"Woodrow Wilson Classical HS (Long Beach, CA)",mGkck,wlHjNNwb,cwwvvQKD
+10,Carlos Peña,Texas Rangers,1B,Northeastern University,bNUuBS,HJbKQuq,kJwycDHZ

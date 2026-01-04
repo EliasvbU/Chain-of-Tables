@@ -1,9 +1,11 @@
-Year,Competition,Venue,Position,Event,Notes
-2001,World Championships,"Edmonton, Canada",15th (sf),200 m,23.11
-2002,European Championships,"Munich, Germany",20th (h),100 m,11.58
-2002,European Championships,"Munich, Germany",16th (h),200 m,23.47
-2003,World Indoor Championships,"Birmingham, United Kingdom",13th (sf),60 m,7.26
-2003,World Championships,"Paris, France",23rd (qf),200 m,23.42
-2004,World Indoor Championships,"Budapest, Hungary",13th (sf),60 m,7.30
-2004,World Indoor Championships,"Budapest, Hungary",10th (h),200 m,23.79
-2004,Olympic Games,"Athens, Greece",34th (h),100 m,11.45
+Year,Competition,Venue,Position,Event,Notes,Noise_Field_1,Filler_2,Extra_Data_3
+2004,World Indoor Championships,"Budapest, Hungary",10th (h),200 m,23.79,fDMnF,QFaVPOH,408
+2004,Olympic Games,"Athens, Greece",34th (h),100 m,11.45,pPxjf,ZGgMUgLi,718
+2004,Olympic Games,"Athens, Greece",35th (h),200 m,23.45,dSyeK,SqBOrfn,804
+2005,European Indoor Championships,"Madrid, Spain",11th (sf),60 m,7.32,rTwpVmJV,hWJYRV,313
+2006,European Championships,"Gothenburg, Sweden",11th (h),4x100 m relay,44.32,ZzSNJtZF,YOwTOqBF,10
+2007,European Indoor Championships,"Birmingham, United Kingdom",5th (sf),60 m,7.24,OPzuR,YOSSqUAe,536
+2007,Universiade,"Bangkok, Thailand",1st,100 m,11.46,CYfYUe,djSBrlFu,145
+2007,Universiade,"Bangkok, Thailand",1st,4x100 m relay,43.48,hOgiBmk,XBGFLyA,934
+2007,World Championships,"Osaka, Japan",32nd (h),100 m,11.52,HIZFiM,pyqHfhm,944
+2007,World Championships,"Osaka, Japan",10th (h),4x100 m relay,43.41,OuGfUS,bdFyDcu,887

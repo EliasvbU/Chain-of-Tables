@@ -1,17 +1,17 @@
-Year,Film,Role,Notes
-1986,Ilzaam,Ajay Sharma/Vijay,Debut
-1986,Duty,Dev Pratap Sharma,
-1986,Tan-Badan,Ravi Pratap,
-1986,Love 86,Vikram Doshi,
-1986,Sadaa Suhagan,Ravi,
-1987,Mera Lahoo,Govinda Singh,
-1987,Khudgarz,Kumar Saxena,
-1987,Dadagiri,Suraj,
-1987,Marte Dam Tak,Jai,
-1987,Pyaar Karke Dekho,Ravi Kumar,
-1987,Sindoor,Ravi,
-1988,Jeete Hain Shaan Se,Iqbal Ali,
-1988,Paap Ko Jalaa Kar Raakh Kar Doonga,Deepak Malhotra,
-1988,Hatya,Sagar,
-1988,Halaal Ki Kamai,Kabir Khanna,
-1988,Ghar Ghar Ki Kahani,Amar Dhanraj,
+Year,Film,Role,Notes,Extra_Data_1
+1986,Ilzaam,Ajay Sharma/Vijay,Debut,147
+1986,Duty,Dev Pratap Sharma,,227
+1986,Tan-Badan,Ravi Pratap,,860
+1986,Love 86,Vikram Doshi,,377
+1986,Sadaa Suhagan,Ravi,,677
+1987,Mera Lahoo,Govinda Singh,,529
+1987,Khudgarz,Kumar Saxena,,410
+1987,Dadagiri,Suraj,,35
+1987,Marte Dam Tak,Jai,,961
+1987,Pyaar Karke Dekho,Ravi Kumar,,686
+1987,Sindoor,Ravi,,15
+1988,Jeete Hain Shaan Se,Iqbal Ali,,713
+1988,Paap Ko Jalaa Kar Raakh Kar Doonga,Deepak Malhotra,,917
+1988,Hatya,Sagar,,505
+1988,Halaal Ki Kamai,Kabir Khanna,,466
+1988,Ghar Ghar Ki Kahani,Amar Dhanraj,,188

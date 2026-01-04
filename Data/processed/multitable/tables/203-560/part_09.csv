@@ -1,27 +1,27 @@
-Name,Type,Circle,Bench,Formed,Notes
-Stein,County1194: Rhinegraviate,,,1072,1268: Annexed to Rhine
-Stein am Rhein,HRE Abbey,,,,
-Stein zu Nassau,HRE Lordship,,,,
-Steinfurt,c1129: Lordship1495: HRE County,Low Rhen,,c1129,1421: Annexed to Bentheim-Bentheim1806: To Grand Duchy of Berg1810: To France1815: To Prussia
-Sternberg-Manderscheid,County (personalist),n/a,WF,,
-Sternberg and Pyrmont,County,,,1536: Partitioned from Lippe,1583: Partitioned into Lippe-Detmold and Pyrmont
-Sternberg-Schwalenberg,County,,,1627: Partitioned from Lippe-Detmold,1736: Partitioned into Lippe-Biesterfeld and Lippe-Weissenfeld
-"SternsteinHRE Prince of Lobkowitz, Duke in Silesia at Sagan, Princely Count of Sternstein, Lord of Raudnitz",1641: HRE Princely County,Bav,,,1500: Bavarian CircleTo Lobkowitz
-Stetten,Lordship,,,,
-Stettenfels,Lordship,,,,
-Stettin,Duchy,,,,
-"StolbergCount of Stolberg, Königstein, Rochefort, Wernigerode and Hohenstein, Lord of Eppstein/Epstein, Munzenberg, Breuberg, Agimont, Lohra & Klettenberg",County,Upp Sax,,1210,"1231: Partitioned into Stolberg-Bockstädt and Stolberg-Stolberg1429: Acquired County of Wernigerode1538: Division into Count of Stolberg-Stolberg, Count of Stolberg-Königstein, Count of Stolberg-Rochefort, Count of Stolberg-Wernigerode, Count of Stolberg-Schwarza1738: Under partial overlordship of the Electorate of Saxony"
-Stolberg-Bockstädt,County,,,1231: Partitioned from Stolberg,1346: Annexed to Stolberg-Stolberg
-Stolberg-Gedern,1710: County1742: Principality,,,1710: Partitioned from Stolberg-Wernigerode,1804: Re-annexed to Stolberg-Wernigerode
-Stolberg-Hohenstein,1571: County,,,1571: Partitioned from Stolberg-Stolberg,1615: Reunited with Stolberg-Stolberg
-Stolberg-Islenburg,County,,,1672: Partitioned from Stolberg-Wernigerode,1710: Re-annexed to Stolberg-Wernigerode
-Stolberg-Königstein,1538-1581: County,,,1538: Partitioned from Stolberg-Stolberg,1581: Line extinct; annexed back to Stolberg-Stolberg
-Stolberg-Ortenberg,County,,,1572: Partitioned from Stolberg-Wernigerode,1641: Divided between Stolberg-Stolberg and Stolberg-Wernigerode
-Stolberg-Ortenberg,County,,,1572: Partitioned from Stolberg-Wernigerode1669: Partitioned from Stolberg-Stolberg,1641: Division into Stolberg-Wernigerode and Stolberg-Stolberg1684: To Stolerg-Stolberg1704: Partitioned into Stolberg-Rossla and Stolberg-Stolberg
-Stolberg-Rochefort,1538-1574: County,,,1538: Partitioned from Stolberg-Stolberg,1574: Line extinct; annexed to Löwenstein-Wertheim
-Stolberg-Rossla,1704: County of Stolberg-Rossla1893: Prince of Stolberg-Rossla,,,1704: Partitioned from Stolberg-Ortenberg1730-1738: Under partial overlordshi of Saxony1803: To Kingdom of Saxony1815: To Prussia,
-Stolberg-Schwarza,1538: County,,,1538: Partitioned from Stolberg-Stolberg?1677: Partitioned from Stolberg-Wernigerode,1638: Annexed to Stolberg-Wernigerode1748: Annexed to Stolberg-Wernigerode
-Stolberg-Stolberg,1538: County1893: Prince of Stolberg-Stolberg,,,1231: Partitioned from Stolberg,Partitioned several times1631: Annexed to Stolberg-Wernigerode1638: Recreated on partition1684: Annexed to Stolberg-Ortenburg1704: Recreated on partition1730-1738: Under partial overlordshi of Saxony
-Stolberg-Wernigerode,1538: County of Stolberg-Wernigerode,,,1538: Partitioned from Stolberg-Stolberg,"1714: Under partial overlordship of PrussiaPartitioned several times, although countship continued."
-Storkow,Lordship,,,,1518: To Lebus Abbey1556: Margrave of Brandenburg-Kustrin1575: To Elector of Brandenburg
-Strasbourg,Bishopric,Upp Rhen,EC,982Autonomous from 775,1681: Annexed to France1793: Council of Princes
+Name,Type,Circle,Bench,Formed,Notes,Noise_Field_1
+Stein,County1194: Rhinegraviate,,,1072,1268: Annexed to Rhine,MXrjo
+Stein am Rhein,HRE Abbey,,,,,AQQmQIv
+Stein zu Nassau,HRE Lordship,,,,,QNDxWv
+Steinfurt,c1129: Lordship1495: HRE County,Low Rhen,,c1129,1421: Annexed to Bentheim-Bentheim1806: To Grand Duchy of Berg1810: To France1815: To Prussia,RsknIjUI
+Sternberg-Manderscheid,County (personalist),n/a,WF,,,YzcTMS
+Sternberg and Pyrmont,County,,,1536: Partitioned from Lippe,1583: Partitioned into Lippe-Detmold and Pyrmont,tbjgQu
+Sternberg-Schwalenberg,County,,,1627: Partitioned from Lippe-Detmold,1736: Partitioned into Lippe-Biesterfeld and Lippe-Weissenfeld,OPwVa
+"SternsteinHRE Prince of Lobkowitz, Duke in Silesia at Sagan, Princely Count of Sternstein, Lord of Raudnitz",1641: HRE Princely County,Bav,,,1500: Bavarian CircleTo Lobkowitz,KrCUePH
+Stetten,Lordship,,,,,rxHazL
+Stettenfels,Lordship,,,,,GBPEMq
+Stettin,Duchy,,,,,NoaTV
+"StolbergCount of Stolberg, Königstein, Rochefort, Wernigerode and Hohenstein, Lord of Eppstein/Epstein, Munzenberg, Breuberg, Agimont, Lohra & Klettenberg",County,Upp Sax,,1210,"1231: Partitioned into Stolberg-Bockstädt and Stolberg-Stolberg1429: Acquired County of Wernigerode1538: Division into Count of Stolberg-Stolberg, Count of Stolberg-Königstein, Count of Stolberg-Rochefort, Count of Stolberg-Wernigerode, Count of Stolberg-Schwarza1738: Under partial overlordship of the Electorate of Saxony",VtTtHmuO
+Stolberg-Bockstädt,County,,,1231: Partitioned from Stolberg,1346: Annexed to Stolberg-Stolberg,kGPSLmR
+Stolberg-Gedern,1710: County1742: Principality,,,1710: Partitioned from Stolberg-Wernigerode,1804: Re-annexed to Stolberg-Wernigerode,hYUyIsKp
+Stolberg-Hohenstein,1571: County,,,1571: Partitioned from Stolberg-Stolberg,1615: Reunited with Stolberg-Stolberg,uUoMFh
+Stolberg-Islenburg,County,,,1672: Partitioned from Stolberg-Wernigerode,1710: Re-annexed to Stolberg-Wernigerode,oJSij
+Stolberg-Königstein,1538-1581: County,,,1538: Partitioned from Stolberg-Stolberg,1581: Line extinct; annexed back to Stolberg-Stolberg,xvkaM
+Stolberg-Ortenberg,County,,,1572: Partitioned from Stolberg-Wernigerode,1641: Divided between Stolberg-Stolberg and Stolberg-Wernigerode,PoPdUg
+Stolberg-Ortenberg,County,,,1572: Partitioned from Stolberg-Wernigerode1669: Partitioned from Stolberg-Stolberg,1641: Division into Stolberg-Wernigerode and Stolberg-Stolberg1684: To Stolerg-Stolberg1704: Partitioned into Stolberg-Rossla and Stolberg-Stolberg,aMEtdpFK
+Stolberg-Rochefort,1538-1574: County,,,1538: Partitioned from Stolberg-Stolberg,1574: Line extinct; annexed to Löwenstein-Wertheim,vsWHi
+Stolberg-Rossla,1704: County of Stolberg-Rossla1893: Prince of Stolberg-Rossla,,,1704: Partitioned from Stolberg-Ortenberg1730-1738: Under partial overlordshi of Saxony1803: To Kingdom of Saxony1815: To Prussia,,XmkTdjLE
+Stolberg-Schwarza,1538: County,,,1538: Partitioned from Stolberg-Stolberg?1677: Partitioned from Stolberg-Wernigerode,1638: Annexed to Stolberg-Wernigerode1748: Annexed to Stolberg-Wernigerode,lnUYgzuE
+Stolberg-Stolberg,1538: County1893: Prince of Stolberg-Stolberg,,,1231: Partitioned from Stolberg,Partitioned several times1631: Annexed to Stolberg-Wernigerode1638: Recreated on partition1684: Annexed to Stolberg-Ortenburg1704: Recreated on partition1730-1738: Under partial overlordshi of Saxony,AVROyv
+Stolberg-Wernigerode,1538: County of Stolberg-Wernigerode,,,1538: Partitioned from Stolberg-Stolberg,"1714: Under partial overlordship of PrussiaPartitioned several times, although countship continued.",klOWXR
+Storkow,Lordship,,,,1518: To Lebus Abbey1556: Margrave of Brandenburg-Kustrin1575: To Elector of Brandenburg,mxrrJn
+Strasbourg,Bishopric,Upp Rhen,EC,982Autonomous from 775,1681: Annexed to France1793: Council of Princes,OWTKgBC

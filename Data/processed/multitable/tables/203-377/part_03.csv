@@ -1,5 +1,5 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-11,Madagascar,0,1,1,2
-12,Rwanda,0,0,1,1
-12,Zimbabwe,0,0,1,1
-12,Seychelles,0,0,1,1
+Rank,Nation,Gold,Silver,Bronze,Total,Unused_1,Unused_2
+11,Madagascar,0,1,1,2,,
+12,Rwanda,0,0,1,1,,
+12,Zimbabwe,0,0,1,1,,
+12,Seychelles,0,0,1,1,,

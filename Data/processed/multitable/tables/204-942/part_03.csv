@@ -1,8 +1,11 @@
-,District,Headquarters,Population(2011),Males,Females,PercentageDecadalGrowth2001-2011,Sex Ratio,Density(Personsperkm2),ChildPopulation0–6 years,ChildSexratio,Literacy rate
-17,Kendrapara,Kendrapara,"1,439,891","717,695","722,196",10.59,"1,006",545,"153,443",921,85.93
-18,Kendujhar,Kendujhar,"1,802,777","907,135","895,642",15.42,987,217,"253,418",957,69.00
-19,Khordha,Khordha,"2,246,341","1,166,949","1,079,392",19.65,925,799,"222,275",910,87.51
-20,Koraput,Koraput,"1,376,934","677,864","699,070",16.63,"1,031",156,"215,518",970,49.87
-21,Malkangiri,Malkangiri,"612,727","303,913","308,814",21.53,"1,016",106,"105,636",979,49.49
-22,Mayurbhanj,Baripada,"2,513,895","1,253,633","1,260,262",13.06,"1,005",241,"337,757",952,63.98
-23,Nabarangapur,Nabarangpur,"1,218,762","604,046","614,716",18.81,"1,018",230,"201,901",988,48.20
+,District,Headquarters,Population(2011),Males,Females,PercentageDecadalGrowth2001-2011,Sex Ratio,Density(Personsperkm2),ChildPopulation0–6 years,ChildSexratio,Literacy rate,Filler_1,Extra_Data_2,Unused_3
+21,Malkangiri,Malkangiri,"612,727","303,913","308,814",21.53,"1,016",106,"105,636",979,49.49,CzhlUXk,639,
+22,Mayurbhanj,Baripada,"2,513,895","1,253,633","1,260,262",13.06,"1,005",241,"337,757",952,63.98,mQrtjt,914,
+23,Nabarangapur,Nabarangpur,"1,218,762","604,046","614,716",18.81,"1,018",230,"201,901",988,48.20,DQBnOa,705,
+24,Nayagarh,Nayagarh,"962,215","502,194","460,021",11.30,916,247,"101,337",851,79.17,eTLtbNB,586,
+25,Nuapada,Nuapada,"606,490","300,307","306,183",14.28,"1,020",157,"84,893",971,58.20,QaBhQpa,74,
+26,Puri,Puri,"1,697,983","865,209","832,774",13.00,963,488,"164,388",924,85.37,zAAyt,22,
+27,Rayagada,Rayagada,"961,959","469,672","492,287",15.74,"1,048",136,"141,167",955,50.88,mjnrV,112,
+28,Sambalpur,Sambalpur,"1,044,410","529,424","514,986",12.24,973,158,"112,946",931,76.91,CtECCqE,439,
+29,Subarnapur,Sonepur,"652,107","332,897","319,210",20.35,959,279,"76,536",947,74.42,rrlWuMOP,636,
+30,Sundergarh,Sundergarh,"2,080,664","1,055,723","1,024,941",13.66,971,214,"249,020",937,74.13,mivwrb,380,

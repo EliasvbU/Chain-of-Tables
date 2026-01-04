@@ -1,21 +1,21 @@
-City2010 census,Chinese,Built-up Area,Urban Area,Level,Administrative Area,Province-level division,Remarks
-Jiamusi,佳木斯,"881,711","881,711",Prefecture-level city,"2,552,097",Heilongjiang,
-Suihua,绥化,"877,682","877,682",Prefecture-level city,"5,416,339",Heilongjiang,
-Jinzhou,锦州,"875,955","875,955",Prefecture-level city,"3,126,463",Liaoning,
-Langfang,廊坊,"868,066","868,066",Prefecture-level city,"4,358,839",Hebei,Sanhe City and Dachang Hui Autonomous County included in Beijing built-up area.
-Jiaozuo,焦作,"865,356","865,356",Prefecture-level city,"3,539,860",Henan,
-Rizhao,日照,"865,032","1,143,078",Prefecture-level city,"2,801,100",Shandong,Lanshan urban District not in built-up area.
-Wuhu,芜湖,"864,932","1,009,824",Prefecture-level city,"2,263,123",Anhui,
-Zhoushan,舟山,"843,000","843,000",Prefecture-level city,"1,121,300",Zhejiang,
-Yibin,宜宾,"836,383","836,383",Prefecture-level city,"4,472,001",Sichuan,
-Kashgar,喀什,"819,095","396,795",County-level citySpecial Economic Zones,"3,979,321",Xinjiang,Incl. Shule County being urbanized.
-Dandong,丹东,"798,364","798,364",Prefecture-level city,"2,444,697",Liaoning,
-Anqing,安庆,"780,514","780,514",Prefecture-level city,"5,311,000",Anhui,
-Huludao,葫芦岛,"777,682","777,682",Prefecture-level city,"2,623,541",Liaoning,
-Shaoyang,邵阳,"753,194","753,194",Prefecture-level city,"7,071,741",Hunan,
-Binzhou,滨州,"709,700","709,700",Prefecture-level city,"3,748,500",Shandong,
-Zhangzhou,江,Xiamen,"705,649",Prefecture-level city,"4,809,983",Guangdong,"Longwen, Xiacheng Zhangzhou urban districts and Longhai city now in Xiamen built-up area."
-Fuxin,阜新,"686,848","686,848",Prefecture-level city,"1,819,339",Liaoning,
-Dezhou,德州,"679,600","679,600",Prefecture-level city,"5,568,200",Shandong,
-Yangjiang,阳江,"676,858","676,858",Prefecture-level city,"2,421,812",Guangdong,
-Tieling,铁岭,"666,755","328,555",Prefecture-level city,"2,717,732",Liaoning,Incl. Tieling County now in built-up area.
+City2010 census,Chinese,Built-up Area,Urban Area,Level,Administrative Area,Province-level division,Remarks,Noise_Field_1,Dummy_Col_2,Extra_Data_3
+Jiamusi,佳木斯,"881,711","881,711",Prefecture-level city,"2,552,097",Heilongjiang,,naZhgec,PSDsLRvK,964
+Suihua,绥化,"877,682","877,682",Prefecture-level city,"5,416,339",Heilongjiang,,JTgcVeHJ,Bszos,418
+Jinzhou,锦州,"875,955","875,955",Prefecture-level city,"3,126,463",Liaoning,,bZgeoeMr,aMKSZNpz,795
+Langfang,廊坊,"868,066","868,066",Prefecture-level city,"4,358,839",Hebei,Sanhe City and Dachang Hui Autonomous County included in Beijing built-up area.,TddNmdV,hjUsdT,144
+Jiaozuo,焦作,"865,356","865,356",Prefecture-level city,"3,539,860",Henan,,tXvLavhT,ZswYi,796
+Rizhao,日照,"865,032","1,143,078",Prefecture-level city,"2,801,100",Shandong,Lanshan urban District not in built-up area.,txwtWkP,shmdG,931
+Wuhu,芜湖,"864,932","1,009,824",Prefecture-level city,"2,263,123",Anhui,,Xjiyg,HzrhO,723
+Zhoushan,舟山,"843,000","843,000",Prefecture-level city,"1,121,300",Zhejiang,,XRPXgRA,OCbDC,59
+Yibin,宜宾,"836,383","836,383",Prefecture-level city,"4,472,001",Sichuan,,wEzJO,YkYKpk,835
+Kashgar,喀什,"819,095","396,795",County-level citySpecial Economic Zones,"3,979,321",Xinjiang,Incl. Shule County being urbanized.,ApInnMj,BkZmwX,741
+Dandong,丹东,"798,364","798,364",Prefecture-level city,"2,444,697",Liaoning,,XqJoq,aNUtMf,753
+Anqing,安庆,"780,514","780,514",Prefecture-level city,"5,311,000",Anhui,,mtZCC,MkEKI,309
+Huludao,葫芦岛,"777,682","777,682",Prefecture-level city,"2,623,541",Liaoning,,UaYQERnQ,vMeQRbZo,342
+Shaoyang,邵阳,"753,194","753,194",Prefecture-level city,"7,071,741",Hunan,,GvDmbeMr,dduacWK,612
+Binzhou,滨州,"709,700","709,700",Prefecture-level city,"3,748,500",Shandong,,NVdnCdut,dGycB,985
+Zhangzhou,江,Xiamen,"705,649",Prefecture-level city,"4,809,983",Guangdong,"Longwen, Xiacheng Zhangzhou urban districts and Longhai city now in Xiamen built-up area.",KZLAbnX,oePqyVhc,392
+Fuxin,阜新,"686,848","686,848",Prefecture-level city,"1,819,339",Liaoning,,hAZdO,bAQenp,729
+Dezhou,德州,"679,600","679,600",Prefecture-level city,"5,568,200",Shandong,,hlYcbA,XXuMAq,286
+Yangjiang,阳江,"676,858","676,858",Prefecture-level city,"2,421,812",Guangdong,,EjMIXe,JLkXYbc,376
+Tieling,铁岭,"666,755","328,555",Prefecture-level city,"2,717,732",Liaoning,Incl. Tieling County now in built-up area.,ZBSDAwlm,cQKTdQuD,403

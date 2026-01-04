@@ -1,6 +1,6 @@
-Rank,Airport,Passengers handled,% Change 2011 / 12
-1,Netherlands - Amsterdam,"105,349",-
-2,United Kingdom - Belfast-International,"92,502",-
-3,Portugal - Faro,"71,676",-
-4,Spain - Barcelona,"66,565",-
-5,Spain - Alicante,"64,090",-
+Rank,Airport,Passengers handled,% Change 2011 / 12,Extra_Data_1
+1,Netherlands - Amsterdam,"105,349",-,434
+2,United Kingdom - Belfast-International,"92,502",-,8
+3,Portugal - Faro,"71,676",-,219
+4,Spain - Barcelona,"66,565",-,439
+5,Spain - Alicante,"64,090",-,253

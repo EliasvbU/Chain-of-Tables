@@ -1,7 +1,13 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-1,Canada,9,6,5,20
-2,United States,8,7,8,23
-3,Austria,7,9,8,24
-4,Japan,4,2,1,7
-5,Italy,3,7,4,14
-6,France,3,4,4,11
+Rank,Nation,Gold,Silver,Bronze,Total,Unused_1,Filler_2,Unused_3
+1,Canada,9,6,5,20,,isMcJe,
+2,United States,8,7,8,23,,ppcUTx,
+3,Austria,7,9,8,24,,OPDBvMW,
+4,Japan,4,2,1,7,,nHNtrQ,
+5,Italy,3,7,4,14,,WDaMh,
+6,France,3,4,4,11,,YHDKk,
+7,Australia,3,4,0,7,,gFOQUTev,
+8,Norway,2,2,2,6,,wOFRbgqW,
+9,Slovenia,2,1,2,5,,GsQfwhlx,
+=10,Finland,2,1,1,4,,mQgEEFi,
+=10,Germany,2,1,1,4,,NLWLyVV,
+12,Russia,2,0,3,5,,CrbHLYV,

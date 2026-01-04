@@ -1,6 +1,11 @@
-Year,Competition,Venue,Position,Event,Notes
-2008,World Indoor Championships,"Valencia, Spain",5th,1500 m,4:15.54
-2008,Olympic Games,"Beijing, China",10th,1500 m,4:05.57
-2009,Mediterranean Games,"Pescara, Italy",4th,1500 m,4:12.83
-2009,World Championships,"Berlin, Germany",29th (h),1500 m,4:10.57
-2009,Jeux de la Francophonie,"Beirut, Lebanon",2nd,1500 m,4:21.56
+Year,Competition,Venue,Position,Event,Notes,Extra_Data_1
+2010,African Championships,"Nairobi, Kenya",11th,1500 m,4:20.98,411
+2011,World Championships,"Daegu, South Korea",16th (sf),1500 m,4:09.64,581
+2011,Pan Arab Games,"Doha, Qatar",2nd,1500 m,4:20.83,809
+2012,World Indoor Championships,"Istanbul, Turkey",11th (h),1500 m,4:11.69,733
+2013,Mediterranean Games,"Mersin, Turkey",2nd,800 m,2:00.79,606
+2013,Mediterranean Games,"Mersin, Turkey",1st,1500 m,4:04.06,395
+2013,World Championships,"Moscow, Russia",11th,1500 m,4:09.16,303
+2013,Jeux de la Francophonie,"Nice, France",4th,800 m,2:03.73,565
+2013,Jeux de la Francophonie,"Nice, France",2nd,1500 m,4:18.89,520
+2014,World Indoor Championships,"Sopot, Poland",4th,1500 m,4:07.62,263

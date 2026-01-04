@@ -1,8 +1,14 @@
-Month,Day,Visitor,Score,Home,Score
-Jan.,18,Portland,3,Spokane,5
-Jan.,22,Vancouver,8,Spokane,5
-Jan.,25,Spokane,5,Portland,4
-Jan.,28,Seattle,2,Vancouver,3
-Jan.,30,Spokane,2,Seattle,4
-Feb.,4,Seattle,5,Vancouver,6 (10:45 OT)
-Feb.,6,Portland,3,Seattle,9
+Month,Day,Visitor,Score,Home,Score,Filler_1,Random_Column_2
+Feb.,8,Vancouver,4,Portland,8,fzLtIP,0Vos29
+Feb.,11,Portland,3,Vancouver,6,MUNaV,dA7kK6xs
+Feb.,13,Vancouver,1,Seattle,3,mNUqflQu,2NWYMmD
+Feb.,15,Seattle,2,Portland,4,jMwhyTYW,beJ1v
+Feb.,18,Seattle,1,Vancouver,8,MYYedV,VUoaE
+Feb.,20,Portland,2,Seattle,6,ZWKaCPsh,aUPtF6
+Feb.,22,Vancouver,1,Portland,2 (20:20 OT),JzXEZRa,Tjv4pX
+Feb.,25,Portland,4,Vancouver,9,fiJNicu,4zcCO
+Feb.,27,Vancouver,1,Seattle,2 (22:20 OT),RMoAf,5FeQD45p
+March,1,Seattle,3,Portland,1,ydyohUv,5m6v5KQ
+March,4,Portland,4,Vancouver,8,GDrvZCyt,9j2YM
+March,6,Vancouver,3,Seattle,4 (2:58 OT),SmDrI,pP4qRC
+March,8,Seattle,6,Portland,9,PwQkfrO,L19HC

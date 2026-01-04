@@ -1,12 +1,12 @@
-Rank,Bib,Athlete,Country,Time,Deficit,Note
-56,4,Piret Pormeister,Estonia,3:27.34,+23.45,
-57,64,Maryna Antsybor,Ukraine,3:28.17,+24.28,
-58,58,Teodora Malcheva,Bulgaria,3:28.79,+24.90,
-59,42,Hanna Kolb,Germany,3:28.81,+24.92,
-60,66,Vita Jakimchuk,Ukraine,3:29.67,+25.78,
-61,62,Lina Kreivenaitė,Lithuania,3:32.01,+28.12,
-62,63,Mónika György,Romania,3:32.20,+28.31,
-63,71,Niviaq Chemnitz Berthelsen,Denmark,3:32.56,+28.67,
-64,68,Ingrida Ardišauskaitė,Lithuania,3:33.54,+29.65,
-65,13,Kaija Udras,Estonia,3:33.88,+29.99,
-66,5,Katarína Garajová,Slovakia,3:37.08,+30.19,
+Rank,Bib,Athlete,Country,Time,Deficit,Note,Noise_Field_1,Extra_Data_2
+56,4,Piret Pormeister,Estonia,3:27.34,+23.45,,kocsEH,626
+57,64,Maryna Antsybor,Ukraine,3:28.17,+24.28,,MEyiaRY,807
+58,58,Teodora Malcheva,Bulgaria,3:28.79,+24.90,,kaKnUIft,629
+59,42,Hanna Kolb,Germany,3:28.81,+24.92,,YSHFBJcV,407
+60,66,Vita Jakimchuk,Ukraine,3:29.67,+25.78,,SjjKQrEc,554
+61,62,Lina Kreivenaitė,Lithuania,3:32.01,+28.12,,SytOqO,322
+62,63,Mónika György,Romania,3:32.20,+28.31,,eeDQZjXp,975
+63,71,Niviaq Chemnitz Berthelsen,Denmark,3:32.56,+28.67,,UErvXg,737
+64,68,Ingrida Ardišauskaitė,Lithuania,3:33.54,+29.65,,NozZecR,571
+65,13,Kaija Udras,Estonia,3:33.88,+29.99,,mENxd,410
+66,5,Katarína Garajová,Slovakia,3:37.08,+30.19,,LHKrvwqV,967

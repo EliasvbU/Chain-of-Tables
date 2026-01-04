@@ -1,8 +1,8 @@
-Year,Location,Gold,Silver,Bronze
-1958,Tokyo,Sachika Kamo,Desideria Ampon,Liu Shang-Ku
-1962,Jakarta,Akiko Fukui,Reiko Miyagi,Desideria Ampon Patricia Yngayo
-1966,Bangkok,Lany Kaligis,Kazuko Kuromatsu,Lita Liem Sugiarto Phanow Sudsawasdi
-1974,Tehran,Lita Liem Sugiarto,Paulina Pesahov,Lany Kaligis
-1978,Bangkok,Lee Duk-Hee,Chen Chuan,Kiyoko Nomura Sonoe Yonezawa
-1982,New Delhi,Etsuko Inoue,Kim Soo-Ok,Yu Liqiao
-1986,Seoul,Li Xinyi,Lee Jeong-Soon,Kim Soo-Ok
+Year,Location,Gold,Silver,Bronze,Unused_1
+1958,Tokyo,Sachika Kamo,Desideria Ampon,Liu Shang-Ku,
+1962,Jakarta,Akiko Fukui,Reiko Miyagi,Desideria Ampon Patricia Yngayo,
+1966,Bangkok,Lany Kaligis,Kazuko Kuromatsu,Lita Liem Sugiarto Phanow Sudsawasdi,
+1974,Tehran,Lita Liem Sugiarto,Paulina Pesahov,Lany Kaligis,
+1978,Bangkok,Lee Duk-Hee,Chen Chuan,Kiyoko Nomura Sonoe Yonezawa,
+1982,New Delhi,Etsuko Inoue,Kim Soo-Ok,Yu Liqiao,
+1986,Seoul,Li Xinyi,Lee Jeong-Soon,Kim Soo-Ok,

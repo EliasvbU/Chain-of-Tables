@@ -1,6 +1,8 @@
-Week,Date,Opponent,ResultsFinal score,ResultsTeam record,Venue,Attendance
-1,September 20,at Detroit Lions,W 16–13,1–0,Tiger Stadium,"54,418"
-2,September 26,Chicago Bears,L 20–17,1–1,Metropolitan Stadium,"47,900"
-3,October 3,Buffalo Bills,W 19–0,2–1,Metropolitan Stadium,"47,900"
-4,October 10,at Philadelphia Eagles,W 13–0,3–1,Veterans Stadium,"65,358"
-5,October 17,at Green Bay Packers,W 24–13,4–1,Lambeau Field,"56,263"
+Week,Date,Opponent,ResultsFinal score,ResultsTeam record,Venue,Attendance,Extra_Data_1,Extra_Data_2
+1,September 20,at Detroit Lions,W 16–13,1–0,Tiger Stadium,"54,418",440,613
+2,September 26,Chicago Bears,L 20–17,1–1,Metropolitan Stadium,"47,900",626,75
+3,October 3,Buffalo Bills,W 19–0,2–1,Metropolitan Stadium,"47,900",546,57
+4,October 10,at Philadelphia Eagles,W 13–0,3–1,Veterans Stadium,"65,358",755,606
+5,October 17,at Green Bay Packers,W 24–13,4–1,Lambeau Field,"56,263",164,39
+6,October 25,Baltimore Colts,W 10–3,5–1,Metropolitan Stadium,"49,784",253,338
+7,October 31,at New York Giants,W 17–10,6–1,Yankee Stadium,"62,829",2,700

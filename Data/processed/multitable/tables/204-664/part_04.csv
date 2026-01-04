@@ -1,11 +1,11 @@
-Rank,Bib,Name,Nationality,Start,Penalties (P+P+S+S),Time,Deficit
-31,35,Ondřej Moravec,Czech Republic,1:42,3 (0+1+1+1),35:05.3,+2:48.2
-32,28,Tim Burke,United States,1:36,4 (0+1+2+1),35:33.8,+2:58.3
-33,58,Dominik Windisch,Italy,2:31,2 (0+0+1+1),35:36.4,+3:00.9
-34,54,Carl Johan Bergman,Sweden,2:19,2 (0+0+1+1),35:37.0,+3:01.5
-35,25,Benjamin Weger,Switzerland,1:28,3 (0+1+1+1),36:13.1,+3:37.6
-36,42,Artem Pryma,Ukraine,1:59,3 (1+2+0+0),36:13.2,+3:37.7
-37,50,Pavol Hurajt,Slovakia,2:14,2 (0+1+0+1),36:18.9,+3:43.4
-38,22,Tomas Kaukėnas,Lithuania,1:20,4 (0+0+2+2),36:33.4,+3:57.9
-39,43,Vladimir Iliev,Bulgaria,2:03,5 (1+1+2+1),36:43.4,+4:07.9
-40,40,Edgars Piksons,Latvia,1:55,4 (1+0+2+1),36:49.8,+4:14.3
+Rank,Bib,Name,Nationality,Start,Penalties (P+P+S+S),Time,Deficit,Extra_Data_1,Dummy_Col_2
+31,35,Ondřej Moravec,Czech Republic,1:42,3 (0+1+1+1),35:05.3,+2:48.2,158,vlbvbq
+32,28,Tim Burke,United States,1:36,4 (0+1+2+1),35:33.8,+2:58.3,964,GCwZzn
+33,58,Dominik Windisch,Italy,2:31,2 (0+0+1+1),35:36.4,+3:00.9,617,cUWUboRR
+34,54,Carl Johan Bergman,Sweden,2:19,2 (0+0+1+1),35:37.0,+3:01.5,824,nqKbDmNd
+35,25,Benjamin Weger,Switzerland,1:28,3 (0+1+1+1),36:13.1,+3:37.6,412,AEjXtglV
+36,42,Artem Pryma,Ukraine,1:59,3 (1+2+0+0),36:13.2,+3:37.7,15,oPoDsXbt
+37,50,Pavol Hurajt,Slovakia,2:14,2 (0+1+0+1),36:18.9,+3:43.4,544,yKwUD
+38,22,Tomas Kaukėnas,Lithuania,1:20,4 (0+0+2+2),36:33.4,+3:57.9,816,jeWoXU
+39,43,Vladimir Iliev,Bulgaria,2:03,5 (1+1+2+1),36:43.4,+4:07.9,198,okZePzP
+40,40,Edgars Piksons,Latvia,1:55,4 (1+0+2+1),36:49.8,+4:14.3,550,ubjsHT

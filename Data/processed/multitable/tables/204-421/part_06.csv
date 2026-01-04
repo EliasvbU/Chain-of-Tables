@@ -1,20 +1,20 @@
-Name,Nationality,Position,Spartak career,Appearances,Goals
-Igor Netto,Soviet Union,MF,1949–66,368,36
-Yuriy Nikiforov,Russia,DF,1993–96,85,16
-Vladimir Nikonov,Soviet Union,MF,"1979–80, 1982",25,5
-Sergei Novikov,Soviet Union,MF,"1978–80, 1985–89",70,12
-Mikhail Ogonkov,Soviet Union,DF,"1953–58, 1961",78,0
-Sergei Olshansky,Soviet Union,DF,1969–75,138,7
-Viktor Onopko,Russia,DF,1992–95,108,23
-Nikolai Osyanin,Soviet Union,DF,"1966–71, 1974–76",248,50
-Viktor Papayev,Soviet Union,MF,"1968–73, 1975–76",174,10
-Aleksei Paramonov,Soviet Union,MF,1947–59,264,61
-Dmytro Parfenov,Ukraine,DF,1998–2005,125,15
-Nikolai Parshin,Soviet Union,FW,1949–58,106,36
-Viktor Pasulko,Soviet Union,MF,1987–89,75,16
-Aleksandr Pavlenko,Russia,MF,"2001–07, 2008–09",110,11
-Vadim Pavlenko,Soviet Union,FW,1977–78,47,16
-Roman Pavlyuchenko,Russia,FW,2003–08,141,69
-Hennadiy Perepadenko,Ukraine,MF,"1990–91, 1992",51,6
-Boris Petrov,Soviet Union,FW,1962,18,5
-Vladimir Petrov,Soviet Union,DF,1959–71,174,5
+Name,Nationality,Position,Spartak career,Appearances,Goals,Unused_1,Extra_Data_2,Extra_Data_3
+Igor Netto,Soviet Union,MF,1949–66,368,36,,734,937
+Yuriy Nikiforov,Russia,DF,1993–96,85,16,,724,370
+Vladimir Nikonov,Soviet Union,MF,"1979–80, 1982",25,5,,169,612
+Sergei Novikov,Soviet Union,MF,"1978–80, 1985–89",70,12,,756,333
+Mikhail Ogonkov,Soviet Union,DF,"1953–58, 1961",78,0,,872,708
+Sergei Olshansky,Soviet Union,DF,1969–75,138,7,,886,55
+Viktor Onopko,Russia,DF,1992–95,108,23,,837,715
+Nikolai Osyanin,Soviet Union,DF,"1966–71, 1974–76",248,50,,359,220
+Viktor Papayev,Soviet Union,MF,"1968–73, 1975–76",174,10,,298,461
+Aleksei Paramonov,Soviet Union,MF,1947–59,264,61,,356,388
+Dmytro Parfenov,Ukraine,DF,1998–2005,125,15,,398,317
+Nikolai Parshin,Soviet Union,FW,1949–58,106,36,,112,797
+Viktor Pasulko,Soviet Union,MF,1987–89,75,16,,783,953
+Aleksandr Pavlenko,Russia,MF,"2001–07, 2008–09",110,11,,792,347
+Vadim Pavlenko,Soviet Union,FW,1977–78,47,16,,845,850
+Roman Pavlyuchenko,Russia,FW,2003–08,141,69,,848,66
+Hennadiy Perepadenko,Ukraine,MF,"1990–91, 1992",51,6,,416,401
+Boris Petrov,Soviet Union,FW,1962,18,5,,905,881
+Vladimir Petrov,Soviet Union,DF,1959–71,174,5,,903,329

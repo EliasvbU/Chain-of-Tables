@@ -1,7 +1,7 @@
-Name,Year inducted,Position,Apps,Goals
-Luther Blissett,2003,Forward,503,186
-Tony Coton,2004,Goalkeeper,291,0
-John McClelland,2005,Defender,234,3
-Tommy Mooney,2006,Forward,287,64
-Les Taylor,2007,Midfielder,211,20
-David James,2008,Goalkeeper,98,0
+Name,Year inducted,Position,Apps,Goals,Extra_Data_1,Unused_2
+Luther Blissett,2003,Forward,503,186,35,
+Tony Coton,2004,Goalkeeper,291,0,699,
+John McClelland,2005,Defender,234,3,981,
+Tommy Mooney,2006,Forward,287,64,686,
+Les Taylor,2007,Midfielder,211,20,785,
+David James,2008,Goalkeeper,98,0,733,

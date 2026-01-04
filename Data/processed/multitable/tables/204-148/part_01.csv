@@ -1,13 +1,13 @@
-Name,Elected,Term began,Term ended
-Henry A. Atkins,"appointed December 2, 1869elected July 11, 1870",1869,1871
-John T. Jordan,"elected July 10, 1871",1871,1872
-Corliss P. Stone,"elected July 8, 1872abandoned office: left for San Francisco February 23, 1873 after allegedly embezzling $15,000",1872,1873
-John T. Jordan,appointed,1873,1873
-Moses R. Maddocks,Elected,1873,1873
-John Collins,"elected July 14, 1873",1873,1874
-Henry Yesler,"elected July 13, 1874",1874,1875
-Bailey Gatzert,"elected August 2, 1875",1875,1876
-Gideon A. Weed,"elected July 10, 1876and July 9, 1877",1876,1878
-Beriah Brown,"elected July 8, 1878",1878,1879
-Orange Jacobs,"elected July 14, 1879",1879,1880
-Leonard Purley Smith,"elected July 12, 1880and July 11, 1881",1880,1882
+Name,Elected,Term began,Term ended,Extra_Data_1
+Henry A. Atkins,"appointed December 2, 1869elected July 11, 1870",1869,1871,553
+John T. Jordan,"elected July 10, 1871",1871,1872,417
+Corliss P. Stone,"elected July 8, 1872abandoned office: left for San Francisco February 23, 1873 after allegedly embezzling $15,000",1872,1873,128
+John T. Jordan,appointed,1873,1873,497
+Moses R. Maddocks,Elected,1873,1873,196
+John Collins,"elected July 14, 1873",1873,1874,397
+Henry Yesler,"elected July 13, 1874",1874,1875,889
+Bailey Gatzert,"elected August 2, 1875",1875,1876,299
+Gideon A. Weed,"elected July 10, 1876and July 9, 1877",1876,1878,160
+Beriah Brown,"elected July 8, 1878",1878,1879,438
+Orange Jacobs,"elected July 14, 1879",1879,1880,325
+Leonard Purley Smith,"elected July 12, 1880and July 11, 1881",1880,1882,485

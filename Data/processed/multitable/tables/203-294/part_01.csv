@@ -1,9 +1,11 @@
-Round,Opponent,Result,Brisbane,Opponent,Date,Venue,Crowd,Position
-BOCC,Celtic Crusaders,Win,32,6,15 Feb,Brewery Field,"2,000+",
-WCC,St Helens,Loss,14,18,23 Feb,Reebok Stadium,"23,207",
-Trial Match,Canberra Raiders,Win,18,12,24 Feb,Dolphin Oval,,
-Trial Match,Melbourne Storm,Loss,0,46,3 Mar,Princes Park,"8,273",
-1,North Queensland Cowboys,Loss,16,23,16 Mar,Suncorp Stadium,"50,416",12/16
-2,New Zealand Warriors,Loss,14,24,25 Mar,Mt Smart Stadium,"16,738",12/16
-3,Penrith Panthers,Loss,28,29,30 Mar,Suncorp Stadium,"24,582",15/16
-4,Sydney Roosters,Win,32,10,6 Apr,Aussie Stadium,"11,476",12/16
+Round,Opponent,Result,Brisbane,Opponent,Date,Venue,Crowd,Position,Dummy_Col_1,Extra_Data_2
+BOCC,Celtic Crusaders,Win,32,6,15 Feb,Brewery Field,"2,000+",,KTxYrN,647
+WCC,St Helens,Loss,14,18,23 Feb,Reebok Stadium,"23,207",,fCgZN,601
+Trial Match,Canberra Raiders,Win,18,12,24 Feb,Dolphin Oval,,,XQIxhZe,977
+Trial Match,Melbourne Storm,Loss,0,46,3 Mar,Princes Park,"8,273",,ZVxieTt,435
+1,North Queensland Cowboys,Loss,16,23,16 Mar,Suncorp Stadium,"50,416",12/16,oGpJBv,169
+2,New Zealand Warriors,Loss,14,24,25 Mar,Mt Smart Stadium,"16,738",12/16,VFeCjSS,463
+3,Penrith Panthers,Loss,28,29,30 Mar,Suncorp Stadium,"24,582",15/16,mvcuA,726
+4,Sydney Roosters,Win,32,10,6 Apr,Aussie Stadium,"11,476",12/16,pnWQn,419
+5 ^,Gold Coast Titans,Loss,16,28,13 Apr,Suncorp Stadium,"47,686",13/16,hwUemP,724
+6 *,Newcastle Knights,Win,20,16,22 Apr,EnergyAustralia Stadium,"25,524",11/16,KypyPLz,546

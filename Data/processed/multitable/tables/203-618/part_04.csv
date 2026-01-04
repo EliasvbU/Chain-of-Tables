@@ -1,8 +1,8 @@
-Pick,Player,Team,Position,School
-24,Andy Brown,New York Yankees,OF,"Richmond HS (Richmond, IN)"
-25,Nate Bump,San Francisco Giants,P,Penn State University
-26,Rick Elder,Baltimore Orioles,OF,"Sprayberry HS (Sprayberry, GA)"
-27,Chip Ambres,Florida Marlins,OF,"West Brook HS (Beaumont, TX)"
-28,Matt Roney,Colorado Rockies,P,"Edmond North HS (Edmond, OK)"
-29,Arturo McDowell,San Francisco Giants,OF,"Forest Hill Community HS (West Palm Beach, FL)"
-30,Matt Burch,Kansas City Royals,P,Virginia Commonwealth University
+Pick,Player,Team,Position,School,Unused_1
+24,Andy Brown,New York Yankees,OF,"Richmond HS (Richmond, IN)",
+25,Nate Bump,San Francisco Giants,P,Penn State University,
+26,Rick Elder,Baltimore Orioles,OF,"Sprayberry HS (Sprayberry, GA)",
+27,Chip Ambres,Florida Marlins,OF,"West Brook HS (Beaumont, TX)",
+28,Matt Roney,Colorado Rockies,P,"Edmond North HS (Edmond, OK)",
+29,Arturo McDowell,San Francisco Giants,OF,"Forest Hill Community HS (West Palm Beach, FL)",
+30,Matt Burch,Kansas City Royals,P,Virginia Commonwealth University,

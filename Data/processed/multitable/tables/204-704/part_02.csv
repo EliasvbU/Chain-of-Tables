@@ -1,10 +1,12 @@
-Province,Map #,ISO 3166-2:AF,Centers,Population,Area (km²),Language,Notes,U.N. Region
-Ghor,6,AF-GHO,Chaghcharan,"485,000","36,479",Dari Persian,10 districts,East Central Afghanistan
-Helmand,7,AF-HEL,Lashkar Gah,"745,000","58,584","Pashto,Baloch",13 districts,South West Afghanistan
-Herat,1,AF-HER,Herat,"1,182,000","54,778","Dari Persian, Pashto",15 districts,West Afghanistan
-Jowzjan,8,AF-JOW,Sheberghan,"441,000","11,798","Uzbek, Dari Persian",9 districts,North Afghanistan
-Kabul,22,AF-KAB,Kabul,"3,314,000","4,462","Pashto, Dari Persian, Turkmen, Baloch and Uzbek",15 districts,Central Afghanistan
-Kandahar,12,AF-KAN,Kandahar,"886,000","54,022","Pashto, Dari Persian,Baloch",16 districts,South West Afghanistan
-Kapisa,29,AF-KAP,Mahmud-i-Raqi,"360,000","1,842",Dari Persian,7 districts,Central Afghanistan
-Khost,26,AF-KHO,Khost,"300,000","4,152",Pashto,13 districts,South Afghanistan
-Kunar,34,AF-KNR,Asadabad,"321,000","4,942",Pashto,15 districts,East Afghanistan
+Province,Map #,ISO 3166-2:AF,Centers,Population,Area (km²),Language,Notes,U.N. Region,Irrelevant_1,Noise_Field_2
+Jowzjan,8,AF-JOW,Sheberghan,"441,000","11,798","Uzbek, Dari Persian",9 districts,North Afghanistan,yZjIaxTa,CPmTmU
+Kabul,22,AF-KAB,Kabul,"3,314,000","4,462","Pashto, Dari Persian, Turkmen, Baloch and Uzbek",15 districts,Central Afghanistan,3rC1x,SRnXMfI
+Kandahar,12,AF-KAN,Kandahar,"886,000","54,022","Pashto, Dari Persian,Baloch",16 districts,South West Afghanistan,WEVyr,sDKtCd
+Kapisa,29,AF-KAP,Mahmud-i-Raqi,"360,000","1,842",Dari Persian,7 districts,Central Afghanistan,PEDW04M,pkbgta
+Khost,26,AF-KHO,Khost,"300,000","4,152",Pashto,13 districts,South Afghanistan,uk1mVO,aIMFZds
+Kunar,34,AF-KNR,Asadabad,"321,000","4,942",Pashto,15 districts,East Afghanistan,4yDfT,GSyqtdOb
+Kunduz,18,AF-KDZ,Kunduz,"820,000","8,040","Dari Persian, Uzbek, Turkmen, Pashto",7 districts,North East Afghanistan,Ud7gCrzy,pVIaufht
+Laghman,32,AF-LAG,Mihtarlam District,"373,000","3,843","Pashto, Dari Persian and Pashai",5 districts,East Afghanistan,6zBUOp,reGiANhi
+Lowgar,23,AF-LOW,Pul-i-Alam,"292,000","3,880","Dari Persian, Pashto",7 districts,Central Afghanistan,uY3QpHE,fEnVyEV
+Nangarhar,33,AF-NAN,Jalalabad,"1,089,000","7,727","Pashto, Dari Persian",23 districts,East Afghanistan,9lF1N2,AYfeF
+Nimruz,3,AF-NIM,Zaranj,"149,000","41,005","Balochi, Dari Persian and Balochi",5 districts,South West Afghanistan,Yp9mmqi,ydmzxsVI

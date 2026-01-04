@@ -1,9 +1,9 @@
-Fin,St,Driver,Car #,Make,Points,Bonus,Laps,Winnings
-36,15,Ward Burton,4,Chevrolet,55,,144,"$78,725"
-37,13,Kyle Busch,5,Chevrolet,52,,130,"$95,800"
-38,33,Joe Nemechek,13,Chevrolet,49,,130,"$77,450"
-39,7,Casey Mears,25,Chevrolet,51,5,124,"$85,250"
-40,43,Dale Jarrett,44,Toyota,43,,38,"$77,000"
-41,38,Robby Gordon,7,Ford,40,,33,"$76,800"
-42,16,Carl Edwards,99,Ford,37,,27,"$84,630"
-43,19,Paul Menard *,15,Chevrolet,34,,22,"$76,737"
+Fin,St,Driver,Car #,Make,Points,Bonus,Laps,Winnings,Filler_1,Filler_2,Dummy_Col_3
+36,15,Ward Burton,4,Chevrolet,55,,144,"$78,725",KPamrdJ,RiThasSY,dUvTv
+37,13,Kyle Busch,5,Chevrolet,52,,130,"$95,800",dKyAHKv,nVTXIlNJ,AJCnCNk
+38,33,Joe Nemechek,13,Chevrolet,49,,130,"$77,450",QvvUaY,mIzgsz,TePZup
+39,7,Casey Mears,25,Chevrolet,51,5,124,"$85,250",EgrzqzM,hqwvS,unzQPeY
+40,43,Dale Jarrett,44,Toyota,43,,38,"$77,000",UfmLhTbv,xhJUORbS,SPVKBc
+41,38,Robby Gordon,7,Ford,40,,33,"$76,800",ObCdI,YckHwMm,aljUkxf
+42,16,Carl Edwards,99,Ford,37,,27,"$84,630",yRWtqB,XfqOXYcu,EGzkm
+43,19,Paul Menard *,15,Chevrolet,34,,22,"$76,737",UnptUCxP,YyVIDu,OiuhhHl

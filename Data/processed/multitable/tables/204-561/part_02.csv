@@ -1,10 +1,13 @@
-Fence,Name,Jockey,Age,Handicap (st-lb),Starting price,Fate
-22,Supersweet,Mr D Crossley-Cooke,9,10-6,100/1,Fell
-?,Major Hitch,Paddy Broderick,8,10-1,50/1,Fell
-15,Irish Day,Jimmy Magee,10,10-0,40/1,Fell
-?,Scottish Final,J Gamble,9,10-0,100/1,Fell
-?,Flamecap,F Carroll,9,10-0,100/1,Fell
-15,Black Spot,Jeremy Speid-Soote,9,10-0,100/1,Fell
-?,Harry Black,R Court,9,10-0,100/1,Fell
-?,Flying Wild,Pat Taaffe,10,11-0,20/1,Pulled Up
-?,Stirling,HR Beasley,10,10-11,28/1,Pulled Up
+Fence,Name,Jockey,Age,Handicap (st-lb),Starting price,Fate,Filler_1,Dummy_Col_2,Noise_Field_3
+?,Scottish Final,J Gamble,9,10-0,100/1,Fell,IlcxYFoq,fXnahxx,KuSCWDn
+?,Flamecap,F Carroll,9,10-0,100/1,Fell,fvVIZBaa,HlJWaSjb,SSwdFt
+15,Black Spot,Jeremy Speid-Soote,9,10-0,100/1,Fell,cIehk,QHbYI,TsWzvN
+?,Harry Black,R Court,9,10-0,100/1,Fell,uwtcPH,kBQDeMwY,IiSDVog
+?,Flying Wild,Pat Taaffe,10,11-0,20/1,Pulled Up,otVump,KqCScwJ,cGPzdZ
+?,Stirling,HR Beasley,10,10-11,28/1,Pulled Up,CiBHT,ePEWpLuD,CSotFv
+?,Vultrix,Stan Mellor,8,10-7,100/7,Pulled Up,qvrNg,CwpwHzBA,pEcBsR
+?,Solimyth,Mr John Lawrence,10,10-1,100/1,Pulled Up,mMDXsDp,rvuLWq,nZiMFstk
+?,April Rose,Major Piers Bengough,11,10-7,100/1,Pulled Up,YBjatCTP,vRpvrpyW,ofDckbn
+?,L'Empereur,Beltrán Osorio,12,10-2,100/1,Pulled Up,KtsNLG,aMGXNCME,AeXocfVM
+14,Willow King,Liam McLoughlin,11,10-0,100/1,Pulled Up,ZdGNqJ,FXKeUzgA,mzhdG
+?,Royal Ryse,T Hyde,8,10-0,100/1,Pulled Up,tEDpswqg,wrQMIBWg,QEZJJtHf

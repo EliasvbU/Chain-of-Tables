@@ -1,31 +1,31 @@
-Location,Region,Coordinates(links to map & photo sources),Population,Elevation
-Quilmaná,Lima,12°57′00″S 76°23′00″W﻿ / ﻿12.95°S 76.38333°W,6442,210
-Quiruvilca,La Libertad,7°58′00″S 78°12′00″W﻿ / ﻿7.96667°S 78.2°W,9226,3940
-Ramón Castilla,Loreto,4°15′25″S 69°57′34″W﻿ / ﻿4.25694°S 69.95944°W,5495,84
-Reque,Lambayeque,6°51′56″S 79°49′04″W﻿ / ﻿6.86556°S 79.81778°W,9808,28
-Ricardo Palma,Lima,11°55′05″S 76°39′59″W﻿ / ﻿11.91806°S 76.66639°W,4842,1248
-Río Grande,Ica,14°31′11″S 75°12′05″W﻿ / ﻿14.51972°S 75.20139°W,4689,368
-Rioja,San Martín,6°03′31″S 77°09′54″W﻿ / ﻿6.05861°S 77.165°W,25057,789
-Salaverry,La Libertad,8°14′00″S 78°58′00″W﻿ / ﻿8.23333°S 78.96667°W,10066,70
-Salinera Colán,Piura,5°02′00″S 81°04′00″W﻿ / ﻿5.03333°S 81.06667°W,14210,1
-Salitral,Piura,4°51′26″S 80°40′52″W﻿ / ﻿4.85722°S 80.68111°W,5385,71
-San Agustin,Junín,11°59′32″S 75°14′43″W﻿ / ﻿11.99219°S 75.24528°W,5998,3964
-San Bartolo,Lima,12°23′00″S 76°47′00″W﻿ / ﻿12.38333°S 76.78333°W,5733,72
-San Clemente,Ica,13°40′00″S 76°09′00″W﻿ / ﻿13.66667°S 76.15°W,15815,72
-San Ignacio,Cajamarca,5°08′45″S 79°00′05″W﻿ / ﻿5.14583°S 79.00139°W,7912,1258
-San Isidro,Lima,12°07′00″S 77°03′00″W﻿ / ﻿12.11667°S 77.05°W,68309,32
-San Jerónimo,Apurímac,13°39′01″S 73°21′54″W﻿ / ﻿13.65028°S 73.365°W,5609,3017
-San Jerónimo,Junín,11°56′50″S 75°16′59″W﻿ / ﻿11.94717°S 75.28293°W,8772,4005
-San José,Lambayeque,6°44′33″S 79°49′45″W﻿ / ﻿6.7425°S 79.82917°W,7434,1
-San José de Sisa,San Martín,6°37′00″S 76°41′29″W﻿ / ﻿6.61674°S 76.69146°W,9477,536
-San Juan Bautista,Ica,14°00′39″S 75°44′09″W﻿ / ﻿14.01083°S 75.73583°W,6871,420
-San Luis,Lima,12°04′00″S 77°00′00″W﻿ / ﻿12.06667°S 77°W,8862,220
-San Miguel,Ayacucho,13°00′45″S 73°58′51″W﻿ / ﻿13.0125°S 73.98083°W,6303,2717
-San Miguel de Cauri,Huanuco,10°06′00″S 76°35′00″W﻿ / ﻿10.1°S 76.58333°W,5326,4064
-San Pablo,Cusco,14°12′10″S 71°18′56″W﻿ / ﻿14.20278°S 71.31556°W,3486,3618
-San Pedro De Cachora,Apurímac,13°38′00″S 72°53′00″W﻿ / ﻿13.63333°S 72.88333°W,,2772
-San Pedro de Cajas,Junín,11°15′04″S 75°51′42″W﻿ / ﻿11.25111°S 75.86167°W,5758,3995
-San Pedro de Lloc,La Libertad,7°25′58″S 79°30′21″W﻿ / ﻿7.43278°S 79.50583°W,16250,1
-San Ramón,Junín,11°07′17″S 75°21′11″W﻿ / ﻿11.12139°S 75.35306°W,14708,776
-San Vicente de Cañete,Lima,13°04′30″S 76°23′01″W﻿ / ﻿13.07512°S 76.38352°W,25517,51
-Santa Ana,Cusco,12°52′00″S 72°43′00″W﻿ / ﻿12.86667°S 72.71667°W,25145,857
+Location,Region,Coordinates(links to map & photo sources),Population,Elevation,Unused_1,Noise_Field_2,Noise_Field_3
+Quilmaná,Lima,12°57′00″S 76°23′00″W﻿ / ﻿12.95°S 76.38333°W,6442,210,,RwopIaUk,GhzSK
+Quiruvilca,La Libertad,7°58′00″S 78°12′00″W﻿ / ﻿7.96667°S 78.2°W,9226,3940,,ZdJdNByN,YXFMs
+Ramón Castilla,Loreto,4°15′25″S 69°57′34″W﻿ / ﻿4.25694°S 69.95944°W,5495,84,,NqYmSvJ,MnTNKTmc
+Reque,Lambayeque,6°51′56″S 79°49′04″W﻿ / ﻿6.86556°S 79.81778°W,9808,28,,zXuAPz,ORqDKxc
+Ricardo Palma,Lima,11°55′05″S 76°39′59″W﻿ / ﻿11.91806°S 76.66639°W,4842,1248,,DfWYr,mwMTzo
+Río Grande,Ica,14°31′11″S 75°12′05″W﻿ / ﻿14.51972°S 75.20139°W,4689,368,,EmPiycG,gVKQLos
+Rioja,San Martín,6°03′31″S 77°09′54″W﻿ / ﻿6.05861°S 77.165°W,25057,789,,kRhdrFL,Iopsk
+Salaverry,La Libertad,8°14′00″S 78°58′00″W﻿ / ﻿8.23333°S 78.96667°W,10066,70,,aXlTrTZ,ArEjvo
+Salinera Colán,Piura,5°02′00″S 81°04′00″W﻿ / ﻿5.03333°S 81.06667°W,14210,1,,VdQSttL,BBFwvcEa
+Salitral,Piura,4°51′26″S 80°40′52″W﻿ / ﻿4.85722°S 80.68111°W,5385,71,,oYasow,aYoDnW
+San Agustin,Junín,11°59′32″S 75°14′43″W﻿ / ﻿11.99219°S 75.24528°W,5998,3964,,IJeUb,OxtBsgIa
+San Bartolo,Lima,12°23′00″S 76°47′00″W﻿ / ﻿12.38333°S 76.78333°W,5733,72,,sFMmxYx,CleRl
+San Clemente,Ica,13°40′00″S 76°09′00″W﻿ / ﻿13.66667°S 76.15°W,15815,72,,EGYno,BTrrZB
+San Ignacio,Cajamarca,5°08′45″S 79°00′05″W﻿ / ﻿5.14583°S 79.00139°W,7912,1258,,ZMbCyH,pJAShAa
+San Isidro,Lima,12°07′00″S 77°03′00″W﻿ / ﻿12.11667°S 77.05°W,68309,32,,SxByaD,bCXSWCrB
+San Jerónimo,Apurímac,13°39′01″S 73°21′54″W﻿ / ﻿13.65028°S 73.365°W,5609,3017,,vizqXG,aNcBZEf
+San Jerónimo,Junín,11°56′50″S 75°16′59″W﻿ / ﻿11.94717°S 75.28293°W,8772,4005,,sTzYWP,iRYICnpB
+San José,Lambayeque,6°44′33″S 79°49′45″W﻿ / ﻿6.7425°S 79.82917°W,7434,1,,bPcKd,Pfoxc
+San José de Sisa,San Martín,6°37′00″S 76°41′29″W﻿ / ﻿6.61674°S 76.69146°W,9477,536,,ZglyxcU,DVIPNS
+San Juan Bautista,Ica,14°00′39″S 75°44′09″W﻿ / ﻿14.01083°S 75.73583°W,6871,420,,yrXjjed,DoOFUdb
+San Luis,Lima,12°04′00″S 77°00′00″W﻿ / ﻿12.06667°S 77°W,8862,220,,LZZJxO,uPHxN
+San Miguel,Ayacucho,13°00′45″S 73°58′51″W﻿ / ﻿13.0125°S 73.98083°W,6303,2717,,StfhZDrv,wkOMz
+San Miguel de Cauri,Huanuco,10°06′00″S 76°35′00″W﻿ / ﻿10.1°S 76.58333°W,5326,4064,,ztMvyi,qZomwSL
+San Pablo,Cusco,14°12′10″S 71°18′56″W﻿ / ﻿14.20278°S 71.31556°W,3486,3618,,pSmuP,bvpsWbXh
+San Pedro De Cachora,Apurímac,13°38′00″S 72°53′00″W﻿ / ﻿13.63333°S 72.88333°W,,2772,,UOeIiJ,kIKpFiez
+San Pedro de Cajas,Junín,11°15′04″S 75°51′42″W﻿ / ﻿11.25111°S 75.86167°W,5758,3995,,uEYXFwln,SdSatCv
+San Pedro de Lloc,La Libertad,7°25′58″S 79°30′21″W﻿ / ﻿7.43278°S 79.50583°W,16250,1,,ZGgLBLDn,mgPYaw
+San Ramón,Junín,11°07′17″S 75°21′11″W﻿ / ﻿11.12139°S 75.35306°W,14708,776,,KLKVM,NQzsLBV
+San Vicente de Cañete,Lima,13°04′30″S 76°23′01″W﻿ / ﻿13.07512°S 76.38352°W,25517,51,,MhRkDZe,pZiNr
+Santa Ana,Cusco,12°52′00″S 72°43′00″W﻿ / ﻿12.86667°S 72.71667°W,25145,857,,YbCLKwnt,DQypNjw

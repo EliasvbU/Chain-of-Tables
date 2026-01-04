@@ -1,6 +1,6 @@
-Location,Building,Year,km,Monument
-Bischofsheim,Station building,1958,08.25,*
-Rüsselsheim,Linesmen house,1863,12.80,*
-Raunheim,Station building,1863,15.87,*
-Raunheim,Linesmen house,1863,17.39,*
-Kelsterbach,Rail bridge,1863,21.75,
+Location,Building,Year,km,Monument,Filler_1,Extra_Data_2
+Bischofsheim,Station building,1958,08.25,*,VLBwHJ,747
+Rüsselsheim,Linesmen house,1863,12.80,*,UMPGaHt,883
+Raunheim,Station building,1863,15.87,*,KDJkZY,596
+Raunheim,Linesmen house,1863,17.39,*,QesxaOl,375
+Kelsterbach,Rail bridge,1863,21.75,,OKqdH,36

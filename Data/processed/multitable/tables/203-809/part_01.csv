@@ -1,8 +1,8 @@
-Date,Time,Opponent#,Rank#,Site,TV,Result,Attendance
-September 2,12:30 p.m.,WKU*,#15,"Sanford Stadium • Athens, GA",LFS,W 48–12,"92,746"
-September 9,7:45 p.m.,at South Carolina,#12,"Williams-Brice Stadium • Columbia, SC",ESPN,W 18–0,"82,513"
-September 16,1:00 p.m.,UAB*,#10,"Sanford Stadium • Athens, GA",CSS,W 34–0,"92,746"
-September 23,12:30 p.m.,Colorado*,#9,"Sanford Stadium • Athens, GA",LFS,W 14–13,"92,746"
-September 30,9:00 p.m.,at Ole Miss,#10,"Vaught–Hemingway Stadium • Oxford, MS",ESPN2,W 14–9,"57,184"
-October 7,7:45 p.m.,#13 Tennessee,#10,"Sanford Stadium • Athens, GA",ESPN,L 33–51,"92,746"
-October 14,12:30 p.m.,Vanderbilt,#16,"Sanford Stadium • Athens, GA",LFS,L 22–24,"92,746"
+Date,Time,Opponent#,Rank#,Site,TV,Result,Attendance,Extra_Data_1,Irrelevant_2,Noise_Field_3
+September 2,12:30 p.m.,WKU*,#15,"Sanford Stadium • Athens, GA",LFS,W 48–12,"92,746",416,ZZaMb,mOvzzJ
+September 9,7:45 p.m.,at South Carolina,#12,"Williams-Brice Stadium • Columbia, SC",ESPN,W 18–0,"82,513",602,HIFkw1,EAAet
+September 16,1:00 p.m.,UAB*,#10,"Sanford Stadium • Athens, GA",CSS,W 34–0,"92,746",296,mzeJ9,xqOZwP
+September 23,12:30 p.m.,Colorado*,#9,"Sanford Stadium • Athens, GA",LFS,W 14–13,"92,746",450,SiQDWZe,yxleYVAD
+September 30,9:00 p.m.,at Ole Miss,#10,"Vaught–Hemingway Stadium • Oxford, MS",ESPN2,W 14–9,"57,184",822,S4E2X8w,RxSxp
+October 7,7:45 p.m.,#13 Tennessee,#10,"Sanford Stadium • Athens, GA",ESPN,L 33–51,"92,746",338,YhBKX1G,WyuTGOY
+October 14,12:30 p.m.,Vanderbilt,#16,"Sanford Stadium • Athens, GA",LFS,L 22–24,"92,746",761,svIcq,xqpFF

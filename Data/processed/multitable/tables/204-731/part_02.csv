@@ -1,9 +1,12 @@
-Rank,Athlete,ShootingScore (pts),FencingVictories (pts),SwimmingTime (pts),RidingPenalties (pts),RunningTime (pts),Total
-9,Vakhtang Iagorashvili (USA),171 (988),19 (916),2:09.11 (1252),28 (1172),10:13.95 (948),5276
-10,Rustem Sabizkhuzin (RUS),185 (1156),18 (888),2:12.02 (1216),292 (908),9:39.60 (1084),5252
-11,Sergio Salazar (MEX),172 (1000),16 (832),2:07.27 (1276),112 (1088),9:59.15 (1004),5200
-12,Manuel Pradillo (MEX),178 (1072),15 (804),2:07.07 (1276),168 (1032),9:57.68 (1012),5196
-13,Chad Senior (USA),175 (1036),12 (720),2:02.39 (1332),196 (1004),9:35.76 (1100),5192
-14,Niklaus Brünisholz (SUI),180 (1096),14 (776),2:09.12 (1252),196 (1004),9:46.75 (1056),5184
-15,Sébastien Deleigne (FRA),180 (1096),15 (804),2:12.27 (1216),196 (1004),9:45.31 (1060),5180
-16,Qian Zhenhua (CHN),185 (1156),12 (720),2:08.52 (1260),56 (1144),10:27.25 (892),5172
+Rank,Athlete,ShootingScore (pts),FencingVictories (pts),SwimmingTime (pts),RidingPenalties (pts),RunningTime (pts),Total,Noise_Field_1,Random_Column_2,Random_Column_3
+12,Manuel Pradillo (MEX),178 (1072),15 (804),2:07.07 (1276),168 (1032),9:57.68 (1012),5196,DfwtkA,CI5F5yJ,XAm0AsFa
+13,Chad Senior (USA),175 (1036),12 (720),2:02.39 (1332),196 (1004),9:35.76 (1100),5192,VhdbGm,AESwAIJl,VlFE4
+14,Niklaus Brünisholz (SUI),180 (1096),14 (776),2:09.12 (1252),196 (1004),9:46.75 (1056),5184,UBOgerK,ZdLadf,cNT9rK5I
+15,Sébastien Deleigne (FRA),180 (1096),15 (804),2:12.27 (1216),196 (1004),9:45.31 (1060),5180,pXHQg,qoLPvm3,ZtGuYYAr
+16,Qian Zhenhua (CHN),185 (1156),12 (720),2:08.52 (1260),56 (1144),10:27.25 (892),5172,BsiwB,JgzAGpYk,U0DkZUd6
+17,Steffen Gebhardt (GER),183 (1132),13 (748),2:12.84 (1208),112 (1088),10:08.81 (968),5144,XqSnlbAO,Apb3gH5L,bs2CwS
+18,Ákos Kállai (HUN),179 (1084),18 (888),2:14.64 (1188),196 (1004),10:08.75 (968),5132,QwafF,BRiGn1D,Hi5rpTNM
+19,Andrea Valentini (ITA),169 (964),19 (916),2:18.34 (1140),124 (1068),10:01.25 (996),5084,knBHChsN,u541A,AjhwVA
+20,Raouf Abdou (EGY),174 (1024),13 (748),2:12.32 (1216),140 (1060),9:51.48 (1036),5084,QTraF,nByn2N,YdmOx
+21,Lee Choon-Huan (KOR),175 (1036),12 (720),2:12.02 (1216),84 (1116),10:05.85 (980),5068,doHiVd,MAAwg,P8q5m
+22,Pavel Uvarov (KGZ),181 (1108),10 (664),2:13.26 (1204),140 (1060),10:05.95 (980),5016,WrPVq,BOvRNi,eFohoj

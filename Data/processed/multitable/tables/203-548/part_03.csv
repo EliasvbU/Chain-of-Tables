@@ -1,7 +1,7 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-11,Morocco,0,1,0,1
-11,Philippines,0,1,0,1
-11,Russia,0,1,0,1
-16,Mexico,0,0,4,4
-17,Australia,0,0,3,3
-18,Croatia,0,0,2,2
+Rank,Nation,Gold,Silver,Bronze,Total,Unused_1,Dummy_Col_2,Random_Column_3
+11,Morocco,0,1,0,1,,QKGZJq,KH3m45
+11,Philippines,0,1,0,1,,TABBWQUE,urBhUl
+11,Russia,0,1,0,1,,OoJoI,NGYTa6It
+16,Mexico,0,0,4,4,,dTPufMP,NMGqfdSM
+17,Australia,0,0,3,3,,eaiqlbEL,2GTbsoB
+18,Croatia,0,0,2,2,,dBrxQd,cdLTg4SW

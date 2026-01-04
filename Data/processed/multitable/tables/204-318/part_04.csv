@@ -1,10 +1,12 @@
-Date,Opponent,Venue,Result,Attendance,Scorers
-15 January 2005,Nottingham Forest,A,2-1,"25,949","Hayles, Dunne"
-22 January 2005,Wolverhampton Wanderers,H,1-2,"13,145",Wise (pen)
-5 February 2005,Queens Park Rangers,H,0-0,"15,603",
-12 February 2005,Gillingham,A,0-0,"9,127",
-19 February 2005,Stoke City,H,0-1,"11,036",
-22 February 2005,Cardiff City,A,1-0,"11,424",Dichio (pen)
-26 February 2005,Brighton & Hove Albion,A,0-1,"6,608",
-6 March 2005,Leeds United,H,1-1,"11,510",Robinson
-12 March 2005,Wigan Athletic,A,0-2,"18,647",
+Date,Opponent,Venue,Result,Attendance,Scorers,Dummy_Col_1,Extra_Data_2,Noise_Field_3
+6 March 2005,Leeds United,H,1-1,"11,510",Robinson,dGpCHso,999,sswboEP
+12 March 2005,Wigan Athletic,A,0-2,"18,647",,kveGy,934,PMmCO
+15 March 2005,Coventry City,H,1-1,"8,835",Morris (pen),sqIzy,780,LNEQPz
+20 March 2005,Plymouth Argyle,H,3-0,"11,465","Sweeney, Hayles, Dichio",ZbIqugpA,263,MisdcSJ
+2 April 2005,Leicester City,A,1-3,"22,338",Dichio,CQoHu,420,KeiQg
+5 April 2005,Reading,A,1-2,"14,379",Dichio,xAKtAqI,707,PrMjGr
+9 April 2005,Crewe Alexandra,H,4-3,"10,767","Hayles, Elliott, Morris, May (pen)",GYpVjSg,49,FBmjx
+16 April 2005,West Ham United,A,1-1,"28,221",Hayles,qnTFr,382,whYalR
+24 April 2005,Preston North End,H,2-1,"11,417","Sweeney, Hayles",fXnjYCc,357,GjgPw
+30 April 2005,Sheffield United,A,1-0,"19,797",Morris,BwXwE,59,uvZJmjR
+8 May 2005,Burnley,H,0-0,"12,171",,WwjPS,106,fzCsk

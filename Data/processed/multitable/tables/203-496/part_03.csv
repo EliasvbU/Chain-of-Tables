@@ -1,6 +1,6 @@
-Pos,Country:,Gold:,Silver:,Bronze:,Total:
-11,United Arab Republic (EGY),0,0,1,1
-11,Finland (FIN),0,0,1,1
-11,Argentina (ARG),0,0,1,1
-11,Romania (ROU),0,0,1,1
-11,Germany (EUA),0,0,1,1
+Pos,Country:,Gold:,Silver:,Bronze:,Total:,Unused_1,Unused_2,Extra_Data_3
+11,United Arab Republic (EGY),0,0,1,1,,,178
+11,Finland (FIN),0,0,1,1,,,399
+11,Argentina (ARG),0,0,1,1,,,69
+11,Romania (ROU),0,0,1,1,,,186
+11,Germany (EUA),0,0,1,1,,,990

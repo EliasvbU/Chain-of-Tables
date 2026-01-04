@@ -1,8 +1,8 @@
-Year,Laureate,Relation,Category,Rationale
-2004,Edward C. Prescott,"Assistant Professor, 1967–1971",Economics,"\for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles.\"""""
-2006,Edmund Phelps,"Professor, 1966–1971",Economics,"\for his analysis of intertemporal tradeoffs in macroeconomic policy.\"""""
-2008,Harald zur Hausen,"Assistant professor, 1968–1969",Physiology or Medicine,"\for his discovery of human papilloma viruses causing cervical cancer\"""""
-2009,George E. Smith,"B.S., 1955",Physics,"\for the invention of an imaging semiconductor circuit – the CCD sensor\"""""
-2009,Oliver E. Williamson,"Professor, 1965–1983",Economics,\for his analysis of economic governance
-2010,Ei'ichi Negishi,"Ph.D., 1963",Chemistry,"\for palladium-catalyzed cross couplings in organic synthesis\"""""
-2011,Thomas J. Sargent,"Professor, 1970–1971",Economics,"\for their empirical research on cause and effect in the macroeconomy\"""""
+Year,Laureate,Relation,Category,Rationale,Extra_Data_1
+2004,Edward C. Prescott,"Assistant Professor, 1967–1971",Economics,"\for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles.\""""",983
+2006,Edmund Phelps,"Professor, 1966–1971",Economics,"\for his analysis of intertemporal tradeoffs in macroeconomic policy.\""""",245
+2008,Harald zur Hausen,"Assistant professor, 1968–1969",Physiology or Medicine,"\for his discovery of human papilloma viruses causing cervical cancer\""""",801
+2009,George E. Smith,"B.S., 1955",Physics,"\for the invention of an imaging semiconductor circuit – the CCD sensor\""""",568
+2009,Oliver E. Williamson,"Professor, 1965–1983",Economics,\for his analysis of economic governance,699
+2010,Ei'ichi Negishi,"Ph.D., 1963",Chemistry,"\for palladium-catalyzed cross couplings in organic synthesis\""""",574
+2011,Thomas J. Sargent,"Professor, 1970–1971",Economics,"\for their empirical research on cause and effect in the macroeconomy\""""",979

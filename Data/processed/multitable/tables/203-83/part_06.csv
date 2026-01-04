@@ -1,12 +1,12 @@
-Ranking,Company,Industry,Revenue (USD billions),FY,Capitalization (USD billions),Employees,Listing,Headquarters,CEO
-55,Honda,Automotive,$104,"March 31, 2013",$69,"181,876",TYO: 7267,Tokyo,Takanobu Ito
-56,IBM,Information Technology,$104,"December 31, 2012",$242,"433,000",NYSE: IBM,"Armonk, New York",Ginni Rometty
-57,BASF,Chemicals,$103,"December 31, 2012",$80,"113,262",FWB: BAS,Ludwigshafen,Kurt Bock
-58,Costco,Retail,$102,"September 1, 2013",$39,"132,000",NASDAQ: COST,"Issaquah, Washington",W. Craig Jelinek
-59,Siemens,Conglomerate,$102,"September 30, 2013",$92,"405,000",FWB: SIE,Munich,Josef Käser
-60,Nissan Motor Company,Automotive,$102,"March 31, 2013",$48,"128,000",TYO: 7201,Yokohama,Carlos Ghosn
-61,Carrefour,Retail,$101,"December 31, 2012",$17,"476,000",Euronext: CA,Levallois-Perret,Georges Plassat
-62,Rosneft,Oil and gas,$101,"December 31, 2012",$75,"166,100",MCX: ROSN,Moscow,Igor Sechin
-63,Cardinal Health,Pharmaceuticals,$101,"June 30, 2013",$14,"40,000",NYSE: CAH,"Dublin, Ohio",George Barrett
-64,BMW,Automotive,$100,"March 17, 2013",$58.8,"105,876",FWB: BMW,Munich,Norbert Reithofer
-65,Nestlé,Food processing,$100,"December 31, 2012",$207,"339,000",SIX: NESN,Vevey,Paul Bulcke
+Ranking,Company,Industry,Revenue (USD billions),FY,Capitalization (USD billions),Employees,Listing,Headquarters,CEO,Unused_1,Random_Column_2
+55,Honda,Automotive,$104,"March 31, 2013",$69,"181,876",TYO: 7267,Tokyo,Takanobu Ito,,S277P9
+56,IBM,Information Technology,$104,"December 31, 2012",$242,"433,000",NYSE: IBM,"Armonk, New York",Ginni Rometty,,Lkeu7Bn2
+57,BASF,Chemicals,$103,"December 31, 2012",$80,"113,262",FWB: BAS,Ludwigshafen,Kurt Bock,,yNEw5
+58,Costco,Retail,$102,"September 1, 2013",$39,"132,000",NASDAQ: COST,"Issaquah, Washington",W. Craig Jelinek,,ocaLfzjW
+59,Siemens,Conglomerate,$102,"September 30, 2013",$92,"405,000",FWB: SIE,Munich,Josef Käser,,8WPAH
+60,Nissan Motor Company,Automotive,$102,"March 31, 2013",$48,"128,000",TYO: 7201,Yokohama,Carlos Ghosn,,27kRR8eW
+61,Carrefour,Retail,$101,"December 31, 2012",$17,"476,000",Euronext: CA,Levallois-Perret,Georges Plassat,,z5NAk
+62,Rosneft,Oil and gas,$101,"December 31, 2012",$75,"166,100",MCX: ROSN,Moscow,Igor Sechin,,g0hSBy2
+63,Cardinal Health,Pharmaceuticals,$101,"June 30, 2013",$14,"40,000",NYSE: CAH,"Dublin, Ohio",George Barrett,,K7ULlP4d
+64,BMW,Automotive,$100,"March 17, 2013",$58.8,"105,876",FWB: BMW,Munich,Norbert Reithofer,,mV7a02wg
+65,Nestlé,Food processing,$100,"December 31, 2012",$207,"339,000",SIX: NESN,Vevey,Paul Bulcke,,GwzPBz

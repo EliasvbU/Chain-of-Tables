@@ -1,10 +1,12 @@
-Boat #,Name,Builder,Laid down,Launched,Completed,Fate
-4911,Ha-201,Sasebo Naval Arsenal,01-03-1945,23-04-1945,31-05-1945,Decommissioned 30-11-1945. Scuttled off Gotō Islands 01-04-1946.
-4912,Ha-202,Sasebo Naval Arsenal,01-03-1945,23-04-1945,31-05-1945,Decommissioned 30-11-1945. Scuttled off Gotō Islands 01-04-1946.
-4913,Ha-203,Sasebo Naval Arsenal,05-04-1945,25-05-1945,26-06-1945,Decommissioned 30-11-1945. Scuttled off Gotō Islands 01-04-1946.
-4914,Ha-204,Sasebo Naval Arsenal,05-04-1945,01-06-1945,25-06-1945,"Decommissioned 30-11-1945. Grounded at Aburatsu Bay, October 1946. Salvaged and scrapped August 1948."
-4915,Ha-205,Sasebo Naval Arsenal,17-04-1945,14-05-1945,03-07-1945,"Decommissioned 30-11-1945. Scuttled at Iyo Nada, May 1946."
-4916,Ha-206,Kawasaki-Senshū Shipyard,19-03-1945,10-07-1945,,"Incomplete until the end of war (95%), sunk by typhoon 25-08-1945. Salvaged and scuttled at Kii Channel 06-05-1946."
-4917,Ha-207,Sasebo Naval Arsenal,23-04-1945,26-05-1945,14-08-1945,Decommissioned 30-11-1945. Scuttled off Sasebo 05-04-1946.
-4918,Ha-208,Sasebo Naval Arsenal,01-05-1945,26-05-1945,04-08-1945,Decommissioned 30-11-1945. Scuttled off Gotō Islands 01-04-1946.
-4919,Ha-209,Sasebo Naval Arsenal,07-05-1945,31-05-1945,04-08-1945,Decommissioned 30-11-1945. Scrapped August 1946.
+Boat #,Name,Builder,Laid down,Launched,Completed,Fate,Noise_Field_1,Noise_Field_2
+4911,Ha-201,Sasebo Naval Arsenal,01-03-1945,23-04-1945,31-05-1945,Decommissioned 30-11-1945. Scuttled off Gotō Islands 01-04-1946.,SIpnNzR,xgShTLDr
+4912,Ha-202,Sasebo Naval Arsenal,01-03-1945,23-04-1945,31-05-1945,Decommissioned 30-11-1945. Scuttled off Gotō Islands 01-04-1946.,zGqDmAk,tAKQAc
+4913,Ha-203,Sasebo Naval Arsenal,05-04-1945,25-05-1945,26-06-1945,Decommissioned 30-11-1945. Scuttled off Gotō Islands 01-04-1946.,llvkXhn,REDlQL
+4914,Ha-204,Sasebo Naval Arsenal,05-04-1945,01-06-1945,25-06-1945,"Decommissioned 30-11-1945. Grounded at Aburatsu Bay, October 1946. Salvaged and scrapped August 1948.",tRYQYh,MPzuVdUI
+4915,Ha-205,Sasebo Naval Arsenal,17-04-1945,14-05-1945,03-07-1945,"Decommissioned 30-11-1945. Scuttled at Iyo Nada, May 1946.",vjlHG,exwcyfnV
+4916,Ha-206,Kawasaki-Senshū Shipyard,19-03-1945,10-07-1945,,"Incomplete until the end of war (95%), sunk by typhoon 25-08-1945. Salvaged and scuttled at Kii Channel 06-05-1946.",qFlwd,WLhWK
+4917,Ha-207,Sasebo Naval Arsenal,23-04-1945,26-05-1945,14-08-1945,Decommissioned 30-11-1945. Scuttled off Sasebo 05-04-1946.,CIhPgtc,CJkBNxFw
+4918,Ha-208,Sasebo Naval Arsenal,01-05-1945,26-05-1945,04-08-1945,Decommissioned 30-11-1945. Scuttled off Gotō Islands 01-04-1946.,iVpvV,IpcLiJX
+4919,Ha-209,Sasebo Naval Arsenal,07-05-1945,31-05-1945,04-08-1945,Decommissioned 30-11-1945. Scrapped August 1946.,cGSnU,uRTvD
+4920,Ha-210,Sasebo Naval Arsenal,14-05-1945,10-06-1945,11-08-1945,Decommissioned 30-11-1945. Scuttled off Sasebo 05-04-1946.,qlVdj,lXcBu
+4921,Ha-211,Kawasaki-Senshū Shipyard,01-04-1945,April 1946,,Incomplete until the end of war (40%). Scuttled at Kii Channel 06-05-1946.,LlkCCum,UafnOR

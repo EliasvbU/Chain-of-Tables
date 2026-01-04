@@ -1,27 +1,27 @@
-Type,Gauge,Railway,Works no.,Year,Builder
-2-8-0+0-8-2,1000 mm,Burma Railways,6180,1924,"Beyer, Peacock"
-2-8-0+0-8-2,1000 mm,Burma Railways,6354,1927,"Beyer, Peacock"
-2-8-0+0-8-2,1000 mm,Burma Railways,1077-1084,1929,Krupp
-2-8-0+0-8-2,1000 mm,Burma Railways,6411-6413,1927,"Beyer, Peacock"
-2-8-0+0-8-2,4 ft 8½ in,"Ottoman Railways, Turkey",6324,1927,"Beyer, Peacock"
-2-8-0+0-8-2,4 ft 8½ in,Mauritius Railway,6381-6383,1927,"Beyer, Peacock"
-2-8-0+0-8-2,4 ft 8½ in,London and North Eastern Railway,6209,1925,"Beyer, Peacock"
-2-8-0+0-8-2,5 ft 6 in,"Bengal Nagpur Railway, India",6261-6262,1925,"Beyer, Peacock"
-2-8-2+2-8-2,1000 mm,C.F. Franco Ethiopien & Libya,1371-1376,1939,"Ansaldo, Italy"
-2-8-2+2-8-2,1000 mm,Royal State Railways of Thailand,21618-21623,1929,Henschel
-2-8-2+2-8-2,1000 mm,Royal State Railways of Thailand,23109-23110,1936,Henschel
-2-8-2+2-8-2,1000 mm,"War Dept., India/Burma",7122-7135,1944,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,Rhodesia Railways,6562-6569,1929-30,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,Rhodesia Railways,6877-6882,1938,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,Rhodesia Railways,6899-6904,1937,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,Rhodesia Railways,7498-7527,1953,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,Sierra Leone Development Corp.,6786,1937,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,Sierra Leone Development Corp.,6842,1937,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,Sierra Leone Development Corp.,6726-6727,1931,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,South African Railways,6193-6198,1924,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,South African Railways,6339-6348,1927,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,South African Railways,6716-6717,1930,"Beyer, Peacock"
-2-8-2+2-8-2,3 ft 6 in,"War Dept., Congo/Gold Coast/Rhodesia",7057-7074,1943,"Beyer, Peacock"
-2-8-2+2-8-2,4 ft 8½ in,Central of Peru,6731,1931,"Beyer, Peacock"
-2-8-2+2-8-2,4 ft 8½ in,Central of Peru,6626-6628,1930,"Beyer, Peacock"
-2-8-2+2-8-2,4 ft 8½ in,"Nitrate Railways, Chile",6291-6293,1926,"Beyer, Peacock"
+Type,Gauge,Railway,Works no.,Year,Builder,Unused_1,Unused_2
+2-8-0+0-8-2,1000 mm,Burma Railways,6180,1924,"Beyer, Peacock",,
+2-8-0+0-8-2,1000 mm,Burma Railways,6354,1927,"Beyer, Peacock",,
+2-8-0+0-8-2,1000 mm,Burma Railways,1077-1084,1929,Krupp,,
+2-8-0+0-8-2,1000 mm,Burma Railways,6411-6413,1927,"Beyer, Peacock",,
+2-8-0+0-8-2,4 ft 8½ in,"Ottoman Railways, Turkey",6324,1927,"Beyer, Peacock",,
+2-8-0+0-8-2,4 ft 8½ in,Mauritius Railway,6381-6383,1927,"Beyer, Peacock",,
+2-8-0+0-8-2,4 ft 8½ in,London and North Eastern Railway,6209,1925,"Beyer, Peacock",,
+2-8-0+0-8-2,5 ft 6 in,"Bengal Nagpur Railway, India",6261-6262,1925,"Beyer, Peacock",,
+2-8-2+2-8-2,1000 mm,C.F. Franco Ethiopien & Libya,1371-1376,1939,"Ansaldo, Italy",,
+2-8-2+2-8-2,1000 mm,Royal State Railways of Thailand,21618-21623,1929,Henschel,,
+2-8-2+2-8-2,1000 mm,Royal State Railways of Thailand,23109-23110,1936,Henschel,,
+2-8-2+2-8-2,1000 mm,"War Dept., India/Burma",7122-7135,1944,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,Rhodesia Railways,6562-6569,1929-30,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,Rhodesia Railways,6877-6882,1938,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,Rhodesia Railways,6899-6904,1937,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,Rhodesia Railways,7498-7527,1953,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,Sierra Leone Development Corp.,6786,1937,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,Sierra Leone Development Corp.,6842,1937,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,Sierra Leone Development Corp.,6726-6727,1931,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,South African Railways,6193-6198,1924,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,South African Railways,6339-6348,1927,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,South African Railways,6716-6717,1930,"Beyer, Peacock",,
+2-8-2+2-8-2,3 ft 6 in,"War Dept., Congo/Gold Coast/Rhodesia",7057-7074,1943,"Beyer, Peacock",,
+2-8-2+2-8-2,4 ft 8½ in,Central of Peru,6731,1931,"Beyer, Peacock",,
+2-8-2+2-8-2,4 ft 8½ in,Central of Peru,6626-6628,1930,"Beyer, Peacock",,
+2-8-2+2-8-2,4 ft 8½ in,"Nitrate Railways, Chile",6291-6293,1926,"Beyer, Peacock",,

@@ -1,49 +1,49 @@
-Number,South or west terminus,North or east terminus,Length (mi),Length (km),Formed,Deleted,Notes
-SR-210,SR-190 at Big Cottonwood Canyon,Alta,13.618,21.916,1941,current,
-SR-211,Dugout Ranch,US-191 near Church Rock,18.915,30.441,1971,current,
-SR-211,,,,,1941,1969,
-SR-212,I-15 near Washington,Washington,1.289,2.074,1941,current,
-SR-213,,,,,1941,1969,
-SR-214,I-15 in Spanish Fork,US-89 near Spanish Fork,,,1962,1995,"Now part of US-6, old route of US-6 now SR-198"
-SR-214,,,,,1941,1953,
-I-215,I-80 at Parley's Canyon,I-15 at North Salt Lake,28.946,46.584,1977,Current,
-SR-215,,,,,1968,1969,
-SR-215,,,,,1957,1959,
-SR-215,,,,,1941,1953,
-SR-216,,,,,1941,1969,
-SR-217,,,,,1941,1969,
-SR-218,SR-23 east of Newton,US-91 in Smithfield,8.223,13.234,1941,current,
-SR-219,Enterprise,SR-18,1.667,2.683,1985,current,
-SR-219,,,,,1941,1969,
-SR-220,,,,,1966,1990,
-SR-220,,,,,1941,1957,
-SR-221,,,,,1941,1969,
-SR-222,SR-113 in Midway,Pine Creek Campground,3.361,5.409,2004,current,
-SR-222,,,,,1941,1969,
-SR-223,,,,,1941,1969,
-SR-224,South of Park City,I-80 at Kimball Junction,11.597,18.664,1941,current,
-SR-225,West of Farmington,SR-106 in Farmington,1.274,2.050,1964,current,
-SR-225,,,,,1941,1963,
-SR-226,Snow Basin Ski Lodge,SR-167,3.003,4.833,1941,current,
-SR-227,I-15,SR-106 in Farmington,0.704,1.133,1964,current,
-SR-227,,,,,1941,1953,
-SR-228,I-15 south of Leeds,I-15 in Leeds,1.821,2.931,1981,current,
-SR-228,,,,,1941,1969,
-SR-229,,,,,1941,1969,
-SR-230,,,,,1941,1969,
-SR-231,,,,,1941,1953,
-SR-232,SR-126 in Layton,Hill Air Force Base,2.401,3.864,1940s,current,
-SR-233,,,,,1941,1968,
-SR-234,,,,,1941,1968,
-SR-235,US-89 in Ogden,SR-134 in North Ogden,3.202,5.153,1940s,current,
-SR-236,,,,,1941,1969,
-SR-237,Utah State University in Logan,US-91 west of Hyde Park,4.805,7.733,1969,2007,
-SR-237,,,,,1947,1953,
-SR-237,,,,,1945,1947,
-SR-238,SR-165 west of Millville,US-91 in Logan,4.687,7.543,1969,2007,
-SR-238,,,,,1945,1953,
-SR-239,US-91 in Logan,SR-237 in Logan,1.046,1.683,1983,2007,
-SR-239,,,,,1947,1969,
-SR-240,I-15/I-84,SR-38 in Honeyville,1.217,1.959,1983,current,
-SR-240,,,,,1966,1969,
-SR-240,,,,,1947,1953,
+Number,South or west terminus,North or east terminus,Length (mi),Length (km),Formed,Deleted,Notes,Noise_Field_1
+SR-210,SR-190 at Big Cottonwood Canyon,Alta,13.618,21.916,1941,current,,MYgicb
+SR-211,Dugout Ranch,US-191 near Church Rock,18.915,30.441,1971,current,,fSeTNbWp
+SR-211,,,,,1941,1969,,YhvhhD
+SR-212,I-15 near Washington,Washington,1.289,2.074,1941,current,,eUsCyKow
+SR-213,,,,,1941,1969,,VLwVwOe
+SR-214,I-15 in Spanish Fork,US-89 near Spanish Fork,,,1962,1995,"Now part of US-6, old route of US-6 now SR-198",cUUwLVee
+SR-214,,,,,1941,1953,,zcZiNk
+I-215,I-80 at Parley's Canyon,I-15 at North Salt Lake,28.946,46.584,1977,Current,,tvMdxaU
+SR-215,,,,,1968,1969,,VmBXrWoD
+SR-215,,,,,1957,1959,,LxacelMn
+SR-215,,,,,1941,1953,,mUnUIs
+SR-216,,,,,1941,1969,,BRGNvF
+SR-217,,,,,1941,1969,,WXaddtNQ
+SR-218,SR-23 east of Newton,US-91 in Smithfield,8.223,13.234,1941,current,,lNowsTo
+SR-219,Enterprise,SR-18,1.667,2.683,1985,current,,dAmgW
+SR-219,,,,,1941,1969,,VUSjScdS
+SR-220,,,,,1966,1990,,iKqbqEO
+SR-220,,,,,1941,1957,,VajdmZA
+SR-221,,,,,1941,1969,,PIdavPp
+SR-222,SR-113 in Midway,Pine Creek Campground,3.361,5.409,2004,current,,DgyOyGnM
+SR-222,,,,,1941,1969,,yOjly
+SR-223,,,,,1941,1969,,uDTYHbTh
+SR-224,South of Park City,I-80 at Kimball Junction,11.597,18.664,1941,current,,hMmCr
+SR-225,West of Farmington,SR-106 in Farmington,1.274,2.050,1964,current,,MRzOFVA
+SR-225,,,,,1941,1963,,ObumkDEZ
+SR-226,Snow Basin Ski Lodge,SR-167,3.003,4.833,1941,current,,gbrGFdNN
+SR-227,I-15,SR-106 in Farmington,0.704,1.133,1964,current,,UkQMxgfs
+SR-227,,,,,1941,1953,,IsoeRZLB
+SR-228,I-15 south of Leeds,I-15 in Leeds,1.821,2.931,1981,current,,OsPgZ
+SR-228,,,,,1941,1969,,XeiZW
+SR-229,,,,,1941,1969,,xzNSEsi
+SR-230,,,,,1941,1969,,euAQuwx
+SR-231,,,,,1941,1953,,LRJUnkA
+SR-232,SR-126 in Layton,Hill Air Force Base,2.401,3.864,1940s,current,,GfPfAz
+SR-233,,,,,1941,1968,,QLaEa
+SR-234,,,,,1941,1968,,HyMYjH
+SR-235,US-89 in Ogden,SR-134 in North Ogden,3.202,5.153,1940s,current,,BUdFMFf
+SR-236,,,,,1941,1969,,vpMzWU
+SR-237,Utah State University in Logan,US-91 west of Hyde Park,4.805,7.733,1969,2007,,rrbRx
+SR-237,,,,,1947,1953,,tecks
+SR-237,,,,,1945,1947,,NAfAa
+SR-238,SR-165 west of Millville,US-91 in Logan,4.687,7.543,1969,2007,,VLrtIApF
+SR-238,,,,,1945,1953,,mTwCAHka
+SR-239,US-91 in Logan,SR-237 in Logan,1.046,1.683,1983,2007,,xbcTfw
+SR-239,,,,,1947,1969,,WLMqS
+SR-240,I-15/I-84,SR-38 in Honeyville,1.217,1.959,1983,current,,niSGC
+SR-240,,,,,1966,1969,,cZRzd
+SR-240,,,,,1947,1953,,PuRtGxhc

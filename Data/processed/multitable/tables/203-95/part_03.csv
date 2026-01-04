@@ -1,9 +1,12 @@
-Year,DemocraticParty,RepublicanParty,Independent/ Other,Majority
-1982,108,16,0,92
-1984,102,22,0,80
-1986,98,26,0,72
-1988,94,30,0,64
-1990,89,35,0,54
-1992,84,40,0,44
-1994,72,52,0,20
-1996,54,70,0,16
+Year,DemocraticParty,RepublicanParty,Independent/ Other,Majority,Extra_Data_1,Unused_2,Random_Column_3
+1992,84,40,0,44,122,,sIlnqj
+1994,72,52,0,20,704,,ynjQQ0
+1996,54,70,0,16,813,,sSJvM0
+1998,58,66,0,12,711,,sIrFw6TO
+2000,55,69,0,14,388,,pDC3sJVi
+2002,51,73,0,22,395,,6YIJvURc
+2004,50,74,0,24,327,,fceNdxl
+2006,51,73,0,22,91,,wqsXq
+2008,52,72,0,20,992,,ZCFan41
+2010,47,76,0,29,663,,88Z3n
+2012,45,78,0,30,887,,LPoiObXs

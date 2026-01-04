@@ -1,10 +1,12 @@
 #,President,President's Party,Senate with,Senate opposed,House with,House opposed,Years served,Elections won
-10,John Tyler,Whig/none,4,0,2,2,4,0
-11,James Polk,Democratic,4,0,2,2,4,1
-12,Zachary Taylor,Whig,0,1,0,1,1,1
 13,Millard Fillmore,Whig,0,3,0,3,3,0
 14,Franklin Pierce,Democratic,4,0,2,2,4,1
 15,James Buchanan,Democratic,4,0,2,2,4,1
 16,Abraham Lincoln,Republican,4,0,4,0,4,2
 17,Andrew Johnson,Democratic,0,4,0,4,4,0
 18,Ulysses Grant,Republican,8,0,6,2,8,2
+19,Rutherford Hayes,Republican,2,2,0,4,4,1
+20,James Garfield,Republican,0,0.5,0.5,0,0.5,1
+21,Chester Arthur,Republican,4,0,2,2,4,0
+22,Grover Cleveland,Democratic,0,4,4,0,4,1
+23,Benjamin Harrison,Republican,4,0,2,2,4,1

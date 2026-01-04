@@ -1,10 +1,13 @@
-Name,Party,Province,Term expires,Years in office
-William Atkinson,Liberal,Central,1989,1983–1984
-Colin Bell,Liberal,Lower West,1989,1983–1989
-Joe Berinson,Labor,North Central Metropolitan,1986,1980–1993
-James Brown,Labor,South-East,1986,1980–1992
-Eric Charlton,National/NP,Central,1989,1984–1998
-Des Dans,Labor,South Metropolitan,1989,1971–1989
-Peter Dowding,Labor,North,1986,1980–1986
-Graham Edwards,Labor,North Metropolitan,1989,1983–1997
-Lyla Elliott,Labor,North-East Metropolitan,1986,1971–1986
+Name,Party,Province,Term expires,Years in office,Noise_Field_1,Dummy_Col_2,Extra_Data_3
+William Atkinson,Liberal,Central,1989,1983–1984,rjvgn,EqUciU,626
+Colin Bell,Liberal,Lower West,1989,1983–1989,sSzKuQF,PhExMlz,860
+Joe Berinson,Labor,North Central Metropolitan,1986,1980–1993,FkEHLSYe,myvYQ,488
+James Brown,Labor,South-East,1986,1980–1992,IdbiJU,yklpRq,103
+Eric Charlton,National/NP,Central,1989,1984–1998,fNdBNUcU,sDqUEF,259
+Des Dans,Labor,South Metropolitan,1989,1971–1989,zQzAIY,OOnfPv,3
+Peter Dowding,Labor,North,1986,1980–1986,fKBzoJE,SjOKXDp,523
+Graham Edwards,Labor,North Metropolitan,1989,1983–1997,oWxSkbD,Fkybup,429
+Lyla Elliott,Labor,North-East Metropolitan,1986,1971–1986,AEfUFj,vkHyihB,609
+Vic Ferry,Liberal,South-West,1989,1965–1987,IWECjiYB,xIvMCdI,151
+Harry Gayfer,National/NCP,Central,1986,1974–1989,TZxNFomt,zjcVKSnS,206
+Clive Griffiths,Liberal,South Central Metropolitan,1989,1965–1997,awhgV,VbpBnQ,11

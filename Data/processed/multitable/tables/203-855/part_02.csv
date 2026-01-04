@@ -1,5 +1,5 @@
-Date,City,Venue,Member,Performance,Notes
-3 September,Utrecht,BeatrixTheatre,Brian,"(1) \Bohemian Rhapsody\""""",
-4 September,London,Dominion Theatre,Brian,"(1) \Bohemian Rhapsody\""""",Matinee and Evening performances
-12 September,Stockholm,Cirkus Arena Restaurang,Brian,"(1) \Bohemian Rhapsody\""""",
-21 October,Berlin,Theater des Westens,Brian,"(1) \Bohemian Rhapsody\""""",
+Date,City,Venue,Member,Performance,Notes,Extra_Data_1,Dummy_Col_2,Filler_3
+3 September,Utrecht,BeatrixTheatre,Brian,"(1) \Bohemian Rhapsody\""""",,383,KIudYU,SEZqBCub
+4 September,London,Dominion Theatre,Brian,"(1) \Bohemian Rhapsody\""""",Matinee and Evening performances,660,nbolfvAt,oPRFh
+12 September,Stockholm,Cirkus Arena Restaurang,Brian,"(1) \Bohemian Rhapsody\""""",,380,HiCxuT,pMkfhEdw
+21 October,Berlin,Theater des Westens,Brian,"(1) \Bohemian Rhapsody\""""",,99,rTAhrwQ,qeQDwC

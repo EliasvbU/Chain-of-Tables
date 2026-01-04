@@ -1,9 +1,12 @@
-Match,Date,Ground,Opponent,Score1,Pos.,Pts.,GD
-19,27 February,A,1. FC Kaiserslautern,3 – 1,1,29,19
-20,6 March,H,Eintracht Frankfurt,1 – 0,1,31,20
-21,13 March,A,Dynamo Dresden,0 – 0,1,32,20
-22,20 March,H,1. FC Köln,3 – 0,1,34,23
-23,28 March,A,Hamburger SV,1 – 3,1,34,21
-24,2 April,A,SG Wattenscheid 09,0 – 2,1,34,19
-25,10 April,H,Borussia Dortmund,2 – 0,1,36,21
-26,17 April,A,Borussia Mönchengladbach,2 – 2,1,37,21
+Match,Date,Ground,Opponent,Score1,Pos.,Pts.,GD,Extra_Data_1
+24,2 April,A,SG Wattenscheid 09,0 – 2,1,34,19,477
+25,10 April,H,Borussia Dortmund,2 – 0,1,36,21,507
+26,17 April,A,Borussia Mönchengladbach,2 – 2,1,37,21,665
+27,23 April,H,1. FC Saarbrücken,6 – 0,1,39,27,719
+28,26 April,A,Werder Bremen,1 – 4,1,39,24,662
+29,30 April,H,VfB Stuttgart,5 – 3,1,41,26,321
+30,8 May,A,1. FC Nürnberg,0 – 0,1,42,26,320
+31,15 May,H,Bayer Leverkusen,4 – 1,1,44,29,211
+32,23 May,A,Karlsruher SC,2 – 4,1,44,27,540
+33,29 May,H,VfL Bochum,3 – 1,2,46,29,724
+34,5 June,A,Schalke 04,3 – 3,2,47,29,440

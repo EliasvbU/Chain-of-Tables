@@ -1,11 +1,11 @@
-Payload type (PT),Name,Type,No. of channels,Clock rate (Hz),Frame size (ms),Default packet size (ms),Description,References
-dynamic,G729E,audio,1,8000,10,20,ITU-T G.729 Annex E,RFC 3551
-dynamic,G7291,audio,,16000,20,,ITU-T G.729.1,RFC 4749
-dynamic,GSM-EFR,audio,1,8000,20,20,ITU-T GSM-EFR (GSM 06.60),RFC 3551
-dynamic,GSM-HR-08,audio,1,8000,20,,ITU-T GSM-HR (GSM 06.20),RFC 5993
-dynamic (or profile),AMR,audio,(various),8000,20,,Adaptive Multi-Rate audio,RFC 4867
-dynamic (or profile),AMR-WB,audio,(various),16000,20,,Adaptive Multi-Rate Wideband audio (ITU-T G.722.2),RFC 4867
-dynamic (or profile),AMR-WB+,audio,"1, 2 or omit",72000,"80 (super-frame; internally divided in to transport frames of 13.33, 14.22, 15, 16, 17.78, 20, 21.33, 24, 26.67, 30, 35.55, or 40)",,Extended Adaptive Multi Rate – WideBand audio,RFC 4352
-dynamic (or profile),vorbis,audio,(various),any (must be a multiple of sample rate),,"as many Vorbis packets as fit within the path MTU, unless it exceeds an application's desired transmission latency",RTP Payload Format for Vorbis Encoded Audio,RFC 5215
-dynamic (or profile),opus,audio,"1, 2",48000,"2.5, 5, 10, 20, 40, or 60","20, minimum allowed value 3 (rounded from 2.5), maximum allowed value 120 (allowed values are 3, 5, 10, 20, 40, or 60 or an arbitrary multiple of Opus frame sizes rounded up to the next full integer value up to a maximum value of 120)",RTP Payload Format for Opus Speech and Audio Codec,draft
-dynamic (or profile),speex,audio,1,"8000, 16000 or 32000",20,,RTP Payload Format for the Speex Codec,RFC 5574
+Payload type (PT),Name,Type,No. of channels,Clock rate (Hz),Frame size (ms),Default packet size (ms),Description,References,Unused_1
+dynamic,G729E,audio,1,8000,10,20,ITU-T G.729 Annex E,RFC 3551,
+dynamic,G7291,audio,,16000,20,,ITU-T G.729.1,RFC 4749,
+dynamic,GSM-EFR,audio,1,8000,20,20,ITU-T GSM-EFR (GSM 06.60),RFC 3551,
+dynamic,GSM-HR-08,audio,1,8000,20,,ITU-T GSM-HR (GSM 06.20),RFC 5993,
+dynamic (or profile),AMR,audio,(various),8000,20,,Adaptive Multi-Rate audio,RFC 4867,
+dynamic (or profile),AMR-WB,audio,(various),16000,20,,Adaptive Multi-Rate Wideband audio (ITU-T G.722.2),RFC 4867,
+dynamic (or profile),AMR-WB+,audio,"1, 2 or omit",72000,"80 (super-frame; internally divided in to transport frames of 13.33, 14.22, 15, 16, 17.78, 20, 21.33, 24, 26.67, 30, 35.55, or 40)",,Extended Adaptive Multi Rate – WideBand audio,RFC 4352,
+dynamic (or profile),vorbis,audio,(various),any (must be a multiple of sample rate),,"as many Vorbis packets as fit within the path MTU, unless it exceeds an application's desired transmission latency",RTP Payload Format for Vorbis Encoded Audio,RFC 5215,
+dynamic (or profile),opus,audio,"1, 2",48000,"2.5, 5, 10, 20, 40, or 60","20, minimum allowed value 3 (rounded from 2.5), maximum allowed value 120 (allowed values are 3, 5, 10, 20, 40, or 60 or an arbitrary multiple of Opus frame sizes rounded up to the next full integer value up to a maximum value of 120)",RTP Payload Format for Opus Speech and Audio Codec,draft,
+dynamic (or profile),speex,audio,1,"8000, 16000 or 32000",20,,RTP Payload Format for the Speex Codec,RFC 5574,

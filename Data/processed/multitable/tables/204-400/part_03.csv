@@ -1,12 +1,12 @@
-District,Senator,Party,Caucus,First elected,Counties Represented
-23,Diane Savino,Democratic,IDC,2004,"Brooklyn, Staten Island"
-24,Andrew J. Lanza,Republican,Republican,2006,Staten Island
-25,Velmanette Montgomery,Democratic,Democratic,1984,Brooklyn
-26,Daniel Squadron,Democratic,Democratic,2008,"Brooklyn, Manhattan"
-27,Brad Hoylman,Democratic,Democratic,2012,Manhattan
-28,Liz Krueger,Democratic,Democratic,2002,Manhattan
-29,Jose M. Serrano,Democratic,Democratic,2004,"Manhattan, The Bronx"
-30,Bill Perkins,Democratic,Democratic,2006,Manhattan
-31,Adriano Espaillat,Democratic,Democratic,2010,Manhattan
-32,"Rubén Díaz, Sr.",Democratic,Democratic,2002,The Bronx
-33,Gustavo Rivera,Democratic,Democratic,2010,The Bronx
+District,Senator,Party,Caucus,First elected,Counties Represented,Extra_Data_1,Unused_2
+23,Diane Savino,Democratic,IDC,2004,"Brooklyn, Staten Island",410,
+24,Andrew J. Lanza,Republican,Republican,2006,Staten Island,841,
+25,Velmanette Montgomery,Democratic,Democratic,1984,Brooklyn,918,
+26,Daniel Squadron,Democratic,Democratic,2008,"Brooklyn, Manhattan",39,
+27,Brad Hoylman,Democratic,Democratic,2012,Manhattan,873,
+28,Liz Krueger,Democratic,Democratic,2002,Manhattan,418,
+29,Jose M. Serrano,Democratic,Democratic,2004,"Manhattan, The Bronx",605,
+30,Bill Perkins,Democratic,Democratic,2006,Manhattan,954,
+31,Adriano Espaillat,Democratic,Democratic,2010,Manhattan,172,
+32,"Rubén Díaz, Sr.",Democratic,Democratic,2002,The Bronx,781,
+33,Gustavo Rivera,Democratic,Democratic,2010,The Bronx,664,

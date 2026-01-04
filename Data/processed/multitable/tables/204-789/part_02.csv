@@ -1,10 +1,13 @@
-Plant Name,Location,Country,Startup Date,Capacity (mmtpa),Corporation
-Badak A-D,Bontang,Indonesia,1986,,
-Badak A-E,Bontang,Indonesia,1989,,
-Badak A-F,Bontang,Indonesia,1993,,
-Badak A-G,Bontang,Indonesia,1998,,
-Badak NGL A-H,Bontang,Indonesia,1999,22.6,
-Atlantic LNG,Point Fortin,Trinidad and Tobago,1999,,Atlantic LNG
-[Atlantic LNG],[Point Fortin],Trinidad and Tobago,2003,9.9,Atlantic LNG
-,Damietta,Egypt,2004,5.5,Segas LNG
-,Idku,Egypt,2005,7.2,
+Plant Name,Location,Country,Startup Date,Capacity (mmtpa),Corporation,Random_Column_1,Noise_Field_2
+Badak A-G,Bontang,Indonesia,1998,,,1OpsUS,GlfUM
+Badak NGL A-H,Bontang,Indonesia,1999,22.6,,CvF0gGM,NdMAf
+Atlantic LNG,Point Fortin,Trinidad and Tobago,1999,,Atlantic LNG,zqfmxTpQ,PyhJy
+[Atlantic LNG],[Point Fortin],Trinidad and Tobago,2003,9.9,Atlantic LNG,wPtpeVEq,bvvhSLsI
+,Damietta,Egypt,2004,5.5,Segas LNG,wTrHyivK,rtLga
+,Idku,Egypt,2005,7.2,,yyv4zpb,JJrVc
+Bintulu MLNG 1,,Malaysia,1983,7.6,,jeujBReC,ZsoFoa
+Bintulu MLNG 2,,Malaysia,1994,7.8,,4ruglzS,ftaEB
+Bintulu MLNG 3,,Malaysia,2003,3.4,,BkqWhOar,ZsxWCBmz
+Nigeria LNG,,Nigeria,1999,23.5,,WQ9hBqH6,TjbaPBYr
+Northwest Shelf Venture,Karratha,Australia,2009,16.3,,d3XV9,hwFsb
+Withnell Bay,Karratha,Australia,1989,,,7kINbfG,RUhjhWZ

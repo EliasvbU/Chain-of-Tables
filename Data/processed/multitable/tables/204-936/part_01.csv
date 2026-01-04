@@ -1,7 +1,10 @@
-Week,Opponent,Result,Game site,TV,Time,Attendance
-1,at Denver Broncos,L 3–19,Mile High Stadium,NBC,4:15pm,"75,600"
-2,at Oakland Raiders,W 28–27,Network Associates Coliseum,ABC,9:00pm,"61,523"
-3,Buffalo Bills,W 22–16,Arrowhead Stadium,NBC,1:00pm,"78,169"
-4,at Carolina Panthers,W 35–14,Bank of America Stadium,NBC,1:00pm,"67,402"
-5,Seattle Seahawks,W 20–17 OT,Arrowhead Stadium,NBC,4:15pm,"77,877"
-6,at Miami Dolphins,L 14–17,Pro Player Stadium,NBC,1:00pm,"71,794"
+Week,Opponent,Result,Game site,TV,Time,Attendance,Dummy_Col_1,Unused_2,Random_Column_3
+1,at Denver Broncos,L 3–19,Mile High Stadium,NBC,4:15pm,"75,600",aiNKDmS,,s8hHA
+2,at Oakland Raiders,W 28–27,Network Associates Coliseum,ABC,9:00pm,"61,523",RJjeIV,,Kp9ldf
+3,Buffalo Bills,W 22–16,Arrowhead Stadium,NBC,1:00pm,"78,169",sqHPTLrq,,EPQ5D8
+4,at Carolina Panthers,W 35–14,Bank of America Stadium,NBC,1:00pm,"67,402",dnVWDTD,,5v2W8Z
+5,Seattle Seahawks,W 20–17 OT,Arrowhead Stadium,NBC,4:15pm,"77,877",bDUDQ,,sVaqg
+6,at Miami Dolphins,L 14–17,Pro Player Stadium,NBC,1:00pm,"71,794",tNavdVma,,fM7BwuZV
+7,Bye,Bye,Bye,Bye,Bye,Bye,Brwoj,,orqL3Q
+8,San Diego Chargers,W 31–3,Arrowhead Stadium,TNT,8:00pm,"77,195",lDfXco,,FAZpOKs
+9,at St. Louis Rams,W 28–20,Edward Jones Dome,NBC,1:00pm,"64,864",IZZEQMZ,,dpWPh

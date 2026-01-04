@@ -1,9 +1,12 @@
-Year,Competition,Venue,Position,Event,Notes
-1990,Pan American Race Walking Cup,"Xalapa, México",25th,20 km,1:48:49
-1993,Central American and Caribbean Games,"Ponce, Puerto Rico",3rd,20 km,1:29:43
-1994,Central American Games,"San Salvador, El Salvador",1st,20 km,1:27:45
-1995,Pan American Games,"Mar del Plata, Argentina",3rd,20 km,1:23:50
-1995,Central American and Caribbean Championships,"Ciudad de Guatemala, Guatemala",2nd,20 km,1:25:10 A
-1996,Olympic Games,"Atlanta, Georgia",DSQ,20 km,
-1997,World Race Walking Cup,"Podebrady, Czech Republic",5th,20 km,1:18:51
-1997,Central American and Caribbean Championships,"San Juan, Puerto Rico",1st,20 km,1:26:24.40 CR
+Year,Competition,Venue,Position,Event,Notes,Dummy_Col_1,Unused_2
+1990,Pan American Race Walking Cup,"Xalapa, México",25th,20 km,1:48:49,AmNHlgn,
+1993,Central American and Caribbean Games,"Ponce, Puerto Rico",3rd,20 km,1:29:43,AFiqM,
+1994,Central American Games,"San Salvador, El Salvador",1st,20 km,1:27:45,AVrtcOwa,
+1995,Pan American Games,"Mar del Plata, Argentina",3rd,20 km,1:23:50,UNvxL,
+1995,Central American and Caribbean Championships,"Ciudad de Guatemala, Guatemala",2nd,20 km,1:25:10 A,aESdd,
+1996,Olympic Games,"Atlanta, Georgia",DSQ,20 km,,MFAtBUD,
+1997,World Race Walking Cup,"Podebrady, Czech Republic",5th,20 km,1:18:51,rNhpu,
+1997,Central American and Caribbean Championships,"San Juan, Puerto Rico",1st,20 km,1:26:24.40 CR,RTzgvw,
+1997,World Championships,"Athens, Greece",DSQ,20 km,,BWkQKaGp,
+1997,Central American Games,"San Pedro Sula, Honduras",1st,20 km,1:35:45,IRdWTY,
+1998,Ibero-American Championships,"Lisbon, Portugal",2nd,20 km,1:26:25,FUTRc,

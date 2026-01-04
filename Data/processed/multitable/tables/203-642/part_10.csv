@@ -1,26 +1,26 @@
-Name,Quadrant,Sector,Ward,Type,2012PopulationRank,Population(2012),Population(2011),% change,Dwellings(2012),Area(km2),Populationdensity
-Taradale,NE,Northeast,3,Residential,5,"16,841","16,110",4.5,"4,559",2.9,"5,807.2"
-Temple,NE,Northeast,5,Residential,25,"10,894","10,580",3,"3,648",2.6,"4,190"
-Thorncliffe,NW/NE,North,4,Residential,44,"8,693","8,640",0.6,"3,858",3.3,"2,634.2"
-Tuscany,NW,Northwest,1,Residential,4,"19,013","18,838",0.9,"6,492",6.9,"2,755.5"
-Tuxedo Park,NE/NW,Centre,9,Residential,101,"4,571","4,430",3.2,"2,686",1.3,"3,516.2"
-University Heights,NW,Northwest,1,Residential,131,"2,928","2,890",1.3,"1,380",0.8,"3,660"
-University of Calgary,NW,Northwest,1,Residential,134,"2,725","2,355",15.7,927,2.7,"1,009.3"
-Upper Mount Royal,SW,Centre,8,Residential,137,"2,542","2,536",0.2,"1,071",1.3,"1,955.4"
-Valley Ridge,NW,West,1,Residential,97,"5,013","5,042",−0.6,"1,768",3.3,"1,519.1"
-Valleyfield,SE,East,9,Industrial,236,0,0,—,6,1.2,0
-Varsity,NW,Northwest,1,Residential,14,"12,200","12,021",1.5,"5,547",6.8,"1,794.1"
-Vista Heights,NE,Northeast,5,Residential,148,"2,204","2,274",−3.1,844,1.1,"2,003.6"
-Walden,SE,South,14,Residential,176,935,594,57.4,450,2.4,389.6
-West Hillhurst,NW,Centre,7,Residential,87,"5,802","5,757",0.8,"2,947",2.4,"2,417.5"
-West Springs,SW,West,6,Residential,51,"8,228","7,849",4.8,"2,795",4.1,"2,006.8"
-Westgate,SW,West,8,Residential,128,"3,172","3,101",2.3,"1,334",1.2,"2,643.3"
-Westwinds,NE,Northeast,5,Industrial,255,0,0,—,0,2,0
-Whitehorn,NE,Northeast,5,Residential,17,"11,852","11,541",2.7,"3,869",2.6,"4,558.5"
-Wildwood,SW,West,8,Residential,136,"2,598","2,582",0.6,"1,056",2.6,999.2
-Willow Park,SE,South,14,Residential,93,"5,229","5,308",−1.5,"2,282",3.4,"1,537.9"
-Windsor Park,SW,Centre,11,Residential,108,"4,126","3,858",6.9,"2,421",1.3,"3,173.8"
-Winston Heights/Mountview,NE,Centre,9,Residential,111,"3,891","3,760",3.5,"1,883",3,"1,297"
-Woodbine,SW,South,13,Residential,38,"9,131","9,086",0.5,"3,371",3.2,"2,853.4"
-Woodlands,SW,South,13,Residential,77,"6,201","6,201",0,"2,397",2.8,"2,214.6"
-Total City of Calgary,Total City of Calgary,Total City of Calgary,Total City of Calgary,Total City of Calgary,Total City of Calgary,"1,120,225","1,090,936",2.7,"459,339",848.20,"1,320.7"
+Name,Quadrant,Sector,Ward,Type,2012PopulationRank,Population(2012),Population(2011),% change,Dwellings(2012),Area(km2),Populationdensity,Extra_Data_1,Filler_2
+Taradale,NE,Northeast,3,Residential,5,"16,841","16,110",4.5,"4,559",2.9,"5,807.2",600,yuNGFp
+Temple,NE,Northeast,5,Residential,25,"10,894","10,580",3,"3,648",2.6,"4,190",681,lGfWwS
+Thorncliffe,NW/NE,North,4,Residential,44,"8,693","8,640",0.6,"3,858",3.3,"2,634.2",312,bLDeiVKl
+Tuscany,NW,Northwest,1,Residential,4,"19,013","18,838",0.9,"6,492",6.9,"2,755.5",209,MaPqBhn
+Tuxedo Park,NE/NW,Centre,9,Residential,101,"4,571","4,430",3.2,"2,686",1.3,"3,516.2",59,TCwbYoxK
+University Heights,NW,Northwest,1,Residential,131,"2,928","2,890",1.3,"1,380",0.8,"3,660",851,nMgmKL
+University of Calgary,NW,Northwest,1,Residential,134,"2,725","2,355",15.7,927,2.7,"1,009.3",54,yZCapL
+Upper Mount Royal,SW,Centre,8,Residential,137,"2,542","2,536",0.2,"1,071",1.3,"1,955.4",891,jTayHinO
+Valley Ridge,NW,West,1,Residential,97,"5,013","5,042",−0.6,"1,768",3.3,"1,519.1",374,NSdGL
+Valleyfield,SE,East,9,Industrial,236,0,0,—,6,1.2,0,247,HCRrOyKI
+Varsity,NW,Northwest,1,Residential,14,"12,200","12,021",1.5,"5,547",6.8,"1,794.1",548,JdqswnuC
+Vista Heights,NE,Northeast,5,Residential,148,"2,204","2,274",−3.1,844,1.1,"2,003.6",856,fbkfIOtG
+Walden,SE,South,14,Residential,176,935,594,57.4,450,2.4,389.6,778,yzzNoen
+West Hillhurst,NW,Centre,7,Residential,87,"5,802","5,757",0.8,"2,947",2.4,"2,417.5",968,jskHXdeM
+West Springs,SW,West,6,Residential,51,"8,228","7,849",4.8,"2,795",4.1,"2,006.8",84,vMCvoHa
+Westgate,SW,West,8,Residential,128,"3,172","3,101",2.3,"1,334",1.2,"2,643.3",430,nMmMlwfw
+Westwinds,NE,Northeast,5,Industrial,255,0,0,—,0,2,0,557,PsYRifY
+Whitehorn,NE,Northeast,5,Residential,17,"11,852","11,541",2.7,"3,869",2.6,"4,558.5",633,zkLJTz
+Wildwood,SW,West,8,Residential,136,"2,598","2,582",0.6,"1,056",2.6,999.2,41,JvnNkQ
+Willow Park,SE,South,14,Residential,93,"5,229","5,308",−1.5,"2,282",3.4,"1,537.9",250,mVEhJREN
+Windsor Park,SW,Centre,11,Residential,108,"4,126","3,858",6.9,"2,421",1.3,"3,173.8",127,gUOhu
+Winston Heights/Mountview,NE,Centre,9,Residential,111,"3,891","3,760",3.5,"1,883",3,"1,297",882,UivhYBa
+Woodbine,SW,South,13,Residential,38,"9,131","9,086",0.5,"3,371",3.2,"2,853.4",729,nHbvIqk
+Woodlands,SW,South,13,Residential,77,"6,201","6,201",0,"2,397",2.8,"2,214.6",1,wwKQTZo
+Total City of Calgary,Total City of Calgary,Total City of Calgary,Total City of Calgary,Total City of Calgary,Total City of Calgary,"1,120,225","1,090,936",2.7,"459,339",848.20,"1,320.7",678,hWjCcCN

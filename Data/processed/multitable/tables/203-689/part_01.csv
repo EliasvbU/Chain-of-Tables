@@ -1,10 +1,12 @@
-Date,Opponent,Score,Result,Record
-May 19,San Antonio,81-72,Win,1-0
-May 23,@ Seattle,87-100,Loss,1-1
-May 25,Houston,111-85,Win,2-1
-May 29,Sacramento,76-75,Win,3-1
-May 31,@ San Antonio,97-85,Win,4-1
-June 2,@ Connecticut,67-76,Loss,4-2
-June 3,@ New York,82-83,Loss,4-3
-June 5,Minnesota,85-90,Loss,4-4
-June 7,Chicago,80-66,Win,5-4
+Date,Opponent,Score,Result,Record,Random_Column_1,Random_Column_2,Dummy_Col_3
+May 19,San Antonio,81-72,Win,1-0,EqiRDSO,NczDp5,zkwGtlEw
+May 23,@ Seattle,87-100,Loss,1-1,xI1X0gez,0PR6oeOj,phfQm
+May 25,Houston,111-85,Win,2-1,HCgrF9Zi,Zf0bU,drUmQj
+May 29,Sacramento,76-75,Win,3-1,cnMBU,F88glc,PbmXI
+May 31,@ San Antonio,97-85,Win,4-1,0OGtX,DyQ1u3,yccfyk
+June 2,@ Connecticut,67-76,Loss,4-2,N4eiXc3q,jPXnVG,uPuQWkgg
+June 3,@ New York,82-83,Loss,4-3,aboTB,MPJUkAB,nvQDnz
+June 5,Minnesota,85-90,Loss,4-4,ajfYlqRg,0neNTpT,semUBU
+June 7,Chicago,80-66,Win,5-4,akXlftjc,KhMtL,eySkcdIb
+June 9,@ Sacramento,74-70,Win,6-4,pVeInLi,lhnkT,oFBGZz
+June 13,@ Washington,69-86,Loss,6-5,58yqKo5R,xssIpm,TVFFfpG

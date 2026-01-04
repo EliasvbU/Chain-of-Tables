@@ -1,6 +1,6 @@
-Type,Power[W],Relative cost,Input range[V],Energy storage,Features
-Flyback,0–250,1.0,5–600,Mutual Inductors,Isolated form of the buck-boost converter.
-Ringing choke converter (RCC),0–150,1.0,5–600,Transformer,Low-cost self-oscillating flyback variant.
-Half-forward,0–250,1.2,5–500,Inductor,
-Forward,100-200,,60–200,Inductor,Isolated form of buck converter
-Resonant forward,0–60,1.0,60–400,Inductor and capacitor,"Single rail input, unregulated output, high efficiency, low EMI."
+Type,Power[W],Relative cost,Input range[V],Energy storage,Features,Dummy_Col_1
+Flyback,0–250,1.0,5–600,Mutual Inductors,Isolated form of the buck-boost converter.,jDzWsL
+Ringing choke converter (RCC),0–150,1.0,5–600,Transformer,Low-cost self-oscillating flyback variant.,VzazdF
+Half-forward,0–250,1.2,5–500,Inductor,,gaCIvtxc
+Forward,100-200,,60–200,Inductor,Isolated form of buck converter,krfdvFe
+Resonant forward,0–60,1.0,60–400,Inductor and capacitor,"Single rail input, unregulated output, high efficiency, low EMI.",ZcHecSyi

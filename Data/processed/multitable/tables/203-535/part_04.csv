@@ -1,9 +1,11 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-27=,Japan,0,1,3,4
-27=,Ukraine,0,1,3,4
-30.,Great Britain,0,1,2,3
-31.,Brazil,0,1,0,1
-31=,Cameroon,0,1,0,1
-31=,Czech Republic,0,1,0,1
-31=,Estonia,0,1,0,1
-31=,Ireland,0,1,0,1
+Rank,Nation,Gold,Silver,Bronze,Total,Unused_1,Noise_Field_2,Noise_Field_3
+31=,Estonia,0,1,0,1,,YrQftq,pTHUW
+31=,Ireland,0,1,0,1,,ueMfIMM,lNKZn
+31=,Trinidad and Tobago,0,1,0,1,,bejQrg,BBSoZia
+31=,Turkey,0,1,0,1,,uhyZPty,GbSMFAU
+38.,Bahamas,0,0,3,3,,NOJhgc,eaFxm
+39.,China,0,0,2,2,,jjedbh,rLEai
+40.,India,0,0,1,1,,QoTeCHJ,ILWLzTPW
+40=,Kazakhstan,0,0,1,1,,clBCiMI,XLQugDGu
+40=,Netherlands,0,0,1,1,,lAWEZpdQ,WbOFw
+40=,Senegal,0,0,1,1,,GwZSPBtH,ESlhMiQm

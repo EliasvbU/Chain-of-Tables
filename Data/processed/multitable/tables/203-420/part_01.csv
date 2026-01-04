@@ -1,9 +1,11 @@
-#,Stadium,Capacity,City,Home team
-1,Windsor Park,"24,734",Belfast,"Linfield, Northern Ireland national team"
-2,The Oval,"15,000",Belfast,Glentoran
-3=,Ballymena Showgrounds,"8,000",Ballymena,Ballymena United
-3=,New Grosvenor Stadium,"8,000",Ballyskeagh,Lisburn Distillery
-3=,Shamrock Park,"8,000",Portadown,Portadown
-6,Brandywell Stadium,"7,700",Derry,Derry City
-7=,Seaview,"6,500",Belfast,Crusaders
-7=,The Showgrounds,"6,500",Coleraine,Coleraine
+#,Stadium,Capacity,City,Home team,Unused_1,Unused_2
+1,Windsor Park,"24,734",Belfast,"Linfield, Northern Ireland national team",,
+2,The Oval,"15,000",Belfast,Glentoran,,
+3=,Ballymena Showgrounds,"8,000",Ballymena,Ballymena United,,
+3=,New Grosvenor Stadium,"8,000",Ballyskeagh,Lisburn Distillery,,
+3=,Shamrock Park,"8,000",Portadown,Portadown,,
+6,Brandywell Stadium,"7,700",Derry,Derry City,,
+7=,Seaview,"6,500",Belfast,Crusaders,,
+7=,The Showgrounds,"6,500",Coleraine,Coleraine,,
+7=,The Showgrounds,"6,500",Newry,Newry City,,
+10=,Inver Park,"6,000",Larne,Larne,,

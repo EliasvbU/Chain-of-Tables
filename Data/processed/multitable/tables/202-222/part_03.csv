@@ -1,9 +1,12 @@
-Pos,No,Driver,Constructor,Lap,Gap
-18,45,Dick Rathmann,Watson-Offenhauser,4:34.96,+ 6.99
-19,7,Paul Russo,Nichels-Offenhauser,4:35.25,+ 7.28
-20,4,Walt Brown,Kurtis Kraft-Offenhauser,4:35.96,+ 7.99
-21,12,Henry Banks,Maserati-Offenhauser,4:37.68,+ 9.71
-22,67,Bill Schindler,Snowberger-Offenhauser,4:31.31,+ 3.34
-23,8,Lee Wallard,Moore-Offenhauser,4:31.83,+ 3.86
-24,55,Troy Ruttman,Lesovsky-Offenhauser,4:32.91,+ 4.94
-25,23,Sam Hanks,Kurtis Kraft-Offenhauser,4:33.57,+ 5.60
+Pos,No,Driver,Constructor,Lap,Gap,Extra_Data_1,Irrelevant_2
+23,8,Lee Wallard,Moore-Offenhauser,4:31.83,+ 3.86,310,JCQT4fA
+24,55,Troy Ruttman,Lesovsky-Offenhauser,4:32.91,+ 4.94,194,MIDbdEX
+25,23,Sam Hanks,Kurtis Kraft-Offenhauser,4:33.57,+ 5.60,832,y86PHZ
+26,15,Mack Hellings,Kurtis Kraft-Offenhauser,4:35.32,+ 7.35,587,EXjfWQ1
+27,22,Jimmy Davies,Ewing-Offenhauser,4:36.07,+ 8.10,970,q0fWl
+28,76,Jim Rathmann,Wetteroth-Offenhauser,4:37.01,+ 9.04,397,L04OcR7
+29,27,Walt Ader,Rae-Offenhauser,4:37.05,+ 9.08,649,M8iMWG
+30,77,Jackie Holmes,Olson-Offenhauser,4:37.57,+ 9.60,278,ESqkF
+31,75,Gene Hartley,Langley-Offenhauser,4:38.61,+ 10.64,107,zlQmtqx
+32,61,Jimmy Jackson,Kurtis Kraft-Cummins,4:38.62,+ 10.65,696,LHzH9iAZ
+33,62,Johnny McDowell,Kurtis Kraft-Offenhauser,4:37.58,+ 9.61,531,7WIZ3P

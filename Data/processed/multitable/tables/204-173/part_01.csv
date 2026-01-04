@@ -1,8 +1,14 @@
-Rank,Group,Name,Nationality,2.05,2.15,2.19,2.23,2.26,Result,Notes
-1,A,Nicola Ciotti,Italy,-,o,o,o,o,2.26,q
-1,A,Linus Thörnblad,Sweden,-,o,o,o,o,2.26,q
-1,A,Tomáš Janků,Czech Republic,-,o,o,o,o,2.26,q
-1,B,Oskari Frösén,Finland,-,o,o,o,o,2.26,q
-1,B,Stefan Holm,Sweden,-,o,o,o,o,2.26,q
-1,B,Svatoslav Ton,Czech Republic,-,o,o,o,o,2.26,q
-7,A,Niki Palli,Israel,o,o,o,o,xo,2.26,q
+Rank,Group,Name,Nationality,2.05,2.15,2.19,2.23,2.26,Result,Notes,Noise_Field_1
+1,A,Nicola Ciotti,Italy,-,o,o,o,o,2.26,q,XuACRMM
+1,A,Linus Thörnblad,Sweden,-,o,o,o,o,2.26,q,ZMepUH
+1,A,Tomáš Janků,Czech Republic,-,o,o,o,o,2.26,q,yyjoGRik
+1,B,Oskari Frösén,Finland,-,o,o,o,o,2.26,q,ELfFF
+1,B,Stefan Holm,Sweden,-,o,o,o,o,2.26,q,cihIeMU
+1,B,Svatoslav Ton,Czech Republic,-,o,o,o,o,2.26,q,YZcbDE
+7,A,Niki Palli,Israel,o,o,o,o,xo,2.26,q,iIgXPiO
+7,B,Yaroslav Rybakov,Russia,-,o,o,o,xo,2.26,q,WYscuTfF
+9,B,Giulio Ciotti,Italy,-,o,xo,o,xo,2.26,q,TBlaK
+10,A,Andrey Silnov,Russia,-,o,o,o,xxo,2.26,q,gLlFkCC
+11,A,Ivan Ukhov,Russia,-,-,-,o,-,2.23,q,QxNtOao
+11,A,Andrea Bettinelli,Italy,-,o,o,o,xxx,2.23,q,PkLGPH
+11,B,Wilbert Pennings,Netherlands,-,o,o,o,xxx,2.23,q,ifpqd

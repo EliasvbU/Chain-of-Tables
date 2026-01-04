@@ -1,8 +1,15 @@
-Pos,No,Driver,Team,Laps,Time/Retired,Grid,Points
-8,25,Max Papis,Arciero-Wells Racing,95,+24.676,20,5
-9,40,Adrián Fernández,Patrick Racing,95,+31.923,16,4
-10,16,Hélio Castro-Neves,Bettenhausen Racing,95,+32.691,21,3
-11,99,Greg Moore,Forsythe Racing,95,+34.926,12,2
-12,17,Maurício Gugelmin,PacWest Racing Group,95,+37.640,19,1
-13,24,Robby Gordon,Arciero-Wells Racing,94,+1 Lap,22,
-14,26,Paul Tracy,Team KOOL Green,94,+1 Lap,10,
+Pos,No,Driver,Team,Laps,Time/Retired,Grid,Points,Noise_Field_1,Irrelevant_2,Random_Column_3
+15,77,Arnd Meier,Davis Racing,94,+1 Lap,25,,KsFbX,vNkBMd7,2zDxbl
+16,11,Christian Fittipaldi,Newman-Haas Racing,93,+2 Laps,5,,NQVfj,oAdQmkqv,p3BPn
+17,2,"Al Unser, Jr.",Marlboro Team Penske,93,+2 Laps,14,,PmfbzPJN,6Hxm1,i1Dog
+18,19,Michel Jourdain Jr.,Payton/Coyne Racing,93,+2 Laps,24,,kQOUyR,zUJgaz,RIUKQeu
+19,98,P. J. Jones,All American Racing,84,Suspension,23,,YrkVJe,AQZltPp3,U1J4A4qa
+20,27,Dario Franchitti,Team KOOL Green,79,Brakes,1,1+1,HIzJhEf,eyhP3Gud,s4ystZ
+21,34,Gualter Salles,Payton/Coyne Racing,65,Contact,28,,xmDDbuWl,lWkdfcl,uhWHYAS3
+22,21,Tony Kanaan,Tasman Motorsports Group,61,Fire,7,,AjutnMWQ,4sDZn,ruM8h3
+23,3,André Ribeiro,Marlboro Team Penske,54,Transmission,11,,taUDqnV,XFlIdh,7RKSkehH
+24,9,JJ Lehto,Hogan Racing,37,Contact,26,,DAtBC,U2Tz06O,YrzFfjT
+25,33,Patrick Carpentier,Forsythe Racing,33,Suspension,18,,Wptjlri,QmO9qd7,36Mao34
+26,18,Mark Blundell,PacWest Racing Group,30,Electrical,15,,rsRgScCf,up44Bf,0axstR4b
+27,5,Gil de Ferran,Walker Racing,26,Contact,4,,QrUyoTAz,j8FH5ov,nsqqtevZ
+28,36,Alex Barron,All American Racing,25,Contact,27,,VtUGsZwu,WeqB0JVU,igYmszGz

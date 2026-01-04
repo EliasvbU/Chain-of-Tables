@@ -1,7 +1,12 @@
-Polling Firm,Month,Link,Favor,Oppose
-Rutgers-Eagleton,March 2014,,64,28
-Quinnipiac,July 2013,,60,31
-Rutgers-Eagleton,June 2013,,59,30
-Quinnipiac,March 2013,,64,30
-Public Policy Polling,November 2012,,53,36
-Quinnipiac,February 2012,,57,37
+Polling Firm,Month,Link,Favor,Oppose,Dummy_Col_1
+Rutgers-Eagleton,March 2014,,64,28,MqBecTG
+Quinnipiac,July 2013,,60,31,LqkjJg
+Rutgers-Eagleton,June 2013,,59,30,NQaHFhs
+Quinnipiac,March 2013,,64,30,UBhskm
+Public Policy Polling,November 2012,,53,36,iRexxh
+Quinnipiac,February 2012,,57,37,QFkzDsav
+Rutgers-Eagleton,February 2012,,54,35,SbxhPw
+Quinnipiac,January 2012,,52,42,urWDnTP
+Rutgers-Eagleton,October 2011,,52,39,jJAYSFiv
+Rutgers-Eagleton,August 2011,,52,32,rNjwC
+Public Policy Polling,July 2011,,47,42,oqMBVh

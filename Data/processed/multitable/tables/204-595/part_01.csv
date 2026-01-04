@@ -1,7 +1,12 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-1,United States,5,6,5,16
-2,Jamaica,4,1,1,6
-3,Netherlands,2,0,0,2
-4,Bahamas,1,1,0,2
-5,Ukraine,1,0,1,2
-6,East Germany,1,0,0,1
+Rank,Nation,Gold,Silver,Bronze,Total,Dummy_Col_1
+1,United States,5,6,5,16,zTBkVypj
+2,Jamaica,4,1,1,6,ZayVDF
+3,Netherlands,2,0,0,2,TXlrtZg
+4,Bahamas,1,1,0,2,PkHVb
+5,Ukraine,1,0,1,2,uKGPR
+6,East Germany,1,0,0,1,mLhtQ
+,Greece,1,0,0,1,ztajI
+,Soviet Union,1,0,0,1,RnTyIS
+9,Ivory Coast,0,2,0,2,jCzyiKw
+,United Kingdom,0,2,0,2,eQiCbhmC
+11,Belgium,0,1,1,2,uTImyFn

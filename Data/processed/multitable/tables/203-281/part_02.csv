@@ -1,12 +1,12 @@
-Season,Pitcher,Decision,Finalscore,Opponent,Location
-1973,Dave Roberts,ND (W),2–1,Atlanta Braves,Atlanta-Fulton County Stadium
-1974,Dave Roberts (2),L,1–5,San Francisco Giants,Candlestick Park
-1975,Larry Dierker (4),W,6–2,Atlanta Braves,Astrodome
-1976,J.R. Richard,L,5–11,Cincinnati Reds,Riverfront Stadium
-1977,J.R. Richard (2),ND (W),3–2,Atlanta Braves,Astrodome
-1978,J.R. Richard (3),L,9–11,Cincinnati Reds,Riverfront Stadium
-1979,J.R. Richard (4),W,2–1,Atlanta Braves,Astrodome
-1980*,J.R. Richard (5),W,3–2,Los Angeles Dodgers,Astrodome
-1981*,Joe Niekro,L,0–2,Los Angeles Dodgers,Dodger Stadium
-1982,Nolan Ryan,L,3–14,St. Louis Cardinals,Astrodome
-1983,Joe Niekro (2),ND (L),7–16,Los Angeles Dodgers,Astrodome
+Season,Pitcher,Decision,Finalscore,Opponent,Location,Dummy_Col_1,Noise_Field_2
+1973,Dave Roberts,ND (W),2–1,Atlanta Braves,Atlanta-Fulton County Stadium,XSFOTTvX,HjNPHjr
+1974,Dave Roberts (2),L,1–5,San Francisco Giants,Candlestick Park,mSASrDqB,RnCFv
+1975,Larry Dierker (4),W,6–2,Atlanta Braves,Astrodome,dQsZFjl,KCjykt
+1976,J.R. Richard,L,5–11,Cincinnati Reds,Riverfront Stadium,qggOtmr,RULrcPx
+1977,J.R. Richard (2),ND (W),3–2,Atlanta Braves,Astrodome,lnMqS,YRlzsidJ
+1978,J.R. Richard (3),L,9–11,Cincinnati Reds,Riverfront Stadium,uacLt,gPRrDQ
+1979,J.R. Richard (4),W,2–1,Atlanta Braves,Astrodome,ijyQgl,HEifmu
+1980*,J.R. Richard (5),W,3–2,Los Angeles Dodgers,Astrodome,JGJTPz,mhZFflia
+1981*,Joe Niekro,L,0–2,Los Angeles Dodgers,Dodger Stadium,zeJJRSI,lxQYJll
+1982,Nolan Ryan,L,3–14,St. Louis Cardinals,Astrodome,drIkgbko,fzOvcvK
+1983,Joe Niekro (2),ND (L),7–16,Los Angeles Dodgers,Astrodome,RedPARWz,IyxyiCX

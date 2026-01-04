@@ -1,12 +1,12 @@
-Week,Start Date,Type,Tournament,Surface,Town,Country,Continent,Prize Money
-4,February 7,Premier 700,OPEN GDF Suez,Hard (I),Paris,France,Europe,"$700,000"
-10,April 4,Premier 700,Family Circle Cup,Clay,Charleston,United States,North America,"$700,000"
-11,April 18,Premier 700,Porsche Tennis Grand Prix,Clay (I),Stuttgart,Germany,Europe,"$700,000"
-23,July 25,Premier 700,Bank of the West Classic,Hard,Stanford,United States,North America,"$700,000"
-24,August 1,Premier 700,Mercury Insurance Open,Hard,San Diego,United States,North America,"$700,000"
-2,January 10,Premier 600,Medibank International Sydney,Hard,Sydney,Australia,Oceania,"$600,000"
-15,May 16,Premier 600,Brussels Open,Clay,Brussels,Belgium,Europe,"$618,000"
-18,June 13,Premier 600,Aegon International,Grass,Eastbourne,United Kingdom,Europe,"$600,000"
-27,August 22,Premier 600,New Haven Open at Yale,Hard,New Haven,United States,North America,"$600,000"
-34,October 17,Premier 600,Kremlin Cup,Hard (I),Moscow,Russia,Europe,"$1,000,000"
-36,October 31,International WTATour Championships,Commonwealth Bank Tournament of Champions,Hard (I),Sofia,Bulgaria,Europe,"$750,000"
+Week,Start Date,Type,Tournament,Surface,Town,Country,Continent,Prize Money,Extra_Data_1,Random_Column_2,Unused_3
+4,February 7,Premier 700,OPEN GDF Suez,Hard (I),Paris,France,Europe,"$700,000",202,nwi8XP,
+10,April 4,Premier 700,Family Circle Cup,Clay,Charleston,United States,North America,"$700,000",139,CCOYo,
+11,April 18,Premier 700,Porsche Tennis Grand Prix,Clay (I),Stuttgart,Germany,Europe,"$700,000",209,okWMqh,
+23,July 25,Premier 700,Bank of the West Classic,Hard,Stanford,United States,North America,"$700,000",325,nVM9n,
+24,August 1,Premier 700,Mercury Insurance Open,Hard,San Diego,United States,North America,"$700,000",899,ZYkUa,
+2,January 10,Premier 600,Medibank International Sydney,Hard,Sydney,Australia,Oceania,"$600,000",24,PanNG2cf,
+15,May 16,Premier 600,Brussels Open,Clay,Brussels,Belgium,Europe,"$618,000",403,aWhB7U,
+18,June 13,Premier 600,Aegon International,Grass,Eastbourne,United Kingdom,Europe,"$600,000",484,tIOfOtXh,
+27,August 22,Premier 600,New Haven Open at Yale,Hard,New Haven,United States,North America,"$600,000",772,2mCDzq,
+34,October 17,Premier 600,Kremlin Cup,Hard (I),Moscow,Russia,Europe,"$1,000,000",802,0fg2iBFC,
+36,October 31,International WTATour Championships,Commonwealth Bank Tournament of Champions,Hard (I),Sofia,Bulgaria,Europe,"$750,000",19,FIPxwK,

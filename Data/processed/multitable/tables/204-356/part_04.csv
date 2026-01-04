@@ -1,10 +1,12 @@
-Name of place,Number of counties,Principal county,Lower zip code
-Yosemite Valley,1,Mariposa County,
-Yosemite Village,1,Mariposa County,
-You Bet,1,Nevada County,
-Youngstown,1,San Joaquin County,
-Yountville,1,Napa County,94599
-Yreka,1,Siskiyou County,96097
-Yreka City,1,Siskiyou County,96097
-Yuba City,1,Sutter County,95991
-Yuba City Farm Labor Center,1,Sutter County,95991
+Name of place,Number of counties,Principal county,Lower zip code,Dummy_Col_1,Unused_2,Noise_Field_3
+Yuba City,1,Sutter County,95991,AJMVTRqL,,pTyem
+Yuba City Farm Labor Center,1,Sutter County,95991,xBpFm,,yZUsxxh
+South Yuba City,1,Sutter County,95991,CezCGJ,,xVZAVhs
+Yuba Pass,1,Nevada County,,zHDRqGre,,GvBRQo
+Yuba-Sutter Area,2,Sutter County Yuba County,,IgEIaO,,jqhDo
+Yucaipa,1,San Bernardino County,92399,XKWAesg,,eOsTgAeo
+Yucca Grove,1,San Bernardino County,,ZUGdGcr,,NlrYyKI
+Yucca Inn,1,San Bernardino County,,rbCWaZzj,,vLtlRmV
+Yucca Valley,1,San Bernardino County,92284,xUCpzzcF,,ampJihIU
+Yurok Indian Reservation,2,Del Norte County,95546,zYPRG,,xfKkapwC
+Yurok Indian Reservation,2,Humboldt County,95546,TRhlsB,,tRfFOl

@@ -1,7 +1,7 @@
-Stage,Date,Route,Terrain,Length,Winner
-18,10 July,Bayonne – Bordeaux,Plain stage,187 km (116 mi),André Darrigade (FRA)
-19,11 July,Bordeaux – Brive,Plain stage,215 km (134 mi),Edward Sels (BEL)
-20,12 July,Brive – Puy de Dôme,Stage with mountain(s),217 km (135 mi),Julio Jiménez (ESP)
-21,13 July,Clermont-Ferrand – Orléans,Plain stage,311 km (193 mi),Jean Stablinski (FRA)
-22A,14 July,Orléans – Versailles,Plain stage,119 km (74 mi),Benoni Beheyt (BEL)
-22B,14 July,Versailles – Paris,Individual time trial,27 km (17 mi),Jacques Anquetil (FRA)
+Stage,Date,Route,Terrain,Length,Winner,Filler_1,Noise_Field_2,Random_Column_3
+18,10 July,Bayonne – Bordeaux,Plain stage,187 km (116 mi),André Darrigade (FRA),IgrRLTq,PqcHZr,cjV3HTm
+19,11 July,Bordeaux – Brive,Plain stage,215 km (134 mi),Edward Sels (BEL),BihRIpN,YIRcnLcs,8IzLe
+20,12 July,Brive – Puy de Dôme,Stage with mountain(s),217 km (135 mi),Julio Jiménez (ESP),MnfuLmbZ,BGvluPYa,XBRDdn0
+21,13 July,Clermont-Ferrand – Orléans,Plain stage,311 km (193 mi),Jean Stablinski (FRA),TIfBCSD,dKgnd,0rye8
+22A,14 July,Orléans – Versailles,Plain stage,119 km (74 mi),Benoni Beheyt (BEL),cfcpiUmo,kLFJuFYo,KcM61BTx
+22B,14 July,Versailles – Paris,Individual time trial,27 km (17 mi),Jacques Anquetil (FRA),OIXLIZZp,cMyqc,jjfnI

@@ -1,11 +1,13 @@
-Year,Men,Sport,Women,Sport,Team,Sport,Promising Talent,Sport,Paralympic,Sport,Coach,Sport
-2013,Frederik Van Lierde,triathlon,Kirsten Flipkens,tennis,Belgium national football team,football,Nafissatou Thiam,athletics,Joachim Gérard,tennis,Marc Wilmots,football
-2012,Tom Boonen (3),cycling,Evi Van Acker,sailing,Belgium national field hockey team,field hockey,Kimmer Coppejans,tennis,Marieke Vervoort,handbike,Jacques Borlée (2),athletics
-2011,Philippe Gilbert (3),cycling,Kim Clijsters (8),tennis,Men's 4×400 metres relay (3),athletics,Thomas Van der Plaetsen,athletics,Wim Decleir,handbike,Jacques Borlée,athletics
-2010,Philippe Gilbert (2),cycling,Kim Clijsters (7),tennis,Men's 4×400 metres relay (2),athletics,Luca Brecel,snooker,Sven Decaesstecker,swimming,,
-2009,Philippe Gilbert,cycling,Kim Clijsters (6),tennis,Men's 4×400 metres relay,athletics,Romelu Lukaku,football,,,,
-2008,Sven Nys,cyclo-cross,Tia Hellebaut,athletics,Women's 4×100 metres relay (3),athletics,Elise Matthysen,swimming,,,,
-2007,Tom Boonen (2),cycling,Justine Henin-Hardenne (4),tennis,Women's 4×100 metres relay (2),athletics,Dominique Cornu,cycling,,,,
-2006,Stefan Everts (5),motorcross,Justine Henin-Hardenne (3),tennis,Belgium Fed Cup team (2),tennis,Yoris Grandjean,swimming,,,,
-2005,Tom Boonen,cycling,Kim Clijsters (5),tennis,Belgium national under-21 football team,football,Niels Albert,cyclo-cross,,,,
-2004,Stefan Everts (4),motorcross,Justine Henin-Hardenne (2),tennis,Women's 4×100 metres relay,athletics,Aagje Vanwalleghem,gymnastics,,,,
+Year,Men,Sport,Women,Sport,Team,Sport,Promising Talent,Sport,Paralympic,Sport,Coach,Sport,Extra_Data_1
+2013,Frederik Van Lierde,triathlon,Kirsten Flipkens,tennis,Belgium national football team,football,Nafissatou Thiam,athletics,Joachim Gérard,tennis,Marc Wilmots,football,584
+2012,Tom Boonen (3),cycling,Evi Van Acker,sailing,Belgium national field hockey team,field hockey,Kimmer Coppejans,tennis,Marieke Vervoort,handbike,Jacques Borlée (2),athletics,474
+2011,Philippe Gilbert (3),cycling,Kim Clijsters (8),tennis,Men's 4×400 metres relay (3),athletics,Thomas Van der Plaetsen,athletics,Wim Decleir,handbike,Jacques Borlée,athletics,909
+2010,Philippe Gilbert (2),cycling,Kim Clijsters (7),tennis,Men's 4×400 metres relay (2),athletics,Luca Brecel,snooker,Sven Decaesstecker,swimming,,,609
+2009,Philippe Gilbert,cycling,Kim Clijsters (6),tennis,Men's 4×400 metres relay,athletics,Romelu Lukaku,football,,,,,99
+2008,Sven Nys,cyclo-cross,Tia Hellebaut,athletics,Women's 4×100 metres relay (3),athletics,Elise Matthysen,swimming,,,,,772
+2007,Tom Boonen (2),cycling,Justine Henin-Hardenne (4),tennis,Women's 4×100 metres relay (2),athletics,Dominique Cornu,cycling,,,,,616
+2006,Stefan Everts (5),motorcross,Justine Henin-Hardenne (3),tennis,Belgium Fed Cup team (2),tennis,Yoris Grandjean,swimming,,,,,472
+2005,Tom Boonen,cycling,Kim Clijsters (5),tennis,Belgium national under-21 football team,football,Niels Albert,cyclo-cross,,,,,472
+2004,Stefan Everts (4),motorcross,Justine Henin-Hardenne (2),tennis,Women's 4×100 metres relay,athletics,Aagje Vanwalleghem,gymnastics,,,,,718
+2003,Stefan Everts (3),motorcross,Justine Henin-Hardenne,tennis,Belgian Motorcross team (2),motorcross,Kirsten Flipkens,tennis,,,,,918
+2002,Stefan Everts (2),motorcross,Kim Clijsters (4),tennis,La Villette Charleroi,table tennis,Thomas Buffel,football,,,,,519

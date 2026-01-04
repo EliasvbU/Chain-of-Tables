@@ -1,6 +1,6 @@
-Player,Position,Gamesstarted,Hometown,Height,Weight,Age
-Cedric C. Smith,Fullback,5,"Bay City, MI",6-0,190,20
-Karl S. Staatz,End,5,"Tacoma, WA",5-10,168,22
-Robert W. Watson,Tackle,8,"Ludington, MI",5-9,174,
-"Richard F. \Dick\"" Weske""",GuardTackle,02,"New London, CT",6-0,190,
-James L. Whalen,TackleGuardEnd,211,"Savannah, NY",5-10,188,
+Player,Position,Gamesstarted,Hometown,Height,Weight,Age,Dummy_Col_1,Unused_2,Filler_3
+Cedric C. Smith,Fullback,5,"Bay City, MI",6-0,190,20,sKoxDAI,,vzVijVRt
+Karl S. Staatz,End,5,"Tacoma, WA",5-10,168,22,Unxkbn,,cqBrqFC
+Robert W. Watson,Tackle,8,"Ludington, MI",5-9,174,,xkJzYL,,wnVCn
+"Richard F. \Dick\"" Weske""",GuardTackle,02,"New London, CT",6-0,190,,rcQObebm,,zwFIOX
+James L. Whalen,TackleGuardEnd,211,"Savannah, NY",5-10,188,,fDaboOO,,SHdnWiqY

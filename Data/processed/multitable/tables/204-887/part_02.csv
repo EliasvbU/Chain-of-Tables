@@ -1,9 +1,11 @@
-District,Representative,Party,Residence,Counties Represented
-9,Chris Rothfuss,Democratic,Laramie,Albany
-10,Phil Nicholas,Republican,Laramie,Albany
-11,Larry S. Hicks,Republican,Baggs,"Albany, Carbon"
-12,Bernadine Craft,Democratic,Rock Springs,"Fremont, Sweetwater"
-13,John Hastert,Democratic,Green River,Sweetwater
-14,Stan Cooper,Republican,Kemmerer,"Lincoln, Sublette, Sweetwater, Uinta"
-15,Paul Barnard,Republican,Evanston,Uinta
-16,Dan Dockstader,Republican,Afton,"Lincoln, Sublette, Teton"
+District,Representative,Party,Residence,Counties Represented,Dummy_Col_1
+11,Larry S. Hicks,Republican,Baggs,"Albany, Carbon",rcjtZE
+12,Bernadine Craft,Democratic,Rock Springs,"Fremont, Sweetwater",XJQjOWw
+13,John Hastert,Democratic,Green River,Sweetwater,xGriI
+14,Stan Cooper,Republican,Kemmerer,"Lincoln, Sublette, Sweetwater, Uinta",diYnV
+15,Paul Barnard,Republican,Evanston,Uinta,WOitc
+16,Dan Dockstader,Republican,Afton,"Lincoln, Sublette, Teton",oJnIcPw
+17,Leland Christensen,Republican,Alta,"Fremont, Teton",ZgHpNDI
+18,Hank Coe,Republican,Cody,Park,wwKfx
+19,R. Ray Peterson,Republican,Cowley,"Big Horn, Park",ZiAZUL
+20,Gerald Geis,Republican,Worland,"Big Horn, Hot Springs, Park, Washakie",MIEawotM

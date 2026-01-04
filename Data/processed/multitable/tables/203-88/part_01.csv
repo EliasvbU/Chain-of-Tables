@@ -1,8 +1,8 @@
-Language,Number,percentage (%),males,females
-Polish,1 420 436,73.52,687 210,733 226
-Yiddish,317 169,16.41,154 603,162 566
-Russian,87 850,4.54,13 551,1 586
-German,77 160,3.99,37 984,39 176
-Ukrainian,15 930,0.82,15 623,307
-Romanian,2 299,>0.01,2 293,6
-Latvian,1 759,>0.01,1 738,21
+Language,Number,percentage (%),males,females,Dummy_Col_1,Random_Column_2
+Polish,1 420 436,73.52,687 210,733 226,IkoQrWh,5CUuZ2i
+Yiddish,317 169,16.41,154 603,162 566,nAROiQWZ,4qKxhMb
+Russian,87 850,4.54,13 551,1 586,LiSjjMI,BbxAU
+German,77 160,3.99,37 984,39 176,hMJFSK,Kl1RH
+Ukrainian,15 930,0.82,15 623,307,Kdhdr,Y7HPKkfd
+Romanian,2 299,>0.01,2 293,6,JDpKso,mVWMRF
+Latvian,1 759,>0.01,1 738,21,VBiFE,dpLW5T

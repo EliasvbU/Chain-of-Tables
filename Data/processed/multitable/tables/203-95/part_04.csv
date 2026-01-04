@@ -1,9 +1,9 @@
-Year,DemocraticParty,RepublicanParty,Independent/ Other,Majority
-1998,58,66,0,12
-2000,55,69,0,14
-2002,51,73,0,22
-2004,50,74,0,24
-2006,51,73,0,22
-2008,52,72,0,20
-2010,47,76,0,29
-2012,45,78,0,30
+Year,DemocraticParty,RepublicanParty,Independent/ Other,Majority,Noise_Field_1
+1998,58,66,0,12,FUZwbT
+2000,55,69,0,14,utYLrlVB
+2002,51,73,0,22,itiZQgQx
+2004,50,74,0,24,sfLXhTJX
+2006,51,73,0,22,QGZQAly
+2008,52,72,0,20,QeSCoEc
+2010,47,76,0,29,QUnVdmMz
+2012,45,78,0,30,ZVqjvFTR

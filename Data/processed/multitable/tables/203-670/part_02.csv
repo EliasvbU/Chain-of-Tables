@@ -1,6 +1,8 @@
-Pos,Driver,Entrant,Constructor,Time/Retired,Grid
-6,Jo Bonnier,Owen Racing Organisation,BRM,41 laps,10
-7,Tony Brooks,G.A. Vandervell,Vanwall,41 laps,8
-Ret,Roy Salvadori,C.T. Atkins / High Efficiency Motors,Cooper-Climax,Transmission,5
-Ret,Harry Schell,Yeoman Credit Racing Team,Cooper-Climax,Throttle,3
-Ret,Mike Taylor,Taylor & Crawley,Lotus-Climax,Engine,13
+Pos,Driver,Entrant,Constructor,Time/Retired,Grid,Noise_Field_1,Filler_2
+Ret,Harry Schell,Yeoman Credit Racing Team,Cooper-Climax,Throttle,3,BWnBlUuh,oDZaP
+Ret,Mike Taylor,Taylor & Crawley,Lotus-Climax,Engine,13,vWGtBug,akXekWac
+Ret,Keith Greene,Gilby Engineering,Cooper-Climax,,12,OBjUc,cZfTXs
+Ret,Alan Stacey,Team Lotus,Lotus-Climax,Oil pipe,11,TdfRDCY,KoxYEASb
+Ret,Dan Gurney,Owen Racing Organisation,BRM,Accident,7,TqNEegk,hkcga
+WD,Jack Brabham,Cooper Car Company,Cooper-Climax,,-,gHjbT,MZtHRCzm
+WD,Geoff Richardson,Geoff Richardson,Cooper,,-,GwEYiRE,FhgfD

@@ -1,10 +1,12 @@
-Year,Winner,Score,County,Opponent,Score,County
-2013-14,Mount Leinster Rangers,0-11,Carlow,Oulart-the-Ballagh,0-08,Wexford
-2012-13,Kilcormac/Killoughey,1-12,Offaly,Oulart-the-Ballagh,0-11,Wexford
-2011-12,Coolderry,1-15,Offaly,Oulart-the-Ballagh,1-11,Wexford
-2010-11,O'Loughlin Gaels,0-14,Kilkenny,Oulart-the-Ballagh,1-08,Wexford
-2009-10,Ballyhale Shamrocks,1-16,Kilkenny,Tullamore,1-08,Offaly
-2008-09,Ballyhale Shamrocks,2-13,Kilkenny,Birr,1-11,Offaly
-2007-08,Birr,1-11,Offaly,Ballyboden St Endas,0-13,Dublin
-2006-07,Ballyhale Shamrocks,1-20,Kilkenny,Birr,1-08,Offaly
-2005-06,James Stephens,2-13,Kilkenny,UCD,1-12,Dublin
+Year,Winner,Score,County,Opponent,Score,County,Unused_1,Extra_Data_2
+2013-14,Mount Leinster Rangers,0-11,Carlow,Oulart-the-Ballagh,0-08,Wexford,,511
+2012-13,Kilcormac/Killoughey,1-12,Offaly,Oulart-the-Ballagh,0-11,Wexford,,384
+2011-12,Coolderry,1-15,Offaly,Oulart-the-Ballagh,1-11,Wexford,,513
+2010-11,O'Loughlin Gaels,0-14,Kilkenny,Oulart-the-Ballagh,1-08,Wexford,,693
+2009-10,Ballyhale Shamrocks,1-16,Kilkenny,Tullamore,1-08,Offaly,,483
+2008-09,Ballyhale Shamrocks,2-13,Kilkenny,Birr,1-11,Offaly,,989
+2007-08,Birr,1-11,Offaly,Ballyboden St Endas,0-13,Dublin,,65
+2006-07,Ballyhale Shamrocks,1-20,Kilkenny,Birr,1-08,Offaly,,690
+2005-06,James Stephens,2-13,Kilkenny,UCD,1-12,Dublin,,637
+2004-05,James Stephens,1-13,Kilkenny,UCD,1-12,Dublin,,725
+2003-04,O'Loughlin Gaels,0-15,Kilkenny,Birr,0-09,Offaly,,474

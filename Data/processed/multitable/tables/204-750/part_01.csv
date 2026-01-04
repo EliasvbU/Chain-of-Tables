@@ -1,7 +1,12 @@
-Team,Stadium,Capacity,Seated
-Merthyr Town,Penydarren Park,"10,000",–
-Paulton Rovers,Athletic Field,"5,000",253
-Evesham United,St George's Lane*,"4,749",
-Winchester City,The City Ground,"4,500",180
-Clevedon Town,Hand Stadium,"3,500",300
-Cinderford Town,The Causeway,"3,500",250
+Team,Stadium,Capacity,Seated,Noise_Field_1,Extra_Data_2
+Merthyr Town,Penydarren Park,"10,000",–,UkrgLIC,451
+Paulton Rovers,Athletic Field,"5,000",253,FdIovja,394
+Evesham United,St George's Lane*,"4,749",,PTkOvus,815
+Winchester City,The City Ground,"4,500",180,XLIsocq,329
+Clevedon Town,Hand Stadium,"3,500",300,fdIhvZAj,153
+Cinderford Town,The Causeway,"3,500",250,krWfFc,610
+Tiverton Town,Ladysmead,"3,500",520,eZhXq,504
+Wimborne Town,Cuthbury,"3,250",275,DgWNxU,816
+Didcot Town,NPower Loop Meadow Stadium,"3,000",150,vYPps,725
+Swindon Supermarine,The Webb's Wood Stadium,"3,000",,mYTTx,583
+Bridgwater Town,Fairfax Park,"2,500",128,vpVDOHZc,763

@@ -1,12 +1,12 @@
-#,Title,Type,Openingdate,Closingdate,Performances,Comment
-78.,1776,M,"March 16, 1969","February 13, 1972","1,217","3 Tony Awards in 1969, including Best Musical2 Drama Desk Awards in 1969Revival in 1997 (333 performances)"
-79.,Equus,P,"October 24, 1974","October 2, 1977","1,209","2 Tony Awards in 1975, including Best Play4 Drama Desk Awards in 1975, including Outstanding PlayRevival in 2008 (156 performances)"
-80.,Sugar Babies,R,"October 8, 1979","August 28, 1982","1,208",
-81.,Guys and Dolls,M,"November 24, 1950","November 28, 1953","1,200","5 Tony Awards in 1951, including Best MusicalRevivals in 1955 (16 performances), 1965 (15 performances), 1976 (239 performances), 1992 (1143 performances), and 2009 (121 performances)"
-82.,In the Heights,M,"March 30, 2008","January 9, 2011","1,184","4 Tony Awards in 2008, including Best MusicalGrammy Award for Best Musical Show Album in 2009"
-83.,Amadeus,P,"December 17, 1980","October 16, 1983","1,181","5 Tony Awards in 1981, including Best Play3 Drama Desk Awards in 1981, including Outstanding PlayRevival in 1999 (173 performances)"
-84.,Cabaret,M,"November 20, 1966","September 6, 1969","1,165","8 Tony Awards in 1967, including Best MusicalGrammy Award for Best Score From an Original Cast Show Album in 1968Revivals in 1987 (261 performances), 1998 (2377 performances) and 2014"
-84.,Memphis,M,"October 19, 2009","August 5, 2012","1,165","4 Tony Awards in 2010, including Best Musical4 Drama Desk Awards in 2010, including Outstanding Musical"
-86.,Mister Roberts,P,"February 18, 1948","January 6, 1951","1,157","5 Tony Awards in 1948, including Best Play"
-87.,Annie Get Your Gun,M,"May 16, 1946","February 12, 1949","1,147","Revivals in 1966 (78 performances) and 1999 (1,045 performances)"
-88.,Guys and Dolls,M,"April 14, 1992","January 8, 1995","1,143","Revival4 Tony Awards in 1992, including Best Revival of a Musical7 Drama Desk Awards in 1992, including Outstanding Revival of a MusicalGrammy Award for Best Musical Show Album in 1993Original production in 1950 (1,200 performances) and revivals in 1955 (16 performances), 1965 (15 performances), 1976 (239 performances), and 2009 (121 performances)"
+#,Title,Type,Openingdate,Closingdate,Performances,Comment,Dummy_Col_1
+78.,1776,M,"March 16, 1969","February 13, 1972","1,217","3 Tony Awards in 1969, including Best Musical2 Drama Desk Awards in 1969Revival in 1997 (333 performances)",KZqSu
+79.,Equus,P,"October 24, 1974","October 2, 1977","1,209","2 Tony Awards in 1975, including Best Play4 Drama Desk Awards in 1975, including Outstanding PlayRevival in 2008 (156 performances)",PKbds
+80.,Sugar Babies,R,"October 8, 1979","August 28, 1982","1,208",,EYICc
+81.,Guys and Dolls,M,"November 24, 1950","November 28, 1953","1,200","5 Tony Awards in 1951, including Best MusicalRevivals in 1955 (16 performances), 1965 (15 performances), 1976 (239 performances), 1992 (1143 performances), and 2009 (121 performances)",WpYOMsVK
+82.,In the Heights,M,"March 30, 2008","January 9, 2011","1,184","4 Tony Awards in 2008, including Best MusicalGrammy Award for Best Musical Show Album in 2009",xutbkOm
+83.,Amadeus,P,"December 17, 1980","October 16, 1983","1,181","5 Tony Awards in 1981, including Best Play3 Drama Desk Awards in 1981, including Outstanding PlayRevival in 1999 (173 performances)",JKipyVc
+84.,Cabaret,M,"November 20, 1966","September 6, 1969","1,165","8 Tony Awards in 1967, including Best MusicalGrammy Award for Best Score From an Original Cast Show Album in 1968Revivals in 1987 (261 performances), 1998 (2377 performances) and 2014",Lxmgsxt
+84.,Memphis,M,"October 19, 2009","August 5, 2012","1,165","4 Tony Awards in 2010, including Best Musical4 Drama Desk Awards in 2010, including Outstanding Musical",UHmilr
+86.,Mister Roberts,P,"February 18, 1948","January 6, 1951","1,157","5 Tony Awards in 1948, including Best Play",GlBSkD
+87.,Annie Get Your Gun,M,"May 16, 1946","February 12, 1949","1,147","Revivals in 1966 (78 performances) and 1999 (1,045 performances)",SfXlUE
+88.,Guys and Dolls,M,"April 14, 1992","January 8, 1995","1,143","Revival4 Tony Awards in 1992, including Best Revival of a Musical7 Drama Desk Awards in 1992, including Outstanding Revival of a MusicalGrammy Award for Best Musical Show Album in 1993Original production in 1950 (1,200 performances) and revivals in 1955 (16 performances), 1965 (15 performances), 1976 (239 performances), and 2009 (121 performances)",MKSPucZ

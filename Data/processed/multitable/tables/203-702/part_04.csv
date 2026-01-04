@@ -1,9 +1,11 @@
-Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage
-Ray,genomes,"Illumina, mix of Illumina and 454, paired or not","Sébastien Boisvert, François Laviolette & Jacques Corbeil.",2010,OS [GNU General Public License],link
-Sequencher,genomes,traditional and next generation sequence data,Gene Codes Corporation,1991 / 2009 / 2011,C,link
-SeqMan NGen,"(large) genomes, exomes, transcriptomes, metagenomes, ESTs","Illumina, ABI SOLiD, Roche 454, Ion Torrent, Solexa, Sanger",DNASTAR,2007 / 2011,C,link
-SGA,(large) genomes,"Illumina, Sanger (Roche 454?, Ion Torrent?)","Simpson, J.T. et al.",2011 / 2012,OS,link
-SHARCGS,(small) genomes,Solexa,Dohm et al.,2007 / 2007,OS,link
-SOPRA,genomes,"Illumina, SOLiD, Sanger, 454","Dayarian, A. et al.",2010 / 2011,OS,link
-SparseAssembler,(large) genomes,"Illumina, 454, Ion torrent","Ye, C. et al.",2012 / 2012,OS,link
-SSAKE,(small) genomes,Solexa (SOLiD? Helicos?),"Warren, R. et al.",2007 / 2007,OS,link
+Name,Type,Technologies,Author,Presented /Last updated,Licence*,Homepage,Extra_Data_1,Filler_2,Dummy_Col_3
+SparseAssembler,(large) genomes,"Illumina, 454, Ion torrent","Ye, C. et al.",2012 / 2012,OS,link,279,uIrROQPU,tWENHu
+SSAKE,(small) genomes,Solexa (SOLiD? Helicos?),"Warren, R. et al.",2007 / 2007,OS,link,483,IFHYF,QZTkb
+SOAPdenovo,genomes,Solexa,"Li, R. et al.",2009 / 2009,OS,link,645,HDiMsE,kPeaZYR
+SPAdes,"(small) genomes, single-cell","Illumina, Solexa","Bankevich, A et al.",2012 / 2013,OS,link,577,kKeQbyv,LfnZRC
+Staden gap4 package,"BACs (, small genomes?)",Sanger,Staden et al.,1991 / 2008,OS,link,825,DKvNcB,ePWkmW
+Taipan,(small) genomes,Illumina,"Schmidt, B. et al.",2009,OS,link,224,WkoBsgHc,xBrYVFEQ
+VCAKE,(small) genomes,"Solexa (SOLiD?, Helicos?)","Jeck, W. et al.",2007 / 2007,OS,link,78,bmtCB,OiyoLkDm
+Phusion assembler,(large) genomes,Sanger,"Mullikin JC, et al.",2003,OS,link,888,saGMgxs,PsfaqBMp
+Quality Value Guided SRA (QSRA),genomes,"Sanger, Solexa","Bryant DW, et al.",2009,OS,link,156,TiwOL,UcXOw
+Velvet,(small) genomes,"Sanger, 454, Solexa, SOLiD","Zerbino, D. et al.",2007 / 2009,OS,link,821,nlWNL,JMGWjI

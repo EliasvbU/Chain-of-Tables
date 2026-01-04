@@ -1,10 +1,13 @@
-Date,Opponent,Venue,Result,Attendance,Scorers
-16 October 2004,Sunderland,A,0-1,"23,839",
-19 October 2004,Gillingham,H,2-1,"10,722","Hayles, Dunne"
-23 October 2004,Cardiff City,H,2-2,"10,476","Tessem, Harris"
-30 October 2004,Stoke City,A,0-1,"14,125",
-2 November 2004,Queens Park Rangers,A,1-1,"16,685",Hayles
-5 November 2004,Sunderland,H,2-0,"10,513","Wise (pen), Livermore"
-13 November 2004,Preston North End,A,1-1,"22,977",Hayles
-21 November 2004,West Ham United,H,1-0,"15,025",Dichio
-27 November 2004,Burnley,A,0-1,"11,471",
+Date,Opponent,Venue,Result,Attendance,Scorers,Noise_Field_1,Extra_Data_2
+23 October 2004,Cardiff City,H,2-2,"10,476","Tessem, Harris",fLKEkb,357
+30 October 2004,Stoke City,A,0-1,"14,125",,hPHdarXB,183
+2 November 2004,Queens Park Rangers,A,1-1,"16,685",Hayles,WKCzGeCb,968
+5 November 2004,Sunderland,H,2-0,"10,513","Wise (pen), Livermore",NOnvrF,626
+13 November 2004,Preston North End,A,1-1,"22,977",Hayles,eoOJQ,544
+21 November 2004,West Ham United,H,1-0,"15,025",Dichio,clrJR,884
+27 November 2004,Burnley,A,0-1,"11,471",,fqmaG,416
+30 November 2004,Crewe Alexandra,A,1-2,"5,409",Ifill,nStdJ,540
+4 December 2004,Sheffield United,H,1-2,"11,207",Phillips,GZeUcHI,351
+7 December 2004,Wolverhampton Wanderers,A,2-1,"24,748","Dobie, Dichio",ffGMo,542
+11 December 2004,Brighton & Hove Albion,H,2-0,"12,196","Dobie, Ifill",cCMWQzka,917
+18 December 2004,Leeds United,A,1-1,"26,265",Morris (pen),TinhY,195

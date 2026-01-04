@@ -1,10 +1,13 @@
-Athlete,Nation,Olympics,Gold,Silver,Bronze,Total
-Ludowika Jakobsson / Walter Jakobsson,Finland (FIN),1920-1924,1,1,0,2
-Kim Yu-na,South Korea (KOR),2010–2014,1,1,0,2
-Shen Xue / Zhao Hongbo,China (CHN),2002–2010,1,0,2,3
-Jeannette Altwegg,Great Britain (GBR),1948-1952,1,0,1,2
-Marina Anissina / Gwendal Peizerat,France (FRA),1998-2002,1,0,1,2
-David Jenkins,United States (USA),1956-1960,1,0,1,2
-Viktor Petrenko,Soviet Union (URS) Unified Team (EUN),1988-1992,1,0,1,2
-Beatrix Loughran,United States (USA),1924–1932,0,2,1,3
-Willy Böckl,Austria (AUT),1924-1928,0,2,0,2
+Athlete,Nation,Olympics,Gold,Silver,Bronze,Total,Irrelevant_1,Noise_Field_2,Random_Column_3
+Marina Anissina / Gwendal Peizerat,France (FRA),1998-2002,1,0,1,2,39eydO3,ZWuBTGOU,o7Zi1YPx
+David Jenkins,United States (USA),1956-1960,1,0,1,2,oCwZV,VUwFaG,hWP6gt
+Viktor Petrenko,Soviet Union (URS) Unified Team (EUN),1988-1992,1,0,1,2,UfnqrLHa,ekcSJw,YJsoUu3j
+Beatrix Loughran,United States (USA),1924–1932,0,2,1,3,3xF9wTOb,GTWVCLm,igBg2H
+Willy Böckl,Austria (AUT),1924-1928,0,2,0,2,RHqaLvg,UlhFskC,TCi4V
+Fritzi Burger,Austria (AUT),1928-1932,0,2,0,2,03v5kBn,GWvEcW,U0Y4I7p
+Patrick Chan,Canada (CAN),2014,0,2,0,2,HYnXf8,eUXEAZRz,0cy1RY
+Marika Kilius / Hans-Jürgen Bäumler,Unified Team of Germany (EUA),1960-1964,0,2,0,2,lgTbptXT,QQysF,dOkimi
+Brian Orser,Canada (CAN),1984-1988,0,2,0,2,jgBrccm,TLhLcWR,deDGB
+Elvis Stojko,Canada (CAN),1994-1998,0,2,0,2,GbC54,jWNwXzIT,th1qMJXR
+Phyllis Johnson,Great Britain (GBR),1908-1920,0,1,1,2,AtFxXc9u,HsLwxlfz,VThLFMZ
+Nancy Kerrigan,United States (USA),1992-1994,0,1,1,2,bvGUpwk,bjFXX,jiwIpJYd

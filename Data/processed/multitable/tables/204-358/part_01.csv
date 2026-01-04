@@ -4,3 +4,8 @@ Nomascus leucogenys,Gibbon,XP_003258163,DEPDC5,1602 aa,99%,99%,20.4
 Mus musculus,Mouse,NP_001164038,DEPDC5,1591 aa,94%,96%,92.4
 Bos Taurus,Cow,XP_002694678,DEPDC5,1593 aa,94%,96%,94.4
 Sorex araneus,Shrew,ACE77702,DEPDC5,1570 aa,94%,96%,94.4
+Monodelphis domestica,Possum,XP_001378772,DEPDC5,1522 aa,89%,93%,163.9
+Gallus gallus,Chicken,XP_415249,DEPDC5,1592 aa,88%,93%,301.7
+Meleagris gallopavo,Turkey,XP_003211073,DEPDC5,1592 aa,88%,93%,301.7
+Taeniopygia guttata,Zebra finch,XP_002199825,DEPDC5,1572 aa,87%,92%,301.7
+Xenopus tropicalis,Frog,XP_002931964,DEPDC5-like,1574 aa,79%,86%,371.2

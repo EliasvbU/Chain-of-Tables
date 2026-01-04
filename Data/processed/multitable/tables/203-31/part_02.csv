@@ -1,6 +1,8 @@
-Game,November,Opponent,Score,Record,Points
-18,11,New Jersey Devils,3–5,12–6–0,24
-19,13,Buffalo Sabres,2–7,12–7–0,24
-20,16,@ Pittsburgh Penguins,5–11,12–8–0,24
-21,18,Hartford Whalers,6–3,13–8–0,26
-22,20,@ Boston Bruins,5–5 OT,13–8–1,27
+Game,November,Opponent,Score,Record,Points,Noise_Field_1,Filler_2
+20,16,@ Pittsburgh Penguins,5–11,12–8–0,24,lyDtIjRT,hgrBKw
+21,18,Hartford Whalers,6–3,13–8–0,26,rVpXJNe,KhqKL
+22,20,@ Boston Bruins,5–5 OT,13–8–1,27,uBJua,MHvIqII
+23,21,New York Islanders,4–5 OT,13–9–1,27,RxuNFcgm,qrPyi
+24,24,Montreal Canadiens,9–2,14–9–1,29,scrDUcLU,uBisbC
+25,26,Tampa Bay Lightning,3–0,15–9–1,31,vhwlMoH,jGPsXZbD
+26,27,@ Tampa Bay Lightning,4–3 OT,16–9–1,33,AZIbEorD,ZYVohK

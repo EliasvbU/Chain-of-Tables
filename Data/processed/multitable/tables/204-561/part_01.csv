@@ -1,10 +1,13 @@
-Fence,Name,Jockey,Age,Handicap (st-lb),Starting price,Fate
-22,What A Myth,Paul Kelleway,9,11-4,11/2,Fell
-03,Rough Tweed,Pat Buckley,12,10-7,22/1,Fell
-?,Kapeno,David Mould,9,10-6,100/7,Fell
-06,Packed Home,Tommy Carberry,11,10-3,33/1,Fell
-22,Greek Scholar,Michael Scudamore,7,10-4,50/1,Fell
-?,Brown Diamond,Frank Shortt,11,10-0,100/1,Fell
-06,Popham Down,Willie Robinson,9,10-0,22/1,Fell
-?,Pontin-Go,TM Jones,14,10-0,100/1,Fell
-15,Game Purston,Paddy Cowley,8,10-0,100/1,Fell
+Fence,Name,Jockey,Age,Handicap (st-lb),Starting price,Fate,Noise_Field_1,Dummy_Col_2,Random_Column_3
+22,What A Myth,Paul Kelleway,9,11-4,11/2,Fell,MvyKOo,mmqEukFv,BKW7bUc
+03,Rough Tweed,Pat Buckley,12,10-7,22/1,Fell,TOGcBI,qGnGLW,Rb2YbhL
+?,Kapeno,David Mould,9,10-6,100/7,Fell,STgJHx,vyZjQHZy,5KVy6
+06,Packed Home,Tommy Carberry,11,10-3,33/1,Fell,UlNxYCro,fRyLvcM,tQIWu
+22,Greek Scholar,Michael Scudamore,7,10-4,50/1,Fell,UEYfFJr,hcxaQ,BVIRbOl
+?,Brown Diamond,Frank Shortt,11,10-0,100/1,Fell,yihGXuW,jZEzO,q2BJU
+06,Popham Down,Willie Robinson,9,10-0,22/1,Fell,JjGZW,XZQYEcip,QfW1D
+?,Pontin-Go,TM Jones,14,10-0,100/1,Fell,YydZRW,ONCBPQXZ,OfzDiF
+15,Game Purston,Paddy Cowley,8,10-0,100/1,Fell,AyJxYBL,bLWAjLX,0SMib
+22,Supersweet,Mr D Crossley-Cooke,9,10-6,100/1,Fell,yagIEJl,CkKOX,IV8xg0
+?,Major Hitch,Paddy Broderick,8,10-1,50/1,Fell,AilXdgbF,fknpjQ,ELNEU
+15,Irish Day,Jimmy Magee,10,10-0,40/1,Fell,rcAecJN,xWKro,EriP9o6b

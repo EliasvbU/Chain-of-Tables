@@ -1,6 +1,6 @@
-Pump type and source,Typical use,35 °C(e.g. heated screed floor),45 °C(e.g. heated screed floor),55 °C(e.g. heated timber floor),65 °C(e.g. radiator or DHW),75 °C(e.g. radiator and DHW),85 °C(e.g. radiator and DHW)
-"High-efficiency air source heat pump (ASHP), air at −20 °C",,2.2,2.0,‐,‐,‐,‐
-"Two-stage ASHP, air at −20 °C",Low source temperature,2.4,2.2,1.9,‐,‐,‐
-"High efficiency ASHP, air at 0 °C",Low output temperature,3.8,2.8,2.2,2.0,‐,‐
-"Prototype transcritical CO2 (R744) heat pump with tripartite gas cooler, source at 0 °C",High output temperature,3.3,‐,‐,4.2,‐,3.0
-"Ground source heat pump (GSHP), water at 0 °C",,5.0,3.7,2.9,2.4,‐,‐
+Pump type and source,Typical use,35 °C(e.g. heated screed floor),45 °C(e.g. heated screed floor),55 °C(e.g. heated timber floor),65 °C(e.g. radiator or DHW),75 °C(e.g. radiator and DHW),85 °C(e.g. radiator and DHW),Extra_Data_1,Dummy_Col_2
+"High-efficiency air source heat pump (ASHP), air at −20 °C",,2.2,2.0,‐,‐,‐,‐,295,iGRmFRB
+"Two-stage ASHP, air at −20 °C",Low source temperature,2.4,2.2,1.9,‐,‐,‐,594,ZedcqSgF
+"High efficiency ASHP, air at 0 °C",Low output temperature,3.8,2.8,2.2,2.0,‐,‐,234,CvBZDGs
+"Prototype transcritical CO2 (R744) heat pump with tripartite gas cooler, source at 0 °C",High output temperature,3.3,‐,‐,4.2,‐,3.0,310,sLXHSUA
+"Ground source heat pump (GSHP), water at 0 °C",,5.0,3.7,2.9,2.4,‐,‐,685,bZJbh

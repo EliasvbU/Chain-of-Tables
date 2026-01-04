@@ -1,10 +1,13 @@
-Pos.,Div.,No.,Team,Drivers,Car,Laps,Qual.Pos.
-1,1,11,Perkins Engineering,Larry Perkins Tomas Mezera,Holden VL Commodore SS Group A SV,125,2
-2,1,35,Peter Jackson Racing,Glenn Seton Colin Bond,Ford Sierra RS500,125,4
-3,1,05,Mobil 1 Racing,Peter Brock Andrew Miedecke,Ford Sierra RS500,124,6
-4,1,20,Benson & Hedges Racing,Gary Brabham David Brabham,Ford Sierra RS500,123,7
-5,1,30,Peter Jackson Racing,George Fury Drew Price,Ford Sierra RS500,123,9
-6,1,25,Benson & Hedges Racing,Tony Longhurst Alan Jones,Ford Sierra RS500,123,3
-7,1,28,Playscape Racing,Kevin Waldock Andrew Bagnall,Ford Sierra RS500,123,12
-8,1,33,Pro-Duct Motorsport,Bob Pearson Bruce Stewart,Holden VL Commodore SS Group A SV,122,16
-9,1,4,Lansvale Racing Team,Steve Reed Trevor Ashby,Holden VL Commodore SS Group A SV,122,11
+Pos.,Div.,No.,Team,Drivers,Car,Laps,Qual.Pos.,Filler_1,Random_Column_2
+1,1,11,Perkins Engineering,Larry Perkins Tomas Mezera,Holden VL Commodore SS Group A SV,125,2,dheMrF,7DWnq
+2,1,35,Peter Jackson Racing,Glenn Seton Colin Bond,Ford Sierra RS500,125,4,GCABaItJ,gG4R1F
+3,1,05,Mobil 1 Racing,Peter Brock Andrew Miedecke,Ford Sierra RS500,124,6,sZMARi,gfySt
+4,1,20,Benson & Hedges Racing,Gary Brabham David Brabham,Ford Sierra RS500,123,7,ehZGwv,DnLuEWBQ
+5,1,30,Peter Jackson Racing,George Fury Drew Price,Ford Sierra RS500,123,9,FezuV,6MyGKxa
+6,1,25,Benson & Hedges Racing,Tony Longhurst Alan Jones,Ford Sierra RS500,123,3,dQqtq,lwXljuS
+7,1,28,Playscape Racing,Kevin Waldock Andrew Bagnall,Ford Sierra RS500,123,12,WxEfSs,fVc7ISoT
+8,1,33,Pro-Duct Motorsport,Bob Pearson Bruce Stewart,Holden VL Commodore SS Group A SV,122,16,zXEFDvs,URtgahao
+9,1,4,Lansvale Racing Team,Steve Reed Trevor Ashby,Holden VL Commodore SS Group A SV,122,11,qKzwC,R3DS1
+10,1,6,Mobil 1 Racing,Charlie O'Brien David Parsons,Ford Sierra RS500,121,10,WorAn,xPjggo
+11,1,12,Ray Lintott,Ray Lintott Terry Shiel,Ford Sierra RS500,121,13,PIkzIcA,VsvfrK
+12,1,26,Garry Rogers Motorsport,Garry Rogers Paul Fordham,Holden VL Commodore SS Group A SV,121,14,BLoPfZpT,t9vCIhe6

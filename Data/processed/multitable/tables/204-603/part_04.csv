@@ -1,9 +1,9 @@
-Pos,No,Rider,Bike,Laps,Time,Grid,Points
-Ret,39,Luis Salom,Aprilia,14,Retirement,15,
-Ret,17,Eduard López,Aprilia,11,Retirement,31,
-Ret,55,Isaac Viñales,Aprilia,10,Accident,21,
-Ret,50,Sturla Fagerhaug,Aprilia,7,Accident,17,
-Ret,5,Alexis Masbou,Aprilia,5,Accident,9,
-Ret,12,Esteve Rabat,Aprilia,0,Accident,7,
-Ret,53,Jasper Iwema,Aprilia,0,Accident,20,
-DNS,32,Lorenzo Savadori,Aprilia,,Did not start,29,
+Pos,No,Rider,Bike,Laps,Time,Grid,Points,Noise_Field_1,Extra_Data_2
+Ret,39,Luis Salom,Aprilia,14,Retirement,15,,SOHETtrs,32
+Ret,17,Eduard López,Aprilia,11,Retirement,31,,gTeinZQG,252
+Ret,55,Isaac Viñales,Aprilia,10,Accident,21,,qQbuvSY,657
+Ret,50,Sturla Fagerhaug,Aprilia,7,Accident,17,,SHEBSgu,907
+Ret,5,Alexis Masbou,Aprilia,5,Accident,9,,AwAsZzVJ,415
+Ret,12,Esteve Rabat,Aprilia,0,Accident,7,,bTIwJ,114
+Ret,53,Jasper Iwema,Aprilia,0,Accident,20,,RHlZoois,863
+DNS,32,Lorenzo Savadori,Aprilia,,Did not start,29,,IIRjTF,74

@@ -1,8 +1,8 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-16,Finland,1,0,1,2
-17,Belarus,1,0,0,1
-18,Czech Republic,0,2,0,2
-19,Slovakia,0,1,1,2
-20,Denmark,0,1,0,1
-20,Croatia,0,1,0,1
-22,Romania,0,0,2,2
+Rank,Nation,Gold,Silver,Bronze,Total,Unused_1
+16,Finland,1,0,1,2,
+17,Belarus,1,0,0,1,
+18,Czech Republic,0,2,0,2,
+19,Slovakia,0,1,1,2,
+20,Denmark,0,1,0,1,
+20,Croatia,0,1,0,1,
+22,Romania,0,0,2,2,

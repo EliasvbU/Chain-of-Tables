@@ -1,7 +1,10 @@
-Rank,Area,State/Province,CSA/CMA2009 population,Projected2025 population,Projected increase2009–2025
-7,Grand Rapids,MI,"1,327,366","1,530,000","202,634"
-8,Buffalo,NY,"1,203,493","1,040,400","-163,093"
-9,Rochester,NY,"1,149,653","1,248,600","98,947"
-10,Hamilton,ON,"740,200","954,858","214,658"
-11,Toledo,OH,"672,220","672,220",0
-12,Lansing,MI,"523,609","547,325","23,716"
+Rank,Area,State/Province,CSA/CMA2009 population,Projected2025 population,Projected increase2009–2025,Random_Column_1,Noise_Field_2,Irrelevant_3
+10,Hamilton,ON,"740,200","954,858","214,658",Oju23xBA,JwTKgRii,PK6Tc
+11,Toledo,OH,"672,220","672,220",0,4U8W7m,sgjTgl,8WI8kcvP
+12,Lansing,MI,"523,609","547,325","23,716",3upen,DZZvG,dXwgl8x
+13,Kitchener – Cambridge – Waterloo,ON,"492,400","635,196","142,796",8qdeJii2,ytRsevzG,ttFmIU
+14,London,ON,"492,200","634,938","142,738",kqHdk,YMlNteB,OZRJBgzd
+15,Fort Wayne,IN,"414,315","455,623","39,366",kaZw8rN,aYYuD,cmEnA
+16,St. Catharines – Niagara,ON,"404,400","521,676","117,276",LsmFUxp,nmBceW,Y3jXE
+17,Windsor,ON,"330,900","426,861","95,961",N5GgB6v,XNJpZM,JX7iW
+18,Erie,PA,"280,985",N/A,N/A,w5UO1G,pVHRea,ia7sM

@@ -1,6 +1,6 @@
-Kilometers,Name,Location,Intersecting routes
-10,HaErez Way,Tnuvot industrial zone,Entrance to Tnuvot and Burgata
-12,Be'erotayim junction,Hagor,"Entrance to Be'erotayim and Olesh,Route 5614 toward Qalansawe"
-13.2,Nitzanei Oz junction,Nitzanei Oz,"Route 5714, entrance to Nitzanei Oz and Yad Hana"
-14.5,Nitzanei Oz interchange,Nitzanei Oz,Highway 6
-15,IDF checkpoint,Tulkarm,Entrance to Nitzanei Shalom industrial zone
+Kilometers,Name,Location,Intersecting routes,Dummy_Col_1,Dummy_Col_2,Noise_Field_3
+10,HaErez Way,Tnuvot industrial zone,Entrance to Tnuvot and Burgata,DmRyvajh,AripKjI,PAusggO
+12,Be'erotayim junction,Hagor,"Entrance to Be'erotayim and Olesh,Route 5614 toward Qalansawe",pfLRgKb,VnFOgcB,meIrZ
+13.2,Nitzanei Oz junction,Nitzanei Oz,"Route 5714, entrance to Nitzanei Oz and Yad Hana",SygWMXtI,vEbSSo,mKqWVRKV
+14.5,Nitzanei Oz interchange,Nitzanei Oz,Highway 6,MmNDw,mRTHrm,CKCtAhP
+15,IDF checkpoint,Tulkarm,Entrance to Nitzanei Shalom industrial zone,dMlvWevH,KlTBT,AEozLGSP

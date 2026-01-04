@@ -1,7 +1,9 @@
-Week,Date,Opponent,Result,Attendance
-1,"September 13, 1987",Cleveland Browns,W 28–21,"59,900"
-2,"September 20, 1987",at Philadelphia Eagles,L 27–21,"57,485"
-–,"September 27, 1987",Atlanta Falcons,canceled,
-3,"October 4, 1987",Los Angeles Rams,W 37–10,"29,745"
-4,"October 11, 1987",at St. Louis Cardinals,L 24–19,"11,795"
-5,"October 18, 1987",at Chicago Bears,W 19–17,"46,813"
+Week,Date,Opponent,Result,Attendance,Dummy_Col_1
+1,"September 13, 1987",Cleveland Browns,W 28–21,"59,900",kraBWG
+2,"September 20, 1987",at Philadelphia Eagles,L 27–21,"57,485",wcmPsbNt
+–,"September 27, 1987",Atlanta Falcons,canceled,,pEaqSF
+3,"October 4, 1987",Los Angeles Rams,W 37–10,"29,745",HhaRip
+4,"October 11, 1987",at St. Louis Cardinals,L 24–19,"11,795",xdVSVHw
+5,"October 18, 1987",at Chicago Bears,W 19–17,"46,813",flAPzOm
+6,"October 25, 1987",San Francisco 49ers,L 24–22,"60,497",WYFMHAQA
+7,"November 1, 1987",at Atlanta Falcons,W 38–0,"42,196",rRVPLC

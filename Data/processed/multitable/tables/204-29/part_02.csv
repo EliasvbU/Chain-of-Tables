@@ -1,5 +1,5 @@
-Rank,Lane,Name,Nationality,Time,Notes
-5,5,Charles Francis,Canada,2:00:07,
-6,6,Marco Loughran,Wales,2:00:11,
-7,3,Tobias Oriwol,Canada,2:00:24,
-8,2,Ryan Bennett,England,2:01:86,
+Rank,Lane,Name,Nationality,Time,Notes,Unused_1,Extra_Data_2
+5,5,Charles Francis,Canada,2:00:07,,,518
+6,6,Marco Loughran,Wales,2:00:11,,,921
+7,3,Tobias Oriwol,Canada,2:00:24,,,417
+8,2,Ryan Bennett,England,2:01:86,,,363

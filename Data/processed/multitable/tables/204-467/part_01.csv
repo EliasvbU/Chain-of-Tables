@@ -1,10 +1,12 @@
-Date,Opponents,H/A,ResultF–A,Scorers,Attendance
-27 August 1921,Everton,A,0–5,,"30,000"
-29 August 1921,West Bromwich Albion,H,2–3,"Partridge, Robinson","20,000"
-3 September 1921,Everton,H,2–1,"Harrison, Spence","25,000"
-7 September 1921,West Bromwich Albion,A,0–0,,"15,000"
-10 September 1921,Chelsea,A,0–0,,"35,000"
-17 September 1921,Chelsea,H,0–0,,"28,000"
-24 September 1921,Preston North End,A,2–3,"Lochhead, Partridge","25,000"
-1 October 1921,Preston North End,H,1–1,Spence,"30,000"
-8 October 1921,Tottenham Hotspur,A,2–2,"Sapsford, Spence","35,000"
+Date,Opponents,H/A,ResultF–A,Scorers,Attendance,Noise_Field_1,Filler_2,Extra_Data_3
+27 August 1921,Everton,A,0–5,,"30,000",MkPYzB,WrTeKBLp,613
+29 August 1921,West Bromwich Albion,H,2–3,"Partridge, Robinson","20,000",BfmjU,xRIwqGn,103
+3 September 1921,Everton,H,2–1,"Harrison, Spence","25,000",DtBnRiSB,YIMRo,306
+7 September 1921,West Bromwich Albion,A,0–0,,"15,000",sbKfZV,nllIFZ,869
+10 September 1921,Chelsea,A,0–0,,"35,000",HutXo,sJPPyhL,513
+17 September 1921,Chelsea,H,0–0,,"28,000",BXIKYNRZ,RSBXPiex,453
+24 September 1921,Preston North End,A,2–3,"Lochhead, Partridge","25,000",wbZnPK,CfUNbHk,453
+1 October 1921,Preston North End,H,1–1,Spence,"30,000",ZcghN,DoLbtjqL,788
+8 October 1921,Tottenham Hotspur,A,2–2,"Sapsford, Spence","35,000",tNZVmQ,nGOZc,602
+15 October 1921,Tottenham Hotspur,H,2–1,"Sapsford, Spence","30,000",eJgzAF,bbZtLbq,595
+22 October 1921,Manchester City,A,1–4,Spence,"24,000",Ldjzoou,AGCbBCf,595

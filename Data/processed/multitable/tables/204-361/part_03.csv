@@ -1,11 +1,13 @@
-Tie no,Home team,Score,Away team
-69,IF Eksjö (D4),1-4,Kalmar FF (D2)
-70,Limmareds IF (D4),1-5,Växjö Norra IF (D2)
-71,Bankeryds SK (D4),4-1,Hjulsbro IK (D2)
-72,Skultorps IF (D4),0-2,BK Forward (D2)
-73,Gullspångs IF (D4),0-7,Rynninge IK (D3)
-74,Skara FC (D4),0-4,Karlslunds IF (D3)
-75,Bråtens IK (D4),0-4,Vivalla-Lundby IF (D3)
-76,Finnerödja IF(D4),3-1,IFK Mariestad (D4)
-77,Sköllersta IF (D4),1-3,Hemgårdarnas BK (D4)
-78,Simonstorps IF (D4),0-5,Nyköpings BIS (D2)
+Tie no,Home team,Score,Away team,Unused_1,Filler_2,Extra_Data_3
+73,Gullspångs IF (D4),0-7,Rynninge IK (D3),,ZrQDy,191
+74,Skara FC (D4),0-4,Karlslunds IF (D3),,fHRUoi,618
+75,Bråtens IK (D4),0-4,Vivalla-Lundby IF (D3),,NSdpOV,971
+76,Finnerödja IF(D4),3-1,IFK Mariestad (D4),,llXCaxGY,438
+77,Sköllersta IF (D4),1-3,Hemgårdarnas BK (D4),,QgpwMkbJ,399
+78,Simonstorps IF (D4),0-5,Nyköpings BIS (D2),,SkIZYUX,236
+79,Ringarums IF (D4),1-4,Värmbols FC (D4),,gnEaxden,775
+80,Dagsbergs IF (D4),1-0,Malmköpings IF (D4),,gjZhteOD,723
+81,Katrineholms SK (D4),0-2,BK Kenty (D4),,qztMwSGy,393
+82,Härad IF (D4),2-3 (gg),IFK Västerås (D2),,cCYZBZyt,88
+83,Kolsva IF (D4),0-3,Karlstad BK (D2),,XZCjD,218
+84,Laxå IF (D4),0-4,IF Sylvia (D2),,LJsky,292

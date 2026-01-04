@@ -1,8 +1,15 @@
-IECWorld PlugsType1,Standard,Powerrating,Earthed,Polarised,Fused,Insulatedpins,EuroplugCompatible
-A,NEMA 1-15 unpolarised,15 A/125 V,No,No,No,No,No
-A,NEMA 1-15 polarised,15 A/125 V,No,Yes,No,No,No
-A,"JIS C 8303, Class II",15 A/100 V,No,No,No,No,No
-B,NEMA 5-15,15 A/125 V,Yes*,Yes,No,No,No
-B,NEMA 5-20,20 A/125 V,Yes*,Yes,No,No,No
-B,"JIS C 8303, Class I",15 A/100 V,Yes*,Yes,No,No,No
-C,CEE 7/16 (Europlug),2.5 A/250 V,No,No,No,Yes,Yes
+IECWorld PlugsType1,Standard,Powerrating,Earthed,Polarised,Fused,Insulatedpins,EuroplugCompatible,Noise_Field_1,Irrelevant_2
+A,NEMA 1-15 unpolarised,15 A/125 V,No,No,No,No,No,FvaBDHQ,ePXpGSFT
+A,NEMA 1-15 polarised,15 A/125 V,No,Yes,No,No,No,TyzSygH,kJdtor
+A,"JIS C 8303, Class II",15 A/100 V,No,No,No,No,No,ARaJPEa,UsivYAkb
+B,NEMA 5-15,15 A/125 V,Yes*,Yes,No,No,No,eNYjSXhv,VKVzv7
+B,NEMA 5-20,20 A/125 V,Yes*,Yes,No,No,No,oNIbJamQ,KgDdG6wV
+B,"JIS C 8303, Class I",15 A/100 V,Yes*,Yes,No,No,No,zuLMLPfg,AVm8dn4
+C,CEE 7/16 (Europlug),2.5 A/250 V,No,No,No,Yes,Yes,HWWfs,bk4X48
+-,CEE 7/17,16 A/250 V,No,No2,No,No,Yes,uNoMgl,XwZzSV
+-,GOST 7396 C 1,6 A/250 V16 A/250 V,No,No,No,No,Yes,soHQTE,BIgCIBl
+-,BS 4573,Socket0.2 A/250 VPlugUnspecified7,No,No,No,Yes,No,qytOdC,FnosOE
+D,BS 546,2 A/250 V5 A/250 V15 A/250 V30 A/250 V,Yes,Yes,Optional,Optional,No,CtqPxCj,2Un1AP
+E,CEE 7/5 ‡,16 A/250 V,Yes*,Yes4,No,No†,Yes,ymUzbRwc,ohsfuk
+F,CEE 7/4 Schuko ‡,16 A/250 V,Yes*,No,No,No†,Yes,yGwRb,kakBDtkS
+G,"BS 1363, IS 401 & 411, MS 589, SS 145",13 A/250 V,Yes,Yes,Yes,Yes,No,DXBQiiC,Za186

@@ -1,7 +1,7 @@
-Star,Startyear,Endyear,Maximumyear,Maximummagnitude,Distance atmaximum (LY),Currentdistance,Currentmagnitude
-Delta Scuti,"+1,150,000","+1,330,000","+1,250,000",-1.84,9.2,187,4.72
-Gamma Draconis,"+1,330,000","+2,030,000","+1,550,000",-1.39,27.7,154,2.36
-Upsilon Librae,"+2,030,000","+2,670,000","+2,290,000",-0.46,30,195,3.6
-NR Canis Majoris,"+2,670,000","+3,050,000","+2,870,000",-0.88,14,280,5.6
-Omicron Herculis,"+3,050,000","+3,870,000","+3,470,000",-0.63,44,346,3.83
-Beta Cygni,"+3,870,000",...,"+4,610,000",-0.52,80,390,3.18
+Star,Startyear,Endyear,Maximumyear,Maximummagnitude,Distance atmaximum (LY),Currentdistance,Currentmagnitude,Dummy_Col_1,Unused_2,Dummy_Col_3
+Delta Scuti,"+1,150,000","+1,330,000","+1,250,000",-1.84,9.2,187,4.72,ccqwvem,,vRThVplV
+Gamma Draconis,"+1,330,000","+2,030,000","+1,550,000",-1.39,27.7,154,2.36,jkkYck,,TmmHjQ
+Upsilon Librae,"+2,030,000","+2,670,000","+2,290,000",-0.46,30,195,3.6,hVMFfeE,,QmZhA
+NR Canis Majoris,"+2,670,000","+3,050,000","+2,870,000",-0.88,14,280,5.6,DfvUl,,ShUnnDXZ
+Omicron Herculis,"+3,050,000","+3,870,000","+3,470,000",-0.63,44,346,3.83,JqyGxpg,,xQhbe
+Beta Cygni,"+3,870,000",...,"+4,610,000",-0.52,80,390,3.18,mYuIVhN,,KviIFcwg

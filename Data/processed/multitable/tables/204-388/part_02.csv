@@ -1,11 +1,11 @@
-#,Date,Visitor,Score,Home,Record,Pts
-11,November 28,Boston Bruins,4–5,Chicago Black Hawks,7–4–0,14
-12,November 30,Chicago Black Hawks,5–6,Boston Bruins,7–5–0,14
-13,December 2,Chicago Black Hawks,2–6,Montreal Canadiens,7–6–0,14
-14,December 5,New York Rangers,6–7,Chicago Black Hawks,8–6–0,16
-15,December 12,Toronto Maple Leafs,2–3,Chicago Black Hawks,9–6–0,18
-16,December 14,Chicago Black Hawks,3–4,Boston Bruins,9–7–0,18
-17,December 18,Chicago Black Hawks,4–8,Toronto Maple Leafs,9–8–0,18
-18,December 19,Toronto Maple Leafs,5–2,Chicago Black Hawks,9–9–0,18
-19,December 22,Detroit Red Wings,1–7,Chicago Black Hawks,10–9–0,20
-20,December 25,Chicago Black Hawks,1–5,Montreal Canadiens,10–10–0,20
+#,Date,Visitor,Score,Home,Record,Pts,Dummy_Col_1,Filler_2
+11,November 28,Boston Bruins,4–5,Chicago Black Hawks,7–4–0,14,YkPGf,sCSkQISH
+12,November 30,Chicago Black Hawks,5–6,Boston Bruins,7–5–0,14,IIZyDsmR,XoYtUtWt
+13,December 2,Chicago Black Hawks,2–6,Montreal Canadiens,7–6–0,14,eBJcso,iPkmk
+14,December 5,New York Rangers,6–7,Chicago Black Hawks,8–6–0,16,lqUAi,lRoazLxL
+15,December 12,Toronto Maple Leafs,2–3,Chicago Black Hawks,9–6–0,18,HZeQWEM,dcjacpkb
+16,December 14,Chicago Black Hawks,3–4,Boston Bruins,9–7–0,18,eccbgBfs,MBGpi
+17,December 18,Chicago Black Hawks,4–8,Toronto Maple Leafs,9–8–0,18,HFbhQ,NAdnOX
+18,December 19,Toronto Maple Leafs,5–2,Chicago Black Hawks,9–9–0,18,HFJFb,gMzfni
+19,December 22,Detroit Red Wings,1–7,Chicago Black Hawks,10–9–0,20,kfLCAlMd,WKkStH
+20,December 25,Chicago Black Hawks,1–5,Montreal Canadiens,10–10–0,20,ssSoQL,GNpcG

@@ -1,5 +1,5 @@
-,Separation(arcsec),Separation(au),Most RecentPosition Angle,Period(years),Semi-major axis(arcseconds),Notes
-CE,63.7,3200,333,,,
-EF,46,2300,37,,,
-EG,50,2500,238,,,
-GH,35,1800,358,,,
+,Separation(arcsec),Separation(au),Most RecentPosition Angle,Period(years),Semi-major axis(arcseconds),Notes,Extra_Data_1,Extra_Data_2
+CE,63.7,3200,333,,,,744,280
+EF,46,2300,37,,,,37,629
+EG,50,2500,238,,,,235,814
+GH,35,1800,358,,,,861,236

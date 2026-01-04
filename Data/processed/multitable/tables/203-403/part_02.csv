@@ -1,6 +1,9 @@
-,Country,Builder,Location,Ship,Class,Notes
-6 August,United Kingdom,Harland and Wolff,"Belfast, Northern Ireland",Britannic,Ocean liner,For White Star Line
-5 September,United States,Fore River Shipyard,"Quincy, Massachusetts",Northampton,Northampton-class cruiser,
-7 September,United States,Newport News Shipbuilding & Dry Dock Company,"Newport News, Virginia",Houston,Northampton-class cruiser,
-Date unknown,Norway,Trondhjems mekaniske Værksted,Trondheim,Barøy,Passenger/cargo ship,
-Date unknown,Germany,Deutsche Werft,Hamburg,Ceuta,Cargo ship,For Oldenburg-Portugiesische Dampfschiffs-Reederei
+,Country,Builder,Location,Ship,Class,Notes,Extra_Data_1,Irrelevant_2
+7 September,United States,Newport News Shipbuilding & Dry Dock Company,"Newport News, Virginia",Houston,Northampton-class cruiser,,722,MPA48nMQ
+Date unknown,Norway,Trondhjems mekaniske Værksted,Trondheim,Barøy,Passenger/cargo ship,,2,nC00F
+Date unknown,Germany,Deutsche Werft,Hamburg,Ceuta,Cargo ship,For Oldenburg-Portugiesische Dampfschiffs-Reederei,552,Vx7FLtW2
+Date unknown,Germany,AG Weser,Bremen,Hercules,Cargo ship,For Dampfschiffahrts-Gesellschaft Neptun,596,CYolh
+Date unknown,United Kingdom,Smiths Dock Co Ltd,Middlesbrough,Vikingen I,Whaler,,969,tf4aUoI
+Date unknown,United Kingdom,Smiths Dock Co Ltd,Middlesbrough,Vikingen II,Whaler,,208,ZKxNOu
+Date unknown,United Kingdom,Smiths Dock Co Ltd,Middlesbrough,Vikingen III,Whaler,,624,spVJ8QUI
+Date unknown,Sweden,,"Björkenäs, Sweden",Yngve,Schooner,,928,EDfDjVS

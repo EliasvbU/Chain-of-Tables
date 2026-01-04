@@ -1,11 +1,13 @@
-#,Name,Age,Disappeared,Found
-31,Tina Marie Thompson,21,"July 25, 1983","April 20, 1984"
-32,April Dawn Buttram,16,"August 18, 1983","August 30, 2003"
-33,Debbie May Abernathy,26,"September 5, 1983","March 31, 1984"
-34,Tracy Ann Winston,19,"September 12, 1983","March 27, 1986"
-35,Maureen Sue Feeney,19,"September 28, 1983","May 2, 1986"
-36,Mary Sue Bello,25,"October 11, 1983","October 12, 1984"
-37,Pammy Annette Avent,15,"October 26, 1983","August 16, 2003"
-38,Delise Louise Plager,22,"October 30, 1983","February 14, 1984"
-39,Kimberly L. Nelson,21,"November 1, 1983","June 14, 1986"
-40,Lisa Yates,19,"December 23, 1983","March 13, 1984"
+#,Name,Age,Disappeared,Found,Extra_Data_1
+38,Delise Louise Plager,22,"October 30, 1983","February 14, 1984",930
+39,Kimberly L. Nelson,21,"November 1, 1983","June 14, 1986",240
+40,Lisa Yates,19,"December 23, 1983","March 13, 1984",487
+41,Mary Exzetta West,16,"February 6, 1984","September 8, 1985",713
+42,Cindy Anne Smith,17,"March 21, 1984","June 27, 1987",283
+43,Patricia Michelle Barczak,19,"October 17, 1986",February 1993,140
+44,Roberta Joseph Hayes,21,"February 7, 1987","September 11, 1991",687
+45,Marta Reeves,36,"March 5, 1990","September 20, 1990",874
+46,Patricia Yellowrobe,38,January 1998,"August 6, 1998",106
+47,Unidentified White Female,12–17,Died prior to May 1983,"March 21, 1984",417
+48,Unidentified White Female,14–18,December 1980 – January 1984,"January 2, 1986",286
+49,Unidentified Female,13–24,1973–1993,August 2003,861

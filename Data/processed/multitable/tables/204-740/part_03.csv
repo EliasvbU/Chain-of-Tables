@@ -1,6 +1,6 @@
-Pos,No,Driver,Constructor,Laps,Time/Retired,Grid,Points
-11,19,Narain Karthikeyan,Jordan-Toyota,54,+2 Laps,17,
-12,18,Tiago Monteiro,Jordan-Toyota,53,+3 Laps,18,
-13,21,Christijan Albers,Minardi-Cosworth,52,+4 Laps,19,
-Ret,2,Rubens Barrichello,Ferrari,49,Handling,12,
-Ret,6,Giancarlo Fisichella,Renault,36,Collision,3,
+Pos,No,Driver,Constructor,Laps,Time/Retired,Grid,Points,Dummy_Col_1,Irrelevant_2,Extra_Data_3
+11,19,Narain Karthikeyan,Jordan-Toyota,54,+2 Laps,17,,CkfevzWc,hFijnYjZ,725
+12,18,Tiago Monteiro,Jordan-Toyota,53,+3 Laps,18,,ctIoI,YuoOKy,241
+13,21,Christijan Albers,Minardi-Cosworth,52,+4 Laps,19,,SBEVwlu,EzYY0,712
+Ret,2,Rubens Barrichello,Ferrari,49,Handling,12,,iVXNMIuu,7yN7sGO,133
+Ret,6,Giancarlo Fisichella,Renault,36,Collision,3,,bxGSbIfy,1veXQ,865

@@ -1,7 +1,7 @@
-Riding,Candidate,Gender,Residence,Occupation,Votes,%,Rank,Biographical notes
-Cape Breton—Canso,Mark MacNeill,M,Inverness,Government and Business Policy Advisor,"7,660",21.1,3rd,"Served in Ottawa as a consultant with National Advisory Board on Science and Technology, with the Treasury Board Secretariat and the Solicitor General's Aboriginal Policing Secretariat."
-Central Nova,Mary Louise Lorefice,F,Antigonish,Retired educator,"7,659",19.6,3rd,"Lorefice is a retired teacher from Antigonish, who has lived in the community for 38 years."
-Cumberland—Colchester—Musquodoboit Valley,Karen Olsson,F,North River,Stay-at-home Mother,"4,874",12.3,2nd,
-Dartmouth—Cole Harbour,Brad Pye,M,"Ottawa, ON",Senior Political Party Program Officer,"12,793",31.5,2nd,Pye is an international development worker and son of former Dartmouth North MLA Jerry Pye.
-Halifax,Megan Leslie,F,Halifax,Community Legal Worker,"19,252",42.7,1st,
-Halifax West,Tamara Lorincz,F,Halifax,Director of Nova Scotia Environment Network,"12,201",29.6,2nd,An environmentalist.
+Riding,Candidate,Gender,Residence,Occupation,Votes,%,Rank,Biographical notes,Extra_Data_1
+Cape Breton—Canso,Mark MacNeill,M,Inverness,Government and Business Policy Advisor,"7,660",21.1,3rd,"Served in Ottawa as a consultant with National Advisory Board on Science and Technology, with the Treasury Board Secretariat and the Solicitor General's Aboriginal Policing Secretariat.",872
+Central Nova,Mary Louise Lorefice,F,Antigonish,Retired educator,"7,659",19.6,3rd,"Lorefice is a retired teacher from Antigonish, who has lived in the community for 38 years.",445
+Cumberland—Colchester—Musquodoboit Valley,Karen Olsson,F,North River,Stay-at-home Mother,"4,874",12.3,2nd,,330
+Dartmouth—Cole Harbour,Brad Pye,M,"Ottawa, ON",Senior Political Party Program Officer,"12,793",31.5,2nd,Pye is an international development worker and son of former Dartmouth North MLA Jerry Pye.,844
+Halifax,Megan Leslie,F,Halifax,Community Legal Worker,"19,252",42.7,1st,,991
+Halifax West,Tamara Lorincz,F,Halifax,Director of Nova Scotia Environment Network,"12,201",29.6,2nd,An environmentalist.,832

@@ -1,11 +1,13 @@
-Team,Car(s),#,Driver(s),Primary Sponsor(s),Listed Owner(s),Crew Chief
-Buckshot Racing,Pontiac Grand Prix,00,Larry Pearson,Cheez-It,Billy Jones,Kenneth Campbell
-Cicci-Welliver Racing,Chevrolet Monte Carlo,34,Mike McLaughlin,Goulds Pumps,Frank Cicci,Jay Smith
-Cicci-Welliver Racing,Pontiac Grand Prix,36,Tim Fedewa,Stanley Tools,Scott Welliver,Vic Kangas
-Cicci-Welliver Racing,Chevrolet Monte Carlo,66,Todd Bodine,Phillips 66,Jeffrey Welliver,Donnie Richeson
-Curb/Agajanian Motorsports,Chevrolet Monte Carlo,43,Shane Hall,Central Tractor,Don Stegall,Gene Nead
-"Dale Earnhardt, Inc.",Chevrolet Monte Carlo,3,"Dale Earnhardt, Jr.",AC Delco,Dale Earnhardt,"Tony Eury, Sr."
-Diamond Ridge Motorsports,Chevrolet Monte Carlo,4,Jeff Purvis,Lance Snacks,Gary Bechtel,Johnny Allen
-Excel Motorsports,Chevrolet Monte Carlo,56,Jeff Krogh,Clearwater Forest Industries,Molly Krogh,Sammy Speaks
-Excel Motorsports,Chevrolet Monte Carlo,80,Mark Krogh,Clearwater Forest Industries,Robert Krogh,Doug George
-Grubb Motorsports,Chevrolet Monte Carlo,83,Wayne Grubb,Link-Belt,William Grubb,Bobby King
+Team,Car(s),#,Driver(s),Primary Sponsor(s),Listed Owner(s),Crew Chief,Extra_Data_1,Random_Column_2
+Cicci-Welliver Racing,Pontiac Grand Prix,36,Tim Fedewa,Stanley Tools,Scott Welliver,Vic Kangas,317,yRxhcva
+Cicci-Welliver Racing,Chevrolet Monte Carlo,66,Todd Bodine,Phillips 66,Jeffrey Welliver,Donnie Richeson,114,72Xfe
+Curb/Agajanian Motorsports,Chevrolet Monte Carlo,43,Shane Hall,Central Tractor,Don Stegall,Gene Nead,291,Zx0KNKM
+"Dale Earnhardt, Inc.",Chevrolet Monte Carlo,3,"Dale Earnhardt, Jr.",AC Delco,Dale Earnhardt,"Tony Eury, Sr.",511,mL9qJExb
+Diamond Ridge Motorsports,Chevrolet Monte Carlo,4,Jeff Purvis,Lance Snacks,Gary Bechtel,Johnny Allen,730,BRB0Z
+Excel Motorsports,Chevrolet Monte Carlo,56,Jeff Krogh,Clearwater Forest Industries,Molly Krogh,Sammy Speaks,575,55jpWIa
+Excel Motorsports,Chevrolet Monte Carlo,80,Mark Krogh,Clearwater Forest Industries,Robert Krogh,Doug George,677,BVvrgLo3
+Grubb Motorsports,Chevrolet Monte Carlo,83,Wayne Grubb,Link-Belt,William Grubb,Bobby King,736,EihGr
+GTS Motorsports,Chevrolet Monte Carlo,90,Brad Loney,Coyne Textile Services,Frederick Maggio,Bob Johnson,354,gusYhg
+Hank Parker Racing,Chevrolet Monte Carlo,53,Hank Parker Jr. (R),B.A.S.S.,Hank Parker,Dave McCarty,430,Fj37Z
+Henderson Brothers Racing,Chevrolet Monte Carlo,75,Kelly Denton (R),Big Daddy's BBQ Sauce,Charlie Henderson,Ron Denton,537,Bhol4hr
+Hillin Racing,Chevrolet Monte Carlo,8,Bobby Hillin,Clean Shower,Robert Hayes,Steve Hibbard,781,IY23n

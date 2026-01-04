@@ -1,8 +1,11 @@
-Region,Date,Label,Format,Catalog
-Netherlands,"April 19, 2004",Magik Muzik,"vinyl, 12\"",Magik Muzik 817-5""",
-Netherlands,"April 19, 2004",Magik Muzik,"CD, Maxi",Magik Muzik 817-2
-Netherlands,"April 19, 2004",Magik Muzik,"CD, Single",Magik Muzik 817-1
-Germany,"May, 2004",Kontor Records,"CD, Maxi",Kontor375
-Germany,"April 8, 2004",Kontor Records,"vinyl, 12\"",Kontor375""",
-Australia,"April, 2004",Bang On!,"vinyl, 12\"",BANG 056""",
-Australia,"May, 2004",Bang On!,"CD, Maxi",BANG0096
+Region,Date,Label,Format,Catalog,Extra_Data_1,Noise_Field_2
+Netherlands,"April 19, 2004",Magik Muzik,"vinyl, 12\"",Magik Muzik 817-5""",,646,lyynaiP
+Netherlands,"April 19, 2004",Magik Muzik,"CD, Maxi",Magik Muzik 817-2,992,TTxtQQfx
+Netherlands,"April 19, 2004",Magik Muzik,"CD, Single",Magik Muzik 817-1,856,Fpllf
+Germany,"May, 2004",Kontor Records,"CD, Maxi",Kontor375,122,WGKBEs
+Germany,"April 8, 2004",Kontor Records,"vinyl, 12\"",Kontor375""",,312,ywZnHgJZ
+Australia,"April, 2004",Bang On!,"vinyl, 12\"",BANG 056""",,957,RoSqFr
+Australia,"May, 2004",Bang On!,"CD, Maxi",BANG0096,930,QsFEEV
+United Kingdom,"April 30, 2004",Nebula,"CD, Maxi, Enhanced",NEBCD058,299,GsbkM
+United Kingdom,"April 30, 2004",Nebula,"CD, Single, Promo",NEBCDDJ058,534,LfKFr
+United Kingdom,"April 30, 2004",Nebula,"vinyl, 12\"," Promo""",131,PSiXTR

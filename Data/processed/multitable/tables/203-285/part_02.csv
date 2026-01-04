@@ -1,10 +1,12 @@
-Year,Location,Gold,Silver,Bronze
-1981,Moscow,Natalia Ilienko,Yelena Davydova,Zoja Grantcharova
-1983,Budapest,Ekaterina Szabo,Olga Mostepanova,Boriana Stoyanova
-1985,Montreal,Oksana Omelianchik,Elena Shushunova,Ulrike Klotz
-1987,Rotterdam,Daniela Silivaş Elena Shushunova,-,Aurelia Dobre
-1989,Stuttgart,Daniela Silivaş Svetlana Boguinskaya,-,Cristina Bontaş
-1991,Indianapolis,Cristina Bontaş Oksana Chusovitina,-,Kim Zmeskal
-1992,Paris,Kim Zmeskal,Henrietta Ónodi,Maria Neculiţă Tatiana Lysenko
-1993,Birmingham,Shannon Miller,Gina Gogean,Natalia Bobrova
-1994,Brisbane,Dina Kochetkova,Lavinia Miloşovici,Gina Gogean
+Year,Location,Gold,Silver,Bronze,Noise_Field_1
+1987,Rotterdam,Daniela Silivaş Elena Shushunova,-,Aurelia Dobre,CvwCfSKd
+1989,Stuttgart,Daniela Silivaş Svetlana Boguinskaya,-,Cristina Bontaş,FmBBNv
+1991,Indianapolis,Cristina Bontaş Oksana Chusovitina,-,Kim Zmeskal,iqAUihBj
+1992,Paris,Kim Zmeskal,Henrietta Ónodi,Maria Neculiţă Tatiana Lysenko,hFjPdMLx
+1993,Birmingham,Shannon Miller,Gina Gogean,Natalia Bobrova,fpbjsOpE
+1994,Brisbane,Dina Kochetkova,Lavinia Miloşovici,Gina Gogean,FUewBcnI
+1995,Sabae,Gina Gogean,Ji Liya,Ludivine Furnon,NTrhj
+1996,San Juan,Kui Yuan-Yuan Gina Gogean,-,Liubov Sheremeta Lavinia Miloşovici,pUPYe
+1997,Lausanne,Gina Gogean,Svetlana Khorkina,Elena Produnova,BipQZsHb
+1999,Tianjin,Andreea Răducan,Simona Amânar,Svetlana Khorkina,lcvSrykr
+2001,Ghent,Andreea Răducan,Daniele Hypólito,Svetlana Khorkina,leyxNdUm

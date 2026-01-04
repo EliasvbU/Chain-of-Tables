@@ -1,9 +1,9 @@
-Region,Rnd,Host,Venue,City,State
-West,1,Long Beach State,University Gym (Gold Mine),Long Beach,California
-West,1,University of Mississippi,Tad Smith Coliseum,"University, Mississippi",Mississippi
-West,1,University of Montana,Dahlberg Arena,Missoula,Montana
-West,1,University of Arkansas,Barnhill Arena,Fayetteville,Arkansas
-West,2,University of Georgia,Georgia Coliseum (Stegeman Coliseum),Athens,Georgia
-West,2,Stanford University,Maples Pavilion,Stanford,California
-West,2,"University of Nevada, Las Vegas",South Gym,Paradise,Nevada
-West,2,Stephen F. Austin University,William R. Johnson Coliseum,Nacogdoches,Texas
+Region,Rnd,Host,Venue,City,State,Random_Column_1,Irrelevant_2,Filler_3
+West,1,Long Beach State,University Gym (Gold Mine),Long Beach,California,iS1LJx1t,ca4ZG,NouFmM
+West,1,University of Mississippi,Tad Smith Coliseum,"University, Mississippi",Mississippi,933qWOO,Ct4LQr0T,qornC
+West,1,University of Montana,Dahlberg Arena,Missoula,Montana,l7wY6,8OLt9yWT,VyXwM
+West,1,University of Arkansas,Barnhill Arena,Fayetteville,Arkansas,Jrydn,rPVMvseQ,MSMzY
+West,2,University of Georgia,Georgia Coliseum (Stegeman Coliseum),Athens,Georgia,bAxJZ,EmyGiWlf,lWDLUviN
+West,2,Stanford University,Maples Pavilion,Stanford,California,B064r3,NUnqHJrF,kJjweBv
+West,2,"University of Nevada, Las Vegas",South Gym,Paradise,Nevada,jwg2AFhN,YsTci6F,GldAix
+West,2,Stephen F. Austin University,William R. Johnson Coliseum,Nacogdoches,Texas,2uvtg,aPVZT8,kpxlGE

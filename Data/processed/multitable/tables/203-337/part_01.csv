@@ -1,10 +1,12 @@
-Year,Date,Winner,Make,Pole,Make,Results
-1970,October 4,Dave Sorg,Mercury,Ron North,Oldsmobile,Report
-1971,October 3,Denny Miles,Chevrolet,Les Snow,Plymouth,Report
-1972,October 1,Dave Sorg,Chevrolet,Larry Moore,Chevrolet,Report
-1973,September 30,Vern Schrock,Pontiac,Ed VanderLaan,Chevrolet,Report
-1974,September 29,Bob Senneker,Chevrolet,Vern Schrock,Chevrolet,Report
-1975,September 28,Bob Senneker,Chevrolet,Larry Moore,Chevrolet,Report
-1976,October 4,Bob Senneker,Chevrolet,Bob Senneker,Chevrolet,Report
-1977,October 2,Bob Senneker,Chevrolet,Bob Senneker,Chevrolet,Report
-1978,October 1,Bob Senneker,Chevrolet,Bob Sensiba,Chevrolet,Report
+Year,Date,Winner,Make,Pole,Make,Results,Extra_Data_1,Dummy_Col_2
+1970,October 4,Dave Sorg,Mercury,Ron North,Oldsmobile,Report,670,Zuzqk
+1971,October 3,Denny Miles,Chevrolet,Les Snow,Plymouth,Report,209,FsygCON
+1972,October 1,Dave Sorg,Chevrolet,Larry Moore,Chevrolet,Report,852,MiXZVmR
+1973,September 30,Vern Schrock,Pontiac,Ed VanderLaan,Chevrolet,Report,885,qVwyKs
+1974,September 29,Bob Senneker,Chevrolet,Vern Schrock,Chevrolet,Report,365,uiASyQ
+1975,September 28,Bob Senneker,Chevrolet,Larry Moore,Chevrolet,Report,735,YAUTAhDd
+1976,October 4,Bob Senneker,Chevrolet,Bob Senneker,Chevrolet,Report,816,EyNJR
+1977,October 2,Bob Senneker,Chevrolet,Bob Senneker,Chevrolet,Report,275,yFWtwNL
+1978,October 1,Bob Senneker,Chevrolet,Bob Sensiba,Chevrolet,Report,427,snAyoLE
+1979,October 7,Don Gregory,Oldsmobile,Randy Sweet,Chevrolet,Report,364,KbtIk
+1980,October 5,Terry Senneker,Chevrolet,Mark Martin,Chevrolet,Report,79,YdKWHngi

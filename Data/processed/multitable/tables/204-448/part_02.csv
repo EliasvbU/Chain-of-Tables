@@ -1,10 +1,13 @@
-Team,Winners,Runners-up,Years won,Years runner-up
-Norwich City,2,2,"1962, 1985","1973, 1975"
-Birmingham City,2,1,"1963, 2011",2001
-Wolverhampton Wanderers,2,0,"1974, 1980",—
-West Bromwich Albion,1,2,1966,"1967, 1970"
-Middlesbrough,1,2,2004,"1997, 1998"
-Queens Park Rangers,1,1,1967,1986
-Leeds United,1,1,1968,1996
-Stoke City,1,1,1972,1964
-Luton Town,1,1,1988,1989
+Team,Winners,Runners-up,Years won,Years runner-up,Extra_Data_1,Dummy_Col_2,Unused_3
+West Bromwich Albion,1,2,1966,"1967, 1970",411,bGluA,
+Middlesbrough,1,2,2004,"1997, 1998",498,lrgGS,
+Queens Park Rangers,1,1,1967,1986,578,iNfnGYvh,
+Leeds United,1,1,1968,1996,830,QXBwy,
+Stoke City,1,1,1972,1964,614,strUy,
+Luton Town,1,1,1988,1989,40,SxMBhTf,
+Sheffield Wednesday,1,1,1991,1993,700,PgiYv,
+Swindon Town,1,0,1969,—,866,miYMM,
+Oxford United,1,0,1986,—,400,XHMWTE,
+Blackburn Rovers,1,0,2002,—,769,BcrsBKwe,
+Swansea City,1,0,2013,—,769,NohfTz,
+West Ham United,0,2,—,"1966, 1981",887,jypaXC,

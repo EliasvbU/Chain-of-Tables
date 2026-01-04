@@ -1,8 +1,14 @@
-#,Date,Opponent,Score,Win,Loss,Save,Attendance,Record
-143,September 9,@ Mets,4 - 1,Martínez (2-0),Oswalt (14-7),Wagner (32),"51,847",62-81
-144,September 11,Cubs,5 - 4 (11),Lidge (4-2),Dempster (2-6),,"33,493",63-81
-145,September 12,Cubs,3 - 2,Hill (9-8),Albers (4-8),Dempster (26),"33,115",63-82
-146,September 13,Cubs,6 - 2,Trachsel (7-10),Williams (8-15),,"34,234",63-83
-147,September 14,Pirates,4 - 3,Sánchez (1-0),Qualls (6-5),Capps (17),"35,352",63-84
-148,September 15,Pirates,9 - 7,Gutiérrez (1-1),Morris (9-10),Lidge (15),"40,425",64-84
-149,September 16,Pirates,15 - 3,Backe (1-1),Maholm (10-15),,"35,715",65-84
+#,Date,Opponent,Score,Win,Loss,Save,Attendance,Record,Dummy_Col_1,Dummy_Col_2,Extra_Data_3
+150,September 17,Brewers,6 - 0,Gallardo (9-4),Albers (4-9),,"32,578",65-85,nJIYKdd,YmNZcIsV,992
+151,September 18,Brewers,9 - 1,Vargas (11-4),Paulino (0-1),,"32,866",65-86,ZZtBP,fbxCHF,347
+152,September 19,Brewers,5 - 4 (10),Lidge (5-2),Wise (3-2),,"36,981",66-86,BttWOZkd,oTivQXYn,606
+153,September 20,@ Cardinals,18 - 1,Rodríguez (9-13),Looper (12-11),,"42,171",67-86,BcQaKMAv,uUOGq,712
+154,September 21,@ Cardinals,6 - 3,Backe (2-1),Piñeiro (6-5),Lidge (16),"43,677",68-86,ZDbJRjL,NwYjy,405
+155,September 22,@ Cardinals,7 - 4,Thompson (7-6),Albers (4-10),Isringhausen (30),"46,237",68-87,YyRvk,TkLMe,145
+156,September 23,@ Cardinals,4 - 3,Jiménez (3-0),Lidge (5-3),,"46,169",68-88,eXojyaMi,scdIFynM,133
+157,September 25,@ Reds,8 - 5,Paulino (1-1),Coutlangus (4-2),Lidge (17),"13,261",69-88,AVluQHTh,flRmJmkc,384
+158,September 26,@ Reds,7 - 6,Sarfate (1-0),Burton (4-2),Qualls (5),"13,138",70-88,qauoIo,iNpEfKbo,653
+159,September 27,@ Reds,4 - 3,Borkowski (5-3),Majewski (0-4),Lidge (18),"13,626",71-88,LjAFoysB,TLCKnQ,903
+160,September 28,Braves,7 - 2,Reyes (2-2),Albers (4-11),,"43,011",71-89,zijIo,Zunedqn,419
+161,September 29,Braves,3 - 2,Backe (3-1),Bennett (2-1),Lidge (19),"43,624",72-89,QbSgvjXH,JMMfTfMw,693
+162,September 30,Braves,3 - 0,Paulino (2-1),Carlyle (8-7),Borkowski (1),"43,823",73-89,irqDYFk,vebOl,152

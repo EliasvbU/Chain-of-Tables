@@ -1,10 +1,13 @@
-Game,Date,Opponent,Venue,Result,Attendance,Goalscorers
-11,7 October 1978,Huddersfield Town,Away,1–1,"5,150",Brownbill
-12,14 October 1978,Doncaster Rovers,Home,1–0,"5,788",Ward
-13,18 October 1978,Halifax Town,Home,1–0,"5,216",Hinnigan
-14,21 October 1978,Barnsley,Away,0–0,"9,841",
-15,28 October 1978,Northampton Town,Home,2–0,"6,264","Purdie (2, 1 pen.)"
-16,3 November 1978,Stockport County,Away,1–0,"8,357",Hinnigan
-17,10 November 1978,Newport County,Away,1–2,"4,142",Houghton
-18,18 November 1978,Reading,Home,3–0,"5,858","Houghton (2), Ward"
-19,9 December 1978,Darlington,Away,1–1,"1,967",Moore
+Game,Date,Opponent,Venue,Result,Attendance,Goalscorers,Random_Column_1
+13,18 October 1978,Halifax Town,Home,1–0,"5,216",Hinnigan,GP05OcDZ
+14,21 October 1978,Barnsley,Away,0–0,"9,841",,5lIHa
+15,28 October 1978,Northampton Town,Home,2–0,"6,264","Purdie (2, 1 pen.)",ggU6s
+16,3 November 1978,Stockport County,Away,1–0,"8,357",Hinnigan,1h0Yq
+17,10 November 1978,Newport County,Away,1–2,"4,142",Houghton,pA9haP0
+18,18 November 1978,Reading,Home,3–0,"5,858","Houghton (2), Ward",AdCaXj
+19,9 December 1978,Darlington,Away,1–1,"1,967",Moore,diMjrlm2
+20,16 December 1978,Halifax Town,Away,2–1,"2,437","Moore, Purdie",6XtWvLse
+21,26 December 1978,Crewe Alexandra,Home,1–0,"7,586",Houghton,pjd5PW0
+22,30 December 1978,Aldershot,Home,3–2,"7,289","Moore, Houghton (2)",OMzmr
+23,9 January 1979,Port Vale,Away,1–2,"3,744",Wright (pen.),IKoJU
+24,3 February 1979,Portsmouth,Home,2–0,"8,289","Wright, Corrigan",Ety0K

@@ -1,9 +1,9 @@
-Boat #,Name,Builder,Laid down,Launched,Completed,Fate
-4947,Ha-237,Mitsubishi-Kōbe Shipyard,10-07-1945,,,"Incomplete until the end of war (25%). Scrapped, June 1946."
-4948,Ha-238,Mitsubishi-Kōbe Shipyard,01-08-1945,,,"Incomplete until the end of war (15%). Scrapped, June 1946."
-4949,Ha-239,Mitsubishi-Kōbe Shipyard,01-08-1945,,,"Incomplete until the end of war. Scrapped, June 1946."
-4950,Ha-240,Mitsubishi-Kōbe Shipyard,01-08-1945,,,"Incomplete until the end of war. Scrapped, June 1946."
-4951 - 4955,,,,,,Constructions were not started until the end of war.
-4956,Ha-246,Kawasaki-Senshū Shipyard,13-07-1945,,,Incomplete until the end of war (5%). Later scrapped.
-4957,Ha-247,Kawasaki-Kōbe Shipyard,26-06-1945,,,Incomplete until the end of war. Later scrapped.
-4958 - 4989,,,,,,Constructions were not started until the end of war.
+Boat #,Name,Builder,Laid down,Launched,Completed,Fate,Dummy_Col_1,Extra_Data_2
+4947,Ha-237,Mitsubishi-Kōbe Shipyard,10-07-1945,,,"Incomplete until the end of war (25%). Scrapped, June 1946.",FsZNnfZb,406
+4948,Ha-238,Mitsubishi-Kōbe Shipyard,01-08-1945,,,"Incomplete until the end of war (15%). Scrapped, June 1946.",RdXLbOO,107
+4949,Ha-239,Mitsubishi-Kōbe Shipyard,01-08-1945,,,"Incomplete until the end of war. Scrapped, June 1946.",QXcfPs,230
+4950,Ha-240,Mitsubishi-Kōbe Shipyard,01-08-1945,,,"Incomplete until the end of war. Scrapped, June 1946.",kslcFJA,757
+4951 - 4955,,,,,,Constructions were not started until the end of war.,Wrxkal,461
+4956,Ha-246,Kawasaki-Senshū Shipyard,13-07-1945,,,Incomplete until the end of war (5%). Later scrapped.,lPTfpq,255
+4957,Ha-247,Kawasaki-Kōbe Shipyard,26-06-1945,,,Incomplete until the end of war. Later scrapped.,scXwk,198
+4958 - 4989,,,,,,Constructions were not started until the end of war.,JWRuZQDv,371

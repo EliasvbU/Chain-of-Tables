@@ -1,6 +1,9 @@
-Week,Date,Opponent,Result,Attendance
-7,"October 18, 1981",St. Louis Cardinals,W 41–20,"51,428"
-8,"October 25, 1981",New York Giants,L 27–24,"48,410"
-9,"November 1, 1981",at New Orleans Saints,W 41–10,"63,637"
-10,"November 8, 1981",at San Francisco 49ers,L 17–14,"59,127"
-11,"November 15, 1981",Pittsburgh Steelers,L 34–20,"57,485"
+Week,Date,Opponent,Result,Attendance,Extra_Data_1,Filler_2
+9,"November 1, 1981",at New Orleans Saints,W 41–10,"63,637",351,qpJMsXv
+10,"November 8, 1981",at San Francisco 49ers,L 17–14,"59,127",319,pJWYe
+11,"November 15, 1981",Pittsburgh Steelers,L 34–20,"57,485",130,FNtHnl
+12,"November 23, 1981",Minnesota Vikings,W 31–30,"54,086",947,yfvDC
+13,"November 29, 1981",at Houston Oilers,W 31–27,"40,201",448,DnCtQt
+14,"December 6, 1981",at Tampa Bay Buccaneers,L 24–23,"69,221",868,POqqnIfE
+15,"December 14, 1981",at Los Angeles Rams,L 21–16,"57,054",685,eVBrt
+16,"December 20, 1981",Cincinnati Bengals,L 30–28,"35,972",982,NYHDLS

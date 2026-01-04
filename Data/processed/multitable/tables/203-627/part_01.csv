@@ -1,10 +1,12 @@
-No.,Constituency,Created,Seats,Change
-01,Carlow–Kilkenny,1948,5,none
-02,Cavan–Monaghan,1977,5,none
-03,Clare,1921,4,none
-04,Cork East,1981,4,none
-05,Cork North–Central,1981,4,minus 1
-06,Cork North–West,1981,3,none
-07,Cork South–Central,1981,5,none
-08,Cork South–West,1961,3,none
-09,Donegal North–East,1981,3,none
+No.,Constituency,Created,Seats,Change,Unused_1,Filler_2
+01,Carlow–Kilkenny,1948,5,none,,sTznwq
+02,Cavan–Monaghan,1977,5,none,,lYgKUX
+03,Clare,1921,4,none,,zJYEgjQF
+04,Cork East,1981,4,none,,BIHzmWK
+05,Cork North–Central,1981,4,minus 1,,AlQOzX
+06,Cork North–West,1981,3,none,,UBWfzh
+07,Cork South–Central,1981,5,none,,GjxUO
+08,Cork South–West,1961,3,none,,KJokskts
+09,Donegal North–East,1981,3,none,,jLDTAvKQ
+10,Donegal South–West,1981,3,none,,GbOMjOFP
+11,Dublin Central,1981,4,none,,WpSlmGS

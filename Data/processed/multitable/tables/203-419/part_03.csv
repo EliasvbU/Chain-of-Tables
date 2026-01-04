@@ -1,8 +1,8 @@
-Month,Day,Visitor,Score,Home,Score
-Feb.,8,Vancouver,4,Portland,8
-Feb.,11,Portland,3,Vancouver,6
-Feb.,13,Vancouver,1,Seattle,3
-Feb.,15,Seattle,2,Portland,4
-Feb.,18,Seattle,1,Vancouver,8
-Feb.,20,Portland,2,Seattle,6
-Feb.,22,Vancouver,1,Portland,2 (20:20 OT)
+Month,Day,Visitor,Score,Home,Score,Noise_Field_1,Unused_2,Dummy_Col_3
+Feb.,8,Vancouver,4,Portland,8,sbBZtSDJ,,svPau
+Feb.,11,Portland,3,Vancouver,6,BhaoHsGE,,BCmmpU
+Feb.,13,Vancouver,1,Seattle,3,tIFLQmOe,,VzwyP
+Feb.,15,Seattle,2,Portland,4,OAJaOkSj,,coKSZs
+Feb.,18,Seattle,1,Vancouver,8,YIuax,,ecSnVD
+Feb.,20,Portland,2,Seattle,6,TSbpJJZ,,TcwAYZx
+Feb.,22,Vancouver,1,Portland,2 (20:20 OT),RJWRtcr,,khjrM

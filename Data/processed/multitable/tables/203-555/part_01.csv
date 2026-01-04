@@ -1,6 +1,6 @@
-Place,Player,Country,Score,To par,Money ($)
-1,Larry Nelson,United States,70-66-66-71=273,−7,"60,000"
-2,Fuzzy Zoeller,United States,70-68-68-71=277,−3,"40,000"
-3,Dan Pohl,United States,69-67-73-69=278,−2,"25,000"
-T4,Isao Aoki,Japan,75-68-66-70=279,−1,"13,146"
-T4,Keith Fergus,United States,71-71-69-68=279,−1,"13,146"
+Place,Player,Country,Score,To par,Money ($),Random_Column_1
+1,Larry Nelson,United States,70-66-66-71=273,−7,"60,000",K7ojPW
+2,Fuzzy Zoeller,United States,70-68-68-71=277,−3,"40,000",ilxctEF
+3,Dan Pohl,United States,69-67-73-69=278,−2,"25,000",ieIj8k
+T4,Isao Aoki,Japan,75-68-66-70=279,−1,"13,146",zd6dZf
+T4,Keith Fergus,United States,71-71-69-68=279,−1,"13,146",VFdVlQj

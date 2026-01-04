@@ -1,9 +1,11 @@
-Name,Mark,System,From,To,Successor,Notes
-"Georgetown Barge, Dock, Elevator and Railway Company",,B&O,1888,1972,Baltimore and Ohio Railroad,
-"Orange, Alexandria and Manassas Railroad",,SOU,1872,1872,Virginia and North Carolina Railroad,
-Penn Central Transportation Company,PC,,1968,1976,Consolidated Rail Corporation,
-Pennsylvania Railroad,PRR,PRR,1918,1968,Penn Central Transportation Company,
-"Philadelphia, Baltimore and Washington Railroad",,PRR,1902,1976,Consolidated Rail Corporation,
-"Philadelphia, Wilmington and Baltimore Railroad",,PRR,1891,1902,"Philadelphia, Baltimore and Washington Railroad",
-Richmond and Danville Railroad,,SOU,1886,1894,Southern Railway,
-"Richmond, Fredericksburg and Potomac Railroad","RF&P, RFP",RF&P,1920,1991,"Richmond, Fredericksburg and Potomac Railway",
+Name,Mark,System,From,To,Successor,Notes,Filler_1,Extra_Data_2
+Penn Central Transportation Company,PC,,1968,1976,Consolidated Rail Corporation,,unvpoTH,309
+Pennsylvania Railroad,PRR,PRR,1918,1968,Penn Central Transportation Company,,qOlmJNvH,415
+"Philadelphia, Baltimore and Washington Railroad",,PRR,1902,1976,Consolidated Rail Corporation,,ebcfZ,684
+"Philadelphia, Wilmington and Baltimore Railroad",,PRR,1891,1902,"Philadelphia, Baltimore and Washington Railroad",,MoipWuN,1
+Richmond and Danville Railroad,,SOU,1886,1894,Southern Railway,,lXqmJ,510
+"Richmond, Fredericksburg and Potomac Railroad","RF&P, RFP",RF&P,1920,1991,"Richmond, Fredericksburg and Potomac Railway",,OcCaU,278
+"Richmond, Fredericksburg and Potomac Railway",RFP,,1991,,,Still exists as a subsidiary of CSX Transportation,kFhCFj,3
+Southern Railway,SOU,SOU,1894,1990,Norfolk Southern Railway,,VZKkACaM,566
+Southern Maryland Railroad,,,1882,1886,Washington and Potomac Railroad,,eRsmx,267
+Virginia Midland Railway,,SOU,1880,1886,Richmond and Danville Railroad,,mPUbX,682

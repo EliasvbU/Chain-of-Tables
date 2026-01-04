@@ -1,8 +1,11 @@
-Model,Launch,Code name,Fab (nm),Bus interface,Memory (MiB),Core clock (MHz),Memory clock (MHz),Config core1,FillrateMOperations/s,FillrateMPixels/s,FillrateMTextels/s,FillrateMVertices/s,MemoryBandwidth (GB/s),MemoryBus type,MemoryBus width (bit),DirectX support
-Voodoo Graphics,"October 1, 1996",SST1,500,PCI,"2, 4",50,50,1:0:1:1,50,50,50,0,0.8,EDO,128,3.0
-Voodoo Rush,April 1997,SST96,500,"AGP 2x, PCI","2, 4",50,50,1:0:1:1,50,50,50,0,0.4,EDO,64,3.0
-Voodoo2,"March 1, 1998",SST96,350,PCI,"8, 12",90,90,1:0:2:1,90,90,180,0,0.72,EDO,64,3.0
-Voodoo Banshee,"June 22, 1998",Banshee,350,"AGP 2x, PCI","8, 16",100,100,1:0:1:1,100,100,100,0,1.6,SDR,128,6.0
-Velocity 100,"July 26, 1999",Avenger,250,AGP 2x,8,143,143,1:0:2:1,143,143,286,0,2.288,SDR,128,6.0
-Velocity 200,"July 26, 1999",Avenger,250,AGP 2x,12,143,143,1:0:2:1,143,143,286,0,2.288,SDR,128,6.0
-Voodoo3 1000,March 1999,Avenger,250,"AGP 2x, PCI","8, 16",125,125,1:0:2:1,125,125,250,0,2,SDR,128,6.0
+Model,Launch,Code name,Fab (nm),Bus interface,Memory (MiB),Core clock (MHz),Memory clock (MHz),Config core1,FillrateMOperations/s,FillrateMPixels/s,FillrateMTextels/s,FillrateMVertices/s,MemoryBandwidth (GB/s),MemoryBus type,MemoryBus width (bit),DirectX support,Random_Column_1,Noise_Field_2
+Voodoo Graphics,"October 1, 1996",SST1,500,PCI,"2, 4",50,50,1:0:1:1,50,50,50,0,0.8,EDO,128,3.0,SFPhVaY,gIYDCZQu
+Voodoo Rush,April 1997,SST96,500,"AGP 2x, PCI","2, 4",50,50,1:0:1:1,50,50,50,0,0.4,EDO,64,3.0,0VrRZu,juTmqwu
+Voodoo2,"March 1, 1998",SST96,350,PCI,"8, 12",90,90,1:0:2:1,90,90,180,0,0.72,EDO,64,3.0,fImOn,dngPPHAx
+Voodoo Banshee,"June 22, 1998",Banshee,350,"AGP 2x, PCI","8, 16",100,100,1:0:1:1,100,100,100,0,1.6,SDR,128,6.0,V3WE0f,rgzOtJo
+Velocity 100,"July 26, 1999",Avenger,250,AGP 2x,8,143,143,1:0:2:1,143,143,286,0,2.288,SDR,128,6.0,EKLR7O,TuzmCsjq
+Velocity 200,"July 26, 1999",Avenger,250,AGP 2x,12,143,143,1:0:2:1,143,143,286,0,2.288,SDR,128,6.0,HUJjcIO5,Dfgti
+Voodoo3 1000,March 1999,Avenger,250,"AGP 2x, PCI","8, 16",125,125,1:0:2:1,125,125,250,0,2,SDR,128,6.0,Q0yZmWy,bwyeIiW
+Voodoo3 2000,"April 3, 1999",Avenger,250,"AGP 2x, PCI",16,143,143,1:0:2:1,143,143,286,0,2.288,SDR,128,6.0,7PV8rgIK,ZOSQlD
+Voodoo3 3000,"April 3, 1999",Avenger,250,"AGP 2x, PCI",16,166,166,1:0:2:1,166,166,333,0,2.66,SDR,128,6.0,P8F01,ePhqYrlc
+Voodoo3 3500 TV,June 1999,Avenger,250,"AGP 2x, PCI",16,183,183,1:0:2:1,183,183,366,0,2.928,SDR,128,6.0,B80pX6,pLZUlLt

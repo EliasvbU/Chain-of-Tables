@@ -1,11 +1,11 @@
-Title,Year,Director,Budget,Gross (worldwide),Notes
-Chasers,1994,Dennis Hopper,$15 million,"$1,596,687",
-Trial by Jury,1994,Heywood Gould,N/A,"$6,971,777",
-Imaginary Crimes,1994,Anthony Drazan,N/A,"$89,611",
-Silent Fall,1994,Bruce Beresford,$30 million,"$3,180,674",
-Ace Ventura: When Nature Calls,1995,Steve Oedekerk,$30 million,"$212,385,533",
-Two If by Sea,1996,Bill Bennett,N/A,"$10,658,278",
-Big Bully,1996,Steve Miner,$15 million,"$2,042,530",
-Diabolique,1996,Jeremiah S. Chechik,$45 million,"$17,100,369",
-Bad Moon,1996,Eric Red,$7 million,"$1,055,525",
-Wild America,1997,William Dear,N/A,"$7,324,662",
+Title,Year,Director,Budget,Gross (worldwide),Notes,Extra_Data_1,Dummy_Col_2
+Chasers,1994,Dennis Hopper,$15 million,"$1,596,687",,530,nyuDH
+Trial by Jury,1994,Heywood Gould,N/A,"$6,971,777",,624,XOHlpxLh
+Imaginary Crimes,1994,Anthony Drazan,N/A,"$89,611",,254,QyWUCw
+Silent Fall,1994,Bruce Beresford,$30 million,"$3,180,674",,624,xdiaSBF
+Ace Ventura: When Nature Calls,1995,Steve Oedekerk,$30 million,"$212,385,533",,612,tqxrwLNI
+Two If by Sea,1996,Bill Bennett,N/A,"$10,658,278",,80,KbaZjBOu
+Big Bully,1996,Steve Miner,$15 million,"$2,042,530",,287,XdmvMY
+Diabolique,1996,Jeremiah S. Chechik,$45 million,"$17,100,369",,385,mNFvDp
+Bad Moon,1996,Eric Red,$7 million,"$1,055,525",,223,pQNShKT
+Wild America,1997,William Dear,N/A,"$7,324,662",,365,JngTJ

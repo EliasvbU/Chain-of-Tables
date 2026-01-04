@@ -1,13 +1,13 @@
-Number,Name,Year Built,Boat Builder,Current Status
-1,Hilbre,1958,"Williams & Nixon, Deganwy",WKSC-Regularly sailed
-2,Highlight,1959,"Enterprise Boat Company, Rock Ferry",WKSC-Regularly sailed
-3,Hilary,1959,"Williams & Nixon, Deganwy",South of Wales
-4,Hioco,1959,"Enterprise Boat Company, Rock Ferry",WKSC-Regularly sailed
-5,Hirondelle,1959,"Enterprise Boat Company, Rock Ferry",WKSC-Regularly sailed
-6,Hie,1959,"Williams & Nixon, Deganwy",WKSC-Regularly sailed
-7,Highwayman,1959,"Williams & Nixon, Deganwy",WKSC-Regularly sailed
-8,Hiccup,1959,"Williams & Nixon, Deganwy",WKSC-Regularly sailed
-9,Hiawatha,1960,"Williams & Nixon, Deganwy",WKSC-Regularly sailed
-10,Hidalgo,1960,"Enterprise Boat Company, Rock Ferry","Located in Hamburg, Germany"
-11,Highlander,1960,"Enterprise Boat Company, Rock Ferry","Lying in Heswall Boat yard last 10 years, cuddy removed and decking changed to resemble a half rater"
-12,Hippo,1960,"Enterprise Boat Company, Rock Ferry",WKSC
+Number,Name,Year Built,Boat Builder,Current Status,Unused_1
+1,Hilbre,1958,"Williams & Nixon, Deganwy",WKSC-Regularly sailed,
+2,Highlight,1959,"Enterprise Boat Company, Rock Ferry",WKSC-Regularly sailed,
+3,Hilary,1959,"Williams & Nixon, Deganwy",South of Wales,
+4,Hioco,1959,"Enterprise Boat Company, Rock Ferry",WKSC-Regularly sailed,
+5,Hirondelle,1959,"Enterprise Boat Company, Rock Ferry",WKSC-Regularly sailed,
+6,Hie,1959,"Williams & Nixon, Deganwy",WKSC-Regularly sailed,
+7,Highwayman,1959,"Williams & Nixon, Deganwy",WKSC-Regularly sailed,
+8,Hiccup,1959,"Williams & Nixon, Deganwy",WKSC-Regularly sailed,
+9,Hiawatha,1960,"Williams & Nixon, Deganwy",WKSC-Regularly sailed,
+10,Hidalgo,1960,"Enterprise Boat Company, Rock Ferry","Located in Hamburg, Germany",
+11,Highlander,1960,"Enterprise Boat Company, Rock Ferry","Lying in Heswall Boat yard last 10 years, cuddy removed and decking changed to resemble a half rater",
+12,Hippo,1960,"Enterprise Boat Company, Rock Ferry",WKSC,

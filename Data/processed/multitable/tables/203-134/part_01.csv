@@ -1,7 +1,7 @@
-Place,Player,Country,Score,To par
-1,Dustin Johnson,United States,71-70-66=207,–6
-2,Graeme McDowell,Northern Ireland,71-68-71=210,–3
-3,Tiger Woods,United States,74-72-66=212,–1
-T4,Ernie Els,South Africa,73-68-72=213,E
-T4,Grégory Havret,France,73-71-69=213,E
-6,Phil Mickelson,United States,75-66-73=214,+1
+Place,Player,Country,Score,To par,Unused_1,Random_Column_2,Extra_Data_3
+1,Dustin Johnson,United States,71-70-66=207,–6,,mgFVc0G9,158
+2,Graeme McDowell,Northern Ireland,71-68-71=210,–3,,Xy14XNS,296
+3,Tiger Woods,United States,74-72-66=212,–1,,9ey0obo,752
+T4,Ernie Els,South Africa,73-68-72=213,E,,YZj0K9bT,362
+T4,Grégory Havret,France,73-71-69=213,E,,F5euyY,948
+6,Phil Mickelson,United States,75-66-73=214,+1,,W9hWX,623

@@ -1,7 +1,9 @@
-Rank,Nation,Gold,Silver,Bronze,Total
-1,Algeria,8,3,0,11
-2,Tunisia,4,3,5,12
-3,Egypt,3,3,3,9
-4,Cameroon,1,1,5,7
-5,Morocco,0,1,5,5
-6,South Africa,0,1,1,2
+Rank,Nation,Gold,Silver,Bronze,Total,Extra_Data_1,Filler_2,Unused_3
+1,Algeria,8,3,0,11,364,JWkbN,
+2,Tunisia,4,3,5,12,741,wyZeB,
+3,Egypt,3,3,3,9,864,quMyGt,
+4,Cameroon,1,1,5,7,73,woPsJs,
+5,Morocco,0,1,5,5,495,qAWVKK,
+6,South Africa,0,1,1,2,290,yeunYYU,
+7,Angola,0,1,0,1,169,peJDTH,
+7,Burkina Faso,0,1,0,1,191,eeuccqE,

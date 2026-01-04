@@ -1,10 +1,13 @@
 Manufacturer,Model,first flight,max Payload (t),Cruise (km/h),max range (km),MTOW
-CASA,C-295,1998,9.3,481,"5,630",23.2
-de Havilland Canada,C-7 Caribou,1958,3.6,348,"2,103",14.2
-Douglas,C-47,1943,3,360,"2,600",10.5
-Grumman,C-1 Trader,1952,1.6,462,"2,092",13.2
-Grumman,C-2 Greyhound,1964,4.5,465,"2,400",24.7
-Embraer,KC-390,2014,23,900,"6,200",72
 Fairchild,C-123 Provider,1949,11,367,"1,666",27
 Ilyushin,Il-76,1971,47,900,"4,400",210
 Ilyushin,Il-112,2011,5.9,550,"5,000",20
+Kawasaki,C-1,1970,11.9,657,"1,300",45
+Kawasaki,XC-2,2010,37.6,890,"6,500",120
+Lockheed,C-5 Galaxy,1968,122,907,"4,445",381
+Lockheed,C-130 Hercules,1954,20,540,"3,800",70.3
+Lockheed,C-141 Starlifter,1963,45,912,"9,880",147
+PZL Mielec,M-28 Skytruck,1993,2.5,270,"1,500",8
+Short Brothers,C-23 Sherpa,1982,3.2,296,"1,239",3.2
+Transport Allianz,Transall C-160,1963,16,513,"1,850",49.2
+UAC and HAL,UAC/HAL Multirole Transport Aircraft,2015,22,830,"2,500",68

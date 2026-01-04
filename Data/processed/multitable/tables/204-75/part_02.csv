@@ -1,9 +1,12 @@
-Year,Place,Gold,Silver,Bronze
-1977,Antibes,Ruth Jordan (FRG),Ila Hill (USA),Bianca Rosa Hansberg (ITA)
-1978,Seoul,Bianca Rosa Hansberg (ITA),Terry Bankey (USA),Ruth Jordan (FRG)
-1979,Montecatini Terme,Bianca Rosa Hansberg (ITA),Larisa Gurvich (URS),Svetlana Yakimova (URS)
-1981,Tucuman,Lanying Wu (CHN),Ila Hill (USA),Bianca Rosa Hansberg (ITA)
-1982,Caracas,Svetlana Yakimova (URS),Meimei Feng (CHN),Weiping Shao (CHN)
-1983,Edmonton,Svetlana Yakimova (URS),Nuria Ortiz (MEX),Terry Carlisle (USA)
-1985,Montecatini Terme,Terry Carlisle (USA),Ling Liu (CHN),Weiping Shao (CHN)
-1986,Suhl,Svetlana Demina (URS),Michaela Rink (FRG),Connie Schiller (USA)
+Year,Place,Gold,Silver,Bronze,Random_Column_1,Dummy_Col_2,Noise_Field_3
+1981,Tucuman,Lanying Wu (CHN),Ila Hill (USA),Bianca Rosa Hansberg (ITA),49LFu,hMdEO,oQgoG
+1982,Caracas,Svetlana Yakimova (URS),Meimei Feng (CHN),Weiping Shao (CHN),5MQeLx,WdCUFpLd,EoTkzO
+1983,Edmonton,Svetlana Yakimova (URS),Nuria Ortiz (MEX),Terry Carlisle (USA),lVePv2FZ,ipQxN,RFxoxzHm
+1985,Montecatini Terme,Terry Carlisle (USA),Ling Liu (CHN),Weiping Shao (CHN),5dRA8C,AJMHbeHC,UHZlZqL
+1986,Suhl,Svetlana Demina (URS),Michaela Rink (FRG),Connie Schiller (USA),gSNZXSSm,lLhMf,ySXmqmq
+1987,Valencia,Meimei Feng (CHN),Bonnie Mc Laurin (USA),Nuria Ortiz (MEX),K8MPqbe,cZyqqRJ,iQOqyOND
+1989,Montecatini Terme,Shan Zhang (CHN),Antonella Parrini (ITA),Erzsebet Vasvari (HUN),MLgMk,fEVYzlsu,OpaTfI
+1990,Moscow,Svetlana Demina (URS),Erzsebet Vasvari (HUN),Shan Zhang (CHN),QyQxRT,hNFLfr,KTOkZGk
+1991,Perth,Jong Ran Pak (PRK),Svetlana Demina (URS),Erzsebet Vasvari (HUN),3WhvbF,rgUMhM,uOvNF
+1994,Fagnano,Erdzhanik Avetisyan (ARM),Diána Igaly (HUN),Daniela Bolis (ITA),s6TOS,FAmAzQfg,ZbvggoOw
+1995,Nicosia,Zemfira Meftakhetdinova (AZE),Connie Schiller (USA),Diána Igaly (HUN),Azx5mgU,qMNXP,WvDMXGRu

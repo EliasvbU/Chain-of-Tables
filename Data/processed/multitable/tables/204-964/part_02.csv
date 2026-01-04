@@ -1,10 +1,13 @@
-Team,Seasons,Games,Wins,Ties,Losses,GoalsFor,GoalsAgainst,GoalDiff,Points
-Pittsburgh Penguins,44,"3,506","1,507",383,"1,616","11,747","12,233",-486,"3,483"
-Los Angeles Kings,44,"3,506","1,428",424,"1,654","11,306","12,016",-710,"3,373"
-Calgary Flames(Atlanta Flames (1972–1980)),39,"3,124","1,437",379,"1,308","10,406","9,885",521,"3,347"
-Vancouver Canucks,41,"3,280","1,353",391,"1,536","10,378","1,1024",-646,"3,179"
-New York Islanders,39,"3,124","1,347",347,"1,430","10,116","10,000",116,"3,126"
-Washington Capitals,37,"2,968","1,305",303,"1,360","9,407","9,739",-332,"3,004"
-New Jersey Devils(Kansas City Scouts (1974–1976)Colorado Rockies (1976–1982)),37,"2,968","1,260",328,1380,"8,931","9,590",-659,"2,915"
-Edmonton Oilers,32,"2,568","1,176",262,"1,130","8,926","8,581",345,"2,708"
-Colorado Avalanche(Quebec Nordiques (1979–1995)),32,"2,568","1,174",261,"1,133","8,564","8,417",147,"2,681"
+Team,Seasons,Games,Wins,Ties,Losses,GoalsFor,GoalsAgainst,GoalDiff,Points,Filler_1,Random_Column_2,Random_Column_3
+Vancouver Canucks,41,"3,280","1,353",391,"1,536","10,378","1,1024",-646,"3,179",OGDLom,oK4l2,8IlZnN
+New York Islanders,39,"3,124","1,347",347,"1,430","10,116","10,000",116,"3,126",WOjpiy,as0DBoy,BrApqxLQ
+Washington Capitals,37,"2,968","1,305",303,"1,360","9,407","9,739",-332,"3,004",zPELnhN,UeWxsEqU,O0weL1K
+New Jersey Devils(Kansas City Scouts (1974–1976)Colorado Rockies (1976–1982)),37,"2,968","1,260",328,1380,"8,931","9,590",-659,"2,915",mnkQg,6U88A9,1za4hxa
+Edmonton Oilers,32,"2,568","1,176",262,"1,130","8,926","8,581",345,"2,708",goBcv,eZ8Jb,KS0UZt5f
+Colorado Avalanche(Quebec Nordiques (1979–1995)),32,"2,568","1,174",261,"1,133","8,564","8,417",147,"2,681",rdRzY,oIkZE43,miiVw
+Phoenix Coyotes(Winnipeg Jets (1979–1996)),32,"2,568","1,063",266,"1,239","8,058","8,809",-756,"2,473",XrHpgvz,4qMsb23,QoVSbc
+Carolina Hurricanes(Hartford Whalers (1979–1997)),32,"2,568","1,049",263,"1,256","7,808","8,599",-791,"2,447",vVxza,UOMNdRi,S38jfk
+San Jose Sharks,20,"1,608",721,121,766,"4,553","4,744",-191,"1,657",yqWIcYZ,vYJh0,01vXX
+Ottawa Senators,19,"1,528",679,115,734,"4,401","4,506",-105,"1,556",XATBgWP,5tqYf,aTFSLO
+Anaheim Ducks,18,"1,444",638,107,699,"3,863","4,021",-158,"1,477",lJawnWAa,y5h9g9c,cBEGAB7
+Florida Panthers,18,"1,444",573,142,729,"3,767","4,113",-346,"1,412",KlDcBV,ZBXCc,r3UcRR

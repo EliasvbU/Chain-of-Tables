@@ -1,7 +1,12 @@
-District,Incumbent,Party,Firstelected,Result,Candidates
-Virginia 7,Jabez Leftwich,Crawford Republican,1821,Lost re-electionJacksonian gain,Nathaniel H. Claiborne (J) 51.4%Jabez Leftwich (C-DR) 48.6%
-Virginia 8,Burwell Bassett,Crawford Republican,18051821,Re-elected,Burwell Bassett (J) 95.3%Servant Jones (DR) 4.5%Reuben Washer 0.2%
-Virginia 9,Andrew Stevenson,Crawford Republican,1821,Re-elected,Andrew Stevenson (J) 100%
-Virginia 10,William C. Rives,Crawford Republican,1823,Re-elected,William C. Rives (J) 100%
-Virginia 11,Philip P. Barbour,Crawford Republican,1814 (special),RetiredAdams gain,Robert Taylor (A) 100%
-Virginia 12,Robert S. Garnett,Crawford Republican,1817,Re-elected,Robert S. Garnett (J) 68.5%John H. Upshaw 31.5%
+District,Incumbent,Party,Firstelected,Result,Candidates,Extra_Data_1,Noise_Field_2,Irrelevant_3
+Virginia 12,Robert S. Garnett,Crawford Republican,1817,Re-elected,Robert S. Garnett (J) 68.5%John H. Upshaw 31.5%,873,NICqpkBk,WvEqNE
+Virginia 13,John Taliaferro,Crawford Republican,1824 (special),Re-elected,John Taliaferro (A) 63.3%John Hooe (F) 26.7%,469,witiL,Ciz6n
+Virginia 14,Charles F. Mercer,Crawford Republican,1817,Re-elected,Charles F. Mercer (A),804,pfmmso,gV6jRSN
+Virginia 15,John S. Barbour,Crawford Republican,1823,Re-elected,John S. Barbour (J) 53.7%Thomas Marshall (F) 46.3%,404,qaGhl,m0N5L
+Virginia 16,James Stephenson,Federalist,1821,RetiredAdams gain,William Armstrong (A) 57.1%Edward Colston (F) 42.9%,807,xQbaO,ROVdq
+Virginia 17,Jared Williams,Crawford Republican,1819,RetiredAdams gain,Alfred H. Powell (A) 42.0%William Steenergen (DR) 21.5%Augustine C. Smith (DR) 20.3%Samuel Kercheval (DR) 13.6%Robert Allen (DR) 2.6%,291,InDdsi,U43UwHa
+Virginia 18,Joseph Johnson,Jackson Republican,1823,Re-elected,Joseph Johnson (J) 62.0%Phillip Doddridge (F) 38.0%,226,fxJtW,1yg9F7
+Virginia 19,William McCoy,Crawford Republican,1811,Re-elected,William McCoy (J) 70.2%Daniel Sheffey (F) 29.8%,128,qRKlBKQe,1toiWK
+Virginia 20,John Floyd,Crawford Republican,1817,Re-elected,John Floyd (J) 84.7%Allen Taylor (F) 15.3%,254,LCAhAbJL,xa6XgCoU
+Virginia 21,William Smith,Crawford Republican,1821,Re-elected,William Smith (J) 55.2%James Lovell (DR) 44.8%,690,hgQrIY,GGKPHgr3
+Virginia 22,Alexander Smyth,Crawford Republican,1817,RetiredAdams gain,Benjamin Estil (A) 58.9%Joseph Crockett (DR) 32.0%William Graham (DR) 9.1%,253,qkgExV,mpPiW

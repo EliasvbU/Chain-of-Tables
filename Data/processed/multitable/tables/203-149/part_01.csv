@@ -1,8 +1,14 @@
-Pick,Player,Team,Position,School
-1,Ben McDonald,Baltimore Orioles,RHP,Louisiana State University
-2,Tyler Houston,Atlanta Braves,C,"Valley HS (Las Vegas, NV)"
-3,Roger Salkeld,Seattle Mariners,RHP,Saugus (CA) HS
-4,Jeff Jackson,Philadelphia Phillies,OF,"Simeon HS (Chicago, IL)"
-5,Donald Harris,Texas Rangers,OF,Texas Tech University
-6,Paul Coleman,Saint Louis Cardinals,OF,Frankston (TX) HS
-7,Frank Thomas,Chicago White Sox,1B,Auburn University
+Pick,Player,Team,Position,School,Extra_Data_1
+1,Ben McDonald,Baltimore Orioles,RHP,Louisiana State University,751
+2,Tyler Houston,Atlanta Braves,C,"Valley HS (Las Vegas, NV)",132
+3,Roger Salkeld,Seattle Mariners,RHP,Saugus (CA) HS,724
+4,Jeff Jackson,Philadelphia Phillies,OF,"Simeon HS (Chicago, IL)",598
+5,Donald Harris,Texas Rangers,OF,Texas Tech University,342
+6,Paul Coleman,Saint Louis Cardinals,OF,Frankston (TX) HS,994
+7,Frank Thomas,Chicago White Sox,1B,Auburn University,901
+8,Earl Cunningham,Chicago Cubs,OF,Lancaster (SC) HS,574
+9,Kyle Abbott,California Angels,LHP,Long Beach State University,150
+10,Charles Johnson,Montreal Expos,C,"Westwood HS (Fort Pierce, FL)",254
+11,Calvin Murray,Cleveland Indians,3B,"W.T. White High School (Dallas, TX)",517
+12,Jeff Juden,Houston Astros,RHP,Salem (MA) HS,502
+13,Brent Mayne,Kansas City Royals,C,Cal State Fullerton,819

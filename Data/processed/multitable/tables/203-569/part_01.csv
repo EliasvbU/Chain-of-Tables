@@ -1,14 +1,14 @@
-Designation,Classification,Constellation,Apparent Magnitude
-Comet Galaxy,S,Sculptor,
-"ESO 97-G13, Circinus Galaxy",S,Circinus,11
-ESO 269-57,SB(r)a,Centaurus,12.49
-ESO 510-G13,Sa: pec sp,Hydra,13.4
-IC 342,SAB(rs)cd,Camelopardalis,9.1
-IC 442,S,Camelopardalis,13.8
-IC 1296,SBbc,Lyra,14.8
-ISOHDFS 27,S,,
-IC 2163,SB(rs)c pec,Canis Major,11.6
-IC 4970,SA0- pec,Pavo,12.7
-"LEDA 100170, Dwingeloo 1",SB(s)cd,Cassiopeia,8.3
-"M31, Andromeda",SA(s)b,Andromeda,4.36
-"M33, Triangulum Galaxy",SA(s)cd,Triangulum,6.3
+Designation,Classification,Constellation,Apparent Magnitude,Irrelevant_1,Random_Column_2,Noise_Field_3
+Comet Galaxy,S,Sculptor,,4eTqW,XVhBqaKk,zcuQyp
+"ESO 97-G13, Circinus Galaxy",S,Circinus,11,0TyF2faS,RAt36bs,fpKNr
+ESO 269-57,SB(r)a,Centaurus,12.49,DNikPGh,ZVJYMd,xyLCR
+ESO 510-G13,Sa: pec sp,Hydra,13.4,Xsc8udRX,xJ0yyKQ,zVPLid
+IC 342,SAB(rs)cd,Camelopardalis,9.1,3UkbT,MNBXV,RCzqfW
+IC 442,S,Camelopardalis,13.8,BJFDr,PCs7y,OmAyMQ
+IC 1296,SBbc,Lyra,14.8,TDIpj,JGVPXe,SAoOSF
+ISOHDFS 27,S,,,WdKZGw6,tocTNL,akLVzf
+IC 2163,SB(rs)c pec,Canis Major,11.6,gI6w2zTJ,3EtXRC8b,XBIyrn
+IC 4970,SA0- pec,Pavo,12.7,JHFs4byr,Q7VP5jgv,bDybRBUL
+"LEDA 100170, Dwingeloo 1",SB(s)cd,Cassiopeia,8.3,McAQTbpa,HW12iU,yjlimuGK
+"M31, Andromeda",SA(s)b,Andromeda,4.36,VTMgMBlv,F8TOBoE8,SnsbA
+"M33, Triangulum Galaxy",SA(s)cd,Triangulum,6.3,rXu0I,VtjUwEjm,IulpeKY

@@ -1,6 +1,11 @@
-Year,Chassis,Engine,Start,Finish
-1974,Eagle,Offy,21st,7th
-1975,Eagle,Offy,18th,4th
-1976,Eagle,Offy,6th,5th
-1977,Eagle,Offy,8th,15th
-1978,Lighning,Cosworth,21st,24th
+Year,Chassis,Engine,Start,Finish,Unused_1,Extra_Data_2
+1974,Eagle,Offy,21st,7th,,103
+1975,Eagle,Offy,18th,4th,,458
+1976,Eagle,Offy,6th,5th,,758
+1977,Eagle,Offy,8th,15th,,849
+1978,Lighning,Cosworth,21st,24th,,495
+1979,Lighning,Cosworth,17th,20th,,762
+1980,Penske,Cosworth,8th,6th,,506
+1981,Penske,Cosworth,10th,28th,,791
+1982,March,Cosworth,10th,3rd,,876
+1983,March,Cosworth,14th,7th,,343

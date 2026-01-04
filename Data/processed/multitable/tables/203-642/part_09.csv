@@ -1,26 +1,26 @@
-Name,Quadrant,Sector,Ward,Type,2012PopulationRank,Population(2012),Population(2011),% change,Dwellings(2012),Area(km2),Populationdensity
-Silver Springs,NW,Northwest,1,Residential,41,"8,933","8,910",0.3,"3,533",5,"1,786.6"
-Silverado,SW/SE,South,14,Residential,95,"5,136","4,337",18.4,"1,898",5.1,"1,007.1"
-Skyline East,NE,Northeast,3,Industrial,251,0,0,—,0,0.6,0
-Skyline West,NE,North,4,Industrial,252,0,0,—,0,0.8,0
-Skyview Ranch,NE,Northeast,3,Residential,129,"2,990","1,805",65.7,"1,306",4.6,650
-Somerset,SW/SE,South,13,Residential,47,"8,540","8,401",1.7,"3,136",2.3,"3,713"
-South Airways,NE,Northeast,5,Industrial,230,0,0,—,2,1.9,0
-South Calgary,SW,Centre,8,Residential,118,"3,698","3,642",1.5,"2,244",0.9,"4,108.9"
-South Foothills,SE,Southeast,9,Industrial,231,0,0,—,3,3.6,0
-Southview,SE,East,10,Residential,157,"1,900","2,063",−7.9,936,1.6,"1,187.5"
-Southwood,SW,South,11,Residential,79,"6,085","5,965",2,"2,658",2.7,"2,253.7"
-Springbank Hill,SW,West,6,Residential,42,"8,783","8,388",4.7,"3,166",6.3,"1,394.1"
-Spruce Cliff,SW,West,8,Residential,105,"4,285","3,992",7.3,"2,344",1.1,"3,895.5"
-St. Andrews Heights,NW,Centre,7,Residential,163,"1,588","1,470",8,645,1.2,"1,323.3"
-Starfield,SE,East,9,Industrial,232,0,0,—,2,4.3,0
-Stonegate Landing,NE,Northeast,3,Industrial,253,0,0,—,0,5.4,0
-Stoney 1,NE,North,3,Industrial,233,0,0,—,5,6.1,0
-Stoney 2,NE,Northeast,3,Industrial,234,0,0,—,1,4,0
-Stoney 3,NE,Northeast,3,Industrial,254,0,0,—,0,1.3,0
-Stoney 4,NE,Northeast,3,Industrial,235,0,0,—,3,5.6,0
-Strathcona Park,SW,West,6,Residential,62,"7,033","7,039",−0.1,"2,436",2.7,"2,604.8"
-Sunalta,SW,Centre,8,Residential,124,"3,314","3,116",6.4,"2,130",0.9,"3,682.2"
-Sundance,SE,South,14,Residential,28,"10,499","10,623",−1.2,"3,406",4,"2,624.8"
-Sunnyside,NW,Centre,7,Residential,117,"3,704","3,751",−1.3,"2,340",1,"3,704"
-Sunridge,NE,Northeast,5,Industrial,206,33,40,−17.5,7,2.3,14.3
+Name,Quadrant,Sector,Ward,Type,2012PopulationRank,Population(2012),Population(2011),% change,Dwellings(2012),Area(km2),Populationdensity,Irrelevant_1
+Silver Springs,NW,Northwest,1,Residential,41,"8,933","8,910",0.3,"3,533",5,"1,786.6",vgPCg
+Silverado,SW/SE,South,14,Residential,95,"5,136","4,337",18.4,"1,898",5.1,"1,007.1",Wqh2rf
+Skyline East,NE,Northeast,3,Industrial,251,0,0,—,0,0.6,0,BQ1Rdn
+Skyline West,NE,North,4,Industrial,252,0,0,—,0,0.8,0,qv66xP
+Skyview Ranch,NE,Northeast,3,Residential,129,"2,990","1,805",65.7,"1,306",4.6,650,cwTc5MP
+Somerset,SW/SE,South,13,Residential,47,"8,540","8,401",1.7,"3,136",2.3,"3,713",SlakrUFt
+South Airways,NE,Northeast,5,Industrial,230,0,0,—,2,1.9,0,qDhR44
+South Calgary,SW,Centre,8,Residential,118,"3,698","3,642",1.5,"2,244",0.9,"4,108.9",WfATD
+South Foothills,SE,Southeast,9,Industrial,231,0,0,—,3,3.6,0,FvfeIb8O
+Southview,SE,East,10,Residential,157,"1,900","2,063",−7.9,936,1.6,"1,187.5",0IEv13cx
+Southwood,SW,South,11,Residential,79,"6,085","5,965",2,"2,658",2.7,"2,253.7",ze2tQyx
+Springbank Hill,SW,West,6,Residential,42,"8,783","8,388",4.7,"3,166",6.3,"1,394.1",NK5OBJ
+Spruce Cliff,SW,West,8,Residential,105,"4,285","3,992",7.3,"2,344",1.1,"3,895.5",gO7zzAKK
+St. Andrews Heights,NW,Centre,7,Residential,163,"1,588","1,470",8,645,1.2,"1,323.3",YSKYtxc
+Starfield,SE,East,9,Industrial,232,0,0,—,2,4.3,0,ODfa1zTu
+Stonegate Landing,NE,Northeast,3,Industrial,253,0,0,—,0,5.4,0,V8aCUTtX
+Stoney 1,NE,North,3,Industrial,233,0,0,—,5,6.1,0,vSk3w
+Stoney 2,NE,Northeast,3,Industrial,234,0,0,—,1,4,0,lNoI0fcC
+Stoney 3,NE,Northeast,3,Industrial,254,0,0,—,0,1.3,0,793kYoJq
+Stoney 4,NE,Northeast,3,Industrial,235,0,0,—,3,5.6,0,30gDA
+Strathcona Park,SW,West,6,Residential,62,"7,033","7,039",−0.1,"2,436",2.7,"2,604.8",XqvBSyRi
+Sunalta,SW,Centre,8,Residential,124,"3,314","3,116",6.4,"2,130",0.9,"3,682.2",FKeF4
+Sundance,SE,South,14,Residential,28,"10,499","10,623",−1.2,"3,406",4,"2,624.8",bdhguPi
+Sunnyside,NW,Centre,7,Residential,117,"3,704","3,751",−1.3,"2,340",1,"3,704",7agkA
+Sunridge,NE,Northeast,5,Industrial,206,33,40,−17.5,7,2.3,14.3,ckjve00A

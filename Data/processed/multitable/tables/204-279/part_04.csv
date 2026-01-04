@@ -1,12 +1,12 @@
-Name of place,Numberofcounties,Principalcounty,ZIP codeLower,ZIP codeUpper
-Dinsmore,1,Pueblo County,,
-Divide,1,Teller County,80814,
-Dixon,1,Larimer County,,
-Dodd,1,Morgan County,,
-Dolores,1,Montezuma County,81323,
-Dome Rock,1,Jefferson County,80441,
-Dominguez,1,Delta County,,
-Dominion,1,Boulder County,,
-Dorey Lakes,1,Gilpin County,80401,
-Dorsey,1,Sedgwick County,,
-Dory Hill,1,Gilpin County,80401,
+Name of place,Numberofcounties,Principalcounty,ZIP codeLower,ZIP codeUpper,Dummy_Col_1,Noise_Field_2,Random_Column_3
+Dinsmore,1,Pueblo County,,,XPDyYze,fgarIxz,4W0NPt
+Divide,1,Teller County,80814,,JsjDsuki,zKiOHW,QydidG9O
+Dixon,1,Larimer County,,,ecKbw,wjAzcr,6Glm92E
+Dodd,1,Morgan County,,,uPFKYKY,yQbKzza,nEUj07Y
+Dolores,1,Montezuma County,81323,,AUvXNJ,vrkNHq,ETEW2x
+Dome Rock,1,Jefferson County,80441,,qRzpJ,ywgjZS,gUWSDJl
+Dominguez,1,Delta County,,,RNCawikG,TlxTVPpf,rX6m6
+Dominion,1,Boulder County,,,uWCWV,HJDDiE,xspZt7oo
+Dorey Lakes,1,Gilpin County,80401,,vAFKuzrr,dtFjPcK,MkIix88N
+Dorsey,1,Sedgwick County,,,lYQlH,FvmmTmMd,V1CEa
+Dory Hill,1,Gilpin County,80401,,FrqfG,pXqKuI,iZ31E2Zx

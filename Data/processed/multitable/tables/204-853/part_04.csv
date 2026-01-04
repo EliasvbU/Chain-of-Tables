@@ -1,9 +1,11 @@
-Pos,Grid,No.,Driver,Team,Manufacturer,Laps,Points
-28,43,35,Darrell Waltrip,Tyler Jet Motorsports,Pontiac,158,79
-29,24,96,Steve Grissom,American Equipment Racing,Chevrolet,157,76
-30,35,50,"Wally Dallenbach, Jr.",Hendrick Motorsports,Chevrolet,156,73
-31,29,21,Michael Waltrip,Wood Brothers Racing,Ford,144,70
-32,11,28,"Kenny Irwin, Jr. #",Robert Yates Racing,Ford,140,72
-33,15,1,Steve Park #,"Dale Earnhardt, Inc.",Chevrolet,139,64
-34,34,13,Ted Musgrave,Elliott-Marino Racing,Ford,116,61
-35,28,81,Kenny Wallace,FILMAR Racing,Ford,113,58
+Pos,Grid,No.,Driver,Team,Manufacturer,Laps,Points,Extra_Data_1,Noise_Field_2,Dummy_Col_3
+34,34,13,Ted Musgrave,Elliott-Marino Racing,Ford,116,61,20,ghEYX,CfsKAGF
+35,28,81,Kenny Wallace,FILMAR Racing,Ford,113,58,661,iphRL,APtGnr
+36,26,07,Dan Pardus,Midwest Transit Racing,Chevrolet,99,55,784,tAkuMp,CtpRuYHd
+37,32,46,Jeff Green,Team Sabco,Chevrolet,98,52,551,reYfo,ReMXxyuW
+38,13,30,Derrike Cope,Bahari Racing,Pontiac,67,49,914,MyOEE,rWnMaOY
+39,36,98,Rich Bickle,Cale Yarborough Racing,T-Bird,58,46,451,vJcOjj,bFSEU
+40,22,16,Kevin Lepage #,Roush Racing,Ford,31,43,809,hXoaDO,FKhZnA
+41,21,7,Geoff Bodine,Geoff Bodine Racing,Ford,31,40,62,ljmPec,YPOvcFuO
+42,10,55,Hut Stricklin,Andy Petree Racing,Chevrolet,31,37,528,cxNakv,CBjgXlyA
+43,18,47,Billy Standridge,Standridge Motorsports,T-Bird,19,34,500,uXRVtzP,ExKFoL

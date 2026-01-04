@@ -1,5 +1,5 @@
-AIRLINE,ICAO,IATA,CALLSIGN,COMMENCEDOPERATIONS
-Skyjet Airlines,SJU,UQ,SKYJET,2003
-Africa Safari Air,ASA,AS,ASA,2013
-Uganda Air Cargo,UCC,,UGANDA CARGO,1994
-United Airlines Limited,,,,
+AIRLINE,ICAO,IATA,CALLSIGN,COMMENCEDOPERATIONS,Noise_Field_1,Irrelevant_2,Unused_3
+Skyjet Airlines,SJU,UQ,SKYJET,2003,btMYIGR,JSafeUtn,
+Africa Safari Air,ASA,AS,ASA,2013,ZeCkVvuI,JZ2Jdu9,
+Uganda Air Cargo,UCC,,UGANDA CARGO,1994,JzCVM,rfpzx,
+United Airlines Limited,,,,,wdpHjHdq,85HmY,

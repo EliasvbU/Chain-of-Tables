@@ -1,9 +1,11 @@
-Name,Position,Length[km],Drainage basin area[km2],Confluence[by Lahn-km],Mouth elevation[m above MSL]
-Feudinge (Rüppersbach),left,6.3,21.2,9.8,388
-Ilse,right,8.4,11.8,10.5,382
-Banfe,right,11.5,38.9,18.5,326
-Laasphe,left,8.3,19.6,19.4,324
-Perf,right,20.0,113.1,24.7,285
-Dautphe,left,8.8,41.8,37.5,245
-Wetschaft,left,29.0,196.2,56.3,192
-Ohm,left,59.7,983.8,58.7,188
+Name,Position,Length[km],Drainage basin area[km2],Confluence[by Lahn-km],Mouth elevation[m above MSL],Extra_Data_1,Extra_Data_2
+Feudinge (Rüppersbach),left,6.3,21.2,9.8,388,486,407
+Ilse,right,8.4,11.8,10.5,382,482,65
+Banfe,right,11.5,38.9,18.5,326,268,942
+Laasphe,left,8.3,19.6,19.4,324,396,670
+Perf,right,20.0,113.1,24.7,285,312,621
+Dautphe,left,8.8,41.8,37.5,245,263,37
+Wetschaft,left,29.0,196.2,56.3,192,831,504
+Ohm,left,59.7,983.8,58.7,188,398,313
+Allna,right,19.1,92.0,77.1,172,918,392
+Zwester Ohm,left,20.0,69.5,84.0,165,370,168

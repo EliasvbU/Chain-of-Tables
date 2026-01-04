@@ -1,6 +1,6 @@
-Nation,Model,Length,Barrel length,Weight
-USA,M1899 Carbine,1046.5 mm / 41.2 in,558.8 mm / 22 in,3.542 kg / 7.87 lb
-USA,M1899 Constable Carbine,1046.5 mm / 41.2 in,558.8 mm / 22 in,3.614 kg / 8.03 lb
-Norway,M1894 Rifle,"1267,5 mm / 49.9 in",760 mm / 29.9 in,4.221 kg / 9.38 lb
-Norway,M1895 & M1897 Carbine,1016 mm / 40 in,520 mm / 20.5 in,3.375 kg / 7.5 lb
-Norway,M1904 & M1907 Carbine,1016 mm / 40 in,520 mm / 20.5 in,3.78 kg / 8.4 lb
+Nation,Model,Length,Barrel length,Weight,Filler_1
+USA,M1899 Carbine,1046.5 mm / 41.2 in,558.8 mm / 22 in,3.542 kg / 7.87 lb,wPPoS
+USA,M1899 Constable Carbine,1046.5 mm / 41.2 in,558.8 mm / 22 in,3.614 kg / 8.03 lb,MDrxt
+Norway,M1894 Rifle,"1267,5 mm / 49.9 in",760 mm / 29.9 in,4.221 kg / 9.38 lb,uVlCPcgH
+Norway,M1895 & M1897 Carbine,1016 mm / 40 in,520 mm / 20.5 in,3.375 kg / 7.5 lb,lCmTRE
+Norway,M1904 & M1907 Carbine,1016 mm / 40 in,520 mm / 20.5 in,3.78 kg / 8.4 lb,CkammDx

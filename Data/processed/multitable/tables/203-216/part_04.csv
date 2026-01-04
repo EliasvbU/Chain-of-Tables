@@ -1,11 +1,11 @@
-Rank,Hospital,City,County,# Beds,Type of Hospital
-32,Adventist Medical Center,Glendale,Los Angeles,508,General Acute Care
-33,Grossmont Hospital,La Mesa,San Diego,481,General Acute Care
-34,Doctors Medical Center,Modesto,Stanislaus,465,General Acute Care
-35,St. Bernardine Medical Center,San Bernardino,San Bernardino,463,General Acute Care
-36,UCI Medical Center,Orange,Orange,462,General Acute Care
-37,Stanford Medical Center,Stanford,Santa Clara,460,General Acute Care
-38,Community Regional Medical Center,Fresno,Fresno,457,General Acute Care
-39,Methodist Hospital,Arcadia,Los Angeles,455,General Acute Care
-40,Providence St. Joseph Medical Center,Burbank,Los Angeles,455,General Acute Care
-41,Hoag Memorial Hospital,Newport Beach,Orange,450,General Acute Care
+Rank,Hospital,City,County,# Beds,Type of Hospital,Random_Column_1,Random_Column_2,Irrelevant_3
+32,Adventist Medical Center,Glendale,Los Angeles,508,General Acute Care,rxbTlX,fPo7X,16oeX
+33,Grossmont Hospital,La Mesa,San Diego,481,General Acute Care,qtdUU,MGXtL,ubA0WIRV
+34,Doctors Medical Center,Modesto,Stanislaus,465,General Acute Care,iVg8s,SSu26T,RoNwRd5S
+35,St. Bernardine Medical Center,San Bernardino,San Bernardino,463,General Acute Care,mO3Tct18,06DLfR,B116XOT
+36,UCI Medical Center,Orange,Orange,462,General Acute Care,cBC0jXqn,52pUXh,aAleS
+37,Stanford Medical Center,Stanford,Santa Clara,460,General Acute Care,IggS8LcI,3378BOY,N6vKM
+38,Community Regional Medical Center,Fresno,Fresno,457,General Acute Care,D1GJff8Y,tZbYfF,YCZrw
+39,Methodist Hospital,Arcadia,Los Angeles,455,General Acute Care,8MDRo,RHVsdR,L9c8RIS
+40,Providence St. Joseph Medical Center,Burbank,Los Angeles,455,General Acute Care,qXxQCL,myc7To,5yt5B2co
+41,Hoag Memorial Hospital,Newport Beach,Orange,450,General Acute Care,FjyOciq,icMZeT,8Wtzl

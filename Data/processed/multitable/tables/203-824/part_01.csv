@@ -1,6 +1,11 @@
-Pick #,Player,Position,Nationality,NHL team,College/junior/club team
-123,Paul Ames,Defence,United States,Pittsburgh Penguins,Billerica High School (USHS-MA)
-124,Joe Reekie,Defence,Canada,Hartford Whalers,North Bay Centennials (OHL)
-125,Greg Evtushevski,Right Wing,Canada,New Jersey Devils,Kamloops Blazers (WHL)
-126,Bob Pierson,Left Wing,Canada,Detroit Red Wings,London Knights (OHL)
-127,Tim Burgess,Defence,Canada,Los Angeles Kings,Oshawa Generals (OHL)
+Pick #,Player,Position,Nationality,NHL team,College/junior/club team,Random_Column_1,Unused_2,Unused_3
+123,Paul Ames,Defence,United States,Pittsburgh Penguins,Billerica High School (USHS-MA),CEoTU,,
+124,Joe Reekie,Defence,Canada,Hartford Whalers,North Bay Centennials (OHL),84t6QC,,
+125,Greg Evtushevski,Right Wing,Canada,New Jersey Devils,Kamloops Blazers (WHL),bl9evc,,
+126,Bob Pierson,Left Wing,Canada,Detroit Red Wings,London Knights (OHL),GQPOmULw,,
+127,Tim Burgess,Defence,Canada,Los Angeles Kings,Oshawa Generals (OHL),2v6MoVew,,
+128,Cam Plante,Defence,Canada,Toronto Maple Leafs,Brandon Wheat Kings (WHL),aDLz57Q2,,
+129,Iain Duncan,Left Wing,Canada,Winnipeg Jets,North York Rangers (OJHL),9by6F1N3,,
+130,Terry Maki,Left Wing,Canada,Vancouver Canucks,Brantford Alexanders (OHL),g8eXUQJ,,
+131,Jeff Hogg,Goaltender,Canada,Calgary Flames,Oshawa Generals (OHL),1MyD3MY,,
+132,Craig Mack,Defence,United States,Quebec Nordiques,East Grand Forks High School (USHS-MN),xPJ7B,,

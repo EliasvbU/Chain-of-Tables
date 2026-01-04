@@ -1,7 +1,10 @@
-Round,Game,Date,Visitor,Score,Home,Score,OT
-Semi-Finals,Game 1,27-Apr-75,Montreal Canadiens,5,Buffalo Sabres,6,(OT)
-Semi-Finals,Game 2,29-Apr-75,Montreal Canadiens,2,Buffalo Sabres,4,
-Semi-Finals,Game 3,1-May-75,Buffalo Sabres,0,Montreal Canadiens,7,
-Semi-Finals,Game 4,3-May-75,Buffalo Sabres,2,Montreal Canadiens,8,
-Semi-Finals,Game 5,6-May-75,Montreal Canadiens,4,Buffalo Sabres,5,(OT)
-Semi-Finals,Game 6,8-May-75,Buffalo Sabres,4,Montreal Canadiens,3,
+Round,Game,Date,Visitor,Score,Home,Score,OT,Random_Column_1
+Semi-Finals,Game 4,3-May-75,Buffalo Sabres,2,Montreal Canadiens,8,,RrDDD
+Semi-Finals,Game 5,6-May-75,Montreal Canadiens,4,Buffalo Sabres,5,(OT),9NTqVpNS
+Semi-Finals,Game 6,8-May-75,Buffalo Sabres,4,Montreal Canadiens,3,,BSjrCn
+Stanley Cup Finals,Game 1,15-May-75,Buffalo Sabres,1,Philadelphia Flyers,4,,0WyRjvV
+Stanley Cup Finals,Game 2,18-May-75,Buffalo Sabres,1,Philadelphia Flyers,2,,ectOdjbS
+Stanley Cup Finals,Game 3,20-May-75,Philadelphia Flyers,4,Buffalo Sabres,5,(OT),4QEx6HEz
+Stanley Cup Finals,Game 4,22-May-75,Philadelphia Flyers,2,Buffalo Sabres,4,,qIq7g
+Stanley Cup Finals,Game 5,25-May-75,Buffalo Sabres,1,Philadelphia Flyers,5,,Z5Jne
+Stanley Cup Finals,Game 6,27-May-75,Philadelphia Flyers,2,Buffalo Sabres,0,,cqnwRHy

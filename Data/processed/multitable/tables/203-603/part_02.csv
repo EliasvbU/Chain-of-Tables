@@ -1,6 +1,6 @@
-Service,Service ID,Bit rate,Audio channels,Description,Analogue availability
-UCB Gospel,CED0,64 kbit/s,Mono LSF,Christian,—
-UCB Inspirational,CFD0,64 kbit/s,Mono LSF,Christian,—
-XFM,C0B8,128 kbit/s,Joint stereo,Indie / alternative / rock music,—
-Yorkshire Radio,CFCD,128 kbit/s,Joint stereo,Pop music and sport,—
-DAB Guide,E1C000A9,8 kbit/s,Data,"Hidden service, EPG data",—
+Service,Service ID,Bit rate,Audio channels,Description,Analogue availability,Dummy_Col_1,Dummy_Col_2
+UCB Gospel,CED0,64 kbit/s,Mono LSF,Christian,—,BWQCTj,PXmzEWhk
+UCB Inspirational,CFD0,64 kbit/s,Mono LSF,Christian,—,CBaLux,NpkMvQi
+XFM,C0B8,128 kbit/s,Joint stereo,Indie / alternative / rock music,—,OjhFaH,DWEEo
+Yorkshire Radio,CFCD,128 kbit/s,Joint stereo,Pop music and sport,—,unDawYCx,WiJFElu
+DAB Guide,E1C000A9,8 kbit/s,Data,"Hidden service, EPG data",—,MYnmGO,CLLZschE
