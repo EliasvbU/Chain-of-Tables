@@ -1,6 +1,0 @@
-Species,Common Name,NCBI Accession #,NCBI Name,Length,Sequence Identity,Sequence Similarity,Years Since Divergence from Human (mya)
-Anopheles gambiae,Mosquito,XP_308760,AGAP007010-PA,1640 aa,36%,51%,782.7
-Ascaris suum,Ascaris,ADY40551,DEPDCp5,1359 aa,31%,51%,937.5
-Ustilago maydis,Corn smut,XP_757759,vacuolar-associated protein Iml1,1867 aa,23%,52%,1215.8
-Saccharomyces cerevisiae,Yeast,NP_012672,Iml1p,1584 aa,20%,50%,1215.8
-Albugo laibachii,White rust,CCA27519,vacuolar membrane-associated protein putative,1591 aa,20%,46%,1362

@@ -1,9 +1,0 @@
-interval name,size (steps),size (cents),midi,just ratio,just (cents),midi,error
-greater septendecimal semitone,6,100,,17:16,104.95,,-4.95
-lesser septendecimal semitone,6,100,,18:17,98.95,,+1.05
-septimal chromatic semitone,5,83.33,play (help·info),21:20,84.47,play (help·info),−1.13
-chromatic semitone,4,66.67,play (help·info),25:24,70.67,play (help·info),−4.01
-septimal third-tone,4,66.67,play (help·info),28:27,62.96,,+3.71
-septimal quarter tone,3,50,play (help·info),36:35,48.77,play (help·info),+1.23
-septimal diesis,2,33.33,play (help·info),49:48,35.70,play (help·info),−2.36
-undecimal comma,1,16.67,play (help·info),100:99,17.40,,−0.73

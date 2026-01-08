@@ -1,8 +1,0 @@
-Device,Type,IOPS,Interface,Notes
-"DDRdrive X1,",SSD,"300,000+ (512B Random Read IOPS) and 200,000+ (512B Random Write IOPS)",PCIe,
-SolidFire SF3010/SF6010,SSD,"250,000 4KB Read/Write IOPS",iSCSI,Flash Based Storage Array (5RU)
-Texas Memory Systems RamSan-720 Appliance,SSD,"500,000 Optimal Read, 250,000 Optimal Write 4KB IOPS",FC / InfiniBand,
-OCZ Single SuperScale Z-Drive R4 PCI-Express SSD,SSD,"Up to 500,000 IOPS",PCIe,
-"WHIPTAIL, INVICTA",SSD,"650,000/550,000+ Read/Write IOPS","Fibre Channel, iSCSI, Infiniband/SRP, NFS",Flash Based Storage Array
-Violin Memory Violin 6000,3RU Flash Memory Array,"1,000,000+ Random Read/Write IOPS",/FC/Infiniband/10Gb(iSCSI)/ PCIe,
-Texas Memory Systems RamSan-630 Appliance,SSD,"1,000,000+ 4KB Random Read/Write IOPS",FC / InfiniBand,

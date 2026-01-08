@@ -1,7 +1,0 @@
-IECWorld PlugsType1,Standard,Powerrating,Earthed,Polarised,Fused,Insulatedpins,EuroplugCompatible
-L,CEI 23-16/VII,10 A/250 V16 A/250 V,Yes*,No,No,Yes,Yes
-M,South Africa SABS 164-1,16 A/250 V,Yes,Yes,Optional,Optional,No
-N,Brazilian NBR 14136 (2 pin),10 A/250 V20 A/250 V,No,No,No,Yes,Yes
-N,Brazilian NBR 14136 (3 pin),10 A/250 V20 A/250 V,Yes*,Yes,No,Yes,Yes
-N,South Africa SABS 164-2 (2 pin),16 A/250 V,No,No,No,Yes,Yes
-N,South Africa SABS 164-2 (3 pin),16 A/250 V,Yes*,Yes,No,Yes,Yes

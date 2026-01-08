@@ -1,7 +1,0 @@
-Terminal,Operator,Depth(m),Berths,Quay length(m),Quay cranes,Area(m²),Capacity(kTEUs),Extra_Data_1,Extra_Data_2,Extra_Data_3
-Terminal 1 (CT1),MTL,14,1,,4,,,803,683,664
-Terminal 2 (CT2),MTL,14,1,,5,,,414,116,69
-Terminal 3 (CT3),DPI,14,1,305,6,"167,000",">1,200",108,521,825
-Terminal 4 (CT4),HIT,12.5,3,,8,,,956,799,361
-Terminal 5 (CT5),MTL,14,1,,4,,,824,601,312
-Terminal 6 (CT6),HIT,12.5-15.5,3,,11,,,573,902,633

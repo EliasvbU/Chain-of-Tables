@@ -1,7 +1,0 @@
-Device,Type,IOPS,Interface,Notes,Irrelevant_1,Extra_Data_2,Noise_Field_3
-Fusion-io ioDrive Octal (single PCI Express card),SSD,"1,180,000+ Random Read/Write IOPS",PCIe,,r53z4,120,KpkEh
-OCZ 2x SuperScale Z-Drive R4 PCI-Express SSD,SSD,"Up to 1,200,000 IOPS",PCIe,,aTHpV1v,55,WgSqUnr
-Texas Memory Systems RamSan-70,SSD,"1,200,000 Random Read/Write IOPS",PCIe,Includes RAM cache,Bzcf8fM5,793,dCYjFCro
-Kaminario K2,Flash/DRAM/Hybrid SSD,"Up to 1,200,000 IOPS SPC-1 IOPS with the K2-D (DRAM)",FC,,5q4FrCbB,541,zEOqsnVv
-NetApp FAS6240 cluster,Flash/Disk,"1,261,145 SPECsfs2008 nfsv3 IOPs using disks with virtual storage tiering.","NFS, CIFS, FC, FCoE, iSCSI","SPECsfs2008 is the latest version of the Standard Performance Evaluation Corporation benchmark suite measuring file server throughput and response time, providing a standardized method for comparing performance across different vendor platforms. http://www.spec.org/sfs2008/",ggnyLy,477,RDlxXp
-Fusion-io ioDrive2,SSD,"Up to 9,608,000 IOPS",PCIe,,ZliSitx,840,wSvcoFNZ

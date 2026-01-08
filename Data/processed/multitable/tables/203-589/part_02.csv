@@ -1,7 +1,0 @@
-Protein,Natural Host,Normal Function,Prion State,Prion Phenotype,Year Identified,Extra_Data_1
-Swi1,Saccharomyces cerevisiae,Chromatin remodeling,[SWI+],Poor growth on some carbon sources,2008,972
-Cyc8,Saccharomyces cerevisiae,Transcriptional repressor,[OCT+],Transcriptional derepression of multiple genes,2009,774
-Mot3,Saccharomyces cerevisiae,Nuclear transcription factor,[MOT3+],Transcriptional derepression of anaerobic genes,2009,125
-Pma1+Std1,Saccharomyces cerevisiae,"Pma1 = major plasma membrane proton pump, Std1=minor pump",[GAR+],Resistant to glucose-associated repression,2009,646
-Sfp1,Saccharomyces cerevisiae,Global transcriptional regulator,[ISP+],Antisuppressor of certain sup35 mutations,2010,769
-Mod5,Saccharomyces cerevisiae,,[MOD+],,2012,474
