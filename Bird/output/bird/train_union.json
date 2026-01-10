@@ -1,0 +1,182 @@
+[
+  {
+    "db_id": "trains",
+    "question": "What is the percentage of all the trains with at least 4 cars? List the directions of the said trains.",
+    "evidence": "at least 4 cars refers to trailPosi > = 4; calculation = MULTIPLY(DIVIDE(count(trailPosi > = 4 then id), count(id)), 100)",
+    "SQL": "SELECT CAST(COUNT(CASE WHEN T2.trailPosi >= 4 THEN T1.id ELSE NULL END) AS REAL) * 100 / COUNT(T1.id) FROM trains AS T1 INNER JOIN ( SELECT train_id, MAX(position) AS trailPosi FROM cars GROUP BY train_id ) AS T2 ON T1.id = T2.train_id UNION ALL SELECT T1.direction FROM trains AS T1 INNER JOIN ( SELECT train_id, MAX(position) AS trailPosi FROM cars t GROUP BY train_id ) AS T2 ON T1.id = T2.train_id AND T2.trailPosi >= 4"
+  },
+  {
+    "db_id": "trains",
+    "question": "List all the load shapes of all head cars of each train and identify which load shape has the highest number. Calculate the percentage of the trains with the said head car that are running eas",
+    "evidence": "which load shape has the highest number refers to MAX(load_shape); head car refers to position = 1; east is a direction; calculation = MULTIPLY(DIVIDE(count(direction = 'east' where MAX(load_shape) where position = 1 then id), count(id)), 100)",
+    "SQL": "SELECT DISTINCT T3.load_shape FROM ( SELECT load_shape, train_id FROM cars WHERE position = 1 ORDER BY train_id DESC ) AS T3 UNION ALL SELECT T4.load_shape FROM ( SELECT load_shape, train_id FROM cars WHERE position = 1 ORDER BY train_id DESC LIMIT 1 ) AS T4 UNION ALL SELECT (CAST(COUNT(DISTINCT CASE WHEN T2.direction = 'east' THEN T2.id ELSE NULL END) AS REAL) * 100 / COUNT(DISTINCT T2.id)) FROM cars AS T1 INNER JOIN trains AS T2 ON T1.train_id = T2.id WHERE T1.position = 1 AND T1.load_shape = ( SELECT T4.load_shape FROM ( SELECT load_shape, train_id FROM cars AS T WHERE position = 1 ORDER BY train_id DESC LIMIT 1 ) AS T4 )"
+  },
+  {
+    "db_id": "car_retails",
+    "question": "Which two products has the highest and lowest expected profits? Determine the total price for each product in terms of the largest quantity that was ordered.",
+    "evidence": "expected profits = SUBTRACT(msrp, buyPrice); total price = MULTIPLY(quantityOrdered, priceEach)",
+    "SQL": "SELECT T2.productName, SUM(T1.quantityOrdered * T1.priceEach) FROM orderdetails AS T1 INNER JOIN ( SELECT productCode, productName FROM products ORDER BY MSRP - buyPrice DESC LIMIT 1 ) AS T2 ON T1.productCode = T2.productCode UNION SELECT T2.productName, SUM(quantityOrdered * priceEach) FROM orderdetails AS T1 INNER JOIN ( SELECT productCode, productName FROM products ORDER BY MSRP - buyPrice ASC LIMIT 1 ) AS T2 ON T1.productCode = T2.productCode"
+  },
+  {
+    "db_id": "soccer_2016",
+    "question": "Which team has the highest number of losses of all time?",
+    "evidence": "name of the team refers to Team_Name; the highest number of losses refers to max(add(count(Team_1 where Team_Id = Team_1 and Team_1 <> Match_Winner), count(Team_2 where Team_Id = Team_2 and Team_2 <> Match_Winner)))",
+    "SQL": "SELECT T1.Team_Name FROM Team AS T1 INNER JOIN ( SELECT COUNT(Team_1) AS a, Team_1 FROM Match WHERE Team_1 <> Match_Winner GROUP BY Team_1 UNION SELECT COUNT(Team_2) AS a, Team_2 FROM Match WHERE Team_2 <> Match_Winner GROUP BY Team_2 ORDER BY a DESC LIMIT 1 ) AS T2 ON T1.Team_Id = T2.Team_1"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "List out the country name of upper middle income group. Which country has the earliest national account base year? List out the region where this country locates.",
+    "evidence": "IncomeGroup = 'Upper middle income'; the earliest national account base year refers to MIN(NationalAccountsBaseYear); \n",
+    "SQL": "SELECT DISTINCT T1.CountryName FROM indicators AS T1 INNER JOIN country AS T2 ON T1.CountryCode = T2.CountryCode WHERE T2.IncomeGroup = 'Upper middle income' UNION SELECT longname FROM ( SELECT longname FROM country WHERE NationalAccountsBaseYear <> '' ORDER BY NationalAccountsBaseYear ASC LIMIT 1 )"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "How many of the countries name start with alphabet A? List down the Alpha2Code of them.",
+    "evidence": "countries name starts with alphabet A refers to shortname like 'A%';",
+    "SQL": "SELECT COUNT(ShortName) FROM Country WHERE ShortName LIKE 'A%' UNION SELECT alpha2code FROM country WHERE shortname LIKE 'A%'"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "How many of the countries do not have special notes? List the long name.",
+    "evidence": "do not have special notes implies SpecialNotes are NULL;",
+    "SQL": "SELECT COUNT(LongName) FROM Country WHERE SpecialNotes = '' UNION SELECT longname FROM country WHERE specialnotes = ''"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "How many countries have country note description as \"Sources: UN Energy Statistics (2014)\"? List the currency of these countries.",
+    "evidence": "countries refer to CountryCode; currency refers to CurrencyUnit;",
+    "SQL": "SELECT COUNT(DISTINCT T1.Countrycode) FROM Country AS T1 INNER JOIN CountryNotes AS T2 ON T1.CountryCode = T2.Countrycode WHERE T2.Description = 'Sources: UN Energy Statistics (2014)' UNION SELECT DISTINCT t1.CurrencyUnit FROM country AS t1 INNER JOIN countrynotes AS t2 ON t1.CountryCode = t2.Countrycode WHERE t2.Description = 'Sources: UN Energy Statistics (2014)'"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "How many footnotes have been made in year 1980 and what are the table names of these countries that made the footnotes?",
+    "evidence": "year 1980 refers to Year = 'YR1980';",
+    "SQL": "SELECT COUNT(T2.Description) FROM Country AS T1 INNER JOIN FootNotes AS T2 ON T1.CountryCode = T2.Countrycode WHERE T2.Year = 'YR1980' UNION ALL SELECT DISTINCT T1.TableName FROM Country AS T1 INNER JOIN FootNotes AS T2 ON T1.CountryCode = T2.Countrycode WHERE T2.Year = 'YR1980'"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "What is the ratio between country with the highest number of infant deaths in 1971 and the lowest number of infant deaths in 1971? List the country with the highest number of infant deaths in 1971 and the lowest number of infant deaths in 1971.",
+    "evidence": "ratio = divide(max(value where indicatorname = 'Number of infant deaths' and year = '1971'), min(value where indicatorname = 'Number of infant deaths' and year = '1971')); the highest number of infant deaths in 1971 refers to max(value where indicatorname = 'Number of infant deaths' and year = '1971'); the lowest number of infant deaths in 1971 refers to min(value where indicatorname = 'Number of infant deaths' and year = '1971')",
+    "SQL": "SELECT CAST(MAX(value) AS REAL) / MIN(value) FROM indicators WHERE indicatorname = 'Number of infant deaths' AND year = '1971' UNION ALL SELECT countryname FROM ( SELECT countryname, MAX(value) FROM indicators WHERE indicatorname = 'Number of infant deaths' AND year = '1971' ) UNION SELECT countryname FROM ( SELECT countryname, MIN(value) FROM indicators WHERE indicatorname = 'Number of infant deaths' AND year = '1971' )"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "How many countries are having their country's footnotes described as \"unspecified\"? Please provide the full names of any three of those countries.",
+    "evidence": "described as \"unspecified\" refers to Description = 'Not specified'; full names refers to LongName",
+    "SQL": "SELECT COUNT(DISTINCT T1.CountryCode)  FROM Country AS T1 INNER JOIN Footnotes AS T2 ON T1.CountryCode = T2.Countrycode WHERE T2.Description = 'Unspecified' OR T2.Description = 'Not specified' UNION SELECT T1.LongName FROM Country AS T1 INNER JOIN Footnotes AS T2 ON T1.CountryCode = T2.Countrycode WHERE T2.Description = 'Unspecified' OR T2.Description = 'Not specified' LIMIT 4"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "How many countries in Europe & Central Asia uses Danish krone as its currency? List the full names of those coutnries.",
+    "evidence": "countries in Europe & Central Asia refer to region = 'Europe & Central Asia'; uses Danish krone refers to currencyunit = 'Danish krone'; full name refers to longname",
+    "SQL": "SELECT COUNT(longname) FROM country WHERE region = 'Europe & Central Asia' AND currencyunit = 'Danish krone' UNION SELECT longname FROM country WHERE currencyunit = 'Danish krone' AND region = 'Europe & Central Asia'"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "How many countries have a latest population census in 2011? Indicate their full names.",
+    "evidence": "have a latest population census in 2011 refers to LatestPopulationCensus = '2011'; full name refers to LongName",
+    "SQL": "SELECT COUNT(LongName) FROM country WHERE LatestPopulationCensus = '2011' UNION ALL SELECT LongName FROM country WHERE LatestPopulationCensus = '2011'"
+  },
+  {
+    "db_id": "world_development_indicators",
+    "question": "Among the countries who uses the 1968 System of National Accounts methodology, how many are in the Middle East & North Africa? Name the country with the highest CO2 emissions from solid fuel consumption in kiloton.",
+    "evidence": "uses the 1968 System of National Accounts methodology refers to SystemOfNationalAccounts = '1968 System of National Accounts methodology'; in the Middle East & North Africa refers to Region = 'Middle East & North Africa'; the highest CO2 emissions from solid fuel consumption in kiloton refers to max(value where IndicatorName = 'CO2 emissions from solid fuel consumption (kt)')",
+    "SQL": "SELECT COUNT(DISTINCT T1.CountryCode) FROM indicators AS T1 INNER JOIN country AS T2 ON T1.CountryCode = T2.CountryCode WHERE T2.Region = 'Middle East & North Africa' AND T2.SystemOfNationalAccounts = 'Country uses the 1968 System of National Accounts methodology.' AND T1.IndicatorName = 'CO2 emissions FROM solid fuel consumption (kt)' UNION SELECT * FROM ( SELECT T1.CountryName FROM indicators AS T1 INNER JOIN country AS T2 ON T1.CountryCode = T2.CountryCode WHERE T2.Region = 'Middle East & North Africa' AND T2.SystemOfNationalAccounts = 'Country uses the 1968 System of National Accounts methodology.' AND T1.IndicatorName = 'CO2 emissions FROM solid fuel consumption (kt)' GROUP BY T1.CountryName ORDER BY SUM(T1.value) DESC LIMIT 1 )"
+  },
+  {
+    "db_id": "genes",
+    "question": "What kind of expression correlation occurs in physical type interacting gene pairs and what percentage of these are negatively correlated?",
+    "evidence": "If the Expression_Corr value is negative then it's negatively correlated. Percentage of Negative Correlation = count(negative Expression_Corr physical type) / count(Expression_Corr physical type) * 100%",
+    "SQL": "SELECT Expression_Corr FROM Interactions WHERE Type = 'Physical' UNION ALL SELECT CAST(SUM(Expression_Corr < 0) AS REAL) * 100 / COUNT(*) FROM Interactions WHERE Type = 'Physical'"
+  },
+  {
+    "db_id": "cars",
+    "question": "Calculate the average production rate per year from 1971 to 1980. Among them, name the cars with a weight of fewer than 1800 lbs.",
+    "evidence": "from 1971 to 1980 refers to model_year between 1971 and 1980; average production rate per year = divide(count(ID where model_year between 1971 and 1980), 9); car's name refers to car_name; a weight of fewer than 1800 lbs refers to weight < 1800",
+    "SQL": "SELECT CAST(COUNT(T1.ID) AS REAL) / 9 FROM production AS T1 INNER JOIN data AS T2 ON T2.ID = T1.ID WHERE T1.model_year BETWEEN 1971 AND 1980 UNION ALL SELECT DISTINCT T2.car_name FROM production AS T1 INNER JOIN data AS T2 ON T2.ID = T1.ID WHERE T1.model_year BETWEEN 1971 AND 1980 AND T2.weight < 1800"
+  },
+  {
+    "db_id": "donor",
+    "question": "List by school id projects from schools located in the Union Pub School District I-9 that have a New York teaching fellow",
+    "evidence": "located in the Union Pub School District I-9 refers to school_district = 'Union Pub School District I-9'; New York teaching fellow refers to teacher_ny_teaching_fellow = 't'",
+    "SQL": "SELECT schoolid FROM projects WHERE school_district = 'Union Pub School District I-9' AND teacher_ny_teaching_fellow = 't'"
+  },
+  {
+    "db_id": "donor",
+    "question": "Among the technology items, what percentage of them are from Best Buy for Business? Provide the date of the project related to those items.",
+    "evidence": "technology items refers to project_resource_type = 'Technology'; from Best Buy for Business refers to vendor_name = 'Best Buy for Business'; percentage refers to DIVIDE(count(case when vendor_name = 'Best Buy for Business'),count(projectid))",
+    "SQL": "SELECT CAST(SUM(CASE WHEN T1.vendor_name = 'Best Buy for Business' THEN 1 ELSE 0 END) AS REAL) * 100 / COUNT(T1.projectid) FROM resources AS T1 INNER JOIN projects AS T2 ON T1.projectid = T2.projectid WHERE T1.project_resource_type = 'Technology' UNION ALL SELECT DISTINCT T1.date_posted FROM projects AS T1 INNER JOIN resources AS T2 ON T1.projectid = T2.projectid WHERE T2.vendor_name = 'Best Buy for Business' AND T2.project_resource_type = 'Technology'"
+  },
+  {
+    "db_id": "mental_health_survey",
+    "question": "How many female users were surveyed in the mental health survey for 2017 in the state of Nebraska?",
+    "evidence": "AnswerText = 'Yes' where questiontext = 'Do you have a family history of mental illness?'; AnswerText = 'Female' where questionid = 2; AnswerText = 'Nebraska' where questionid = 4",
+    "SQL": "SELECT COUNT(*) FROM ( SELECT T2.UserID FROM Question AS T1 INNER JOIN Answer AS T2 ON T1.questionid = T2.QuestionID INNER JOIN Survey AS T3 ON T2.SurveyID = T3.SurveyID WHERE T3.Description = 'mental health survey for 2017' AND T1.questionid = 2 AND T2.AnswerText = 'Female' UNION SELECT T2.UserID FROM Question AS T1 INNER JOIN Answer AS T2 ON T1.questionid = T2.QuestionID INNER JOIN Survey AS T3 ON T2.SurveyID = T3.SurveyID WHERE T1.questionid = 4 AND T2.AnswerText = 'Nebraska' AND T3.Description = 'mental health survey for 2017' )"
+  },
+  {
+    "db_id": "beer_factory",
+    "question": "Between Sac State Union and Sac State American River Courtyard, which location sold the most Dog n Suds root beer?",
+    "evidence": "Between Sac State Union and Sac State American River Courtyard refers to LocationName IN('Sac State American River Courtyard', 'Sac State Union'); Dog n Suds refers to BrandName = 'Dog n Suds'; sold the most root beer refers to MAX(COUNT(BrandID));",
+    "SQL": "SELECT T3.LocationName FROM rootbeer AS T1 INNER JOIN rootbeerbrand AS T2 ON T1.BrandID = T2.BrandID INNER JOIN location AS T3 ON T1.LocationID = T3.LocationID WHERE T2.BrandName = 'Dog n Suds' AND T3.LocationName IN ('Sac State American River Courtyard', 'Sac State Union') GROUP BY T1.LocationID ORDER BY COUNT(T1.BrandID) DESC LIMIT 1"
+  },
+  {
+    "db_id": "beer_factory",
+    "question": "What is the precise location of Sac State Union?",
+    "evidence": "precise location = Latitude, Longitude; Sac State Union refers to LocationName = 'Sac State Union';",
+    "SQL": "SELECT T2.Latitude, T2.Longitude FROM location AS T1 INNER JOIN geolocation AS T2 ON T1.LocationID = T2.LocationID WHERE T1.LocationName = 'Sac State Union'"
+  },
+  {
+    "db_id": "beer_factory",
+    "question": "Find the root beer with the most and least amount of profit per unit and list the container types in which these root beers are sold.",
+    "evidence": "most amount of profit per unit refers to MAX(SUBTRACT(CurrentRetailPrice, WholesaleCost)); least amount of profit per unit refers to MIN(SUBTRACT(CurrentRetailPrice, WholesaleCost));",
+    "SQL": "SELECT * FROM ( SELECT T1.BrandName, T2.ContainerType FROM rootbeerbrand AS T1 INNER JOIN rootbeer AS T2 ON T1.BrandID = T2.BrandID ORDER BY T1.CurrentRetailPrice - T1.WholesaleCost DESC LIMIT 1 ) UNION ALL SELECT * FROM ( SELECT T3.BrandName, T4.ContainerType FROM rootbeerbrand AS T3 INNER JOIN rootbeer AS T4 ON T3.BrandID = T4.BrandID ORDER BY T3.CurrentRetailPrice - T3.WholesaleCost ASC LIMIT 1 )"
+  },
+  {
+    "db_id": "beer_factory",
+    "question": "Find and list the full name and email of the customers who used American Express cards in Sac State Union.",
+    "evidence": "full name = First, Last; American Express cards refers to CreditCardType = 'American Express'; Sac State Union refers to LocationName = 'Sac State Union';",
+    "SQL": "SELECT DISTINCT T1.First, T1.Last, T1.Email FROM customers AS T1 INNER JOIN `transaction` AS T2 ON T1.CustomerID = T2.CustomerID INNER JOIN location AS T3 ON T2.LocationID = T3.LocationID WHERE T3.LocationName = 'Sac State Union' AND T2.CreditCardType = 'American Express'"
+  },
+  {
+    "db_id": "beer_factory",
+    "question": "How many transactions were made in Sac State Union using the American Express credit card in 2014?",
+    "evidence": "Sac State Union refers to LocationName = 'Sac State Union'; American Express credit card refers to CreditCardType = 'American Express'; in 2014 refers to TransactionDate LIKE '2014%';",
+    "SQL": "SELECT COUNT(T1.TransactionID) FROM `transaction` AS T1 INNER JOIN location AS T2 ON T1.LocationID = T2.LocationID WHERE T2.LocationName = 'Sac State Union' AND T1.CreditCardType = 'American Express' AND T1.TransactionDate BETWEEN '2014-01-01' AND '2014-12-31'"
+  },
+  {
+    "db_id": "beer_factory",
+    "question": "What is the precise coordinate of Sac State Union?",
+    "evidence": "precise coordinate = Latitude, Longitude; Sac State Union refers to LocationName = 'Sac State Union';",
+    "SQL": "SELECT T2.Latitude, T2.Longitude FROM location AS T1 INNER JOIN geolocation AS T2 ON T1.LocationID = T2.LocationID WHERE T1.LocationName = 'Sac State Union'"
+  },
+  {
+    "db_id": "beer_factory",
+    "question": "What is the transaction ratio being made at Sac State American River Courtyard and Sac State Union?",
+    "evidence": "transaction ratio = DIVIDE(SUM(TransactionID WHERE LocationName = 'Sac State American River Courtyard'), SUM(TransactionID WHERE LocationName = 'Sac State Union')); Sac State American River Courtyard refers to LocationName = 'Sac State American River Courtyard'; Sac State Union refers to LocationName = 'Sac State Union';",
+    "SQL": "SELECT CAST(COUNT(CASE WHEN T2.LocationName = 'Sac State American River Courtyard' THEN T1.TransactionID ELSE NULL END) AS REAL) * 100 / COUNT(CASE WHEN T2.LocationName = 'Sac State Union' THEN T1.TransactionID ELSE NULL END) FROM `transaction` AS T1 INNER JOIN location AS T2 ON T1.LocationID = T2.LocationID"
+  },
+  {
+    "db_id": "beer_factory",
+    "question": "How many transactions were made at Sac State Union?",
+    "evidence": "Sac State Union refers to LocationName = 'Sac State Union';",
+    "SQL": "SELECT COUNT(T1.TransactionID) FROM `transaction` AS T1 INNER JOIN location AS T2 ON T1.LocationID = T2.LocationID WHERE T2.LocationName = 'Sac State Union'"
+  },
+  {
+    "db_id": "coinmarketcap",
+    "question": "List the price for Zetacoin on 13/11/1 and the next 7 consecutive days. What is the average price for these 7 days?",
+    "evidence": "on 1/11/13 and the next 7 consecutive days refers to DATE BETWEEN '2013-11-01' AND '2013-11-07'; average price refers to AVG(price); Zetacoin refers to name = 'Zetacoin'",
+    "SQL": "SELECT T2.price FROM coins AS T1 INNER JOIN historical AS T2 ON T1.id = T2.coin_id WHERE T1.name = 'Zetacoin' AND T2.date BETWEEN '2013-11-01' AND '2013-11-07' UNION ALL SELECT AVG(T2.PRICE) FROM coins AS T1 INNER JOIN historical AS T2 ON T1.id = T2.coin_id WHERE T1.name = 'Zetacoin' AND T2.date BETWEEN '2013-11-01' AND '2013-11-07'"
+  },
+  {
+    "db_id": "coinmarketcap",
+    "question": "How many coins were added in May 2013? Please list the names of coins.",
+    "evidence": "in May 2013 refers to year(date_added) = 2013 and month(date_added) = 5",
+    "SQL": "SELECT COUNT(id) num FROM coins WHERE STRFTIME('%Y-%m', date_added) = '2013-05' UNION ALL SELECT name FROM coins WHERE STRFTIME('%Y-%m', date_added) = '2013-05'"
+  },
+  {
+    "db_id": "bike_share_1",
+    "question": "How many bike stations were installed in San Jose in 2014? Indicate the names of the stations.",
+    "evidence": "San Jose is the name of the city; 2014 refers to installation_date between '1/1/2014' and '12/31/2014';",
+    "SQL": "SELECT SUM(CASE WHEN city = 'San Jose' AND SUBSTR(installation_date, -4) = '2014' THEN 1 ELSE 0 END) FROM station UNION SELECT name FROM station WHERE city = 'San Jose' AND SUBSTR(installation_date, -4) = '2014'"
+  }
+]

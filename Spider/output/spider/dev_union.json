@@ -1,0 +1,2898 @@
+[
+  {
+    "db_id": "car_1",
+    "query": "SELECT T1.countryId ,  T1.CountryName FROM Countries AS T1 JOIN CAR_MAKERS AS T2 ON T1.CountryId  =  T2.Country GROUP BY T1.countryId HAVING count(*)  >  3 UNION SELECT T1.countryId ,  T1.CountryName FROM Countries AS T1 JOIN CAR_MAKERS AS T2 ON T1.CountryId  =  T2.Country JOIN MODEL_LIST AS T3 ON T2.Id  =  T3.Maker WHERE T3.Model  =  'fiat';",
+    "query_toks": [
+      "SELECT",
+      "T1.countryId",
+      ",",
+      "T1.CountryName",
+      "FROM",
+      "Countries",
+      "AS",
+      "T1",
+      "JOIN",
+      "CAR_MAKERS",
+      "AS",
+      "T2",
+      "ON",
+      "T1.CountryId",
+      "=",
+      "T2.Country",
+      "GROUP",
+      "BY",
+      "T1.countryId",
+      "HAVING",
+      "count",
+      "(",
+      "*",
+      ")",
+      ">",
+      "3",
+      "UNION",
+      "SELECT",
+      "T1.countryId",
+      ",",
+      "T1.CountryName",
+      "FROM",
+      "Countries",
+      "AS",
+      "T1",
+      "JOIN",
+      "CAR_MAKERS",
+      "AS",
+      "T2",
+      "ON",
+      "T1.CountryId",
+      "=",
+      "T2.Country",
+      "JOIN",
+      "MODEL_LIST",
+      "AS",
+      "T3",
+      "ON",
+      "T2.Id",
+      "=",
+      "T3.Maker",
+      "WHERE",
+      "T3.Model",
+      "=",
+      "'fiat",
+      "'",
+      ";"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "t1",
+      ".",
+      "countryid",
+      ",",
+      "t1",
+      ".",
+      "countryname",
+      "from",
+      "countries",
+      "as",
+      "t1",
+      "join",
+      "car_makers",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "countryid",
+      "=",
+      "t2",
+      ".",
+      "country",
+      "group",
+      "by",
+      "t1",
+      ".",
+      "countryid",
+      "having",
+      "count",
+      "(",
+      "*",
+      ")",
+      ">",
+      "value",
+      "union",
+      "select",
+      "t1",
+      ".",
+      "countryid",
+      ",",
+      "t1",
+      ".",
+      "countryname",
+      "from",
+      "countries",
+      "as",
+      "t1",
+      "join",
+      "car_makers",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "countryid",
+      "=",
+      "t2",
+      ".",
+      "country",
+      "join",
+      "model_list",
+      "as",
+      "t3",
+      "on",
+      "t2",
+      ".",
+      "id",
+      "=",
+      "t3",
+      ".",
+      "maker",
+      "where",
+      "t3",
+      ".",
+      "model",
+      "=",
+      "value"
+    ],
+    "question": "What are the id and names of the countries which have more than 3 car makers or produce the 'fiat' model?",
+    "question_toks": [
+      "What",
+      "are",
+      "the",
+      "id",
+      "and",
+      "names",
+      "of",
+      "the",
+      "countries",
+      "which",
+      "have",
+      "more",
+      "than",
+      "3",
+      "car",
+      "makers",
+      "or",
+      "produce",
+      "the",
+      "'fiat",
+      "'",
+      "model",
+      "?"
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            1
+          ],
+          [
+            "table_unit",
+            2
+          ]
+        ],
+        "conds": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                3,
+                false
+              ],
+              null
+            ],
+            [
+              0,
+              9,
+              false
+            ],
+            null
+          ]
+        ]
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                3,
+                false
+              ],
+              null
+            ]
+          ],
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                4,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [],
+      "groupBy": [
+        [
+          0,
+          3,
+          false
+        ]
+      ],
+      "having": [
+        [
+          false,
+          3,
+          [
+            0,
+            [
+              3,
+              0,
+              false
+            ],
+            null
+          ],
+          3.0,
+          null
+        ]
+      ],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              1
+            ],
+            [
+              "table_unit",
+              2
+            ],
+            [
+              "table_unit",
+              3
+            ]
+          ],
+          "conds": [
+            [
+              false,
+              2,
+              [
+                0,
+                [
+                  0,
+                  3,
+                  false
+                ],
+                null
+              ],
+              [
+                0,
+                9,
+                false
+              ],
+              null
+            ],
+            "and",
+            [
+              false,
+              2,
+              [
+                0,
+                [
+                  0,
+                  6,
+                  false
+                ],
+                null
+              ],
+              [
+                0,
+                11,
+                false
+              ],
+              null
+            ]
+          ]
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  3,
+                  false
+                ],
+                null
+              ]
+            ],
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  4,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                12,
+                false
+              ],
+              null
+            ],
+            "\"fiat\"",
+            null
+          ]
+        ],
+        "groupBy": [],
+        "having": [],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": null
+      },
+      "except": null
+    }
+  },
+  {
+    "db_id": "car_1",
+    "query": "select t1.countryid ,  t1.countryname from countries as t1 join car_makers as t2 on t1.countryid  =  t2.country group by t1.countryid having count(*)  >  3 union select t1.countryid ,  t1.countryname from countries as t1 join car_makers as t2 on t1.countryid  =  t2.country join model_list as t3 on t2.id  =  t3.maker where t3.model  =  'fiat';",
+    "query_toks": [
+      "select",
+      "t1.countryid",
+      ",",
+      "t1.countryname",
+      "from",
+      "countries",
+      "as",
+      "t1",
+      "join",
+      "car_makers",
+      "as",
+      "t2",
+      "on",
+      "t1.countryid",
+      "=",
+      "t2.country",
+      "group",
+      "by",
+      "t1.countryid",
+      "having",
+      "count",
+      "(",
+      "*",
+      ")",
+      ">",
+      "3",
+      "union",
+      "select",
+      "t1.countryid",
+      ",",
+      "t1.countryname",
+      "from",
+      "countries",
+      "as",
+      "t1",
+      "join",
+      "car_makers",
+      "as",
+      "t2",
+      "on",
+      "t1.countryid",
+      "=",
+      "t2.country",
+      "join",
+      "model_list",
+      "as",
+      "t3",
+      "on",
+      "t2.id",
+      "=",
+      "t3.maker",
+      "where",
+      "t3.model",
+      "=",
+      "\"fiat\"",
+      ";"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "t1",
+      ".",
+      "countryid",
+      ",",
+      "t1",
+      ".",
+      "countryname",
+      "from",
+      "countries",
+      "as",
+      "t1",
+      "join",
+      "car_makers",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "countryid",
+      "=",
+      "t2",
+      ".",
+      "country",
+      "group",
+      "by",
+      "t1",
+      ".",
+      "countryid",
+      "having",
+      "count",
+      "(",
+      "*",
+      ")",
+      ">",
+      "value",
+      "union",
+      "select",
+      "t1",
+      ".",
+      "countryid",
+      ",",
+      "t1",
+      ".",
+      "countryname",
+      "from",
+      "countries",
+      "as",
+      "t1",
+      "join",
+      "car_makers",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "countryid",
+      "=",
+      "t2",
+      ".",
+      "country",
+      "join",
+      "model_list",
+      "as",
+      "t3",
+      "on",
+      "t2",
+      ".",
+      "id",
+      "=",
+      "t3",
+      ".",
+      "maker",
+      "where",
+      "t3",
+      ".",
+      "model",
+      "=",
+      "value"
+    ],
+    "question": "What are the ids and names of all countries that either have more than 3 car makers or produce fiat model ?",
+    "question_toks": [
+      "What",
+      "are",
+      "the",
+      "ids",
+      "and",
+      "names",
+      "of",
+      "all",
+      "countries",
+      "that",
+      "either",
+      "have",
+      "more",
+      "than",
+      "3",
+      "car",
+      "makers",
+      "or",
+      "produce",
+      "fiat",
+      "model",
+      "?"
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            1
+          ],
+          [
+            "table_unit",
+            2
+          ]
+        ],
+        "conds": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                3,
+                false
+              ],
+              null
+            ],
+            [
+              0,
+              9,
+              false
+            ],
+            null
+          ]
+        ]
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                3,
+                false
+              ],
+              null
+            ]
+          ],
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                4,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [],
+      "groupBy": [
+        [
+          0,
+          3,
+          false
+        ]
+      ],
+      "having": [
+        [
+          false,
+          3,
+          [
+            0,
+            [
+              3,
+              0,
+              false
+            ],
+            null
+          ],
+          3.0,
+          null
+        ]
+      ],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              1
+            ],
+            [
+              "table_unit",
+              2
+            ],
+            [
+              "table_unit",
+              3
+            ]
+          ],
+          "conds": [
+            [
+              false,
+              2,
+              [
+                0,
+                [
+                  0,
+                  3,
+                  false
+                ],
+                null
+              ],
+              [
+                0,
+                9,
+                false
+              ],
+              null
+            ],
+            "and",
+            [
+              false,
+              2,
+              [
+                0,
+                [
+                  0,
+                  6,
+                  false
+                ],
+                null
+              ],
+              [
+                0,
+                11,
+                false
+              ],
+              null
+            ]
+          ]
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  3,
+                  false
+                ],
+                null
+              ]
+            ],
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  4,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                12,
+                false
+              ],
+              null
+            ],
+            "\"fiat\"",
+            null
+          ]
+        ],
+        "groupBy": [],
+        "having": [],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": null
+      },
+      "except": null
+    }
+  },
+  {
+    "db_id": "flight_2",
+    "query": "SELECT AirportName FROM Airports WHERE AirportCode NOT IN (SELECT SourceAirport FROM Flights UNION SELECT DestAirport FROM Flights)",
+    "query_toks": [
+      "SELECT",
+      "AirportName",
+      "FROM",
+      "Airports",
+      "WHERE",
+      "AirportCode",
+      "NOT",
+      "IN",
+      "(",
+      "SELECT",
+      "SourceAirport",
+      "FROM",
+      "Flights",
+      "UNION",
+      "SELECT",
+      "DestAirport",
+      "FROM",
+      "Flights",
+      ")"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "airportname",
+      "from",
+      "airports",
+      "where",
+      "airportcode",
+      "not",
+      "in",
+      "(",
+      "select",
+      "sourceairport",
+      "from",
+      "flights",
+      "union",
+      "select",
+      "destairport",
+      "from",
+      "flights",
+      ")"
+    ],
+    "question": "Find the name of airports which do not have any flight in and out.",
+    "question_toks": [
+      "Find",
+      "the",
+      "name",
+      "of",
+      "airports",
+      "which",
+      "do",
+      "not",
+      "have",
+      "any",
+      "flight",
+      "in",
+      "and",
+      "out",
+      "."
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            1
+          ]
+        ],
+        "conds": []
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                7,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [
+        [
+          true,
+          8,
+          [
+            0,
+            [
+              0,
+              6,
+              false
+            ],
+            null
+          ],
+          {
+            "from": {
+              "table_units": [
+                [
+                  "table_unit",
+                  2
+                ]
+              ],
+              "conds": []
+            },
+            "select": [
+              false,
+              [
+                [
+                  0,
+                  [
+                    0,
+                    [
+                      0,
+                      12,
+                      false
+                    ],
+                    null
+                  ]
+                ]
+              ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": {
+              "from": {
+                "table_units": [
+                  [
+                    "table_unit",
+                    2
+                  ]
+                ],
+                "conds": []
+              },
+              "select": [
+                false,
+                [
+                  [
+                    0,
+                    [
+                      0,
+                      [
+                        0,
+                        13,
+                        false
+                      ],
+                      null
+                    ]
+                  ]
+                ]
+              ],
+              "where": [],
+              "groupBy": [],
+              "having": [],
+              "orderBy": [],
+              "limit": null,
+              "intersect": null,
+              "union": null,
+              "except": null
+            },
+            "except": null
+          },
+          null
+        ]
+      ],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": null,
+      "except": null
+    }
+  },
+  {
+    "db_id": "flight_2",
+    "query": "SELECT AirportName FROM Airports WHERE AirportCode NOT IN (SELECT SourceAirport FROM Flights UNION SELECT DestAirport FROM Flights)",
+    "query_toks": [
+      "SELECT",
+      "AirportName",
+      "FROM",
+      "Airports",
+      "WHERE",
+      "AirportCode",
+      "NOT",
+      "IN",
+      "(",
+      "SELECT",
+      "SourceAirport",
+      "FROM",
+      "Flights",
+      "UNION",
+      "SELECT",
+      "DestAirport",
+      "FROM",
+      "Flights",
+      ")"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "airportname",
+      "from",
+      "airports",
+      "where",
+      "airportcode",
+      "not",
+      "in",
+      "(",
+      "select",
+      "sourceairport",
+      "from",
+      "flights",
+      "union",
+      "select",
+      "destairport",
+      "from",
+      "flights",
+      ")"
+    ],
+    "question": "Which airports do not have departing or arriving flights?",
+    "question_toks": [
+      "Which",
+      "airports",
+      "do",
+      "not",
+      "have",
+      "departing",
+      "or",
+      "arriving",
+      "flights",
+      "?"
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            1
+          ]
+        ],
+        "conds": []
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                7,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [
+        [
+          true,
+          8,
+          [
+            0,
+            [
+              0,
+              6,
+              false
+            ],
+            null
+          ],
+          {
+            "from": {
+              "table_units": [
+                [
+                  "table_unit",
+                  2
+                ]
+              ],
+              "conds": []
+            },
+            "select": [
+              false,
+              [
+                [
+                  0,
+                  [
+                    0,
+                    [
+                      0,
+                      12,
+                      false
+                    ],
+                    null
+                  ]
+                ]
+              ]
+            ],
+            "where": [],
+            "groupBy": [],
+            "having": [],
+            "orderBy": [],
+            "limit": null,
+            "intersect": null,
+            "union": {
+              "from": {
+                "table_units": [
+                  [
+                    "table_unit",
+                    2
+                  ]
+                ],
+                "conds": []
+              },
+              "select": [
+                false,
+                [
+                  [
+                    0,
+                    [
+                      0,
+                      [
+                        0,
+                        13,
+                        false
+                      ],
+                      null
+                    ]
+                  ]
+                ]
+              ],
+              "where": [],
+              "groupBy": [],
+              "having": [],
+              "orderBy": [],
+              "limit": null,
+              "intersect": null,
+              "union": null,
+              "except": null
+            },
+            "except": null
+          },
+          null
+        ]
+      ],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": null,
+      "except": null
+    }
+  },
+  {
+    "db_id": "world_1",
+    "query": "select t1.name from country as t1 join countrylanguage as t2 on t1.code  =  t2.countrycode where t2.language  =  \"english\" and isofficial  =  \"t\" union select t1.name from country as t1 join countrylanguage as t2 on t1.code  =  t2.countrycode where t2.language  =  \"dutch\" and isofficial  =  \"t\"",
+    "query_toks": [
+      "select",
+      "t1.name",
+      "from",
+      "country",
+      "as",
+      "t1",
+      "join",
+      "countrylanguage",
+      "as",
+      "t2",
+      "on",
+      "t1.code",
+      "=",
+      "t2.countrycode",
+      "where",
+      "t2.language",
+      "=",
+      "\"english\"",
+      "and",
+      "isofficial",
+      "=",
+      "\"t\"",
+      "union",
+      "select",
+      "t1.name",
+      "from",
+      "country",
+      "as",
+      "t1",
+      "join",
+      "countrylanguage",
+      "as",
+      "t2",
+      "on",
+      "t1.code",
+      "=",
+      "t2.countrycode",
+      "where",
+      "t2.language",
+      "=",
+      "\"dutch\"",
+      "and",
+      "isofficial",
+      "=",
+      "\"t\""
+    ],
+    "query_toks_no_value": [
+      "select",
+      "t1",
+      ".",
+      "name",
+      "from",
+      "country",
+      "as",
+      "t1",
+      "join",
+      "countrylanguage",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "code",
+      "=",
+      "t2",
+      ".",
+      "countrycode",
+      "where",
+      "t2",
+      ".",
+      "language",
+      "=",
+      "value",
+      "and",
+      "isofficial",
+      "=",
+      "value",
+      "union",
+      "select",
+      "t1",
+      ".",
+      "name",
+      "from",
+      "country",
+      "as",
+      "t1",
+      "join",
+      "countrylanguage",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "code",
+      "=",
+      "t2",
+      ".",
+      "countrycode",
+      "where",
+      "t2",
+      ".",
+      "language",
+      "=",
+      "value",
+      "and",
+      "isofficial",
+      "=",
+      "value"
+    ],
+    "question": "What are the countries where either English or Dutch is the official language ?",
+    "question_toks": [
+      "What",
+      "are",
+      "the",
+      "countries",
+      "where",
+      "either",
+      "English",
+      "or",
+      "Dutch",
+      "is",
+      "the",
+      "official",
+      "language",
+      "?"
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            2
+          ],
+          [
+            "table_unit",
+            3
+          ]
+        ],
+        "conds": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                8,
+                false
+              ],
+              null
+            ],
+            [
+              0,
+              23,
+              false
+            ],
+            null
+          ]
+        ]
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                9,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [
+        [
+          false,
+          2,
+          [
+            0,
+            [
+              0,
+              24,
+              false
+            ],
+            null
+          ],
+          "\"english\"",
+          null
+        ],
+        "and",
+        [
+          false,
+          2,
+          [
+            0,
+            [
+              0,
+              25,
+              false
+            ],
+            null
+          ],
+          "\"t\"",
+          null
+        ]
+      ],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              2
+            ],
+            [
+              "table_unit",
+              3
+            ]
+          ],
+          "conds": [
+            [
+              false,
+              2,
+              [
+                0,
+                [
+                  0,
+                  8,
+                  false
+                ],
+                null
+              ],
+              [
+                0,
+                23,
+                false
+              ],
+              null
+            ]
+          ]
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  9,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                24,
+                false
+              ],
+              null
+            ],
+            "\"dutch\"",
+            null
+          ],
+          "and",
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                25,
+                false
+              ],
+              null
+            ],
+            "\"t\"",
+            null
+          ]
+        ],
+        "groupBy": [],
+        "having": [],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": null
+      },
+      "except": null
+    }
+  },
+  {
+    "db_id": "world_1",
+    "query": "SELECT * FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code  =  T2.CountryCode WHERE T2.Language  =  \"English\" AND IsOfficial  =  \"T\" UNION SELECT * FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code  =  T2.CountryCode WHERE T2.Language  =  \"Dutch\" AND IsOfficial  =  \"T\"",
+    "query_toks": [
+      "SELECT",
+      "*",
+      "FROM",
+      "country",
+      "AS",
+      "T1",
+      "JOIN",
+      "countrylanguage",
+      "AS",
+      "T2",
+      "ON",
+      "T1.Code",
+      "=",
+      "T2.CountryCode",
+      "WHERE",
+      "T2.Language",
+      "=",
+      "``",
+      "English",
+      "''",
+      "AND",
+      "IsOfficial",
+      "=",
+      "``",
+      "T",
+      "''",
+      "UNION",
+      "SELECT",
+      "*",
+      "FROM",
+      "country",
+      "AS",
+      "T1",
+      "JOIN",
+      "countrylanguage",
+      "AS",
+      "T2",
+      "ON",
+      "T1.Code",
+      "=",
+      "T2.CountryCode",
+      "WHERE",
+      "T2.Language",
+      "=",
+      "``",
+      "Dutch",
+      "''",
+      "AND",
+      "IsOfficial",
+      "=",
+      "``",
+      "T",
+      "''"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "*",
+      "from",
+      "country",
+      "as",
+      "t1",
+      "join",
+      "countrylanguage",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "code",
+      "=",
+      "t2",
+      ".",
+      "countrycode",
+      "where",
+      "t2",
+      ".",
+      "language",
+      "=",
+      "value",
+      "and",
+      "isofficial",
+      "=",
+      "value",
+      "union",
+      "select",
+      "*",
+      "from",
+      "country",
+      "as",
+      "t1",
+      "join",
+      "countrylanguage",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "code",
+      "=",
+      "t2",
+      ".",
+      "countrycode",
+      "where",
+      "t2",
+      ".",
+      "language",
+      "=",
+      "value",
+      "and",
+      "isofficial",
+      "=",
+      "value"
+    ],
+    "question": "Which countries have either English or Dutch as an official language?",
+    "question_toks": [
+      "Which",
+      "countries",
+      "have",
+      "either",
+      "English",
+      "or",
+      "Dutch",
+      "as",
+      "an",
+      "official",
+      "language",
+      "?"
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            2
+          ],
+          [
+            "table_unit",
+            3
+          ]
+        ],
+        "conds": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                8,
+                false
+              ],
+              null
+            ],
+            [
+              0,
+              23,
+              false
+            ],
+            null
+          ]
+        ]
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                0,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [
+        [
+          false,
+          2,
+          [
+            0,
+            [
+              0,
+              24,
+              false
+            ],
+            null
+          ],
+          "\"English\"",
+          null
+        ],
+        "and",
+        [
+          false,
+          2,
+          [
+            0,
+            [
+              0,
+              25,
+              false
+            ],
+            null
+          ],
+          "\"T\"",
+          null
+        ]
+      ],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              2
+            ],
+            [
+              "table_unit",
+              3
+            ]
+          ],
+          "conds": [
+            [
+              false,
+              2,
+              [
+                0,
+                [
+                  0,
+                  8,
+                  false
+                ],
+                null
+              ],
+              [
+                0,
+                23,
+                false
+              ],
+              null
+            ]
+          ]
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  0,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                24,
+                false
+              ],
+              null
+            ],
+            "\"Dutch\"",
+            null
+          ],
+          "and",
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                25,
+                false
+              ],
+              null
+            ],
+            "\"T\"",
+            null
+          ]
+        ],
+        "groupBy": [],
+        "having": [],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": null
+      },
+      "except": null
+    }
+  },
+  {
+    "db_id": "dog_kennels",
+    "query": "SELECT professional_id ,  last_name ,  cell_number FROM Professionals WHERE state  =  'Indiana' UNION SELECT T1.professional_id ,  T1.last_name ,  T1.cell_number FROM Professionals AS T1 JOIN Treatments AS T2 ON T1.professional_id  =  T2.professional_id GROUP BY T1.professional_id HAVING count(*)  >  2",
+    "query_toks": [
+      "SELECT",
+      "professional_id",
+      ",",
+      "last_name",
+      ",",
+      "cell_number",
+      "FROM",
+      "Professionals",
+      "WHERE",
+      "state",
+      "=",
+      "'Indiana",
+      "'",
+      "UNION",
+      "SELECT",
+      "T1.professional_id",
+      ",",
+      "T1.last_name",
+      ",",
+      "T1.cell_number",
+      "FROM",
+      "Professionals",
+      "AS",
+      "T1",
+      "JOIN",
+      "Treatments",
+      "AS",
+      "T2",
+      "ON",
+      "T1.professional_id",
+      "=",
+      "T2.professional_id",
+      "GROUP",
+      "BY",
+      "T1.professional_id",
+      "HAVING",
+      "count",
+      "(",
+      "*",
+      ")",
+      ">",
+      "2"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "professional_id",
+      ",",
+      "last_name",
+      ",",
+      "cell_number",
+      "from",
+      "professionals",
+      "where",
+      "state",
+      "=",
+      "value",
+      "union",
+      "select",
+      "t1",
+      ".",
+      "professional_id",
+      ",",
+      "t1",
+      ".",
+      "last_name",
+      ",",
+      "t1",
+      ".",
+      "cell_number",
+      "from",
+      "professionals",
+      "as",
+      "t1",
+      "join",
+      "treatments",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "professional_id",
+      "=",
+      "t2",
+      ".",
+      "professional_id",
+      "group",
+      "by",
+      "t1",
+      ".",
+      "professional_id",
+      "having",
+      "count",
+      "(",
+      "*",
+      ")",
+      ">",
+      "value"
+    ],
+    "question": "Which professionals live in the state of Indiana or have done treatment on more than 2 treatments? List his or her id, last name and cell phone.",
+    "question_toks": [
+      "Which",
+      "professionals",
+      "live",
+      "in",
+      "the",
+      "state",
+      "of",
+      "Indiana",
+      "or",
+      "have",
+      "done",
+      "treatment",
+      "on",
+      "more",
+      "than",
+      "2",
+      "treatments",
+      "?",
+      "List",
+      "his",
+      "or",
+      "her",
+      "id",
+      ",",
+      "last",
+      "name",
+      "and",
+      "cell",
+      "phone",
+      "."
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            6
+          ]
+        ],
+        "conds": []
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                33,
+                false
+              ],
+              null
+            ]
+          ],
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                40,
+                false
+              ],
+              null
+            ]
+          ],
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                43,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [
+        [
+          false,
+          2,
+          [
+            0,
+            [
+              0,
+              38,
+              false
+            ],
+            null
+          ],
+          "\"Indiana\"",
+          null
+        ]
+      ],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              6
+            ],
+            [
+              "table_unit",
+              7
+            ]
+          ],
+          "conds": [
+            [
+              false,
+              2,
+              [
+                0,
+                [
+                  0,
+                  33,
+                  false
+                ],
+                null
+              ],
+              [
+                0,
+                46,
+                false
+              ],
+              null
+            ]
+          ]
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  33,
+                  false
+                ],
+                null
+              ]
+            ],
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  40,
+                  false
+                ],
+                null
+              ]
+            ],
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  43,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [],
+        "groupBy": [
+          [
+            0,
+            33,
+            false
+          ]
+        ],
+        "having": [
+          [
+            false,
+            3,
+            [
+              0,
+              [
+                3,
+                0,
+                false
+              ],
+              null
+            ],
+            2.0,
+            null
+          ]
+        ],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": null
+      },
+      "except": null
+    }
+  },
+  {
+    "db_id": "dog_kennels",
+    "query": "SELECT professional_id ,  last_name ,  cell_number FROM Professionals WHERE state  =  'Indiana' UNION SELECT T1.professional_id ,  T1.last_name ,  T1.cell_number FROM Professionals AS T1 JOIN Treatments AS T2 ON T1.professional_id  =  T2.professional_id GROUP BY T1.professional_id HAVING count(*)  >  2",
+    "query_toks": [
+      "SELECT",
+      "professional_id",
+      ",",
+      "last_name",
+      ",",
+      "cell_number",
+      "FROM",
+      "Professionals",
+      "WHERE",
+      "state",
+      "=",
+      "'Indiana",
+      "'",
+      "UNION",
+      "SELECT",
+      "T1.professional_id",
+      ",",
+      "T1.last_name",
+      ",",
+      "T1.cell_number",
+      "FROM",
+      "Professionals",
+      "AS",
+      "T1",
+      "JOIN",
+      "Treatments",
+      "AS",
+      "T2",
+      "ON",
+      "T1.professional_id",
+      "=",
+      "T2.professional_id",
+      "GROUP",
+      "BY",
+      "T1.professional_id",
+      "HAVING",
+      "count",
+      "(",
+      "*",
+      ")",
+      ">",
+      "2"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "professional_id",
+      ",",
+      "last_name",
+      ",",
+      "cell_number",
+      "from",
+      "professionals",
+      "where",
+      "state",
+      "=",
+      "value",
+      "union",
+      "select",
+      "t1",
+      ".",
+      "professional_id",
+      ",",
+      "t1",
+      ".",
+      "last_name",
+      ",",
+      "t1",
+      ".",
+      "cell_number",
+      "from",
+      "professionals",
+      "as",
+      "t1",
+      "join",
+      "treatments",
+      "as",
+      "t2",
+      "on",
+      "t1",
+      ".",
+      "professional_id",
+      "=",
+      "t2",
+      ".",
+      "professional_id",
+      "group",
+      "by",
+      "t1",
+      ".",
+      "professional_id",
+      "having",
+      "count",
+      "(",
+      "*",
+      ")",
+      ">",
+      "value"
+    ],
+    "question": "Find the id, last name and cell phone of the professionals who live in the state of Indiana or have performed more than two treatments.",
+    "question_toks": [
+      "Find",
+      "the",
+      "id",
+      ",",
+      "last",
+      "name",
+      "and",
+      "cell",
+      "phone",
+      "of",
+      "the",
+      "professionals",
+      "who",
+      "live",
+      "in",
+      "the",
+      "state",
+      "of",
+      "Indiana",
+      "or",
+      "have",
+      "performed",
+      "more",
+      "than",
+      "two",
+      "treatments",
+      "."
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            6
+          ]
+        ],
+        "conds": []
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                33,
+                false
+              ],
+              null
+            ]
+          ],
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                40,
+                false
+              ],
+              null
+            ]
+          ],
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                43,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [
+        [
+          false,
+          2,
+          [
+            0,
+            [
+              0,
+              38,
+              false
+            ],
+            null
+          ],
+          "\"Indiana\"",
+          null
+        ]
+      ],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              6
+            ],
+            [
+              "table_unit",
+              7
+            ]
+          ],
+          "conds": [
+            [
+              false,
+              2,
+              [
+                0,
+                [
+                  0,
+                  33,
+                  false
+                ],
+                null
+              ],
+              [
+                0,
+                46,
+                false
+              ],
+              null
+            ]
+          ]
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  33,
+                  false
+                ],
+                null
+              ]
+            ],
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  40,
+                  false
+                ],
+                null
+              ]
+            ],
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  43,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [],
+        "groupBy": [
+          [
+            0,
+            33,
+            false
+          ]
+        ],
+        "having": [
+          [
+            false,
+            3,
+            [
+              0,
+              [
+                3,
+                0,
+                false
+              ],
+              null
+            ],
+            2.0,
+            null
+          ]
+        ],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": null
+      },
+      "except": null
+    }
+  },
+  {
+    "db_id": "dog_kennels",
+    "query": "SELECT first_name FROM Professionals UNION SELECT first_name FROM Owners EXCEPT SELECT name FROM Dogs",
+    "query_toks": [
+      "SELECT",
+      "first_name",
+      "FROM",
+      "Professionals",
+      "UNION",
+      "SELECT",
+      "first_name",
+      "FROM",
+      "Owners",
+      "EXCEPT",
+      "SELECT",
+      "name",
+      "FROM",
+      "Dogs"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "first_name",
+      "from",
+      "professionals",
+      "union",
+      "select",
+      "first_name",
+      "from",
+      "owners",
+      "except",
+      "select",
+      "name",
+      "from",
+      "dogs"
+    ],
+    "question": "Which first names are used for professionals or owners but are not used as dog names?",
+    "question_toks": [
+      "Which",
+      "first",
+      "names",
+      "are",
+      "used",
+      "for",
+      "professionals",
+      "or",
+      "owners",
+      "but",
+      "are",
+      "not",
+      "used",
+      "as",
+      "dog",
+      "names",
+      "?"
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            6
+          ]
+        ],
+        "conds": []
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                35,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              4
+            ]
+          ],
+          "conds": []
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  11,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [],
+        "groupBy": [],
+        "having": [],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": {
+          "from": {
+            "table_units": [
+              [
+                "table_unit",
+                5
+              ]
+            ],
+            "conds": []
+          },
+          "select": [
+            false,
+            [
+              [
+                0,
+                [
+                  0,
+                  [
+                    0,
+                    25,
+                    false
+                  ],
+                  null
+                ]
+              ]
+            ]
+          ],
+          "where": [],
+          "groupBy": [],
+          "having": [],
+          "orderBy": [],
+          "limit": null,
+          "intersect": null,
+          "union": null,
+          "except": null
+        }
+      },
+      "except": null
+    }
+  },
+  {
+    "db_id": "dog_kennels",
+    "query": "SELECT first_name FROM Professionals UNION SELECT first_name FROM Owners EXCEPT SELECT name FROM Dogs",
+    "query_toks": [
+      "SELECT",
+      "first_name",
+      "FROM",
+      "Professionals",
+      "UNION",
+      "SELECT",
+      "first_name",
+      "FROM",
+      "Owners",
+      "EXCEPT",
+      "SELECT",
+      "name",
+      "FROM",
+      "Dogs"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "first_name",
+      "from",
+      "professionals",
+      "union",
+      "select",
+      "first_name",
+      "from",
+      "owners",
+      "except",
+      "select",
+      "name",
+      "from",
+      "dogs"
+    ],
+    "question": "Find the first names that are used for professionals or owners but are not used as dog names.",
+    "question_toks": [
+      "Find",
+      "the",
+      "first",
+      "names",
+      "that",
+      "are",
+      "used",
+      "for",
+      "professionals",
+      "or",
+      "owners",
+      "but",
+      "are",
+      "not",
+      "used",
+      "as",
+      "dog",
+      "names",
+      "."
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            6
+          ]
+        ],
+        "conds": []
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                35,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              4
+            ]
+          ],
+          "conds": []
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  11,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [],
+        "groupBy": [],
+        "having": [],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": {
+          "from": {
+            "table_units": [
+              [
+                "table_unit",
+                5
+              ]
+            ],
+            "conds": []
+          },
+          "select": [
+            false,
+            [
+              [
+                0,
+                [
+                  0,
+                  [
+                    0,
+                    25,
+                    false
+                  ],
+                  null
+                ]
+              ]
+            ]
+          ],
+          "where": [],
+          "groupBy": [],
+          "having": [],
+          "orderBy": [],
+          "limit": null,
+          "intersect": null,
+          "union": null,
+          "except": null
+        }
+      },
+      "except": null
+    }
+  },
+  {
+    "db_id": "real_estate_properties",
+    "query": "SELECT property_name FROM Properties WHERE property_type_code  =  \"House\" UNION SELECT property_name FROM Properties WHERE property_type_code  =  \"Apartment\" AND room_count  >  1",
+    "query_toks": [
+      "SELECT",
+      "property_name",
+      "FROM",
+      "Properties",
+      "WHERE",
+      "property_type_code",
+      "=",
+      "``",
+      "House",
+      "''",
+      "UNION",
+      "SELECT",
+      "property_name",
+      "FROM",
+      "Properties",
+      "WHERE",
+      "property_type_code",
+      "=",
+      "``",
+      "Apartment",
+      "''",
+      "AND",
+      "room_count",
+      ">",
+      "1"
+    ],
+    "query_toks_no_value": [
+      "select",
+      "property_name",
+      "from",
+      "properties",
+      "where",
+      "property_type_code",
+      "=",
+      "value",
+      "union",
+      "select",
+      "property_name",
+      "from",
+      "properties",
+      "where",
+      "property_type_code",
+      "=",
+      "value",
+      "and",
+      "room_count",
+      ">",
+      "value"
+    ],
+    "question": "What are the names of properties that are either houses or apartments with more than 1 room?",
+    "question_toks": [
+      "What",
+      "are",
+      "the",
+      "names",
+      "of",
+      "properties",
+      "that",
+      "are",
+      "either",
+      "houses",
+      "or",
+      "apartments",
+      "with",
+      "more",
+      "than",
+      "1",
+      "room",
+      "?"
+    ],
+    "sql": {
+      "from": {
+        "table_units": [
+          [
+            "table_unit",
+            3
+          ]
+        ],
+        "conds": []
+      },
+      "select": [
+        false,
+        [
+          [
+            0,
+            [
+              0,
+              [
+                0,
+                13,
+                false
+              ],
+              null
+            ]
+          ]
+        ]
+      ],
+      "where": [
+        [
+          false,
+          2,
+          [
+            0,
+            [
+              0,
+              10,
+              false
+            ],
+            null
+          ],
+          "\"House\"",
+          null
+        ]
+      ],
+      "groupBy": [],
+      "having": [],
+      "orderBy": [],
+      "limit": null,
+      "intersect": null,
+      "union": {
+        "from": {
+          "table_units": [
+            [
+              "table_unit",
+              3
+            ]
+          ],
+          "conds": []
+        },
+        "select": [
+          false,
+          [
+            [
+              0,
+              [
+                0,
+                [
+                  0,
+                  13,
+                  false
+                ],
+                null
+              ]
+            ]
+          ]
+        ],
+        "where": [
+          [
+            false,
+            2,
+            [
+              0,
+              [
+                0,
+                10,
+                false
+              ],
+              null
+            ],
+            "\"Apartment\"",
+            null
+          ],
+          "and",
+          [
+            false,
+            3,
+            [
+              0,
+              [
+                0,
+                15,
+                false
+              ],
+              null
+            ],
+            1.0,
+            null
+          ]
+        ],
+        "groupBy": [],
+        "having": [],
+        "orderBy": [],
+        "limit": null,
+        "intersect": null,
+        "union": null,
+        "except": null
+      },
+      "except": null
+    }
+  }
+]
